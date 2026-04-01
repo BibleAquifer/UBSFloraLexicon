@@ -1,0 +1,108 @@
+[
+{
+"content_id": "FLORA:1.6",
+"reference_id": "FLORA:1.6",
+"version": "1.0.4",
+"title": "標題：柏樹（cypress）",
+"media_type": "Text",
+"index_reference": "1.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.6\"><span class=\"thlex-key\">1.6</span> 標題：柏樹（cypress）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בְּרוֹשׁ</span> <span class=\"thlex-translit\">(音譯： berosh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a>, <a href=\"https://ref.ly/Ps104:17\">PSA 104:17</a>, <a href=\"https://ref.ly/Isa37:24\">ISA 37:24</a>, <a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>, <a href=\"https://ref.ly/Isa55:13\">ISA 55:13</a>, <a href=\"https://ref.ly/Ezek31:8\">EZK 31:8</a>, <a href=\"https://ref.ly/Hos14:9\">HOS 14:9</a>, <a href=\"https://ref.ly/Nah2:4\">NAM 2:4</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בְּרוֹת</span> <span class=\"thlex-translit\">(音譯： beroth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song1:17\">SNG 1:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： גֹּפֶר</span> <span class=\"thlex-translit\">(音譯： gofer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תְּאַשּׁוּר</span> <span class=\"thlex-translit\">(音譯： te’ashur)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>, <a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a>, <a href=\"https://ref.ly/Ezek27:6\">EZK 27:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תִּדְהָר</span> <span class=\"thlex-translit\">(音譯： tidhar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>, <a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0023_cypress_tree.jpg\" alt=\"PTZ-0023_cypress_tree\"></figure>希伯來文<em>berosh</em> 可能涵蓋柏樹、杉樹和杜松等樹木；這裡只討論那些可能特指柏樹的情況。柏樹（學名<em>Cupressus sempervirens</em> ）是以色列本地生長的樹木，曾經廣泛分佈在猶太山區。柏樹，以及香柏樹、杉樹和希臘杜松，也盛產於黎巴嫩。柏樹還生長在猶太地、基列和以東等地，現今依然這樣。</p>\n<p>通過譯本的對比，我們看到學者對於針葉樹的辨識存在不同的意見。例如，在<a href=\"https://ref.ly/1Kgs5:22\">1KI 5:22</a> （《和》5:8），希伯來文<em>berosh</em> 被譯為：</p>\n<p>「柏樹」（&quot;cypress&quot;；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ；<abbr class=\"thlex-abbr\" title=\"Brown-Driver-Briggs Hebrew and English Lexicon\">BDB</abbr> 、凱爾和德利奇［Keil &amp; Delitzsch］）</p>\n<p>「松樹」（&quot;pine&quot;；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、FFB ）</p>\n<p>「杜松」（&quot;juniper&quot;；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ）</p>\n<p>「杉樹」（&quot;fir&quot;；<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> ）</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0169_cypress_cone.jpg\" alt=\"WEB-0169_cypress_cone\"></figure>這裡出現分歧的原因是：<em>berosh</em> 可能是一個通稱，或許應該使用含意較廣的譯詞，或者盡量根據上下文做不同的處理。在《列王紀上下》和《歷代志下》，<em>berosh</em> 常與<em>’erez</em> （「香柏樹」）和「黎巴嫩」一起出現。我們同意祖海里等人的觀點，認為<em>berosh</em> 指的是基利家杉樹（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.9\" href=\"#FLORA:1.9\">1.9 杉樹 (fir)</a> ）或希臘杜松（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.11.1\" href=\"#FLORA:1.11.1\">1.11.1</a> ），而不是指柏樹。在<em>berosh</em> 出現的其他幾處經文裡，這個詞可指這三種針葉樹中的任何一種。這裡的邏輯是，既然猶太地出產柏樹，所羅門王就無需從黎巴嫩進口。然而，也有人認為黎巴嫩出產的柏樹比以色列本地的更好，所以所羅門進口了一部分柏木。這兩種情況與<em>berosh</em> 作為一個通稱並不相悖。</p>\n<p>赫珀似乎同意祖海里的看法。哈魯范尼認為<em>berosh</em> 是杜松。因此，如果<em>berosh</em> 確實是指某個單一的樹種，那麼當前的學術觀點支持「杉樹」或「杜松」，而不是「柏樹」或「松樹」。很可能<em>berosh</em> 及其同源詞<em>burasu</em> （阿卡德文）和<em>brotha</em> （黎巴嫩阿拉伯文）有時用作統稱，有時用來特指某種針葉樹。</p>\n<p>關於挪亞造方舟所用的<em>gofer</em> 木（<a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a> ；《和》、《和修》作「歌斐木」，《思》作「柏木」，《呂》作「松柏木」），在實物於亞拉臘山出現之前，人們無法得知其具體樹種。另一方面，莫爾登克等人認為，建造方舟所用的樹木可能是柏樹，摩法特（Moffatt）的譯本就是這樣翻譯的。但是，法國探險家在20世紀70年代聲稱發現的方舟碎片，後來證實其實是主後6世紀或7世紀的橡木。柏樹非常耐用。希伯來文<em>gofer</em> 與<em>kofer</em> （「瀝青」）的相似性讓人聯想到這可能是一種樹脂木；因此，還有人大膽提出「松樹」或「香柏樹」的意見。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>柏樹與松樹、杉樹和香柏樹具有親緣關係，高度為9—15米（30—50英呎），葉子較小，呈鱗片狀，結有毬果。今天，常見於以色列和其他國家的又細又高的柏樹，是經過特殊培育的現代品種（<em>pyramidalis</em> ）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>在下面的幾節經文裡，<em>berosh</em> 似乎讓人感受到某種異國風情：</p>\n<p><a href=\"https://ref.ly/Song1:17\">SNG 1:17</a> ：「以香柏樹為房子的棟梁，以<em>berothim</em> 作屋頂的椽木。」</p>\n<p><a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a> ：「黎巴嫩的榮耀，就是<em>berosh</em> 、懸鈴樹和松樹，都必一同歸你，用以裝飾我聖所坐落之處……」</p>\n<p>不論<em>berosh</em> 是通稱還是特指某種樹木，許多詩歌體經文都用它來表達一些特殊的意義，但卻沒有具體說明是哪種特質；例如，<a href=\"https://ref.ly/Hos14:9\">HOS 14:9</a> （《和》14:8）的第三行說，「我如青翠的<em>berosh</em> 。」在這節經文中，<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 將樹的功能理解為保護，而<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 強調的是樹木的青翠。在其他經文中，樹的形狀和氣味可能才是重點。</p>\n<p>以賽亞用<em>berosh</em> 表示一種山地樹木，在將來的日子，這種樹木將為沙漠增色：</p>\n<p><a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a> ：「我要在曠野栽植香柏樹、金合歡樹……在沙漠一同栽上<em>berosh</em> ……」</p>\n<p><a href=\"https://ref.ly/Isa55:13\">ISA 55:13</a> ：「<em>berosh</em> 長出，代替荊棘……」</p>\n<p>赫珀認為，埃及人曾經使用柏木做棺材。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>如果目標語言有表示常綠針葉樹的統稱，該詞可以用在所有提到<em>berosh</em> 的經文中。如果沒有這種統稱，那麼許多地方可以使用「挺拔而美麗的樹木」這樣的短語；對於《列王紀上下》、《歷代志下》和《雅歌》中提到的<em>berosh</em> （以及其他地方的<em>kupresi</em> 或<em>sipres</em> ），可以音譯一種主要語言的詞語，例如<em>firi</em> 、<em>piro</em> 、<em>junipa</em> 或<em>yunifer</em> 。如果當地沒有常綠樹，最好不要找替代詞。在<a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a> ，我們主張譯為「結實的木料」或音譯。</p>\n<p><a href=\"https://ref.ly/Ezek27:6\">EZK 27:6</a> ：在這節經文中，根據希伯來文輔音<em>b-t-’-sh-r-m</em> 中加入什麼元音，以及如何劃分這個短語中的各個詞語，文本會有一些變化。<em>B-t-’-sh-r-m</em> 可以讀作<em>bat-’ashurim</em> 或<em>bite’ashurim</em> 。<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 採用第一種文本，並把<em>’ashurim</em> 解作亞施戶（亞述）人。現在，大多數學者和譯本都認為該詞指的是某種木材（<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 作&quot;boxwood&quot;，「黃楊木」；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 作&quot;cypress&quot;，「柏樹」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 作&quot;pine&quot;，「松樹」）。這裡的語境是修辭性的，但是通過大量詳細的地理、歷史和當時貿易的資訊產生出非常震撼的力量，所以我們要用具體的詞語翻譯<em>berosh</em> 、<em>’erez</em> （第5節）、<em>’allon</em> 和<em>te’ashur</em> （第6節）。這裡，<em>te’ashur</em> 的翻譯（或音譯）取決於翻譯者對其他詞語的處理。我們建議音譯希伯來文（增加一個分類詞「木」或「樹」），譯作「……示尼珥的<em>berosh</em> 木……黎巴嫩的<em>erez</em> 木……巴珊的<em>allon</em> 木……基提海島的<em>te’ashur</em> 木」。另外，也可以音譯一種主要語言的詞語。</p>\n<p><a href=\"https://ref.ly/Ezek31:3\">EZK 31:3</a> ：有些學者將本節希伯來文本的第二個詞語（<em>’ashur</em> ）修改為<em>te’ashur</em> （比較<a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a> ，<a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a> ），並認為該詞指的是柏樹。第三個希伯來文詞語（<em>’erez</em> ）指的則是香柏樹。現在，學者一致認為<em>’ashur</em> 指的是亞述，而不是一棵樹；只有<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> 將其翻譯為「柏樹」。</p>\n<p><a href=\"https://ref.ly/Nah2:4\">NAM 2:4</a> （《和》2:3）：本節最後一行的字面意思是「<em>beroshim</em> 顫動」。對於這一行的解釋，各譯本分為兩派：</p>\n<p>1. <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 和<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 接受希伯來文本的原樣，認為<em>beroshim</em> 指的是用<em>berosh</em> 木做成的箭或槍，「顫動」是指戰士在頭頂揮舞這些武器。</p>\n<p>2. <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 修改了<em>beroshim</em> 的輔音字母，將其讀作&quot;horses&quot;（「馬」）。如此一來，「顫動」的意思被理解為「馬後足立地騰躍」（&quot;prance&quot;；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）、「迫不及待」（&quot;be impatient for action&quot;；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ），或「前進」（&quot;advance&quot;；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）。</p>\n<p>《〈那鴻書〉、〈哈巴谷書〉和〈西番雅書〉手冊》（<em>A Handbook on The Books of Nahum, Habakkuk, and Zephaniah</em> ）認為這兩種解釋都有可能。建議翻譯者遵循所在地區主要譯本的意見，並在腳註中說明另一種譯法。</p>\n<p><a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a> ：關於字面意為「用<em>beroshim</em> 木」的希伯來文短語，有兩種明顯不同的解釋立場：</p>\n<p>1. <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 遵循《死海古卷》中的一份抄本、《七十士譯本》，以及平行經文（<a href=\"https://ref.ly/1Chr13:8\">1CH 13:8</a> ），譯作&quot;with all their might, with songs&quot;（「他們用盡全力，隨著詩歌」）。</p>\n<p>2. <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> 、<abbr class=\"thlex-abbr\" title=\"International Children&#x27;s Bible\">ICB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 、<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> 、NVSR 和SEM 遵循《馬索拉文本》（<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> ）中的<em>berosh</em> ，以<em>beroshim</em> 指稱用&quot;fir&quot;（「杉木」；<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> ）、&quot;cypress&quot;（「柏木」；<abbr class=\"thlex-abbr\" title=\"New American Standard Bible\">NASB</abbr> 、NVSR 、SEM 、<abbr class=\"thlex-abbr\" title=\"Traduction Oecuménique de la Bible (French, 1975)\">TOB</abbr> ）或&quot;pine&quot;（「松木」；<abbr class=\"thlex-abbr\" title=\"International Children&#x27;s Bible\">ICB</abbr> 、<abbr class=\"thlex-abbr\" title=\"French Common Language Version (Bible en français courant)\">FRCL</abbr> ）製造的樂器，正如該詞在<a href=\"https://ref.ly/Nah2:4\">NAM 2:4</a> （《和》2:3）可能指槍或箭。這似乎得到了<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 的支持，<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 將<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> 的可靠性評為C級。有些譯本在腳註中補充說明了這一種解釋（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> &quot;pine&quot;，「松木」；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> &quot;fir&quot;，「杉木」；<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> &quot;cypress&quot;，「柏木」；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> &quot;beating of batons&quot;，「指揮棒打拍子」）。</p>\n<p>如果要在<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> 和《七十士譯本》之間做出選擇，我們建議參照<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> ，但建議將<em>beroshim</em> 解作「珍貴的木材」，譯作「用珍貴的木材製造的樂器」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10006005",
+"start_ref_usfm": "2SA 6:5",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+},
+{
+"start_ref": "19104017",
+"start_ref_usfm": "PSA 104:17",
+"end_ref": "19104017",
+"end_ref_usfm": "PSA 104:17"
+},
+{
+"start_ref": "23037024",
+"start_ref_usfm": "ISA 37:24",
+"end_ref": "23037024",
+"end_ref_usfm": "ISA 37:24"
+},
+{
+"start_ref": "23041019",
+"start_ref_usfm": "ISA 41:19",
+"end_ref": "23041019",
+"end_ref_usfm": "ISA 41:19"
+},
+{
+"start_ref": "23055013",
+"start_ref_usfm": "ISA 55:13",
+"end_ref": "23055013",
+"end_ref_usfm": "ISA 55:13"
+},
+{
+"start_ref": "26031008",
+"start_ref_usfm": "EZK 31:8",
+"end_ref": "26031008",
+"end_ref_usfm": "EZK 31:8"
+},
+{
+"start_ref": "28014009",
+"start_ref_usfm": "HOS 14:9",
+"end_ref": "28014009",
+"end_ref_usfm": "HOS 14:9"
+},
+{
+"start_ref": "34002004",
+"start_ref_usfm": "NAM 2:4",
+"end_ref": "34002004",
+"end_ref_usfm": "NAM 2:4"
+},
+{
+"start_ref": "22001017",
+"start_ref_usfm": "SNG 1:17",
+"end_ref": "22001017",
+"end_ref_usfm": "SNG 1:17"
+},
+{
+"start_ref": "01006014",
+"start_ref_usfm": "GEN 6:14",
+"end_ref": "01006014",
+"end_ref_usfm": "GEN 6:14"
+},
+{
+"start_ref": "23060013",
+"start_ref_usfm": "ISA 60:13",
+"end_ref": "23060013",
+"end_ref_usfm": "ISA 60:13"
+},
+{
+"start_ref": "26027006",
+"start_ref_usfm": "EZK 27:6",
+"end_ref": "26027006",
+"end_ref_usfm": "EZK 27:6"
+},
+{
+"start_ref": "11005022",
+"start_ref_usfm": "1KI 5:22",
+"end_ref": "11005022",
+"end_ref_usfm": "1KI 5:22"
+},
+{
+"start_ref": "26031003",
+"start_ref_usfm": "EZK 31:3",
+"end_ref": "26031003",
+"end_ref_usfm": "EZK 31:3"
+},
+{
+"start_ref": "13013008",
+"start_ref_usfm": "1CH 13:8",
+"end_ref": "13013008",
+"end_ref_usfm": "1CH 13:8"
+}
+],
+"resource": []
+}
+}
+]

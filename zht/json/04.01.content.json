@@ -1,0 +1,689 @@
+[
+{
+"content_id": "FLORA:4.1",
+"reference_id": "FLORA:4.1",
+"version": "1.0.4",
+"title": "標題：製作香和香水的樹木和植物",
+"media_type": "Text",
+"index_reference": "4.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1\"><span class=\"thlex-key\">4.1</span> 標題：製作香和香水的樹木和植物</h1>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.1",
+"reference_id": "FLORA:4.1.1",
+"version": "1.0.4",
+"title": "標題：沉香樹、沉香木（鷹木、伽羅木）（agarwood [eaglewood, aloeswood, lingaloes]）",
+"media_type": "Text",
+"index_reference": "4.1.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.1\"><span class=\"thlex-key\">4.1.1</span> 標題：沉香樹、沉香木（鷹木、伽羅木）（agarwood [eaglewood, aloeswood, lingaloes]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֲהָלִים</span> <span class=\"thlex-translit\">(音譯： ’ahalim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Num24:6\">NUM 24:6</a>, <a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֲהָלוֹת</span> <span class=\"thlex-translit\">(音譯： ’ahaloth)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a>, <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0016_agarwood.jpg\" alt=\"WEB-0016_agarwood\"></figure>祖海里非常確信<a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a> （《和》45:8）中的<em>’ahaloth</em> 就是沉香木或鷹木（學名<em>Aquillaria agallocha</em> ），這是一種原產於印度北部的樹木。（他曾說，沉香木也原產於東非，但這似乎是一個錯誤）。古希臘作家迪奧斯科里季斯（Dioscorides）稱其為鷹木（<em>agallochon</em> ），這是出產於印度和阿拉伯半島的樹木。安德森贊成這個觀點，解經家斯奈思（Snaith）和巴德（Budd）也都贊同。赫珀（Hepper）對此表示懷疑，因為他對印度與遠東在這段歷史時期有貿易往來的說法存有疑問，但是因為不能提出其他可能的植物，他也就附和了這種看法。這種木材的碎屑在印度稱為<em>agar</em> （赫珀，第140頁），作為燃香出售。所羅門王的遠航探險（<a href=\"https://ref.ly/1Kgs9:26-1Kgs9:28\">1KI 9:26–1KI 9:28</a> ）可能曾取道提瑪（<a href=\"https://ref.ly/Job6:19\">JOB 6:19</a> ）或底但（<a href=\"https://ref.ly/Isa21:13\">ISA 21:13</a> ）等神秘的地方，然後從印度帶回來這種珍貴的商品；提瑪和底但可能位於阿拉伯半島。</p>\n<p>在<a href=\"https://ref.ly/Num24:6\">NUM 24:6</a> 中，希伯來文<em>&#x27;ahalim</em> 不是指沉香樹的香木條，而是指實際的樹木。這節經文的最後兩行是：「如耶和華栽種的沉香樹（<em>’ahalim</em> ），又如水邊的香柏木。」這兩句平行詩句描繪樹木正在旺盛地生長。如果沉香樹確實只在遠東才有，那麼巴蘭或《民數記》的作者如何得知它們的樣子呢？巴德和其他一些學者認為，在這節經文中，大自然的多種元素融合在一幅繁茂、美麗的奇異景象之中。<abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr> 將<em>’ahalim</em> 譯為&quot;oaks&quot;（「橡樹」），認為這裡描繪的是中東的樹種；莫爾登克贊同這種觀點。</p>\n<p>在英文中，沉香樹也稱為&quot;lignaloes&quot;或&quot;aloeswood&quot;，但它與中東、馬達加斯加和非洲南部原產的蘆薈（學名<em>Aloe vera</em> ）沒有任何關係（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.1\" href=\"#FLORA:4.2.1\">4.2.1 蘆薈（苦蘆薈）（aloe [bitter aloe]）</a> ）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0017_agarwood.jpg\" alt=\"WEB-0017_agarwood\"></figure>鷹木或沉香樹的高度為35—40米（115—132英呎），周長4米（13英呎）。木料芳香，特別是在被某種真菌感染時，沉香樹會產生一種芳香樹脂來對抗真菌。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0018_agarwoodlog.jpg\" alt=\"WEB-0018_agarwoodlog\"></figure>《民數記》提到了沉香木，這很不尋常；除此之外，聖經別處提及沉香木時，均同時提到了沒藥，證實這種芳香物質被人用來製作香和香水。人們取材的傳統做法是：將長了很多年的沉香樹砍倒，以獲取樹木中心含樹脂的木材。現今，由於這種樹木的數量嚴重下降，泰國、不丹和其他東南亞國家的人們已經找到了促使樹齡較小的樹木產生樹脂的方法。許多世紀以來，這種樹脂一直是佛教和伊斯蘭教儀式中很重要的部分，並且也用於製作香水和入藥。古埃及的屍體防腐工匠同樣使用沉香木和其他香料。日本人在香道儀式（<em>koh-do</em> ）中，也會使用沉香木和檀香木。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於沉香樹在東非和印度（梵文作<em>aghal</em> ）廣為人知，這些地區的翻譯者應該能夠找到當地的名稱。在阿拉伯文中，沉香木被稱為<em>oud</em> （「木頭」），歐洲的調香師也使用這個名稱，但由於其成本昂貴，所以很少見。這種樹在日文中稱為<em>jin-koh</em> ，印尼文稱為<em>gaharu</em> 。其他地方的翻譯者需要考慮：當沒藥和沉香這兩個詞同時出現時，應當如何翻譯。如果「沒藥」採用音譯，那麼「沉香」也可以音譯。在亞洲，這種樹的名稱得自其產物（沉香）。在<a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a> （《和》45:8）、<a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a> 和<a href=\"https://ref.ly/Song4:14\">SNG 4:14</a> 中，需要音譯的是芳香物質的名稱（「沉香」），而不是這種樹（「沉香樹」）。有些學者認為這些經文是修辭性的，因此翻譯者可以使用當地文化中的對等詞來翻譯沒藥和沉香。對於<a href=\"https://ref.ly/Num24:6\">NUM 24:6</a> ，巴蘭對以色列人的祝福雖具修辭色彩，甚至可能是某種想象，但這是一個比較複雜的案例，因為這節經文將沉香樹與香柏木配對使用，而香柏木在非修辭性的語境中也被頻繁引用。這裡，翻譯者需要在歷史和地理上的準確性與修辭效果之間做出選擇。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "04024006",
+"start_ref_usfm": "NUM 24:6",
+"end_ref": "04024006",
+"end_ref_usfm": "NUM 24:6"
+},
+{
+"start_ref": "20007017",
+"start_ref_usfm": "PRO 7:17",
+"end_ref": "20007017",
+"end_ref_usfm": "PRO 7:17"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "11009026",
+"start_ref_usfm": "1KI 9:26",
+"end_ref": "11009026",
+"end_ref_usfm": "1KI 9:26"
+},
+{
+"start_ref": "11009028",
+"start_ref_usfm": "1KI 9:28",
+"end_ref": "11009028",
+"end_ref_usfm": "1KI 9:28"
+},
+{
+"start_ref": "18006019",
+"start_ref_usfm": "JOB 6:19",
+"end_ref": "18006019",
+"end_ref_usfm": "JOB 6:19"
+},
+{
+"start_ref": "23021013",
+"start_ref_usfm": "ISA 21:13",
+"end_ref": "23021013",
+"end_ref_usfm": "ISA 21:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.2",
+"reference_id": "FLORA:4.1.2",
+"version": "1.0.4",
+"title": "標題：香菖蒲（calamus [sweet flag, aromatic cane, sweet cane, ginger grass]）",
+"media_type": "Text",
+"index_reference": "4.1.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.2\"><span class=\"thlex-key\">4.1.2</span> 標題：香菖蒲（calamus [sweet flag, aromatic cane, sweet cane, ginger grass]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קָנֶה</span> <span class=\"thlex-translit\">(音譯： qaneh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song4:14\">SNG 4:14</a>, <a href=\"https://ref.ly/Isa43:24\">ISA 43:24</a>, <a href=\"https://ref.ly/Ezek27:19\">EZK 27:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קְנֵה־בֹשֶׂם</span> <span class=\"thlex-translit\">(音譯： qeneh bosem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קָנֶה הַטּוֹב</span> <span class=\"thlex-translit\">(音譯： qaneh hattov)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer6:20\">JER 6:20</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0099_calamus.jpg\" alt=\"WEB-0099_calamus\"></figure>希伯來文<em>qaneh</em> /<em>qeneh</em> 的意思是「莖」或「稈」，<em>tov</em> 意為「好」，<em>bosem</em> 表示「有香氣的」。關於<em>qaneh</em> 的辨識，目前有三種意見。許多植物學家認為，這個詞指的是香茅屬（學名<em>Cymbopogon</em> ）中三四種香草的任何一種，其中一種在以色列有野生。這是一種可能。另一種解釋是：這種植物是從印度引進。在印度還有其他香味的香茅屬植物，並且從古至今都有栽培，如薑草（玫瑰草；學名<em>Cymbopogon martinii</em> ）、駱駝草（學名<em>Cymbopogon schoenanthrus</em> ）和檸檬草（學名<em>Cymbopogon citratus</em> ）。其中，祖海里和莫爾登克都傾向於「薑草」的解釋，這種草也稱為「甜菖蒲」。然而，這個詞的第三種可能就是真正的菖蒲（學名<em>Acorus calamus</em> ）。這是一種外形類似蘆葦的植物，更常見的名稱是「水菖蒲」。學者對於這種植物的起源爭論非常大，可能是源於印度，然後蔓延到歐洲的沼澤地區，又稱為蒲根、莖蒲、白菖、溪蓀、蘭蓀等。埃及學家若雷（Joret）認為法老也用過這種草。植物學家伯基爾（Burkill）認為，希臘人知道如何使用水菖蒲的薑狀根，但他們將其與真正的薑草的根混淆了，結果給後人留下了這種混亂的局面（赫珀，第144頁）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>薑草（第二種解釋）為叢生植物，高度超過1米（3英呎），並且像劍草一樣有堅硬的葉子。人們通過煮沸和蒸餾葉子來提取油脂。</p>\n<p><figure class=\"thlex-image\" data-image-id=\"calamus-alt\"><img class=\"thlex-img\" alt=\"calamus-alt\"></figure>菖蒲（第三種解釋）是一種蘆葦，長著堅硬的葉子，莖上的綠色花序特別顯眼，可以長到約50厘米（20英吋）高。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a> 記載，<em>qeneh bosem</em> 是膏抹祭司所用聖油的成分之一。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Isa43:24\">ISA 43:24</a> 和<a href=\"https://ref.ly/Jer6:20\">JER 6:20</a> 提到了<em>qaneh</em> ，有學者認為是修辭性的。在這兩處經文中，可以採用當地的文化對等詞，並記住<em>qaneh</em> 是與乳香一起出現的。翻譯者可能會覺得最好以同樣的方式處理這兩個詞。如果是這樣，可以用草或蘆葦的統稱加上一個意為「芳香的」詞語來翻譯<em>qaneh</em> 。亞洲的翻譯者可以使用薑草或檸檬草的當地名稱。或者，翻譯者也可以直接音譯希臘文<em>kalamos</em> ，加不加「甜」字都可以。香菖蒲／薑草的提取物是一種油，因此可以譯為「甜菖蒲油」。翻譯者可以也考慮按照某種主要語言的詞語進行音譯，例如，法文<em>verveine</em> 或<em>citronelle</em> 、葡萄牙文<em>erva</em> -<em>cideira</em> 、西班牙文<em>limonaria</em> 或<em>paja</em><em>de</em><em>Meca</em> 或<em>Pasto cetron</em> 或<em>Zacate lemon</em> 或<em>palmarosa</em> 、中文「石菖蒲」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "23043024",
+"start_ref_usfm": "ISA 43:24",
+"end_ref": "23043024",
+"end_ref_usfm": "ISA 43:24"
+},
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "24006020",
+"start_ref_usfm": "JER 6:20",
+"end_ref": "24006020",
+"end_ref_usfm": "JER 6:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.3",
+"reference_id": "FLORA:4.1.3",
+"version": "1.0.4",
+"title": "標題：桂皮（cassia）",
+"media_type": "Text",
+"index_reference": "4.1.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.3\"><span class=\"thlex-key\">4.1.3</span> 標題：桂皮（cassia）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קִדָּה</span> <span class=\"thlex-translit\">(音譯： qiddah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:24\">EXO 30:24</a>, <a href=\"https://ref.ly/Ezek27:19\">EZK 27:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קְצִיעָה</span> <span class=\"thlex-translit\">(音譯： qetsi‘ah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0112_cassia.jpg\" alt=\"WEB-0112_cassia\"></figure>與上文討論的沉香樹的情況一樣（<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.1.1\" href=\"#FLORA:4.1.1\">4.1.1 沉香樹、沉香木（鷹木、伽羅木）（agarwood [eaglewood, aloeswood, lingaloes]）</a> ），祖海里確信，希伯來文<em>qiddah</em> 和<em>qetsi‘ah</em> 是指從肉桂樹（學名<em>Cinnamomum cassia</em> ）的葉子、嫩枝或樹皮中獲取的油或粉末。肉桂樹生長在東亞地區。「桂皮」這個名字可能來自印度東北部和孟加拉的卡西族人，他們先前生活在阿薩姆邦和緬甸等地，在古代從事桂皮貿易。因此，桂皮油可能是從東亞帶到了以色列。然而，對於<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>; <a href=\"https://ref.ly/Exod30:24\">EXO 30:24</a> 中的「桂皮」和「香肉桂」，赫珀認為這些香料可能不是人們一般認為的亞洲香料。他引用盧卡斯（Lucas）和哈里斯（Harris）對古埃及材料的研究，指出埃及墳墓中沒有這些亞洲香料的證據（赫珀，第138頁）。如果它們是由備受欺壓的以色列人帶到迦南的，那為什麼沒有被更富裕的埃及人使用呢？此外，摩西是如何在偏遠的西奈山區得到這些東西的呢？赫珀傾向於認為，香樹皮和樹脂是來源於阿拉伯半島南部和非洲東北部。請注意提瑪和底但的商隊（<a href=\"https://ref.ly/Job6:19\">JOB 6:19</a> ；<a href=\"https://ref.ly/Isa21:13\">ISA 21:13</a>; <a href=\"https://ref.ly/Isa21:14\">ISA 21:14</a> ），以及示巴女王的拜訪（<a href=\"https://ref.ly/1Kgs10:2\">1KI 10:2</a> ）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>亞洲桂皮樹可長到10米（33英呎）高，長著獨特的對生葉子，上有三條淺色葉脈或葉肋，由基部輻射出去。花朵很小，成簇下垂。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Exod30:24\">EXO 30:24</a> 記載，<em>qiddah</em> 是祭司膏抹所用聖油中的一種成分。在<a href=\"https://ref.ly/Job42:14\">JOB 42:14</a> 中，希伯來文<em>qetsi&#x27;ah</em> 是約伯的一個女兒的名字。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>桂皮與廣為人知的香料肉桂密切相關。事實上，在北美銷售的大部分「肉桂」都是桂皮。歐洲人和南美人更願意使用斯里蘭卡和其他地方的真正肉桂。由於桂皮原產於東亞，那裡的翻譯者會知道桂皮在當地的名稱，例如，印尼文<em>kayu manis cina</em> 、韓文<em>kaeseo</em> 、泰文<em>ob choey chin</em> /<em>thephatharo</em> ，以及越南文<em>que don</em> /<em>que quang</em> 。中文至少有十個名稱，包括「官桂」、「桂辛」等。在中國，人們栽培這種植物以獲取其樹皮、花蕾和油。由於提到桂皮的經文是非修辭性的，所以其他地區的翻譯者可以按照一種主要語言的詞語來音譯這個詞，例如，阿拉伯文<em>darsini</em> 或<em>kirfa</em> 或<em>karfa</em> 或<em>salika</em> 、法文<em>kas</em> 或<em>kanéfis</em> 或<em>kanel</em><em>de</em><em>chin</em> /<em>selon</em> 、西班牙文／葡萄牙文<em>cassia</em> 或<em>canela de la China</em> 。桂皮（cassia）隸於樟屬（學名<em>Cinnamomum</em> ），與非洲盛產的決明屬（學名<em>Cassia</em> ）植物完全不同。因此，按照&quot;cassia&quot;進行音譯在非洲可能會令人產生誤解。為了避免讀者將其與非洲決明屬植物（沒有香味）錯誤地聯繫在一起，非洲的翻譯者可以採取以下譯法：</p>\n<p>1. 音譯希伯來文<em>qiddah</em> ；</p>\n<p>2. 音譯英文（<em>kasiya</em> ），並用腳註說明這種樹與非洲的決明屬樹木沒有關係；</p>\n<p>3. 用一種眾所周知的馨香樹膠替代。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030024",
+"start_ref_usfm": "EXO 30:24",
+"end_ref": "02030024",
+"end_ref_usfm": "EXO 30:24"
+},
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "18006019",
+"start_ref_usfm": "JOB 6:19",
+"end_ref": "18006019",
+"end_ref_usfm": "JOB 6:19"
+},
+{
+"start_ref": "23021013",
+"start_ref_usfm": "ISA 21:13",
+"end_ref": "23021013",
+"end_ref_usfm": "ISA 21:13"
+},
+{
+"start_ref": "23021014",
+"start_ref_usfm": "ISA 21:14",
+"end_ref": "23021014",
+"end_ref_usfm": "ISA 21:14"
+},
+{
+"start_ref": "11010002",
+"start_ref_usfm": "1KI 10:2",
+"end_ref": "11010002",
+"end_ref_usfm": "1KI 10:2"
+},
+{
+"start_ref": "18042014",
+"start_ref_usfm": "JOB 42:14",
+"end_ref": "18042014",
+"end_ref_usfm": "JOB 42:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.4",
+"reference_id": "FLORA:4.1.4",
+"version": "1.0.4",
+"title": "標題：肉桂（cinnamon）",
+"media_type": "Text",
+"index_reference": "4.1.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.4\"><span class=\"thlex-key\">4.1.4</span> 標題：肉桂（cinnamon）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קִנָּמוֹן</span> <span class=\"thlex-translit\">(音譯： qinnamon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>, <a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a>, <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κιννάμωμον</span> <span class=\"thlex-translit\">(音譯： kinnamōmon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude18:13\">REV 18:13</a>, <a href=\"https://ref.ly/Wis24:15\">SIR 24:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0132_cinnamonleaf.jpg\" alt=\"WEB-0132_cinnamonleaf\"></figure>錫蘭肉桂（學名<em>Cinnamomum verum</em> 、<em>Cinnamomum zeylanicum</em> ）是一種主要生長在斯里蘭卡、印度和緬甸的樹。如果追溯字源，希伯來文<em>qinnamon</em> 可能是源自馬來文／印尼文<em>kayu</em><em>manis</em> 的早期形式，意思是「甜木」。關於肉桂的討論，存在著與桂皮類似的爭議，即舊約中提到的肉桂是從遠東進口的，還是當時就有來自阿拉伯或非洲的、稱為<em>qinnamon</em> 的香料，因為這個名稱在撰寫舊約書卷時就已經為人所知。有些學者認為，早在主前第二個千年，印度和埃及之間就有貿易往來。事實上，有人認為著名的埃及女王哈特謝普蘇特（Hatshepsut）在主前1490年就從朋特（Punt）帶回來了沒藥或乳香樹，這個地方可能位於索馬里甚至是印度。然而，她顯然沒有帶回來肉桂樹，並且在埃及陵墓發現的香料中也沒有肉桂和桂皮。因此，聖經中提到的&quot;cinnamon&quot;（「肉桂」）究竟是哪種植物，現今仍舊不明。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0133_cinnamontree.jpg\" alt=\"WEB-0133_cinnamontree\"></figure>真正的肉桂樹可長到10米（33英呎）高。莖幹分枝茂盛，革質葉子長10—15厘米（4—6英吋），有三條淺色的輻射狀葉脈。刮掉海綿狀的外皮後，會露出芳香的淺棕色內皮。這種內皮有肉桂味，把它切割下來並乾燥後，樹皮就會捲曲成小卷。肉桂樹的小花會發出難聞的氣味。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0131_cinnamonbark.jpg\" alt=\"WEB-0131_cinnamonbark\"></figure><a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a> 記載，用於塗抹帳幕、約櫃和膏抹祭司的聖膏油中有肉桂的成分。<a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a> 所述誘惑人的女子，就是用肉桂加上沒藥和沉香熏了她的床榻。今天，肉桂皮被磨成粉末作為食物的調料，也用作香和香水的成分，甚至葉子和未成熟的漿果（「芽」）也作為調味品出售。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>亞洲的翻譯者可以採用自己語言中表示肉桂的詞語，例如中文「肉桂」或「錫蘭肉桂」、韓文<em>kye</em> /<em>kyepi</em> 或<em>sillon-gyepi</em> 、馬來文<em>kayu manis</em> 、尼泊爾文<em>dalchini</em> 、泰米爾文<em>lavanga pattai</em> 、泰文<em>ob</em><em>choey</em> ，以及越南文<em>cay que</em> /<em>nhuc que</em> 或<em>que ranh</em> ，甚至可以區分桂皮和肉桂。在其他地區，最好音譯希伯來文<em>qinnamon</em> 或某種主要語言（例如，英文<em>sinamon</em> 、法文<em>kanel</em> 、西班牙文／葡萄牙文<em>kanela</em> 、阿拉伯文<em>kirfa</em> 或<em>darini</em> 或<em>salika</em> ）。由於樹皮會被研磨成粉末，因此可以用「樹皮」或「粉末」來將其分類。在<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>; <a href=\"https://ref.ly/Exod30:24\">EXO 30:24</a> 中，翻譯者需要用兩個不同的詞語，來翻譯密切相關的桂皮和肉桂。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "20007017",
+"start_ref_usfm": "PRO 7:17",
+"end_ref": "20007017",
+"end_ref_usfm": "PRO 7:17"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "66018013",
+"start_ref_usfm": "REV 18:13",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "72024015",
+"start_ref_usfm": "SIR 24:15",
+"end_ref": "72024015",
+"end_ref_usfm": "SIR 24:15"
+},
+{
+"start_ref": "02030024",
+"start_ref_usfm": "EXO 30:24",
+"end_ref": "02030024",
+"end_ref_usfm": "EXO 30:24"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.5",
+"reference_id": "FLORA:4.1.5",
+"version": "1.0.4",
+"title": "標題：小茴香（白松香）（fennel [galbanum]）",
+"media_type": "Text",
+"index_reference": "4.1.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.5\"><span class=\"thlex-key\">4.1.5</span> 標題：小茴香（白松香）（fennel [galbanum]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חֶלְבְּנָה</span> <span class=\"thlex-translit\">(音譯： chelbenah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χαλβάνη</span> <span class=\"thlex-translit\">(音譯： chalbanē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis24:15\">SIR 24:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0216_fennel.jpg\" alt=\"WEB-0216_fennel\"></figure>雖然聖經中提到的白松香所指何物並不確定，但很有可能是一種樹脂，來自一種名為小茴香（學名<em>Ferula galbaniflua</em> ）的植物。這種植物生長在印度、伊朗和阿富汗，特別是在伊朗的高山上。小茴香與歐芹科有親緣關係。今天，大多數的白松香商品來自於黎巴嫩和伊朗。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0217_fennel_flower.jpg\" alt=\"WEB-0217_fennel_flower\"></figure>小茴香可以長到1.5米（5英呎）高。小葉纖細有光澤，莖粗而光滑，傘狀花序，種子有光澤且很小。這種植物有乳狀汁液，會從節部自行分泌而出，或者在切割後從莖部滲出。汁液乾燥後，會結成芳香的淡綠色或淡黃色小珠。味苦，氣味濃郁。有一種小茴香生長在加利利（學名<em>Ferula communis</em> ），但它不產白松香脂。另一種小茴香生長在北非，名為<em>silphion</em> （可能是<em>Ferula tingitana</em> ），其圖案曾出現在迦太基出土的羅馬錢幣上。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>摩西在<a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a> 說，白松香（喜利比拿）是以色列人在帳幕中所燃聖香的成分之一。亞述人將白松香用作熏香。它可能就是<a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a> 中提到的「香料」。羅馬作家普林尼認為，這是一種非常有效的藥物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於小茴香並不為人所熟知，因此大多數翻譯者都需要按照某種主要語言進行音譯，比如：</p>\n<p>1. 音譯希伯來文詞語：<em>helibena</em> 、<em>elbenahi</em> 、<em>lebena</em> ；</p>\n<p>2. 通過英文音譯拉丁文詞語：<em>galbanum</em> ；</p>\n<p>3. 用當地的某種樹膠來替代，增加<em>chelbenah</em> 或<em>galbanum</em> 作為輔助說明，或在腳註中說明；</p>\n<p>4. 音譯這種植物的名稱，同時增加分類詞「樹膠」：<em>ferula</em> （法文）樹膠、<em>feneli</em> （英文）樹膠，或<em>hinojo</em> /<em>ferula</em> （西班牙文）樹膠。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030034",
+"end_ref_usfm": "EXO 30:34"
+},
+{
+"start_ref": "72024015",
+"start_ref_usfm": "SIR 24:15",
+"end_ref": "72024015",
+"end_ref_usfm": "SIR 24:15"
+},
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.6",
+"reference_id": "FLORA:4.1.6",
+"version": "1.0.4",
+"title": "標題：乳香（frankincense）",
+"media_type": "Text",
+"index_reference": "4.1.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.6\"><span class=\"thlex-key\">4.1.6</span> 標題：乳香（frankincense）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： לְבוֹנָה</span> <span class=\"thlex-translit\">(音譯： levonah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a>, <a href=\"https://ref.ly/Lev2:1\">LEV 2:1</a>, <a href=\"https://ref.ly/Lev2:2\">LEV 2:2</a>, <a href=\"https://ref.ly/Lev2:15\">LEV 2:15</a>, <a href=\"https://ref.ly/Lev2:16\">LEV 2:16</a>, <a href=\"https://ref.ly/Lev5:11\">LEV 5:11</a>, <a href=\"https://ref.ly/Lev6:8\">LEV 6:8</a>, <a href=\"https://ref.ly/Lev24:7\">LEV 24:7</a>, <a href=\"https://ref.ly/Num5:15\">NUM 5:15</a>, <a href=\"https://ref.ly/1Chr9:29\">1CH 9:29</a>, <a href=\"https://ref.ly/Neh13:5\">NEH 13:5</a>, <a href=\"https://ref.ly/Neh13:9\">NEH 13:9</a>, <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a>, <a href=\"https://ref.ly/Song4:6\">SNG 4:6</a>, <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a>, <a href=\"https://ref.ly/Isa43:23\">ISA 43:23</a>, <a href=\"https://ref.ly/Isa60:6\">ISA 60:6</a>, <a href=\"https://ref.ly/Isa66:3\">ISA 66:3</a>, <a href=\"https://ref.ly/Jer6:20\">JER 6:20</a>, <a href=\"https://ref.ly/Jer17:26\">JER 17:26</a>, <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λιβανόομαι</span> <span class=\"thlex-translit\">(音譯： libanoomai（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc5:45\">3MA 5:45</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίβανος</span> <span class=\"thlex-translit\">(音譯： libanos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a>, <a href=\"https://ref.ly/Jude18:13\">REV 18:13</a>, <a href=\"https://ref.ly/Wis24:15\">SIR 24:15</a>, <a href=\"https://ref.ly/Wis39:14\">SIR 39:14</a>, <a href=\"https://ref.ly/Sir1:10\">BAR 1:10</a>, <a href=\"https://ref.ly/2Macc5:10\">3MA 5:10</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λιβανωτός</span> <span class=\"thlex-translit\">(音譯： libanōtos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Macc5:2\">3MA 5:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0246_frankincense_tree.jpg\" alt=\"WEB-0246_frankincense_tree\"></figure></p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0244_frankincense_branch.jpg\" alt=\"WEB-0244_frankincense_branch\"></figure>乳香（學名<em>Boswellia sacra</em> ）產自乳香屬（学名<em>Boswellia</em> ）15種芳香植物中的一種，該植物所產生的黃色或淺紅色樹膠就是乳香，可能是從阿拉伯半島、非洲或亞洲輸入到以色列的。埃及的圖畫記錄顯示，哈特謝普蘇特女王曾經前往一個叫作朋特（Punt）的地方（可能位於索馬里甚至是印度），帶回來了看起來像是乳香屬的樹木，並把它們種植在她宮殿的花園裡面。赫珀認為，以色列人起初使用來自索馬里的樹膠（學名<em>Boswellia carteri</em> ），埃塞俄比亞樹膠（<em>Boswellia papyrifera</em> ）和阿拉伯樹膠（<em>Boswellia sacra</em> ），後來才得到來自印度的乳香（<em>Boswellia serrata</em> ）。有些人稱乳香為<em>olibanum</em> （這是一個中東詞語，意思是「香」），但是<em>olibanum</em> 可能僅指來自印度的<em>Boswellia serrata</em> ，這種植物具有檸檬／酸橙的氣味，真正的乳香則是柑橘的氣味。</p>\n<p>現今，最好的乳香來自阿曼，但也門和索馬里的產量也很大。<em>Olibanum</em> 這個名稱可能來自阿拉伯文<em>al-lubán</em> （「牛奶」），或者源自意思是「黎巴嫩油」的詞語。希伯來文<em>levonah</em> 的意思可能是「白色」或「黎巴嫩人」。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>乳香樹實際上是灌木，高達3米（10英呎），有多條樹幹從地裡冒出來，長著羽狀葉子，開綠色或白色的小花。乳香樹的樹膠會自動從樹枝上滴下來，但是也可以通過割開樹幹上的樹皮來獲取。流出的樹脂為球狀，過一段時間會變硬。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0245_frankincense_lump.jpg\" alt=\"WEB-0245_frankincense_lump\"></figure>乳香是古代以色列人在帳幕中所燃聖香的成分之一。另外，律法規定的素祭也包含了乳香。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>翻譯者可以增加一個合適的分類詞（例如，「某某樹脂」）。如果採用音譯，建議音譯希伯來文（<em>labona</em> 、<em>lebonahi</em> ）、希臘文（<em>libano</em> ）、法文（<em>bosweli</em> 、<em>olibán</em> ），或阿拉伯文（<em>akor</em> 、<em>mager</em> 、<em>mogar</em> ），會比音譯英文（<em>firankinsensi</em> ）更加好讀。</p>\n<p><a href=\"https://ref.ly/Jer6:20\">JER 6:20</a> 記載，上帝說「從示巴來的乳香（<em>levonah</em> ），從遠方出的香菖蒲（<em>qaneh hattov</em> ），奉來給我有何用呢？」這個反問句中提到兩種植物製品（<em>levonah</em> 和<em>qaneh hattov</em> ），兩者都是指香。這個反問句可以轉換為肯定陳述句如下：</p>\n<p>你從示巴帶來<em>levonah</em> 是無益的。</p>\n<p>忘掉你從遙遠的地方帶來的<em>qaneh hattov</em> 吧。</p>\n<p>如果採用比較自由的翻譯方式，可以將兩種植物材料視為「香」。翻譯示例如下：</p>\n<p>你远路风尘從示巴把香帶來，但又何必呢？</p>\n<p>何必費力從遙遠的國家帶來祭物呢？</p>\n<p>這節經文的下半句有助於解釋上半句的含義，如果能夠使意思更加明顯，那麼將上下兩個半句交換位置也未嘗不可。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030034",
+"end_ref_usfm": "EXO 30:34"
+},
+{
+"start_ref": "03002001",
+"start_ref_usfm": "LEV 2:1",
+"end_ref": "03002001",
+"end_ref_usfm": "LEV 2:1"
+},
+{
+"start_ref": "03002002",
+"start_ref_usfm": "LEV 2:2",
+"end_ref": "03002002",
+"end_ref_usfm": "LEV 2:2"
+},
+{
+"start_ref": "03002015",
+"start_ref_usfm": "LEV 2:15",
+"end_ref": "03002015",
+"end_ref_usfm": "LEV 2:15"
+},
+{
+"start_ref": "03002016",
+"start_ref_usfm": "LEV 2:16",
+"end_ref": "03002016",
+"end_ref_usfm": "LEV 2:16"
+},
+{
+"start_ref": "03005011",
+"start_ref_usfm": "LEV 5:11",
+"end_ref": "03005011",
+"end_ref_usfm": "LEV 5:11"
+},
+{
+"start_ref": "03006008",
+"start_ref_usfm": "LEV 6:8",
+"end_ref": "03006008",
+"end_ref_usfm": "LEV 6:8"
+},
+{
+"start_ref": "03024007",
+"start_ref_usfm": "LEV 24:7",
+"end_ref": "03024007",
+"end_ref_usfm": "LEV 24:7"
+},
+{
+"start_ref": "04005015",
+"start_ref_usfm": "NUM 5:15",
+"end_ref": "04005015",
+"end_ref_usfm": "NUM 5:15"
+},
+{
+"start_ref": "13009029",
+"start_ref_usfm": "1CH 9:29",
+"end_ref": "13009029",
+"end_ref_usfm": "1CH 9:29"
+},
+{
+"start_ref": "16013005",
+"start_ref_usfm": "NEH 13:5",
+"end_ref": "16013005",
+"end_ref_usfm": "NEH 13:5"
+},
+{
+"start_ref": "16013009",
+"start_ref_usfm": "NEH 13:9",
+"end_ref": "16013009",
+"end_ref_usfm": "NEH 13:9"
+},
+{
+"start_ref": "22003006",
+"start_ref_usfm": "SNG 3:6",
+"end_ref": "22003006",
+"end_ref_usfm": "SNG 3:6"
+},
+{
+"start_ref": "22004006",
+"start_ref_usfm": "SNG 4:6",
+"end_ref": "22004006",
+"end_ref_usfm": "SNG 4:6"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "23043023",
+"start_ref_usfm": "ISA 43:23",
+"end_ref": "23043023",
+"end_ref_usfm": "ISA 43:23"
+},
+{
+"start_ref": "23060006",
+"start_ref_usfm": "ISA 60:6",
+"end_ref": "23060006",
+"end_ref_usfm": "ISA 60:6"
+},
+{
+"start_ref": "23066003",
+"start_ref_usfm": "ISA 66:3",
+"end_ref": "23066003",
+"end_ref_usfm": "ISA 66:3"
+},
+{
+"start_ref": "24006020",
+"start_ref_usfm": "JER 6:20",
+"end_ref": "24006020",
+"end_ref_usfm": "JER 6:20"
+},
+{
+"start_ref": "24017026",
+"start_ref_usfm": "JER 17:26",
+"end_ref": "24017026",
+"end_ref_usfm": "JER 17:26"
+},
+{
+"start_ref": "24041005",
+"start_ref_usfm": "JER 41:5",
+"end_ref": "24041005",
+"end_ref_usfm": "JER 41:5"
+},
+{
+"start_ref": "80005045",
+"start_ref_usfm": "3MA 5:45",
+"end_ref": "80005045",
+"end_ref_usfm": "3MA 5:45"
+},
+{
+"start_ref": "40002011",
+"start_ref_usfm": "MAT 2:11",
+"end_ref": "40002011",
+"end_ref_usfm": "MAT 2:11"
+},
+{
+"start_ref": "66018013",
+"start_ref_usfm": "REV 18:13",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "72024015",
+"start_ref_usfm": "SIR 24:15",
+"end_ref": "72024015",
+"end_ref_usfm": "SIR 24:15"
+},
+{
+"start_ref": "72039014",
+"start_ref_usfm": "SIR 39:14",
+"end_ref": "72039014",
+"end_ref_usfm": "SIR 39:14"
+},
+{
+"start_ref": "73001010",
+"start_ref_usfm": "BAR 1:10",
+"end_ref": "73001010",
+"end_ref_usfm": "BAR 1:10"
+},
+{
+"start_ref": "80005010",
+"start_ref_usfm": "3MA 5:10",
+"end_ref": "80005010",
+"end_ref_usfm": "3MA 5:10"
+},
+{
+"start_ref": "80005002",
+"start_ref_usfm": "3MA 5:2",
+"end_ref": "80005002",
+"end_ref_usfm": "3MA 5:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.7",
+"reference_id": "FLORA:4.1.7",
+"version": "1.0.4",
+"title": "標題：散沫花（henna）",
+"media_type": "Text",
+"index_reference": "4.1.7",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.7\"><span class=\"thlex-key\">4.1.7</span> 標題：散沫花（henna）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כֹּפֶר</span> <span class=\"thlex-translit\">(音譯： kofer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song1:14\">SNG 1:14</a>, <a href=\"https://ref.ly/Song4:13\">SNG 4:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0292_henna.jpg\" alt=\"WEB-0292_henna\"></figure>散沫花（學名<em>Lawsonia inermis</em> ）在舊約時期生長在死海周圍的綠洲中，又名埃及女貞樹，在非洲、南亞和澳大利亞北部炎熱乾燥的地區很常見。在過去和現在，散沫花的用處主要是從其乾燥的葉子中提取染料，但是在<a href=\"https://ref.ly/Song1:14\">SNG 1:14</a> 中，作者提到的卻是它的花朵。散沫花的花朵確實美麗芳香，呈「束狀」（希伯來文<em>’eshkol</em> ），可以看作一個編織物品，與第13節中沒藥的小袋子平行，或者看作一个花環，或者直接看作隱•基底泉上方梯田中的花叢。<a href=\"https://ref.ly/Song4:13\">SNG 4:13</a> 的散沫花比較特別，因為希伯來文本是以複數形式（<em>kefarim</em> ）出現；同樣以複數出現的是比散沫花更加特別的希伯來文<em>neradim</em> （源於<em>nerd</em> ；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.1.9\" href=\"#FLORA:4.1.9\">4.1.9 甘松（哪噠）（spikenard [nard]）</a> ），兩種植物平行出現。這些植物的果實都不明顯，因此這節經文可以看作是揉合了香料和花朵的浪漫比喻。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0293_henna_shrub.jpg\" alt=\"WEB-0293_henna_shrub\"></figure>散沫花是一種灌木，高度為2—3米（7—10英呎）。葉子對生，開許多芳香的白花。葉子會分泌一種紅色汁液，許多國家的人用它來做染料，給皮膚或頭髮染色。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Song1:14\">SNG 1:14</a> ，新娘將她的良人比作馨香美麗的散沫花花朵，在隱•基底泉上方梯田的葡萄園裡面或附近生長。在<a href=\"https://ref.ly/Song4:13\">SNG 4:13</a> ，新郎將他的佳偶比作花園或果園，那裡生長著各種芳香美麗的植物，其中一些來自異國。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在提到散沫花的兩處經文中，上下文顯然是個比喻，因此可以用當地已知的相應植物來替代。有些地方只知道散沫花是給頭髮、皮膚或指甲染色的，此時就要用一種替代植物，或是在腳註中說明，經文關注的是這種花的芳香和美麗。在<a href=\"https://ref.ly/Song4:13\">SNG 4:13</a> 中，大多數英文譯本忽略了這個詞的複數形式，也許是認為它只是受到了前文複數「果子」的影響，因而未予重視。另外，翻譯者也可以按照某種主要語言的詞語進行音譯，例如，法文<em>henné</em> 、西班牙文<em>alcana</em> 或<em>alheña</em> 、葡萄牙文<em>hena</em> 或<em>alfenero</em> ，或者阿拉伯文<em>hinna</em> 。近來，人們又開始使用散沫花來進行皮膚裝飾（&quot;mehndi&quot;），這可能會使翻譯者更容易找到一個合適的對等詞。<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 中的&quot;Camphire&quot;（「指甲花」）也許可以作為一個文化上的替代詞。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "22001014",
+"start_ref_usfm": "SNG 1:14",
+"end_ref": "22001014",
+"end_ref_usfm": "SNG 1:14"
+},
+{
+"start_ref": "22004013",
+"start_ref_usfm": "SNG 4:13",
+"end_ref": "22004013",
+"end_ref_usfm": "SNG 4:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.8",
+"reference_id": "FLORA:4.1.8",
+"version": "1.0.4",
+"title": "標題：沒藥（myrrh）",
+"media_type": "Text",
+"index_reference": "4.1.8",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.8\"><span class=\"thlex-key\">4.1.8</span> 標題：沒藥（myrrh）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מֹר</span> <span class=\"thlex-translit\">(音譯： mor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Esth2:12\">EST 2:12</a>, <a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a>, <a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a>, <a href=\"https://ref.ly/Song1:13\">SNG 1:13</a>, <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a>, <a href=\"https://ref.ly/Song4:6\">SNG 4:6</a>, <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a>, <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a>, <a href=\"https://ref.ly/Song5:5\">SNG 5:5</a>, <a href=\"https://ref.ly/Song5:5\">SNG 5:5</a>, <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מָר־דְּרוֹר</span> <span class=\"thlex-translit\">(音譯： mor deror)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>, <a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： μύρον</span> <span class=\"thlex-translit\">(音譯： muron)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude18:13\">REV 18:13</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σμύρνα</span> <span class=\"thlex-translit\">(音譯： smurna)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a>, <a href=\"https://ref.ly/Luke19:39\">JHN 19:39</a>, <a href=\"https://ref.ly/Wis24:15\">SIR 24:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σμυρνίζω</span> <span class=\"thlex-translit\">(音譯： smurnizō（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt15:23\">MRK 15:23</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0663_myrrh_branch.jpg\" alt=\"WEB-0663_myrrh_branch\"></figure>沒藥可能是聖經中最珍貴的香料，價值超過同等重量的黃金。參與編纂本手冊的植物學家同意，希伯來文<em>mor</em> 指的是沒藥屬（學名<em>Commiphora</em> ）中一種植物的樹脂，可能是<em>myrrha</em> 、<em>abyssinica</em> 或<em>schimperi</em> 的樹脂，這些植物都生長在現在的也門、埃塞俄比亞、索馬里和馬達加斯加地區。其他種類的沒藥可能來自印度（學名<em>Commiphora erythraea</em> 、<em>Commiphora opobalsamum</em> ）。另外，有一個更困難的問題，就是<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a> 中<em>deror</em> 一詞的含義。在出現這個詞的其他經文中，其含義是「自由」。因此，有些譯本在這裡將其譯成「流質的」，但我們並不確定「自由」就是指「流質的」。沒藥有時會與葡萄酒混合使用，這個事實可能表明<em>deror</em> 在這裡的意思是「流質的」，但另一方面，沒藥是以乾量單位而不是液量單位來稱量的，這又表明它不是液體（德拉姆，第407頁）。</p>\n<p>在<a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>; <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 將希伯來文<em>lot</em> 譯為&quot;myrrh&quot;（「沒藥」），但是根據最新的學術研究結果，這個詞應該譯為&quot;ladanum&quot;（「勞丹脂」）（參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.5\" href=\"#FLORA:4.2.5\">4.2.5 岩玫瑰（勞丹脂）（rock rose [ladanum]）</a> ）。</p>\n<p>在<a href=\"https://ref.ly/1Kgs10:25\">1KI 10:25</a>; <a href=\"https://ref.ly/2Chr9:24\">2CH 9:24</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 將希伯來文<em>nesheq</em> 同樣譯為&quot;myrrh&quot;（「沒藥」）（類似地，<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 譯為&quot;perfume&quot;「香水」），但大多數其他英文譯本將這個詞譯為&quot;weapons&quot;（「武器」）或&quot;armor&quot;（「盔甲」）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0664_myrrh_gum.jpg\" alt=\"WEB-0664_myrrh_gum\"></figure>沒藥是一種灌木或灌木叢，長著厚密多刺的枝子，其伸展和彎曲的角度很奇特。葉子以三片為一組，果實像李子一樣呈卵形。木材和樹皮具有馨香的氣味。枝子會自然滲出汁液，但有些採集者會切開枝條以增加樹液的收穫量。樹液或樹膠在流出時呈透明或黃棕色，但乾燥後顏色會變暗。沒藥味苦（注意，<em>mor</em> 與意為「苦」的希伯來文<em>mar</em> 相似）。在市場上，沒藥常與卡他夫沒藥灌木（<em>bisabol</em> ）的樹膠混合。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0665_myrrh_leaf.jpg\" alt=\"WEB-0665_myrrh_leaf\"></figure>上帝指示以色列人，沒藥為聖膏油的成分之一（<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a> ），在《以斯帖記》、《詩篇》、《箴言》中，沒藥用作香水，在《雅歌》中出現過8次。東方博士也將其作為貴重的禮物獻給新生王（<a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a> ）。當耶穌在十字架上垂死的時候，那些同情耶穌的旁觀者可能給他摻了沒藥的葡萄酒喝（<a href=\"https://ref.ly/Matt15:23\">MRK 15:23</a> ；參<a href=\"https://ref.ly/Matt27:34\">MAT 27:34</a> 中的平行敘述）。亞利馬太的約瑟和尼哥德慕帶來了沒藥和沉香，預備埋葬耶穌（<a href=\"https://ref.ly/Luke19:39\">JHN 19:39</a> ）。在古埃及，太陽神的祭壇上會焚燒沒藥；而在波斯，當國王出現在公眾面前時，王冠上面會繫著沒藥；羅馬人在葬禮和火葬時也會焚燒沒藥。這些事實在部分程度上解釋了沒藥為什麼會出現在<a href=\"https://ref.ly/Jude18:13\">REV 18:13</a> 的香料清單中（《和》、《和修》譯作「香膏」）。今天，沒藥被用在香水、乳液，甚至牙膏中。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>非洲之角和馬達加斯加生長著多種沒藥，因此這些地區的翻譯者要找到合適的譯詞應該沒有問題。對於<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a> 所述的沒藥是液體還是固體，學者似乎沒有達成共識，所以翻譯者可以忽略希伯來文<em>deror</em> （如<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 的做法）。<em>Mor deror</em> 有幾種翻譯方法，例如，「沒藥條」（&quot;sticks of myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）、「自由流動的沒藥」（&quot;free-flowing myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> ）、「凝結的沒藥」（&quot;solidified myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）、「沒藥粉」（&quot;powdered myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 、德拉姆）、「鮮沒藥」（&quot;fresh myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ）、「液體沒藥」（&quot;liquid myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ），以及「純沒藥」（&quot;pure myrrh&quot;；<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> ）。如果採用音譯，可以音譯希伯來文<em>mor</em> 、阿拉伯文<em>mar</em> 、法文<em>mireh</em> ，或者西班牙文／葡萄牙文<em>mirra</em> 。英文或法文音譯需要稍作修改，以利於發音（例如，<em>mura</em> ），避免像一個早期的尼日利亞文譯本那樣，將不易發音的myrrh（「沒藥」）直接音譯而不加改變。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "17002012",
+"start_ref_usfm": "EST 2:12",
+"end_ref": "17002012",
+"end_ref_usfm": "EST 2:12"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+},
+{
+"start_ref": "20007017",
+"start_ref_usfm": "PRO 7:17",
+"end_ref": "20007017",
+"end_ref_usfm": "PRO 7:17"
+},
+{
+"start_ref": "22001013",
+"start_ref_usfm": "SNG 1:13",
+"end_ref": "22001013",
+"end_ref_usfm": "SNG 1:13"
+},
+{
+"start_ref": "22003006",
+"start_ref_usfm": "SNG 3:6",
+"end_ref": "22003006",
+"end_ref_usfm": "SNG 3:6"
+},
+{
+"start_ref": "22004006",
+"start_ref_usfm": "SNG 4:6",
+"end_ref": "22004006",
+"end_ref_usfm": "SNG 4:6"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "22005001",
+"start_ref_usfm": "SNG 5:1",
+"end_ref": "22005001",
+"end_ref_usfm": "SNG 5:1"
+},
+{
+"start_ref": "22005005",
+"start_ref_usfm": "SNG 5:5",
+"end_ref": "22005005",
+"end_ref_usfm": "SNG 5:5"
+},
+{
+"start_ref": "22005013",
+"start_ref_usfm": "SNG 5:13",
+"end_ref": "22005013",
+"end_ref_usfm": "SNG 5:13"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "66018013",
+"start_ref_usfm": "REV 18:13",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "40002011",
+"start_ref_usfm": "MAT 2:11",
+"end_ref": "40002011",
+"end_ref_usfm": "MAT 2:11"
+},
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019039",
+"end_ref_usfm": "JHN 19:39"
+},
+{
+"start_ref": "72024015",
+"start_ref_usfm": "SIR 24:15",
+"end_ref": "72024015",
+"end_ref_usfm": "SIR 24:15"
+},
+{
+"start_ref": "41015023",
+"start_ref_usfm": "MRK 15:23",
+"end_ref": "41015023",
+"end_ref_usfm": "MRK 15:23"
+},
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+},
+{
+"start_ref": "11010025",
+"start_ref_usfm": "1KI 10:25",
+"end_ref": "11010025",
+"end_ref_usfm": "1KI 10:25"
+},
+{
+"start_ref": "14009024",
+"start_ref_usfm": "2CH 9:24",
+"end_ref": "14009024",
+"end_ref_usfm": "2CH 9:24"
+},
+{
+"start_ref": "40027034",
+"start_ref_usfm": "MAT 27:34",
+"end_ref": "40027034",
+"end_ref_usfm": "MAT 27:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.1.9",
+"reference_id": "FLORA:4.1.9",
+"version": "1.0.4",
+"title": "標題：甘松（哪噠）（spikenard [nard]）",
+"media_type": "Text",
+"index_reference": "4.1.9",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.1.9\"><span class=\"thlex-key\">4.1.9</span> 標題：甘松（哪噠）（spikenard [nard]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： נֵרְדְּ</span> <span class=\"thlex-translit\">(音譯： nerd)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song1:12\">SNG 1:12</a>, <a href=\"https://ref.ly/Song4:13\">SNG 4:13</a>, <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： νάρδος</span> <span class=\"thlex-translit\">(音譯： nardos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt14:3\">MRK 14:3</a>, <a href=\"https://ref.ly/Luke12:3\">JHN 12:3</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0831_spikenard_plant.jpg\" alt=\"WEB-0831_spikenard_plant\"></figure>在世界各地講英語的地方，人們使用&quot;spikenard&quot;（「甘松」）這個名字多過使用&quot;nard&quot;（「哪噠」）。甘松（哪噠）的希伯來文和希臘文詞語可用來指稱出自多種植物的多種不同物質。普林尼列出了12種。祖海里認為新約中的甘松與舊約中的甘松是同樣的東西，即來自印度的匙葉甘松（學名<em>Nardostachys jatamansi</em> ）。赫珀質疑聖經中的大多數香料源於印度的說法，他認為《雅歌》中提及的甘松可能是駱駝草（學名<em>Cymbopogon schoenanthus</em> ），這種草生長在阿拉伯和北非的沙漠中。亞述文稱之為<em>lardu</em> 。但是，如果《雅歌》是比較晚期的作品，那麼其中提到的甘松就很可能源於印度。在<a href=\"https://ref.ly/Matt14:3\">MRK 14:3</a>; <a href=\"https://ref.ly/Luke12:3\">JHN 12:3</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 將希臘文<em>nardos pistikos</em> 譯為&quot;pure nard&quot;（「純甘松」），但<em>pistikos</em> 的含義是值得商榷的。這個詞實際上可能來自梵文<em>picita</em> ，即甘松的當地名稱。在阿拉伯文中，甘松被稱為<em>sunbul Hindi</em> （「印度甘松」）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>甘松是一種高度不到1米（3英呎）的綠葉灌木，全株具有濃郁的芳香，莖較短，每根莖的尖端有一束三片小窄葉。粉紅色的花朵為傘狀。人們將根莖（塊莖）搗碎，以提取味道辛辣的淡橙色或黃色的油。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Song4:13\">SNG 4:13</a>; <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a> 的比喻中兩次提及甘松，新娘被喻為茂盛的花園，裡面長滿了各種可愛的馨香植物和樹木。希伯來文本先是用複數形式提到甘松，與複數形式的散沫花平行，似乎是作為植物或樹木，或者是樹木所結果實的名稱。之後，甘松的單數形式又與番紅花平行，接著提到香菖蒲和肉桂等香料。甘松是古埃及、近東和羅馬的一種奢侈品。有一篇主後1100年左右的中醫文獻記載了甘松香的鎮靜效果。今天，中國人仍然用它來製作線香（<em>senko</em> ）和入藥。另外，甘松也是日本梅花節所用熏香的成分之一。<a href=\"https://ref.ly/Luke12:3\">JHN 12:3</a> 提到了甘松，那裡拉撒路的姐妹馬利亞用「極貴的純哪噠香膏」來膏抹耶穌。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>對於《雅歌》的比喻中提及的甘松，可以用當地文化中的對等詞來翻譯。《馬可福音》和《約翰福音》提到甘松當然是非修辭性的，所以應當盡量用甘松的當地名稱來翻譯；如果為了保持整體翻譯的一致性而採用音譯，建議使用&quot;naridi&quot;之類的音譯。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "22001012",
+"start_ref_usfm": "SNG 1:12",
+"end_ref": "22001012",
+"end_ref_usfm": "SNG 1:12"
+},
+{
+"start_ref": "22004013",
+"start_ref_usfm": "SNG 4:13",
+"end_ref": "22004013",
+"end_ref_usfm": "SNG 4:13"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "41014003",
+"start_ref_usfm": "MRK 14:3",
+"end_ref": "41014003",
+"end_ref_usfm": "MRK 14:3"
+},
+{
+"start_ref": "43012003",
+"start_ref_usfm": "JHN 12:3",
+"end_ref": "43012003",
+"end_ref_usfm": "JHN 12:3"
+}
+],
+"resource": []
+}
+}
+]

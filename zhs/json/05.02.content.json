@@ -1,0 +1,519 @@
+[
+{
+"content_id": "FLORA:5.2",
+"reference_id": "FLORA:5.2",
+"version": "1.0.4",
+"title": "标题：其他实用的植物",
+"media_type": "Text",
+"index_reference": "5.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2\"><span class=\"thlex-key\">5.2</span> 标题：其他实用的植物</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>本节讨论的植物包括葫芦、梭梭（用于制作碱液）、曼德拉草、马郁兰（牛膝草）、毒参、野瓜和苦艾。虽然后3种可以入药，但这不是我们在圣经中看到的主要功能，所以我们将其列在这里，而没有放在第4章。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.1",
+"reference_id": "FLORA:5.2.1",
+"version": "1.0.4",
+"title": "标题：葫芦（bottle gourd）",
+"media_type": "Text",
+"index_reference": "5.2.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.1\"><span class=\"thlex-key\">5.2.1</span> 标题：葫芦（bottle gourd）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：פְּקָעִים</span> <span class=\"thlex-translit\">(音译：peqa‘im)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:18\">1KI 6:18</a>, <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a>, <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0082_bottlegourd.jpg\" alt=\"WEB-0082_bottlegourd\"></figure>葫芦（学名<em>Lagenaria siceraria</em> ）是人类最早种植的植物之一，可作食物，入药，以及制作各种器皿和乐器。葫芦原产于非洲，可能在一万年前左右，由于人为或自然因素被引入到亚洲和美洲。这个植物属的名称来自拉丁文<em>lagoena</em> ，意思是&quot;长颈瓶&quot;（几乎可以确定，最早的罗马长颈瓶就是用干葫芦制成）。这种植物的名称源于拉丁文的&quot;干&quot;一词，说明其果实干了以后很有用。无疑，住在圣地的人们会把切开的葫芦用作家里的碗或&quot;长柄勺&quot;，就像我们在非洲和亚洲看到的那样。但是，圣经中提到葫芦时，仅仅是说在所罗门圣殿里的香柏木上刻着葫芦图案（<a href=\"https://ref.ly/1Kgs6:18\">1KI 6:18</a> ），以及圣殿前面的大铜盆装饰着葫芦图案（<a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a>; <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a> ）。祖海里认为，葫芦也出现在地名&quot;底连&quot;（Dilean，<a href=\"https://ref.ly/Josh15:38\">JOS 15:38</a> ）中；Dilean源于希伯来文<em>dela‘ath</em> ，在圣经成书之后的时期，<em>dela‘ath</em> 是葫芦的希伯来文名称。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>葫芦是一种藤蔓植物，与黄瓜和南瓜一样。葫芦的茎是四方形的，有棱，有毛，长度可达5米（17英尺）。叶子为心形，大小和人的手掌差不多，叶缘轻微浅裂。花为黄色，有5个花瓣，花落后结出的果实根据品种不同有许多种形状。大多数葫芦的一端是球形，并且带一个细长的突出部分，所以切成两半后非常实用，可在厨房里作大勺子用。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0083_bottlegourd.jpg\" alt=\"WEB-0083_bottlegourd\"></figure>数千年来，葫芦一直用作容器，或者切开后作舀水的器具，另外也用来制作乐器。大多数葫芦品种的果肉都很苦，有时甚至有毒。在一些国家，有些品种还用作药物，有通便、驱虫、治疗胸痛和头痛的功效。在非洲南部，叶子和未成熟的幼果被当作蔬菜食用。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>在非洲和亚洲的温带和热带地区，翻译者应该很容易找到表示葫芦的词语。葫芦在法国称为<em>courge bouteille</em> ，在葡萄牙称为<em>abo­bora-carneira</em> 或<em>cabaco</em> ，在拉丁美洲称为<em>calabaza</em> 或<em>cogorda</em> ，在中国称为&quot;匏瓜&quot;，在印度称为<em>lauki</em> ，在印度尼西亚称为<em>labu</em> ，在日本称为<em>hyotan</em> 或<em>yugao</em> ，在马来西亚称为<em>labu ayer</em> ，在菲律宾称为<em>upo</em> ，在斯里兰卡称为<em>diya labu</em> ，在泰国称为<em>buap khaus</em> ，在越南称为<em>bau</em> 。</p>\n<p>如果当地人们唯一熟知的葫芦是圆球形的，那么提供插图会有助于读者理解，或者可以在脚注中描述我们所知的圣地葫芦的特殊形状。葫芦与<a href=\"https://ref.ly/2Kgs4:39\">2KI 4:39</a> 提到的野瓜是近缘物种，这种野瓜使一群先知发生食物中毒（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.2.6\" href=\"#FLORA:5.2.6\">5.2.6 野瓜（柯罗辛、苦西瓜、药西瓜）（wild gourd [colocynth, egusi, bitter apple]）</a> ）。对于<a href=\"https://ref.ly/Jonah4:6\">JON 4:6</a> 中的&quot;葫芦&quot;（&quot;gourd&quot;；<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ），现在认为该植物是蓖麻（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.2\" href=\"#FLORA:4.2.2\">4.2.2 蓖麻 (castor oil plant [castor bean plant])</a> ）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006018",
+"start_ref_usfm": "1KI 6:18",
+"end_ref": "11006018",
+"end_ref_usfm": "1KI 6:18"
+},
+{
+"start_ref": "11007024",
+"start_ref_usfm": "1KI 7:24",
+"end_ref": "11007024",
+"end_ref_usfm": "1KI 7:24"
+},
+{
+"start_ref": "06015038",
+"start_ref_usfm": "JOS 15:38",
+"end_ref": "06015038",
+"end_ref_usfm": "JOS 15:38"
+},
+{
+"start_ref": "12004039",
+"start_ref_usfm": "2KI 4:39",
+"end_ref": "12004039",
+"end_ref_usfm": "2KI 4:39"
+},
+{
+"start_ref": "32004006",
+"start_ref_usfm": "JON 4:6",
+"end_ref": "32004006",
+"end_ref_usfm": "JON 4:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.2",
+"reference_id": "FLORA:5.2.2",
+"version": "1.0.4",
+"title": "标题：梭梭（猪毛菜属[Salsola]、盐角草属[Salicornia]）（hammada [Salsola, Salicornia]）",
+"media_type": "Text",
+"index_reference": "5.2.2",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.2\"><span class=\"thlex-key\">5.2.2</span> 标题：梭梭（猪毛菜属[Salsola]、盐角草属[Salicornia]）（hammada [Salsola, Salicornia]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בֹּר</span> <span class=\"thlex-translit\">(音译：bor)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job9:30\">JOB 9:30</a>, <a href=\"https://ref.ly/Isa1:25\">ISA 1:25</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בֹּרִית</span> <span class=\"thlex-translit\">(音译：borith)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jer2:22\">JER 2:22</a>, <a href=\"https://ref.ly/Mal3:2\">MAL 3:2</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0282_hammada.jpg\" alt=\"WEB-0282_hammada\"></figure>耶利米时期的犹太人还没有肥皂，肥皂要在许多个世纪以后才出现。然而，他们将某些植物的灰与橄榄油混合，做出了一种类似肥皂的东西。其中一种植物是梭梭树（学名<em>Hammada salicornica</em> ），常见于沙漠，阿拉伯文称为<em>rimth</em> 。赫珀说，任何一种家里产生的灰烬都可以当作肥皂的原料，但是藜科灌木（[Salsola]猪毛菜属和[Salicornia]盐角草属、盐草和海蓬子）的灰特别有效。莫尔登克赞成这个观点，并进一步补充说，阿拉伯人称盐草为<em>kali</em> 或<em>elkali</em> ，化学术语碱（alkali）就是由此衍生而来。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>盐角草属（学名[Salicornia]）有两种。白梭梭是一种无叶灌木，经常生长在金合欢树旁边，高不到1米（3英尺），茎绿色、多节。小花在12月左右开放，所结的小果实里面有一粒羽翼状的种子，可以随风散播。黑梭梭与之类似，但颜色较深，喜砂土，在北非也有分布。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0781_salsola.jpg\" alt=\"WEB-0781_salsola\"></figure><a href=\"https://ref.ly/Mal3:2\">MAL 3:2</a> 提到漂布，指的是洗去羊毛织物上的天然油脂，好进行染色。漂布的人把某些植物的灰烬和橄榄油混合，制成我们所说的碱液或苏打，然后漂洗衣物，并在漂布场晒干（参<a href=\"https://ref.ly/2Kgs18:17\">2KI 18:17</a> ）。漂布所用的碱液要比肥皂强劲得多，更像是今天的漂白剂，《玛拉基书》就是用这种&quot;漂布的碱&quot;来描述上帝对他子民进行的强力清洁。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>我们建议翻译者先研究当地制作肥皂的方法，了解其中的成分，以找到合适的译词。如果要保留<a href=\"https://ref.ly/Jer2:22\">JER 2:22</a> 中希伯来文本的平行结构，翻译者需要有两个表示&quot;使某物洁净&quot;的词语。如果没有&quot;碱液&quot;（或&quot;苏打&quot;）的对等词，翻译者可以考虑使用当地诗歌中表示擦洗身体之物的文化对等词，比如西非的丝瓜或浮石。如果需要音译<em>Salsola kali</em> （带刺的盐草），可以按照希伯来文<em>borith</em> 、阿拉伯文<em>hurd</em> 或<em>shawk ahhmar</em> 、法文<em>soude conchee</em> 或<em>sonde kali</em> 、葡萄牙文<em>barilla espinhosa</em> 或<em>soda</em> 或<em>trago-espinhoso</em> 、西班牙文<em>abrojos</em> 或<em>barella</em> 或<em>salsora</em> 等词语进行音译。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18009030",
+"start_ref_usfm": "JOB 9:30",
+"end_ref": "18009030",
+"end_ref_usfm": "JOB 9:30"
+},
+{
+"start_ref": "23001025",
+"start_ref_usfm": "ISA 1:25",
+"end_ref": "23001025",
+"end_ref_usfm": "ISA 1:25"
+},
+{
+"start_ref": "24002022",
+"start_ref_usfm": "JER 2:22",
+"end_ref": "24002022",
+"end_ref_usfm": "JER 2:22"
+},
+{
+"start_ref": "39003002",
+"start_ref_usfm": "MAL 3:2",
+"end_ref": "39003002",
+"end_ref_usfm": "MAL 3:2"
+},
+{
+"start_ref": "12018017",
+"start_ref_usfm": "2KI 18:17",
+"end_ref": "12018017",
+"end_ref_usfm": "2KI 18:17"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.3",
+"reference_id": "FLORA:5.2.3",
+"version": "1.0.4",
+"title": "标题：曼德拉草（\"爱情果\"）（mandrake [\"love apple\"]）",
+"media_type": "Text",
+"index_reference": "5.2.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.3\"><span class=\"thlex-key\">5.2.3</span> 标题：曼德拉草（&quot;爱情果&quot;）（mandrake [&quot;love apple&quot;]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：דּוּדָאִים</span> <span class=\"thlex-translit\">(音译：duda’im)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen30:14\">GEN 30:14</a>, <a href=\"https://ref.ly/Gen30:14\">GEN 30:14</a>, <a href=\"https://ref.ly/Gen30:15\">GEN 30:15</a>, <a href=\"https://ref.ly/Gen30:15\">GEN 30:15</a>, <a href=\"https://ref.ly/Gen30:16\">GEN 30:16</a>, <a href=\"https://ref.ly/Song7:14\">SNG 7:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0616_mandrake.jpg\" alt=\"WEB-0616_mandrake\"></figure>解经家对于希伯来文<em>duda’im</em> 所指植物的意见不一。许多解经家断言，这个词必定是指曼陀罗（毒参茄）或曼德拉草（学名<em>Mandragora autumnalis</em> ），但祖海里认为这是不可能的，因为曼陀罗从来没有生长在美索不达米亚地区，即<a href=\"https://ref.ly/Gen30:14\">GEN 30:14</a>; <a href=\"https://ref.ly/Gen30:15\">GEN 30:15</a>; <a href=\"https://ref.ly/Gen30:16\">GEN 30:16</a> 的故事所在地。在<a href=\"https://ref.ly/Song7:14\">SNG 7:14</a> （《和》7:13），<em>duda’im</em> 是指一种与苹果有关的、种植在河岸上的&quot;佳美果子&quot;（不像《创世记》中的<em>duda’im</em> 那样是从地里挖出来的）。不论这种生长在美索不达米亚的植物原本是什么物种，当以色列人讲述这个故事时，他们使用了一个听众都知道的词，即<em>duda’im</em> 。《创世记》的上下文暗示，<em>duda’im</em> 与生育能力有关。根据学者们的意见，在圣经时期最受欢迎的助孕植物是曼陀罗。《七十士译本》和《他尔根》的翻译者带着他们自己对于爱和生育的看法，将<em>duda’im</em> 置于圣地的背景下，却无意弄清这种生长在美索不达米亚的植物究竟是什么。英文译本参照《七十士译本》，使用了&quot;mandrake&quot;（&quot;曼德拉草&quot;）一词。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0617_mandrake_root.jpg\" alt=\"WEB-0617_mandrake_root\"></figure>曼德拉草是一种没有茎的草本植物，与土豆和西红柿有亲缘关系，但长的更贴近地面。叶子为深绿色，长30厘米（1英尺），宽10厘米（4英寸），呈玫瑰状从中心向外展开。紫色或蓝色的花开在靠近植株中心的茎上，果实呈黄色，成熟后看起来像鸟巢里的蛋。曼德拉草有一种独特的气味，有些人觉得香甜，有些人觉得刺鼻。根很粗壮，通常是分叉的，看起来像人的身体，这也许就是它催情的名声在中东和欧洲远播的原因，也是&quot;爱情果&quot;这个名字的由来。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>传说，曼德拉草具有很多神奇的特性。比如，当曼德拉草从地里拔出时会发出尖叫声，叶子在黑暗中会发光。在中世纪，德意志人给它们穿上衣服，向其献祭，以免冒犯神灵。法兰西人相信小精灵住在曼德拉草里面，并要求人们每天献祭。1630年，汉堡的三名妇女因被控行巫术而处死，原因是她们的家中有曼德拉草的根。阿拉伯人称曼德拉草为&quot;魔鬼的蜡烛&quot;。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>&quot;曼德拉草&quot;的译法有：</p>\n<p>1. 使用类似的植物，比如&quot;野生茄子&quot;（如尼日利亚的贝罗姆文），并加上脚注。有些地方可以仿照尼日利亚的豪萨文<em>gautan daji</em> （或<em>yalo</em> ）。</p>\n<p>2. 使用一个功能对等词，即当地众所周知的某种助孕植物，如尼日利亚的蒂夫文的译法（<em>mkehem</em> ）。</p>\n<p>3. 新造一个描述性短语，如&quot;爱情花&quot;（&quot;love flower&quot;；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）或&quot;爱情果&quot;。</p>\n<p>4. 按照希伯来文<em>duda’im</em> 或某种主要语言进行音译，如英文<em>mandaraki</em> 或法文<em>mandragore</em> ，并在脚注中说明这种植物可能被人认为具有助孕能力。在音译时，建议增加&quot;的根&quot;一语，说明是这种植物的根产生效力。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01030014",
+"start_ref_usfm": "GEN 30:14",
+"end_ref": "01030014",
+"end_ref_usfm": "GEN 30:14"
+},
+{
+"start_ref": "01030015",
+"start_ref_usfm": "GEN 30:15",
+"end_ref": "01030015",
+"end_ref_usfm": "GEN 30:15"
+},
+{
+"start_ref": "01030016",
+"start_ref_usfm": "GEN 30:16",
+"end_ref": "01030016",
+"end_ref_usfm": "GEN 30:16"
+},
+{
+"start_ref": "22007014",
+"start_ref_usfm": "SNG 7:14",
+"end_ref": "22007014",
+"end_ref_usfm": "SNG 7:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.4",
+"reference_id": "FLORA:5.2.4",
+"version": "1.0.4",
+"title": "标题：马郁兰（marjoram）",
+"media_type": "Text",
+"index_reference": "5.2.4",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.4\"><span class=\"thlex-key\">5.2.4</span> 标题：马郁兰（marjoram）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֵזוֹב</span> <span class=\"thlex-translit\">(音译：’ezov)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod12:22\">EXO 12:22</a>, <a href=\"https://ref.ly/Lev14:4\">LEV 14:4</a>, <a href=\"https://ref.ly/Lev14:6\">LEV 14:6</a>, <a href=\"https://ref.ly/Lev14:49\">LEV 14:49</a>, <a href=\"https://ref.ly/Lev14:51\">LEV 14:51</a>, <a href=\"https://ref.ly/Lev14:52\">LEV 14:52</a>, <a href=\"https://ref.ly/Num19:6\">NUM 19:6</a>, <a href=\"https://ref.ly/Num19:18\">NUM 19:18</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/Ps51:9\">PSA 51:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ὕσσωπος</span> <span class=\"thlex-translit\">(音译：hussōpos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke19:29\">JHN 19:29</a>, <a href=\"https://ref.ly/Phlm9:19\">HEB 9:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0096_marjoram_plant.jpg\" alt=\"PTZ-0096_marjoram_plant\"></figure></p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0620_marjoramflower.jpg\" alt=\"WEB-0620_marjoramflower\"></figure> 祖海里、赫珀和<abbr class=\"thlex-abbr\" title=\"Anchor Bible Dictionary\">ABD</abbr> 都认为希伯来文<em>’ezov</em> 可能是指马郁兰（学名<em>Origanum syriacum</em> 或<em>Majorana syriaca</em> ）。《七十士译本》的翻译者决定使用希腊文名称<em>hussōpos</em> （意为&quot;牛膝草&quot;，英文&quot;hyssop&quot;）为译词，这个词通常是指一种欧洲植物，类似圣地的马郁兰。有些植物学家把圣经中提到的马郁兰称为&quot;叙利亚牛膝草&quot;，带来了更大的困惑。《国际标准圣经百科全书》（<em>The International Standard Bible Encyclopedia</em> ）指出，<em>’ezov</em> 可能包括多种植物。我们认为&quot;叙利亚牛膝草&quot;这个名称太过于以欧洲为中心，故建议译成&quot;马郁兰&quot;。<em>’Ezov</em> 和<em>hussōpos</em> 是同源词。19世纪和20世纪的一些植物学家查考了&quot;刺山柑&quot;的阿拉伯文（<em>el asaf</em> ，后来演变成<em>lassaf</em> ），并推测五经中的<em>’ezov</em> 必定是指这种盛产于埃及和阿拉伯沙漠的刺山柑灌木（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:3.5.1\" href=\"#FLORA:3.5.1\">3.5.1 刺山柑（刺山柑灌木、刺山柑浆果）(Caper [caper bush, caper berry])</a> ）。的确，在<a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a> （《和》4:33），墙上长的刺山柑灌木比马郁兰更说得通。<em>’Ezov</em> 是犹太人在洁净礼仪时所需要的植物。是否存在以下可能：当希伯来人进入应许之地后，他们在那里发现了很多马郁兰，洁净礼仪随之发生改变，<em>’ezov</em> &quot;符合律法&quot;的定义发生了延伸，从而将马郁兰包含在内呢？马郁兰是一种多毛植物，淋洒水非常方便。因此，新约《约翰福音》中的<em>hussōpos</em> 一词指马郁兰的茎是很有可能的。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>马郁兰植株高50—80厘米（20—32英寸），叶小，有很多分枝。茎上长着很多茸毛，因此很适合做刷子。马郁兰的花是白色的。叶子和茎可以提取油脂，加在肥皂或乳液中以添加香气。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>在现今的欧洲和中东，马郁兰被用作调味品，圣经时期可能也是这样。但是，圣经记载这种植物是用作刷子。以色列人快要出埃及的时候，摩西吩咐他们把血涂在门框上，给灭命的天使作越过的记号，他们就是用这种植物涂血的。这个事件标志着逾越节的开始，犹太人从此谨守逾越节。在<a href=\"https://ref.ly/Ps51:9\">PSA 51:9</a> （《和》51:7），<em>’ezov</em> 象征灵性上的洁净。提到这个词的第三处经文是<a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a> （《和》4:33；所涉问题见下文讨论），这里<em>’ezov</em> 指一种不起眼的植物，与高大佳美的黎巴嫩香柏树作对比。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>有很多英文译本出于尊重传统，用&quot;hyssop&quot;（&quot;牛膝草&quot;）来翻译<em>’ezov</em> ；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 没有采用这种译法。翻译者没有必要延续这个传统，应该尽量采用在植物学上更正确的&quot;马郁兰&quot;一词。</p>\n<p><a href=\"https://ref.ly/Exod12:22\">EXO 12:22</a> a：&quot;要拿一把牛膝草（<em>’ezov</em> ），蘸盆里的血。&quot;在《出埃及记》的经文中，<em>’ezov</em> 的功用比植物本身是什么更为重要。翻译者即使采用&quot;esov的枝子&quot;这样的音译，也应该使用&quot;洒&quot;这样的动词来激发读者对这个画面的想象。如果翻译者选择使用当地通常用于淋洒水的植物，那么需要增加脚注说明原文所指植物是什么。如果翻译者习惯音译英文，那么最好音译&quot;marjoram&quot;（&quot;马郁兰&quot;），而非&quot;hyssop&quot;（&quot;牛膝草&quot;）。此外，翻译者还可以音译拉丁文<em>majorana</em> 、西班牙文<em>mejorana</em> 或阿拉伯文<em>mardakush</em> 等词语。综上所述，&quot;马郁兰&quot;的部分译法如下：</p>\n<p>1. 一般性的表述，如&quot;叶子&quot;；</p>\n<p>2. 音译（见上文）；</p>\n<p>3. 替代成当地一种用来点洒水的植物，并加脚注。</p>\n<p>西非有多种马郁兰的近缘植物，翻译者可从中选择。在这些候选植物中，有一种叶子带毛的植物生长在冈比亚，被用作驱蚊剂。尼日利亚的蒂夫族称同一种植物为<em>huuhuu</em> ，尼日利亚的艾特萨克族（Etsako）称其为&quot;蚊草&quot;。这种植物的叶子有一种辛辣的味道，并且因为多毛而适合做刷子。</p>\n<p><a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a> a（《思》4:33a）：&quot;他（所罗门）讲论草木，从黎巴嫩的香柏树直到墙上长的牛膝草（<em>’ezov</em> ）&quot;（&quot;草木&quot;在<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 作&quot;trees&quot;&quot;各种树木&quot;）。这节经文有三个不解之处：</p>\n<p>1. 马郁兰（类似欧洲牛膝草）不是一种树，而是一种相对低矮的植物，长着细小的叶子和白色的花。如果目标语言中有涵盖&quot;树&quot;和&quot;植物&quot;的统称，翻译者应该使用该词语。德弗里斯（De Vries）认为，希伯来文<em>‘ets</em> （&quot;树&quot;）的含义比英文&quot;tree&quot;（&quot;树&quot;）更广，因为这个词还包含了我们所说的藤本植物（参<a href=\"https://ref.ly/Ezek15:2\">EZK 15:2</a> ）。尽管如此，将<em>‘ets</em> 这个词延伸到涵盖马郁兰这样的草本植物在内也是很牵强的，这也是一些学者仍然不相信<em>’ezov</em> 是马郁兰的原因之一。例如，赫珀倾向于同意特里斯特拉姆（Tristram）和鲍尔弗（Balfour）的意见，这两人在19世纪末提出，<em>’ezov</em> 在这里指的是刺山柑灌木（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:3.5.1\" href=\"#FLORA:3.5.1\">3.5.1 刺山柑（刺山柑灌木、刺山柑浆果）(Caper [caper bush, caper berry])</a> ）。他们的观点有一部分是基于同源词的证据：刺山柑灌木的阿拉伯文是<em>lassaf</em> （源于<em>el asaf</em> ），这个词似乎与<em>’ezov</em> 同源，但马郁兰的阿拉伯文（<em>zaatar</em> ）却与之完全无关。有人可能会说，刺山柑也不是树，但很重要的是，它确实有木质的茎。</p>\n<p>2. &quot;墙上长的<em>’ezov</em> &quot;这个短语很奇怪，因为实际上，马郁兰通常不会长在墙缝里面。马郁兰性喜岩质土壤，但是不太可能长到墙上。即使对小学生来说，这个植物学上的细节也是显而易见的，难道伟大的生物学家所罗门王会在这上面出错吗？</p>\n<p>3. 在这节经文里，从文学的角度来说，与马郁兰相比，从墙缝中长出的植物更能与高大的香柏树形成鲜明的对比。上文提到的刺山柑是一个很好的备选，因为这种植物确实生长在城墙的裂缝中，而且与香柏树形成强烈对比。然而，较晚期的植物学家并不赞同这种意见，并且其他多处出现该词的经文也不适合译成刺山柑。以色列人在出埃及时，用一束<em>’ezov</em> 把血涂在门框上。马郁兰的茎多毛，非常适合作此用途，刺山柑灌木却不是特别适合。那么，<em>’ezov</em> 是否可能在不同的语境中指不同的植物呢？这并非没有先例。例如，祖海里认为希伯来文<em>berosh</em> 在有些经文中指&quot;柏树&quot;，在另一些经文中指&quot;杉树&quot;（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.6\" href=\"#FLORA:1.6\">1.6 柏树 (cypress)</a> ）。希伯来文<em>suf</em> 也出现了相同的情况，这个词可以指&quot;香蒲&quot;，也可以指&quot;海藻&quot;（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.1\" href=\"#FLORA:5.1.1\">5.1.1 香蒲 (cattail [reed-mace])</a> ）。</p>\n<p>还有最后一个证据，然而遗憾的是，这个证据也没能解决争议。这个证据是：刺山柑灌木在旷野非常多见，而马郁兰更多生长在人们开垦的湿润梯田上。所以，或许在以色列人出埃及的时候，还可以在那里找到马郁兰，但在旷野就没有了。因此，他们难道是出于迫不得已，才在洒血礼仪上使用刺山柑灌木吗？</p>\n<p><a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a> （《和》4:33）中的<em>’ezov</em> 译法总结如下：</p>\n<p>1. 音译<em>’ezov</em> （<em>esobu</em> 、<em>esofi</em> ）或马郁兰（<em>marjoramu</em> 、<em>macora</em> ）；</p>\n<p>2. 替代成当地一种可以长在墙上的植物。</p>\n<p>以下是这节经文前半部分的一个翻译示例：&quot;所罗门讲论各样草木／植物，从黎巴嫩（山上）高大的香柏树一直到城墙上面（低矮）的majoram/esob/kaper/kafer/asafu。&quot;</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012022",
+"start_ref_usfm": "EXO 12:22",
+"end_ref": "02012022",
+"end_ref_usfm": "EXO 12:22"
+},
+{
+"start_ref": "03014004",
+"start_ref_usfm": "LEV 14:4",
+"end_ref": "03014004",
+"end_ref_usfm": "LEV 14:4"
+},
+{
+"start_ref": "03014006",
+"start_ref_usfm": "LEV 14:6",
+"end_ref": "03014006",
+"end_ref_usfm": "LEV 14:6"
+},
+{
+"start_ref": "03014049",
+"start_ref_usfm": "LEV 14:49",
+"end_ref": "03014049",
+"end_ref_usfm": "LEV 14:49"
+},
+{
+"start_ref": "03014051",
+"start_ref_usfm": "LEV 14:51",
+"end_ref": "03014051",
+"end_ref_usfm": "LEV 14:51"
+},
+{
+"start_ref": "03014052",
+"start_ref_usfm": "LEV 14:52",
+"end_ref": "03014052",
+"end_ref_usfm": "LEV 14:52"
+},
+{
+"start_ref": "04019006",
+"start_ref_usfm": "NUM 19:6",
+"end_ref": "04019006",
+"end_ref_usfm": "NUM 19:6"
+},
+{
+"start_ref": "04019018",
+"start_ref_usfm": "NUM 19:18",
+"end_ref": "04019018",
+"end_ref_usfm": "NUM 19:18"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "19051009",
+"start_ref_usfm": "PSA 51:9",
+"end_ref": "19051009",
+"end_ref_usfm": "PSA 51:9"
+},
+{
+"start_ref": "43019029",
+"start_ref_usfm": "JHN 19:29",
+"end_ref": "43019029",
+"end_ref_usfm": "JHN 19:29"
+},
+{
+"start_ref": "58009019",
+"start_ref_usfm": "HEB 9:19",
+"end_ref": "58009019",
+"end_ref_usfm": "HEB 9:19"
+},
+{
+"start_ref": "26015002",
+"start_ref_usfm": "EZK 15:2",
+"end_ref": "26015002",
+"end_ref_usfm": "EZK 15:2"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.5",
+"reference_id": "FLORA:5.2.5",
+"version": "1.0.4",
+"title": "标题：毒参（poison hemlock [black henbane, gall]）",
+"media_type": "Text",
+"index_reference": "5.2.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.5\"><span class=\"thlex-key\">5.2.5</span> 标题：毒参（poison hemlock [black henbane, gall]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：רֹאשׁ, רוֹשׁ</span> <span class=\"thlex-translit\">(音译：ro’sh, rosh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut29:17\">DEU 29:17</a>, <a href=\"https://ref.ly/Deut32:32\">DEU 32:32</a>, <a href=\"https://ref.ly/Ps69:22\">PSA 69:22</a>, <a href=\"https://ref.ly/Jer8:14\">JER 8:14</a>, <a href=\"https://ref.ly/Jer9:14\">JER 9:14</a>, <a href=\"https://ref.ly/Jer23:15\">JER 23:15</a>, <a href=\"https://ref.ly/Lam3:5\">LAM 3:5</a>, <a href=\"https://ref.ly/Lam3:19\">LAM 3:19</a>, <a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a>, <a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：χολή</span> <span class=\"thlex-translit\">(音译：cholē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:34\">MAT 27:34</a>, <a href=\"https://ref.ly/John8:23\">ACT 8:23</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0290_hemlock.jpg\" alt=\"WEB-0290_hemlock\"></figure></p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0291_hemlock.jpg\" alt=\"WEB-0291_hemlock\"></figure> 祖海里提出，希伯来文<em>ro’sh</em> /<em>rosh</em> 最初可能是某种有毒植物的名称，后来推及到许多产生毒素的植物。<em>Ro’sh</em> /<em>rosh</em> 常译作&quot;毒药&quot;，也可指提取自毒参（学名<em>Conium maculatum</em> ；英文Poison Hemlock）的毒芹碱。毒参隶于伞形科，与另一种英文同名的常绿树（Hemlock，铁杉）没有亲缘关系。赫珀说，<a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a> （&quot;……如苦菜滋生在田间的犁沟中&quot;）中的<em>ro’sh</em> 一词可能不是指毒参，因为毒参通常不会生长在田地里。根据他的意见，这节经文更可能是指有脉纹的天仙子（学名<em>Hyoscyamus reticulatus</em> ）。旧约提到<em>ro’sh</em> /<em>rosh</em> 有10次，在《七十士译本》中有5次译作希腊文<em>cholē</em> （&quot;苦胆&quot;）。这表明<em>ro’sh/rosh</em> 是作为统称使用的，指一种味苦的有毒物质，并且不一定源于植物。<a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a> 提到的<em>ro’sh</em> 出自蛇，《次经‧多比传》（《思》《多俾亚传》）中的<em>cholē</em> 出自鱼（<a href=\"https://ref.ly/Rev6:4\">TOB 6:4</a>; <a href=\"https://ref.ly/Rev6:5\">TOB 6:5</a>; <a href=\"https://ref.ly/Rev6:7\">TOB 6:7</a> ，<a href=\"https://ref.ly/Rev6:9\">TOB 6:9</a> ，<a href=\"https://ref.ly/Rev11:4\">TOB 11:4</a> ，<a href=\"https://ref.ly/Rev11:8\">TOB 11:8</a> ，<a href=\"https://ref.ly/Rev11:11\">TOB 11:11</a> ）。</p>\n<p><a href=\"https://ref.ly/Matt15:23\">MRK 15:23</a> 记载，耶稣在马上被钉十字架的时候，有人（可能是他的门徒）拿&quot;没药调和的酒&quot;给他作镇静剂。马太有意呼应<a href=\"https://ref.ly/Ps69:22\">PSA 69:22</a> a（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直译&quot;他们拿毒药给我当食物&quot;；&quot;毒药&quot;在《七十士译本》作<em>cholē</em> ；《和》69:21a），写道：&quot;士兵拿苦胆调和的酒给耶稣喝&quot;（<a href=\"https://ref.ly/Matt27:34\">MAT 27:34</a> ）；他使用了希腊文中表示苦胆／毒药的统称<em>cholē</em> ，以此强调救主承受的羞辱。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>毒参的高度为1.5—2.5米（5—8英尺）。茎绿色、表面光滑，靠底部的地方长有紫色或红色的条纹。叶子像胡萝卜叶一样呈花边状，叶长可达半米（2英尺），白色小花成簇生长，呈小伞状。因此，毒参可能会被误认为是欧芹或野生胡萝卜。根很粗壮，像欧洲防风草的根。叶子和根均散发出一种苦味。</p>\n<p>两年生天仙子具有不同的形态，但一般可以长到1米（3英尺）或者更高（包括花在内）。茎直立，多分枝，长有白色的伞状花序。灰绿色的卵形叶子尖端锐利，叶长可达30厘米（1英尺），叶面覆满具有黏性的毛。</p>\n<p>在古代，希腊和阿拉伯的医生用毒参作镇静剂，但过量服用将会致命，或者会导致语言能力丧失或瘫痪。天仙子（英文henbane，意为&quot;杀鸡药&quot;）曾被希腊人用作催眠和止痛的药物。欧洲人在中世纪就使用天仙子，11世纪的盎格鲁-撒克逊医学著作在&quot;亨贝尔&quot;（henbell）的名目下提到了天仙子。从毒参中提取的毒素叫做&quot;毒芹碱&quot;。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>旧约中所有提及<em>ro’sh</em> /<em>rosh</em> 的经文都是修辞性的，因此翻译者可以自由寻找富有表现力的当地词语作为译词。另外，由于毒药经常用于打猎、捕鱼或灭鼠，因此大多数语言都会有表示毒药的词。经文提到<em>ro’sh</em> /<em>rosh</em> 时，有一半与希伯来文<em>la‘anah</em> 成对出现（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.2.7\" href=\"#FLORA:5.2.7\">5.2.7 苦艾 (wormwood)</a> ），因此翻译者需要寻找一个合适的词对。如果没有表示&quot;毒药&quot;的词语，那么也可以用有毒植物的名称来替代这对词语。毒参遍布中欧、南欧、亚洲和北非，并被引进北美和南美。野生天仙子遍布欧洲中部和南部、西亚、印度，一直到西伯利亚，现今也生长在北美和南美，特别是巴西。天仙子属（学名<em>Hyoscyamus</em> ）的一个近缘物种生长范围广泛，从加那利群岛起，经北非一直到亚洲都有发现。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05029017",
+"start_ref_usfm": "DEU 29:17",
+"end_ref": "05029017",
+"end_ref_usfm": "DEU 29:17"
+},
+{
+"start_ref": "05032032",
+"start_ref_usfm": "DEU 32:32",
+"end_ref": "05032032",
+"end_ref_usfm": "DEU 32:32"
+},
+{
+"start_ref": "19069022",
+"start_ref_usfm": "PSA 69:22",
+"end_ref": "19069022",
+"end_ref_usfm": "PSA 69:22"
+},
+{
+"start_ref": "24008014",
+"start_ref_usfm": "JER 8:14",
+"end_ref": "24008014",
+"end_ref_usfm": "JER 8:14"
+},
+{
+"start_ref": "24009014",
+"start_ref_usfm": "JER 9:14",
+"end_ref": "24009014",
+"end_ref_usfm": "JER 9:14"
+},
+{
+"start_ref": "24023015",
+"start_ref_usfm": "JER 23:15",
+"end_ref": "24023015",
+"end_ref_usfm": "JER 23:15"
+},
+{
+"start_ref": "25003005",
+"start_ref_usfm": "LAM 3:5",
+"end_ref": "25003005",
+"end_ref_usfm": "LAM 3:5"
+},
+{
+"start_ref": "25003019",
+"start_ref_usfm": "LAM 3:19",
+"end_ref": "25003019",
+"end_ref_usfm": "LAM 3:19"
+},
+{
+"start_ref": "28010004",
+"start_ref_usfm": "HOS 10:4",
+"end_ref": "28010004",
+"end_ref_usfm": "HOS 10:4"
+},
+{
+"start_ref": "30006012",
+"start_ref_usfm": "AMO 6:12",
+"end_ref": "30006012",
+"end_ref_usfm": "AMO 6:12"
+},
+{
+"start_ref": "40027034",
+"start_ref_usfm": "MAT 27:34",
+"end_ref": "40027034",
+"end_ref_usfm": "MAT 27:34"
+},
+{
+"start_ref": "44008023",
+"start_ref_usfm": "ACT 8:23",
+"end_ref": "44008023",
+"end_ref_usfm": "ACT 8:23"
+},
+{
+"start_ref": "05032033",
+"start_ref_usfm": "DEU 32:33",
+"end_ref": "05032033",
+"end_ref_usfm": "DEU 32:33"
+},
+{
+"start_ref": "68006004",
+"start_ref_usfm": "TOB 6:4",
+"end_ref": "68006004",
+"end_ref_usfm": "TOB 6:4"
+},
+{
+"start_ref": "68006005",
+"start_ref_usfm": "TOB 6:5",
+"end_ref": "68006005",
+"end_ref_usfm": "TOB 6:5"
+},
+{
+"start_ref": "68006007",
+"start_ref_usfm": "TOB 6:7",
+"end_ref": "68006007",
+"end_ref_usfm": "TOB 6:7"
+},
+{
+"start_ref": "68006009",
+"start_ref_usfm": "TOB 6:9",
+"end_ref": "68006009",
+"end_ref_usfm": "TOB 6:9"
+},
+{
+"start_ref": "68011004",
+"start_ref_usfm": "TOB 11:4",
+"end_ref": "68011004",
+"end_ref_usfm": "TOB 11:4"
+},
+{
+"start_ref": "68011008",
+"start_ref_usfm": "TOB 11:8",
+"end_ref": "68011008",
+"end_ref_usfm": "TOB 11:8"
+},
+{
+"start_ref": "68011011",
+"start_ref_usfm": "TOB 11:11",
+"end_ref": "68011011",
+"end_ref_usfm": "TOB 11:11"
+},
+{
+"start_ref": "41015023",
+"start_ref_usfm": "MRK 15:23",
+"end_ref": "41015023",
+"end_ref_usfm": "MRK 15:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.6",
+"reference_id": "FLORA:5.2.6",
+"version": "1.0.4",
+"title": "标题：野瓜（柯罗辛、苦西瓜、药西瓜）（wild gourd [colocynth, egusi, bitter apple]）",
+"media_type": "Text",
+"index_reference": "5.2.6",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.6\"><span class=\"thlex-key\">5.2.6</span> 标题：野瓜（柯罗辛、苦西瓜、药西瓜）（wild gourd [colocynth, egusi, bitter apple]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：גֶּפֶן סְדוֹם</span> <span class=\"thlex-translit\">(音译：gefen sedom)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut32:32\">DEU 32:32</a>, <a href=\"https://ref.ly/Deut32:32\">DEU 32:32</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：פַּקֻּעֹת שָׂדֶה</span> <span class=\"thlex-translit\">(音译：paqu‘oth sadeh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Kgs4:39\">2KI 4:39</a>, <a href=\"https://ref.ly/2Kgs4:39\">2KI 4:39</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0140_colocynth.jpg\" alt=\"WEB-0140_colocynth\"></figure><a href=\"https://ref.ly/2Kgs4:39\">2KI 4:39</a> 提到的先知门徒可能来自城里。他出去摘&quot;菜&quot;时甚至可能不知道该采些什么。他发现了一棵<em>gefen sadeh</em> （字面意为&quot;田间的藤&quot;）。希伯来文<em>gefen</em> 泛指攀爬或缠绕的植物，但是和英文&quot;vine&quot;（&quot;藤&quot;）一样，这个词也可以特指葡萄藤。在这节经文中，这个词指的是野瓜或柯罗辛（药西瓜），一种在干燥气候里常见的藤本植物。柯罗辛的果实（<em>paqu‘oth</em> ）有几分毒性，不过瓜的粉末可作药用。柯罗辛除了生长在沿海平原之外，现仍生长在约旦河谷靠近吉甲的地方，据说先知门徒的故事就发生在那里。根据赫珀的研究，在主后54年，罗马皇帝革老丢就是被他的妻子用柯罗辛毒死的。相关的希伯来文<em>peqa‘im</em> 出现在其他地方，指葫芦的果实（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.2.1\" href=\"#FLORA:5.2.1\">5.2.1 葫芦 (bottle gourd)</a> ）。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0141_colocynth.jpg\" alt=\"WEB-0141_colocynth\"></figure>赫珀认为，摩西的歌（<a href=\"https://ref.ly/Deut32:32\">DEU 32:32</a> ）提到的&quot;所多玛的葡萄树&quot;（希伯来文<em>gefen sedom</em> ）可能是柯罗辛（学名<em>Citrullus colocynthis</em> ）。虽然这个比喻很恰当，但经文本身可能根本不是指一种有毒的植物，而仅仅是把悖逆顽梗的以色列人比作罪恶的所多玛人。赫珀还指出，<a href=\"https://ref.ly/Deut29:17\">DEU 29:17</a> （《和》29:18）、<a href=\"https://ref.ly/Ps69:22\">PSA 69:22</a> （《和》69:21）、<a href=\"https://ref.ly/Jer8:14\">JER 8:14</a> 、<a href=\"https://ref.ly/Jer9:14\">JER 9:14</a> （《和》9:15）、<a href=\"https://ref.ly/Jer23:15\">JER 23:15</a> 和<a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a> 中的希伯来文<em>ro’sh</em> 所指的植物可能就是柯罗辛（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.2.2\" href=\"#FLORA:5.2.2\">5.2.2 梭梭（猪毛菜属[Salsola]、盐角草属[Salicornia]）（hammada [Salsola, Salicornia]）</a> ）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>柯罗辛藤与西瓜藤、黄瓜藤和葫芦藤很相似。根粗壮，富含水分，可以深深扎入土里。茎匍匐于地，卷须缠在灌木或篱笆上。叶子呈三角形，叶缘浅裂，像西瓜的叶子。花朵黄色，果实黄色、球形，大小如大苹果或西柚。果壳坚硬光滑，果肉松软，种子白色或棕色。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0143_colocynthfruit.jpg\" alt=\"WEB-0143_colocynthfruit\"></figure>西奈半岛和尼革夫西部的阿拉伯人供应柯罗辛给医药市场，用于治疗胃病和通便。在食物匮乏的时期，人们会把柯罗辛的种子磨成面做面包。在存放羊毛衣物时，柯罗辛也可用来驱蛾。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>柯罗辛生长在整个地中海地区和西亚。有些翻译者的语言可能没有一个表示攀缘植物的统称，但他们可能有&quot;植物&quot;这个更一般性的词语，或者也可以采用&quot;野生黄瓜&quot;这样的短语。需要记住的一点是：<a href=\"https://ref.ly/2Kgs4:39\">2KI 4:39</a> 中的希伯来文短语<em>paqu‘oth sadeh</em> （&quot;野瓜&quot;）是个笼统的名称，先知门徒自己也不认识这种果实。因此，只有使用较为笼统的词语为译词，这个故事才最合理。圣经植物学家非常确定这个门徒发现的瓜藤就是柯罗辛，但从某种意义上说，这并非故事的重点，因为故事的目的在于显明上帝的奇妙大能。</p>\n<p>如果要音译&quot;柯罗辛&quot;，翻译者可以按照法文<em>coloquinthe</em> 、西班牙／葡萄牙文<em>coloquinta</em> ，或阿拉伯文<em>banzal</em> 来音译。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032032",
+"start_ref_usfm": "DEU 32:32",
+"end_ref": "05032032",
+"end_ref_usfm": "DEU 32:32"
+},
+{
+"start_ref": "12004039",
+"start_ref_usfm": "2KI 4:39",
+"end_ref": "12004039",
+"end_ref_usfm": "2KI 4:39"
+},
+{
+"start_ref": "05029017",
+"start_ref_usfm": "DEU 29:17",
+"end_ref": "05029017",
+"end_ref_usfm": "DEU 29:17"
+},
+{
+"start_ref": "19069022",
+"start_ref_usfm": "PSA 69:22",
+"end_ref": "19069022",
+"end_ref_usfm": "PSA 69:22"
+},
+{
+"start_ref": "24008014",
+"start_ref_usfm": "JER 8:14",
+"end_ref": "24008014",
+"end_ref_usfm": "JER 8:14"
+},
+{
+"start_ref": "24009014",
+"start_ref_usfm": "JER 9:14",
+"end_ref": "24009014",
+"end_ref_usfm": "JER 9:14"
+},
+{
+"start_ref": "24023015",
+"start_ref_usfm": "JER 23:15",
+"end_ref": "24023015",
+"end_ref_usfm": "JER 23:15"
+},
+{
+"start_ref": "30006012",
+"start_ref_usfm": "AMO 6:12",
+"end_ref": "30006012",
+"end_ref_usfm": "AMO 6:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.2.7",
+"reference_id": "FLORA:5.2.7",
+"version": "1.0.4",
+"title": "标题：苦艾（wormwood）",
+"media_type": "Text",
+"index_reference": "5.2.7",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.2.7\"><span class=\"thlex-key\">5.2.7</span> 标题：苦艾（wormwood）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：לַעֲנָה</span> <span class=\"thlex-translit\">(音译：la‘anah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Deut29:17\">DEU 29:17</a>, <a href=\"https://ref.ly/Prov5:4\">PRO 5:4</a>, <a href=\"https://ref.ly/Jer9:14\">JER 9:14</a>, <a href=\"https://ref.ly/Jer23:15\">JER 23:15</a>, <a href=\"https://ref.ly/Lam3:15\">LAM 3:15</a>, <a href=\"https://ref.ly/Lam3:19\">LAM 3:19</a>, <a href=\"https://ref.ly/Amos5:7\">AMO 5:7</a>, <a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ἄψινθος</span> <span class=\"thlex-translit\">(音译：apsinthos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude8:11\">REV 8:11</a>, <a href=\"https://ref.ly/Jude8:11\">REV 8:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0923_wormwood.jpg\" alt=\"WEB-0923_wormwood\"></figure>希伯来文<em>la‘anah</em> 在字面上是指一种植物，但在旧约中只用作比喻，表示某种味道非常苦的东西。尽管证据很少，但解经家和植物学家一致认为，这个词可能指一种从白苦艾中提取的物质。白苦艾盛产于圣地的旷野。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0925_white_wormwood.jpg\" alt=\"WEB-0925_white_wormwood\"></figure>白苦艾（学名<em>Artemisia herba-alba</em> ）是一种不到半米（18英寸）高的灌木。叶子毛绒绒的，叶片细碎，在以色列凉爽的雨季结束时掉落，叶片在炎热的季节会变为鳞片状。在9月或10月左右，苦艾花以2至4朵成簇开放，并结成多毛的小果实。植物成熟后，把叶子和花晒干可以制成一种非常苦的茶，或者磨成粉、制成膏或油以入药。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>旧约提到苦艾时，大多与希伯来文<em>ro’sh</em> （&quot;毒药／苦胆&quot;）一词成对使用，喻指痛苦的经历和悲伤（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.2.5\" href=\"#FLORA:5.2.5\">5.2.5 毒参 (poison hemlock [black henbane, gall])</a> ）。<a href=\"https://ref.ly/Jude8:11\">REV 8:11</a>; <a href=\"https://ref.ly/Jude8:11\">REV 8:11</a> 提到，一颗名叫茵陈（希腊文<em>apsinthos</em> ）的星星使地上三分之一的水变苦且有毒。苦艾叶的味道很苦。少量的苦艾可用作麻醉剂，欧洲人用它来调酒（苦艾酒）。苦艾也可用来驱除飞蛾、跳蚤和肠道寄生虫。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>圣地的白苦艾遍布中东、北非（埃及、摩洛哥）和欧洲西南部，然而全世界至少有300种蒿属（学名<em>Artemisia</em> ）植物，通常分布在干旱地区。中国的一种蒿属植物（&quot;黄花蒿&quot;）被用作抗疟疾的药物。山道年蒿（学名<em>Artemisia cina</em> ）和驱蛔蒿（学名<em>Artemisia maritima</em> ）生长在欧亚大陆，从中提取的山道年（学名<em>Santonica</em> ）是一种驱肠虫药。因纽特人把青蒿（学名<em>Artemisia tilesii</em> ）当作可待因使用。美国西部的山艾树也隶于蒿属，美洲土著人曾将其用于多种用途。</p>\n<p>大多数语言都有指称叶子和／或根味苦植物的词语。因为在旧约中提到苦艾的经文都是比喻性的，所以翻译者可以使用当地的这类植物来表达经文的中心意思。如上所述，<em>la‘anah</em> 大多与<em>ro’sh</em> 成对出现，所以在这些经文中，这两个词要一起处理。如果没有具体的植物，可以使用&quot;苦果子&quot;、&quot;苦香料&quot;或&quot;苦物&quot;等短语。如果需要，可以按照法文<em>absinthe</em> 、葡萄牙文<em>absinto</em> 或<em>losna</em> ，或者西班牙文<em>absintio</em> 或<em>ajenjo</em> 来音译。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "05029017",
+"start_ref_usfm": "DEU 29:17",
+"end_ref": "05029017",
+"end_ref_usfm": "DEU 29:17"
+},
+{
+"start_ref": "20005004",
+"start_ref_usfm": "PRO 5:4",
+"end_ref": "20005004",
+"end_ref_usfm": "PRO 5:4"
+},
+{
+"start_ref": "24009014",
+"start_ref_usfm": "JER 9:14",
+"end_ref": "24009014",
+"end_ref_usfm": "JER 9:14"
+},
+{
+"start_ref": "24023015",
+"start_ref_usfm": "JER 23:15",
+"end_ref": "24023015",
+"end_ref_usfm": "JER 23:15"
+},
+{
+"start_ref": "25003015",
+"start_ref_usfm": "LAM 3:15",
+"end_ref": "25003015",
+"end_ref_usfm": "LAM 3:15"
+},
+{
+"start_ref": "25003019",
+"start_ref_usfm": "LAM 3:19",
+"end_ref": "25003019",
+"end_ref_usfm": "LAM 3:19"
+},
+{
+"start_ref": "30005007",
+"start_ref_usfm": "AMO 5:7",
+"end_ref": "30005007",
+"end_ref_usfm": "AMO 5:7"
+},
+{
+"start_ref": "30006012",
+"start_ref_usfm": "AMO 6:12",
+"end_ref": "30006012",
+"end_ref_usfm": "AMO 6:12"
+},
+{
+"start_ref": "66008011",
+"start_ref_usfm": "REV 8:11",
+"end_ref": "66008011",
+"end_ref_usfm": "REV 8:11"
+}
+],
+"resource": []
+}
+}
+]

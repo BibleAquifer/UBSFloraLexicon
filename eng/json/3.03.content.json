@@ -1,0 +1,113 @@
+[
+{
+"content_id": "FLORA:3.3",
+"reference_id": "FLORA:3.3",
+"version": "1.0.4",
+"title": "Pulses",
+"media_type": "Text",
+"index_reference": "3.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:3.3\"><span class=\"thlex-key\">3.3</span> Pulses</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">There are three types of pulses in the Bible: beans, chickpeas, and lentils.</h2>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:3.3.1",
+"reference_id": "FLORA:3.3.1",
+"version": "1.0.4",
+"title": "Beans",
+"media_type": "Text",
+"index_reference": "3.3.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:3.3.1\"><span class=\"thlex-key\">3.3.1</span> Beans</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פּוֹל</span> <span class=\"thlex-translit\">(pol)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Sam17:28\">2SA 17:28</a>, <a href=\"https://ref.ly/Ezek4:9\">EZK 4:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0089_broadbean.jpg\" alt=\"WEB-0089_broadbean\"></figure>Commentators and translators are unanimous in identifying the Hebrew word <em>pol</em> as the Broad Bean <em>Vicia faba</em> or <em>Faba vulgaris</em>. Beans were cultivated in the Middle East for millennia, and they probably originated there. No wild species are now known, and it is quite possible that the ancestors of the bean are extinct. Samples of beans have been found in excavations at Jericho dating to 7,000–8,000 years ago.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The broad bean is an erect plant, not a vine, reaching to 1 meter (3 feet) in height. The stem branches only in the upper part. It has no tendrils like many types of bean have today. The flowers are white, and when they ripen, they form pods containing 3–6 large flat beans of a cream or tan color.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In <a href=\"https://ref.ly/2Sam17:28\">2SA 17:28</a> people bring food, including beans, to King David as he flees from his son Absalom. In <a href=\"https://ref.ly/Ezek4:9\">EZK 4:9</a> Ezekiel is instructed to publicly make “bread” out of wheat, barley, beans, and lentils—whatever he could find—the point probably being that good quality bread will soon be scarce in Jerusalem.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>There are at least two hundred species of the genus <em>Vicia</em> to which the broad bean belongs. <em>Vicia</em> itself is part of the vast family of legumes. It is possible that the Hebrew word <em>pol</em> actually refers to more than one type of bean, including what we now know as peas. Since beans and peas are known around the world, translators will probably be able to find a local equivalent. In both contexts (2 Samuel and Ezekiel) the word is used in a list of items, and if a local species of bean is not available to the translator, a transliteration should be used (for example, Arabic <em>adas</em>; French <em>faverole</em>, <em>fève</em>, <em>haricot</em>; Spanish <em>frijol</em>; Portuguese <em>fava</em>, <em>favarola</em>, <em>feijão</em>; Swahili <em>haragwe</em>; Latin <em>vicia</em>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "10017028",
+"start_ref_usfm": "2SA 17:28",
+"end_ref": "10017028",
+"end_ref_usfm": "2SA 17:28"
+},
+{
+"start_ref": "26004009",
+"start_ref_usfm": "EZK 4:9",
+"end_ref": "26004009",
+"end_ref_usfm": "EZK 4:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:3.3.2",
+"reference_id": "FLORA:3.3.2",
+"version": "1.0.4",
+"title": "Chickpeas",
+"media_type": "Text",
+"index_reference": "3.3.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:3.3.2\"><span class=\"thlex-key\">3.3.2</span> Chickpeas</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:”</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חָמִיץ</span> <span class=\"thlex-translit\">(chamits)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0125_chickpea.jpg\" alt=\"WEB-0125_chickpea\"></figure>In <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a> the prophet says that when God restores the nation of Judah, the oxen and donkeys will eat <em>belil chamits</em> “winnowed with shovel and fork.” The Hebrew word <em>belil</em> is accepted as meaning “fodder” or “provender,” but the modifying word <em>chamits</em> is debated. <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> translates it as “salted,” <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> says, “finest and best,” <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> has “well-seasoned,” and <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> uses “good.” <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> and <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> combine the two words, saying “silage.” However, the Hebrew word <em>chamits</em> is cognate with the Arabic <em>chumus</em> and the Aramaic <em>chimtsa</em>, both of which refer to the Chickpea <em>Cicer arietinum</em>. So Zohary advocates translating <em>chamits</em> as “chickpeas.” The choice is between two interpretations of <em>chamits</em>, one favored by cognate evidence, the other by traditional exegesis. In the excavation of Jericho, chickpeas were found dating from at least 2000 B.C., well before the time of Isaiah, but archeologists claim to have found chickpeas on other sites in the Middle East also, some dating to 7000 B.C. Wild species found growing in the northern part of the Fertile Crescent have led botanists to believe that the chickpea originated there.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0126_chickpeaseed.jpg\" alt=\"WEB-0126_chickpeaseed\"></figure>The chickpea stands about 20 centimeters (8 inches) high and has small leaves opposite each other on the stems and branches. The flowers are blue or white and form a short pod with one or two almost cubical seeds, tan in color.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The intent of <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a> is to show the glorious future of Judah, where even the cows and donkeys will dine on delicious food.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The context here is rhetorical, so if the translator understands <em>chamits</em> to mean “chickpeas,” it may be effective to use a cultural equivalent, preferably a plant that local farm animals would find delicious. Some translators, lacking a specific word for chickpeas, will need to use a generic term or phrase. If a transliteration from a major language is desired, consider Arabic <em>hummus</em>; French <em>pois</em><em>chiche</em>, <em>cicerole</em>; Portuguese <em>graão</em><em>de</em><em>bico</em>; and Spanish <em>garbanzo</em>. If, on the other hand, the alternative meaning of <em>chamits</em> is taken, a simple phrase such as “good food,” “best food” or “mixed food” is acceptable.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23030024",
+"start_ref_usfm": "ISA 30:24",
+"end_ref": "23030024",
+"end_ref_usfm": "ISA 30:24"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:3.3.3",
+"reference_id": "FLORA:3.3.3",
+"version": "1.0.4",
+"title": "Lentils",
+"media_type": "Text",
+"index_reference": "3.3.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:3.3.3\"><span class=\"thlex-key\">3.3.3</span> Lentils</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֲדָשָׁה</span> <span class=\"thlex-translit\">(‘adashah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen25:34\">GEN 25:34</a>, <a href=\"https://ref.ly/2Sam17:28\">2SA 17:28</a>, <a href=\"https://ref.ly/2Sam23:11\">2SA 23:11</a>, <a href=\"https://ref.ly/Ezek4:9\">EZK 4:9</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0093_lentils_red.jpg\" alt=\"PTZ-0093_lentils_red\"></figure>Scholars are agreed that the Hebrew word <em>‘adashah</em> refers to the Lentil <em>Lens culinaris</em> (formerly known as <em>Lens esculenta</em>). The Arabic word <em>‘adas</em>, as well as several references in post-biblical Hebrew, confirm this identification, as does the Septuagint. Seeds found in excavations dating to the sixth or seventh millennium B.C. show that the lentil is one of the first species to be cultivated by humans. In those excavations lentils are often found together with seeds of wheat and barley.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0586_lentilplant.jpg\" alt=\"WEB-0586_lentilplant\"></figure>The lentil is a low-branched plant with a weak stem. It has tendrils, like pumpkins and squashes, and pinkish flowers that develop into a pod like a bean. The pod is very short with only one seed inside, about the size of a small pea. In one type of lentil the pea is reddish brown, hence the reference to “red” stew in <a href=\"https://ref.ly/Gen25:30\">GEN 25:30</a>. The pods are often in pairs or sets of three. In the Holy Land lentils grow in the cold season (November-March).</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In <a href=\"https://ref.ly/Ezek4:9\">EZK 4:9</a> the strange bread, made from six kinds of grains and legumes including lentils, was probably intended to show that food would become scarce and that the people would have to eat whatever they could find. The lentil is typically used in soups and stews, as it was when Jacob used it to trick his brother Esau into giving up his rights as the firstborn son. Lentils were among the foodstuffs brought to David by local people when he was pursued by Absalom.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Lentils are now widespread in Asia, India, and North Africa. In places where they are not known, we suggest using the word for a local type of bean rather than a transliteration. However, in <a href=\"https://ref.ly/Ezek4:9\">EZK 4:9</a> “beans” are also mentioned, so a possible rendering for “beans and lentils” is “different kinds of beans.” In <a href=\"https://ref.ly/Gen25:34\">GEN 25:34</a> a generic expression for “pottage of lentils” would be appropriate, such as “bean soup,” “bean stew” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>), or “vegetable soup” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>). If a transliteration from a major language is desired, consider Arabic <em>adas</em>; French <em>cristallin</em>, <em>lentille</em>; Spanish <em>lenteja</em>; Portuguese <em>lentilha</em>; and Swahili <em>adesi</em>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025034",
+"start_ref_usfm": "GEN 25:34",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "10017028",
+"start_ref_usfm": "2SA 17:28",
+"end_ref": "10017028",
+"end_ref_usfm": "2SA 17:28"
+},
+{
+"start_ref": "10023011",
+"start_ref_usfm": "2SA 23:11",
+"end_ref": "10023011",
+"end_ref_usfm": "2SA 23:11"
+},
+{
+"start_ref": "26004009",
+"start_ref_usfm": "EZK 4:9",
+"end_ref": "26004009",
+"end_ref_usfm": "EZK 4:9"
+},
+{
+"start_ref": "01025030",
+"start_ref_usfm": "GEN 25:30",
+"end_ref": "01025030",
+"end_ref_usfm": "GEN 25:30"
+}
+],
+"resource": []
+}
+}
+]

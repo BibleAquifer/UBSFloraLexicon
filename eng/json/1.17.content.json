@@ -1,0 +1,42 @@
+[
+{
+"content_id": "FLORA:1.17",
+"reference_id": "FLORA:1.17",
+"version": "1.0.4",
+"title": "Oleander",
+"media_type": "Text",
+"index_reference": "1.17",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.17\"><span class=\"thlex-key\">1.17</span> Oleander</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">ardat</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd9:26\">2ES 9:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0104_oleander_flowers.jpg\" alt=\"PTZ-0104_oleander_flowers\"></figure>The Oleander <em>Nerium oleander</em> can be found throughout Israel from the Carmel range to the Jordan Valley, inhabiting especially the creek beds that fill with water after heavy rains. It has now become a popular garden shrub. Even in the dry area east of the Jordan it may be found in abundance. Zohary considers the place name “Ardat” in <a href=\"https://ref.ly/1Esd9:26\">2ES 9:26</a> to be related to the modern Hebrew word <em>harduf</em>, which refers to the oleander shrub. Hepper and others hold that the Greek word <em>rodon</em> in <a href=\"https://ref.ly/Wis24:14\">SIR 24:14</a> and <a href=\"https://ref.ly/Wis39:13\">SIR 39:13</a> refers to oleander, but a small majority identifies <em>rodon</em> as the Phoenician rose (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:6.1.5\" href=\"#FLORA:6.1.5\">6.1.5 Tulip (mountain tulip, “rose of Sharon”)</a>). <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> renders it “rose” in these passages. Some scholars have contended that the Hebrew word <em>‘aravah</em> (“willows” in <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) in <a href=\"https://ref.ly/Lev23:40\">LEV 23:40</a> must refer to the oleander, but there is no concrete evidence for it.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The oleander is a flowering shrub that can reach 1–4 meters (3–13 feet) in height and has narrow leaves like a willow. The flowers are pink, with doubled petals that make it look like a rose (hence “rose” in Sirach). The leaves, flowers, and milky resin are very toxic. The flowers usually appear in June and range from white to pink in color. The seed pod releases a fluffy seed that may be carried some distance by the wind.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The genus <em>Nerium</em>, which includes oleander, comprises species found from the Mediterranean region across to Japan. It is part of a large family of plants called Apocynaceae that is found throughout Africa and Asia, but the other genera (<em>Funtumia</em>, <em>Mandevilla</em>, <em>Parsonsia</em>, <em>Strophanthus</em>) are so different as to be unhelpful in translation.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "83009026",
+"start_ref_usfm": "2ES 9:26",
+"end_ref": "83009026",
+"end_ref_usfm": "2ES 9:26"
+},
+{
+"start_ref": "72024014",
+"start_ref_usfm": "SIR 24:14",
+"end_ref": "72024014",
+"end_ref_usfm": "SIR 24:14"
+},
+{
+"start_ref": "72039013",
+"start_ref_usfm": "SIR 39:13",
+"end_ref": "72039013",
+"end_ref_usfm": "SIR 39:13"
+},
+{
+"start_ref": "03023040",
+"start_ref_usfm": "LEV 23:40",
+"end_ref": "03023040",
+"end_ref_usfm": "LEV 23:40"
+}
+],
+"resource": []
+}
+}
+]

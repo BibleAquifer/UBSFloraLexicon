@@ -1,0 +1,54 @@
+[
+{
+"content_id": "FLORA:2.2",
+"reference_id": "FLORA:2.2",
+"version": "1.0.4",
+"title": "標題：蘋果（apple）",
+"media_type": "Text",
+"index_reference": "2.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:2.2\"><span class=\"thlex-key\">2.2</span> 標題：蘋果（apple）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תַּפּוּחַ</span> <span class=\"thlex-translit\">(音譯： tapuach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov25:11\">PRO 25:11</a>, <a href=\"https://ref.ly/Song2:3\">SNG 2:3</a>, <a href=\"https://ref.ly/Song2:5\">SNG 2:5</a>, <a href=\"https://ref.ly/Song7:9\">SNG 7:9</a>, <a href=\"https://ref.ly/Song8:5\">SNG 8:5</a>, <a href=\"https://ref.ly/Joel1:12\">JOL 1:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0006_appletree.jpg\" alt=\"PTZ-0006_appletree\"></figure>野蘋果或酸蘋果（學名<em>Malus sylvestris</em> ）是我們今天所熟悉的甜水果蘋果（學名<em>Malus domestica</em> ）的原種。過去，這種水果可能曾在今伊朗、亞美尼亞、土耳其和敘利亞進行過栽培。在歐洲、西亞，可能還有土耳其和黎巴嫩等地區，蘋果樹已經生長了幾千年。聖經學者的問題是：野蘋果這種又小又酸的水果與<a href=\"https://ref.ly/Prov25:11\">PRO 25:11</a> （「就如金蘋果在銀網子裡」）和<a href=\"https://ref.ly/Song2:5\">SNG 2:5</a> （「請你們用葡萄餅增補我力，以蘋果暢快我的心，因我為愛而生病」）中的描述是否相配。存著這個疑問，有些學者提出<em>tapuach</em> 是「杏李」，而且<a href=\"https://ref.ly/Song7:9\">SNG 7:9</a> （《和》7:8）也提到它悅人的香氣。祖海里（Zohary）從語言學的角度，認為這是蘋果。他引用了阿拉伯文中表示蘋果的同源詞<em>tuffach</em> ，以及主前1298年至主前1235年的埃及文獻，其中提到尼羅河谷生長著<em>taph</em> （可能與<em>tapuach</em> 相同）。蘋果的改良品種可能在聖經時期就已經出現。祖海里指出，杏李在該地區出現的時間比蘋果晚得多。</p>\n<p>赫珀（Hepper）引用了一項研究，其中提到考古學家在西奈半島北部的加低斯‧巴尼亞發掘時，發現了可以追溯到主前9世紀的碳化野蘋果。但赫珀說，目前還無法確知這究竟是蘋果還是杏李。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>蘋果樹高5—10米（17—33英呎），樹冠呈圓形，果實圓球形，約有橙子大小。蘋果樹在春天開滿粉色的花，然後逐漸長出綠色的葉子。蘋果有綠色、黃色或紅色。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Prov25:11\">PRO 25:11</a> 中，作者把一句說得合宜的話比作「金蘋果在銀網子裡」。<a href=\"https://ref.ly/Song2:3\">SNG 2:3</a> 說蘋果樹是美好的：「我的良人在男子中，如同蘋果樹在樹林裡。」這表明<em>tapuach</em> 是樹林中的一種樹木，但我們也可以理解為，詩人通過想象把栽培的蘋果樹置於樹林中。<a href=\"https://ref.ly/Song2:5\">SNG 2:5</a> 說，「用葡萄餅增補我力，以蘋果暢快我的心……」，表明蘋果是一種特殊的食物。<a href=\"https://ref.ly/Joel1:12\">JOL 1:12</a> 列出了<em>tapuach</em> 和其他四種在乾旱時枯萎的植物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>蘋果樹只在溫帶地區長勢良好。在這些地區，蘋果樹在一年中的某段時間是被冰凍的，因此非洲和亞洲的熱帶地區沒有蘋果樹的近緣樹木。不過，隨著歐洲和南非出產的蘋果被運到許多非洲國家，在這些地方，至少在城市中，蘋果在主要國際語言中的名稱已經為人所知。我們建議按照一種眾所周知的語言進行音譯（如<em>tufa</em> ［阿拉伯文］，<em>pom</em> /<em>pomier</em> ［法文］，<em>manzano</em> ［西班牙文］，<em>masa</em> /<em>masiyera</em> ［葡萄牙文］，以及<em>apel</em> ［英文］）。不過，在《箴言》和《雅歌》的經文中，追求文學對等的翻譯者可能想要找到一個文化上的替代詞。例如，在<a href=\"https://ref.ly/Song2:3\">SNG 2:3</a> （「我的良人在男子中，如同<em>tapuach</em> 在樹林裡」），如果當地有一種合適的樹，就可以用來替代這裡的<em>tapuach</em> ，但是應在腳註中註明這個詞語的希伯來文以及在主要語言中的對等詞。<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 就用了&quot;apple&quot;（「蘋果」）替代<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 中的&quot;apricot&quot;（「杏」）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "20025011",
+"start_ref_usfm": "PRO 25:11",
+"end_ref": "20025011",
+"end_ref_usfm": "PRO 25:11"
+},
+{
+"start_ref": "22002003",
+"start_ref_usfm": "SNG 2:3",
+"end_ref": "22002003",
+"end_ref_usfm": "SNG 2:3"
+},
+{
+"start_ref": "22002005",
+"start_ref_usfm": "SNG 2:5",
+"end_ref": "22002005",
+"end_ref_usfm": "SNG 2:5"
+},
+{
+"start_ref": "22007009",
+"start_ref_usfm": "SNG 7:9",
+"end_ref": "22007009",
+"end_ref_usfm": "SNG 7:9"
+},
+{
+"start_ref": "22008005",
+"start_ref_usfm": "SNG 8:5",
+"end_ref": "22008005",
+"end_ref_usfm": "SNG 8:5"
+},
+{
+"start_ref": "29001012",
+"start_ref_usfm": "JOL 1:12",
+"end_ref": "29001012",
+"end_ref_usfm": "JOL 1:12"
+}
+],
+"resource": []
+}
+}
+]

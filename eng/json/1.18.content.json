@@ -1,0 +1,103 @@
+[
+{
+"content_id": "FLORA:1.18",
+"reference_id": "FLORA:1.18",
+"version": "1.0.4",
+"title": "Pine",
+"media_type": "Text",
+"index_reference": "1.18",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.18\"><span class=\"thlex-key\">1.18</span> Pine</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References: to “pine” in Scripture are all tentative, since there is considerable uncertainty among scholars regarding the identity of all the conifers. Probably two kinds of pine are referred to and they are quite different in form and habitat.</h2>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:1.18.1",
+"reference_id": "FLORA:1.18.1",
+"version": "1.0.4",
+"title": "Stone pine",
+"media_type": "Text",
+"index_reference": "1.18.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.18.1\"><span class=\"thlex-key\">1.18.1</span> Stone pine</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:”</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">תִּרְזָה</span> <span class=\"thlex-translit\">(tirzah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0719_pine_stone.jpg\" alt=\"WEB-0719_pine_stone\"></figure>According to Tomson (1860, quoted by Zohary), the Stone Pine <em>Pinus pinea</em>, also known as the Pignolia or Piñon pine, was common in the coastal plain of Palestine in the 1800s. There were forests of them on the Aegean coast and in Lebanon. Israel now has only a few groves of them on Mount Carmel and on the coastal plain of Galilee, but they are plentiful in Lebanon, where people plant them for the tasty, oily seeds. Zohary suggests that the Hebrew word <em>tirzah</em> in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> could refer to the stone pine (“holm” [<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ], “cypress” [<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ], “plane” [<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ], “fir” [<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> ], “oak” [<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> ]). The <em>r-z</em> root betrays a possible relationship to the Hebrew word <em>’erez</em> (“cedar”), and the first Arabic translation of the Bible (in the tenth century A.D.) used the Arabic equivalent of the stone pine.</p>\n<p>Because of its seeds, the stone pine has been suggested as a translation for <em>berosh</em> in <a href=\"https://ref.ly/Hos14:9\">HOS 14:9</a> (8), where God likens himself to an evergreen <em>berosh</em> tree. But this is debatable, since the grammar seems to argue that the fruit mentioned there is not the fruit of the speaker (God) but of the addressees: “your fruit” or “their fruit.”</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0718_pine_cone.jpg\" alt=\"WEB-0718_pine_cone\"></figure>The stone pine grows to 10 meters (33 feet) high and is often shaped like an umbrella, which gives it the nickname “umbrella pine” in some places. It is the only pine to produce edible seeds.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>What we see in the various English versions of <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> for the translation of <em>tirzah</em> (for example, “holm,” “plane,” “fir,” “oak,” and “cypress”) are only guesses. A reasonable solution then, is to follow the suggestion of Zohary, which at least has some basis in paleobiology and linguistics, and use a transliteration from a major language (for example, <em>pino</em>, <em>payin</em>, and <em>pinyola</em>). In a receptor culture-oriented translation translators could substitute an appropriate tree whose wood is commonly used for carving images, as long as the name is not being used in the translation for some other tree.</p>\n<p>“Pine nuts” from China are now being sold in the United States as a salad ingredient. We assume these to be from a sub-species of the stone pine.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044014",
+"start_ref_usfm": "ISA 44:14",
+"end_ref": "23044014",
+"end_ref_usfm": "ISA 44:14"
+},
+{
+"start_ref": "28014009",
+"start_ref_usfm": "HOS 14:9",
+"end_ref": "28014009",
+"end_ref_usfm": "HOS 14:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:1.18.2",
+"reference_id": "FLORA:1.18.2",
+"version": "1.0.4",
+"title": "Aleppo pine",
+"media_type": "Text",
+"index_reference": "1.18.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.18.2\"><span class=\"thlex-key\">1.18.2</span> Aleppo pine</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֵץ שֶׁמֶן</span> <span class=\"thlex-translit\">(‘ets shemen)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:23\">1KI 6:23</a>, <a href=\"https://ref.ly/1Kgs6:31\">1KI 6:31</a>, <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>, <a href=\"https://ref.ly/1Kgs6:33\">1KI 6:33</a>, <a href=\"https://ref.ly/Neh8:15\">NEH 8:15</a>, <a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0717_aleppo_pine.jpg\" alt=\"WEB-0717_aleppo_pine\"></figure>The stately Aleppo Pine <em>Pinus halepensis</em>, also known as the Jerusalem pine, is native to Israel and Lebanon. It was never abundant in Israel since it grows best in soft, chalky soil, which occurs in relatively few places. In modern times many of these pines have been planted in reserves throughout Israel. The modern Hebrew word for this pine is <em>’oren</em>, which is found in <a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>. Some versions (for example, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) use “pine” there, but Zohary considers that passage to refer to the bay laurel (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.12\" href=\"#FLORA:1.12\">1.12 Laurel (bay tree)</a>).</p>\n<p>In <a href=\"https://ref.ly/1Kgs6:23\">1KI 6:23</a>; <a href=\"https://ref.ly/1Kgs6:31\">1KI 6:31</a>; <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>; <a href=\"https://ref.ly/1Kgs6:33\">1KI 6:33</a> the Hebrew phrase <em>‘ets shemen</em> (literally “oil tree”) is used for the wood used to make the cherubim, the doors, and the doorposts of the Temple. The majority of English versions take this as “wild olive,” in spite of the fact that the olive, both domestic and wild, is notoriously gnarled and knotted and generally unsuited for carpentry work or for carving large-scale images.</p>\n<p><a href=\"https://ref.ly/Neh8:15\">NEH 8:15</a>, which lists four species of trees to be used for making booths, includes both <em>zayith</em> (“olive”) and <em>‘ets shemen</em> (“wild olive”). <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> and <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> both use “pine” for <em>‘ets shemen</em> here (<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> reverses the order of the two trees). The phrase “and other leafy trees” suggests some broad-leafed tree rather than a conifer—but pine branches could also have been included for their pleasant smell.</p>\n<p><a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a> contains a list of trees that will be put in the wilderness in the new age. It includes <em>‘ets shemen</em> along with the cedar, the acacia, and the myrtle.</p>\n<p>Given this evidence, Zohary is convinced that <em>‘ets shemen</em> is the Aleppo pine; this is supported by the fact that pine trees in northern Kurdistan are still called <em>‘ets shemen</em> by the Jews there since the time of the exile. Blenkinsopp (page 292) and other commentators, including the early Jewish commentators Saadiah, Shulchan Aruch and Kimchi, also support the translation of “oil tree” as “pine.” Hepper, however, believes that the cherubim of <a href=\"https://ref.ly/1Kgs6:23\">1KI 6:23</a> (and the doors and doorposts of verses <a href=\"https://ref.ly/1Kgs6:31\">1KI 6:31</a>; <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>; <a href=\"https://ref.ly/1Kgs6:33\">1KI 6:33</a>) were made of olive wood. He says that such large objects as the cherubim could have been “composed of numerous small pieces of wood somehow joined together and then carved to the required shape” (page 158). <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>, <abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>, and <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> all take this position also, translating <em>‘ets shemen</em> there as “olive.”</p>\n<p>The writers of FFB take a third position, namely, that <em>‘ets shemen</em> in 1 Kgs 6 refers to the Oleaster <em>Elaeagnus angustifolia</em>, which is sometimes called the wild olive (or Russian olive) although it is no relation to the olive tree. Hepper says that <em>‘ets shemen</em> cannot be the oleaster, since oleaster is not native to Israel. Furthermore, it is too small to provide lumber for furniture or buildings of any size.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Aleppo pine is an evergreen conifer that grows to a height of 20 meters (66 feet) and can live as long as 150 years. It is related to the cedars, cypresses, and junipers.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>As noted above, <em>‘ets shemen</em> is one of the four special trees to be used in the Festival of Shelters. If we are correct in taking it as a type of pine, the branches would have been used not only for shade but to impart the fragrant smell of the pine branches to the booth.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Some options for the translation of <em>‘ets shemen</em> are:</p>\n<p>1. Follow Zohary by transliterating the word for “pine” from a major language (for example, French <em>pin</em>, Spanish <em>pino</em>, Arabic <em>sanawbar</em>, Portuguese <em>pinheiro</em>), or by using the word for the pine trees that are being introduced into many countries by the government. (In parts of southern Nigeria any conifer is called a “Christmas tree,” which is not recommended!)</p>\n<p>2. Translate literally by saying “oil tree” as <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> does in <a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>.</p>\n<p>3. Follow popular English usage and take the local word for “olive” (first found in <a href=\"https://ref.ly/Gen8:11\">GEN 8:11</a>) and add the word “wild/bush” to distinguish it from the domestic one (following <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>). This would conform to FFB ’s suggestion.</p>\n<p>4. Transliterate the word for “olive” from a major language (for example, <em>olivi</em> or <em>wolifu</em>) and add the word “wild/bush.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006023",
+"start_ref_usfm": "1KI 6:23",
+"end_ref": "11006023",
+"end_ref_usfm": "1KI 6:23"
+},
+{
+"start_ref": "11006031",
+"start_ref_usfm": "1KI 6:31",
+"end_ref": "11006031",
+"end_ref_usfm": "1KI 6:31"
+},
+{
+"start_ref": "11006032",
+"start_ref_usfm": "1KI 6:32",
+"end_ref": "11006032",
+"end_ref_usfm": "1KI 6:32"
+},
+{
+"start_ref": "11006033",
+"start_ref_usfm": "1KI 6:33",
+"end_ref": "11006033",
+"end_ref_usfm": "1KI 6:33"
+},
+{
+"start_ref": "16008015",
+"start_ref_usfm": "NEH 8:15",
+"end_ref": "16008015",
+"end_ref_usfm": "NEH 8:15"
+},
+{
+"start_ref": "23041019",
+"start_ref_usfm": "ISA 41:19",
+"end_ref": "23041019",
+"end_ref_usfm": "ISA 41:19"
+},
+{
+"start_ref": "01008011",
+"start_ref_usfm": "GEN 8:11",
+"end_ref": "01008011",
+"end_ref_usfm": "GEN 8:11"
+}
+],
+"resource": []
+}
+}
+]

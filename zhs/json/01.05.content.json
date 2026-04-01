@@ -1,0 +1,492 @@
+[
+{
+"content_id": "FLORA:1.5",
+"reference_id": "FLORA:1.5",
+"version": "1.0.4",
+"title": "标题：香柏树（cedar）",
+"media_type": "Text",
+"index_reference": "1.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.5\"><span class=\"thlex-key\">1.5</span> 标题：香柏树（cedar）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֶזְרָח</span> <span class=\"thlex-translit\">(音译：’ezrach)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֶרֶז</span> <span class=\"thlex-translit\">(音译：’erez)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg9:15\">JDG 9:15</a>, <a href=\"https://ref.ly/2Sam5:11\">2SA 5:11</a>, <a href=\"https://ref.ly/2Sam7:2\">2SA 7:2</a>, <a href=\"https://ref.ly/2Sam7:7\">2SA 7:7</a>, <a href=\"https://ref.ly/1Kgs5:13\">1KI 5:13</a>, <a href=\"https://ref.ly/1Kgs5:20\">1KI 5:20</a>, <a href=\"https://ref.ly/1Kgs5:22\">1KI 5:22</a>, <a href=\"https://ref.ly/1Kgs5:24\">1KI 5:24</a>, <a href=\"https://ref.ly/1Kgs6:9\">1KI 6:9</a>, <a href=\"https://ref.ly/1Kgs6:10\">1KI 6:10</a>, <a href=\"https://ref.ly/1Kgs6:15\">1KI 6:15</a>, <a href=\"https://ref.ly/1Kgs6:16\">1KI 6:16</a>, <a href=\"https://ref.ly/1Kgs6:18\">1KI 6:18</a>, <a href=\"https://ref.ly/1Kgs6:18\">1KI 6:18</a>, <a href=\"https://ref.ly/1Kgs6:20\">1KI 6:20</a>, <a href=\"https://ref.ly/1Kgs6:36\">1KI 6:36</a>, <a href=\"https://ref.ly/1Kgs7:2\">1KI 7:2</a>, <a href=\"https://ref.ly/1Kgs7:2\">1KI 7:2</a>, <a href=\"https://ref.ly/1Kgs7:3\">1KI 7:3</a>, <a href=\"https://ref.ly/1Kgs7:7\">1KI 7:7</a>, <a href=\"https://ref.ly/1Kgs7:11\">1KI 7:11</a>, <a href=\"https://ref.ly/1Kgs7:12\">1KI 7:12</a>, <a href=\"https://ref.ly/1Kgs9:11\">1KI 9:11</a>, <a href=\"https://ref.ly/1Kgs10:27\">1KI 10:27</a>, <a href=\"https://ref.ly/2Kgs14:9\">2KI 14:9</a>, <a href=\"https://ref.ly/2Kgs19:23\">2KI 19:23</a>, <a href=\"https://ref.ly/1Chr14:1\">1CH 14:1</a>, <a href=\"https://ref.ly/1Chr17:1\">1CH 17:1</a>, <a href=\"https://ref.ly/1Chr17:6\">1CH 17:6</a>, <a href=\"https://ref.ly/1Chr22:4\">1CH 22:4</a>, <a href=\"https://ref.ly/2Chr1:15\">2CH 1:15</a>, <a href=\"https://ref.ly/2Chr2:2\">2CH 2:2</a>, <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a>, <a href=\"https://ref.ly/2Chr9:27\">2CH 9:27</a>, <a href=\"https://ref.ly/2Chr25:18\">2CH 25:18</a>, <a href=\"https://ref.ly/Ezra3:7\">EZR 3:7</a>, <a href=\"https://ref.ly/Job40:17\">JOB 40:17</a>, <a href=\"https://ref.ly/Ps29:5\">PSA 29:5</a>, <a href=\"https://ref.ly/Ps29:5\">PSA 29:5</a>, <a href=\"https://ref.ly/Ps80:11\">PSA 80:11</a>, <a href=\"https://ref.ly/Ps92:13\">PSA 92:13</a>, <a href=\"https://ref.ly/Ps104:16\">PSA 104:16</a>, <a href=\"https://ref.ly/Ps148:9\">PSA 148:9</a>, <a href=\"https://ref.ly/Song1:17\">SNG 1:17</a>, <a href=\"https://ref.ly/Song5:15\">SNG 5:15</a>, <a href=\"https://ref.ly/Song8:9\">SNG 8:9</a>, <a href=\"https://ref.ly/Isa2:13\">ISA 2:13</a>, <a href=\"https://ref.ly/Isa9:9\">ISA 9:9</a>, <a href=\"https://ref.ly/Isa14:8\">ISA 14:8</a>, <a href=\"https://ref.ly/Isa37:24\">ISA 37:24</a>, <a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>, <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a>, <a href=\"https://ref.ly/Jer22:7\">JER 22:7</a>, <a href=\"https://ref.ly/Jer22:14\">JER 22:14</a>, <a href=\"https://ref.ly/Jer22:15\">JER 22:15</a>, <a href=\"https://ref.ly/Jer22:23\">JER 22:23</a>, <a href=\"https://ref.ly/Ezek17:3\">EZK 17:3</a>, <a href=\"https://ref.ly/Ezek17:22\">EZK 17:22</a>, <a href=\"https://ref.ly/Ezek17:23\">EZK 17:23</a>, <a href=\"https://ref.ly/Ezek27:5\">EZK 27:5</a>, <a href=\"https://ref.ly/Ezek31:3\">EZK 31:3</a>, <a href=\"https://ref.ly/Ezek31:8\">EZK 31:8</a>, <a href=\"https://ref.ly/Amos2:9\">AMO 2:9</a>, <a href=\"https://ref.ly/Zech11:1\">ZEC 11:1</a>, <a href=\"https://ref.ly/Zech11:2\">ZEC 11:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κέδρινος</span> <span class=\"thlex-translit\">(音译：kedrinos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/4Macc4:48\">1ES 4:48</a>, <a href=\"https://ref.ly/4Macc5:53\">1ES 5:53</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：κέδρος</span> <span class=\"thlex-translit\">(音译：kedros)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis24:13\">SIR 24:13</a>, <a href=\"https://ref.ly/Wis50:12\">SIR 50:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0120_cedar.jpg\" alt=\"WEB-0120_cedar\"></figure></p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0019_cedar_tree.jpg\" alt=\"PTZ-0019_cedar_tree\"></figure>很久以前，高贵的黎巴嫩香柏树（学名<em>Cedrus libani</em> ）遍布黎巴嫩山脉西侧和北侧山坡的上部，然而现在只剩下几小块地方还生长着这种伟岸的树木。和现今一样，香柏树在那时也是与其他树木混生，如基利家杉树、希腊杜松、柏树、卡拉布里亚松等。</p>\n<p>我们从《列王纪上》得知，所罗门王用香柏树建造王宫和圣殿，用香柏树来做梁、板、柱子和天花板。历史学家告诉我们，亚述人也把香柏树运到自己的地方作为建材。巴比伦王尼布甲尼撒也从黎巴嫩进口香柏树。在《以赛亚书》的某些译本中，我们读到人们用香柏树和橡树雕刻偶像（<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a>; <a href=\"https://ref.ly/Isa44:15\">ISA 44:15</a>; <a href=\"https://ref.ly/Isa44:16\">ISA 44:16</a>; <a href=\"https://ref.ly/Isa44:17\">ISA 44:17</a>; <a href=\"https://ref.ly/Isa44:18\">ISA 44:18</a>; <a href=\"https://ref.ly/Isa44:19\">ISA 44:19</a>; <a href=\"https://ref.ly/Isa44:20\">ISA 44:20</a> ）。最后，当被掳归回的犹太人重建圣殿（<a href=\"https://ref.ly/Ezra3:7\">EZR 3:7</a> ），他们再次砍伐香柏树来装饰上帝的殿。</p>\n<p>在《撒母耳记下》、《列王纪上下》、《历代志上下》和《以斯拉记》中，特别是提到黎巴嫩的地方，<em>’erez</em> 毫无疑问就是<em>Cedrus libani</em> ，即&quot;黎巴嫩的香柏树&quot;，尽管这个词有时可能泛指各种常绿树。</p>\n<p>在对洁净礼仪的记叙中（<a href=\"https://ref.ly/Lev14:4\">LEV 14:4</a>; <a href=\"https://ref.ly/Lev14:6\">LEV 14:6</a>; <a href=\"https://ref.ly/Lev14:49\">LEV 14:49</a>; <a href=\"https://ref.ly/Lev14:51\">LEV 14:51</a>; <a href=\"https://ref.ly/Lev14:52\">LEV 14:52</a>; <a href=\"https://ref.ly/Num19:6\">NUM 19:6</a> ），<em>’erez</em> 可能指的是腓尼基杜松树（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.11.2\" href=\"#FLORA:1.11.2\">1.11.2 腓尼基杜松（沿海杜松）（phoenician juniper [coastal juniper]）</a> ），因为它是西奈旷野中唯一类似香柏树的树木。然而，祖海里认为，在这些贫瘠的地方，即使是&quot;叶子&quot;像香柏树的柽柳，在这些条例中也可算为&quot;香柏树&quot;。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0121_cedarcone.jpg\" alt=\"WEB-0121_cedarcone\"></figure>香柏树可以长到30米（100英尺）高，树干直径超过2米（7英尺）。真正的香柏树的叶子不像大多数树的叶子那样是平整的，而是一绺绺深绿色的、亮泽的针叶。（北美香柏树的针叶比圣经中的香柏树要扁平一些。）木料芳香且抗虫，果实为球果，可以生长两三千年。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>黎巴嫩的香柏树以高大和木料芳香而闻名（参<a href=\"https://ref.ly/Isa2:13\">ISA 2:13</a>; <a href=\"https://ref.ly/Isa37:24\">ISA 37:24</a>; <a href=\"https://ref.ly/Ezek17:22\">EZK 17:22</a>; <a href=\"https://ref.ly/Amos2:9\">AMO 2:9</a> 等例）。<a href=\"https://ref.ly/Ps92:13\">PSA 92:13</a> （《和》92:12）把香柏树和义人联系在一起，大概是因为它的笔直和高大超过其他树木。香柏树是黎巴嫩国徽上的主要图案。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>香柏树（学名<em>Cedrus</em> ）分布在北非山脉、喜马拉雅山脉、印度和北美。在非比喻性的经文中，这些地方的翻译者当然应该使用当地树种的名称。在撒哈拉以南的非洲地区，翻译者可以音译希伯来文（<em>erets</em> ）、希腊文（<em>kedar</em> ）、英文（<em>sedar</em> ）或其他主要语言的词语，也可以采用&quot;高大佳美的树木&quot;这样的一般性短语。在诗歌体经文（智慧文学和先知书）中，有些翻译者可能希望使用在文化上与这些特征对等的词汇。伯克希尔（Burkhill）指出，非洲的粉色桃花心木（学名<em>Guarea cedrata</em> ）具有香柏树的芳香，因此也被称为粉色非洲香柏树。另外，在印度和澳大利亚，同样有些人用&quot;香柏木&quot;来指称香椿，因为香椿的木质是红色的。在历史性的经文中不建议使用这样的替代词，因为<em>’erez</em> 与这些树没有亲缘关系。然而，在一些比喻性经文中，就可以采用这种替代，因为这些树木都很高大，木质都是红色的。但是，翻译者必须仔细研读每节经文，以确定比喻所要表达的意思。</p>\n<p>在<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> 中，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 和<abbr class=\"thlex-abbr\" title=\"New English Bible (1970)\">NEB</abbr> 将希伯来文<em>’oren</em> 译作&quot;cedar&quot;（&quot;香柏树&quot;），<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 译作&quot;ash&quot;（&quot;白蜡树&quot;）。这个希伯来文词语可能是指月桂树（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.12\" href=\"#FLORA:1.12\">1.12 月桂树 (laurel [bay tree])</a> ）。在现代希伯来文中，<em>’oren</em> 指阿勒坡松（参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.18.2\" href=\"#FLORA:1.18.2\">1.18.2 阿勒坡松、地中海松 (aleppo pine)</a> ）。</p>\n<p><a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a> ：根据不同的希伯来文本，有两种译法：</p>\n<p>1. 根据读文<em>ke’erez halevanon</em> ，译作&quot;好像一棵黎巴嫩的香柏树&quot;（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 、《七十士译本》直译）；</p>\n<p>2. 根据读文<em>ke’ezrach ra‘anan</em> ，译作&quot;高耸如本地青翠的树木&quot;（<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 直译）。</p>\n<p>《希伯来文旧约文本项目初步和中期报告》（<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> ）倾向于后一种读文<em>ke’ezrach ra‘anan</em> ，并将其可靠性定为B级：&quot;好像一棵本土的树，青翠&quot;。<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 译作&quot;like a green bay tree&quot;（英文直译：&quot;像一棵青翠的月桂树&quot;），但这种解释没有近期学术研究的支持。因此，上述的第二种译文可能是最好的。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "19037035",
+"start_ref_usfm": "PSA 37:35",
+"end_ref": "19037035",
+"end_ref_usfm": "PSA 37:35"
+},
+{
+"start_ref": "07009015",
+"start_ref_usfm": "JDG 9:15",
+"end_ref": "07009015",
+"end_ref_usfm": "JDG 9:15"
+},
+{
+"start_ref": "10005011",
+"start_ref_usfm": "2SA 5:11",
+"end_ref": "10005011",
+"end_ref_usfm": "2SA 5:11"
+},
+{
+"start_ref": "10007002",
+"start_ref_usfm": "2SA 7:2",
+"end_ref": "10007002",
+"end_ref_usfm": "2SA 7:2"
+},
+{
+"start_ref": "10007007",
+"start_ref_usfm": "2SA 7:7",
+"end_ref": "10007007",
+"end_ref_usfm": "2SA 7:7"
+},
+{
+"start_ref": "11005013",
+"start_ref_usfm": "1KI 5:13",
+"end_ref": "11005013",
+"end_ref_usfm": "1KI 5:13"
+},
+{
+"start_ref": "11005020",
+"start_ref_usfm": "1KI 5:20",
+"end_ref": "11005020",
+"end_ref_usfm": "1KI 5:20"
+},
+{
+"start_ref": "11005022",
+"start_ref_usfm": "1KI 5:22",
+"end_ref": "11005022",
+"end_ref_usfm": "1KI 5:22"
+},
+{
+"start_ref": "11005024",
+"start_ref_usfm": "1KI 5:24",
+"end_ref": "11005024",
+"end_ref_usfm": "1KI 5:24"
+},
+{
+"start_ref": "11006009",
+"start_ref_usfm": "1KI 6:9",
+"end_ref": "11006009",
+"end_ref_usfm": "1KI 6:9"
+},
+{
+"start_ref": "11006010",
+"start_ref_usfm": "1KI 6:10",
+"end_ref": "11006010",
+"end_ref_usfm": "1KI 6:10"
+},
+{
+"start_ref": "11006015",
+"start_ref_usfm": "1KI 6:15",
+"end_ref": "11006015",
+"end_ref_usfm": "1KI 6:15"
+},
+{
+"start_ref": "11006016",
+"start_ref_usfm": "1KI 6:16",
+"end_ref": "11006016",
+"end_ref_usfm": "1KI 6:16"
+},
+{
+"start_ref": "11006018",
+"start_ref_usfm": "1KI 6:18",
+"end_ref": "11006018",
+"end_ref_usfm": "1KI 6:18"
+},
+{
+"start_ref": "11006020",
+"start_ref_usfm": "1KI 6:20",
+"end_ref": "11006020",
+"end_ref_usfm": "1KI 6:20"
+},
+{
+"start_ref": "11006036",
+"start_ref_usfm": "1KI 6:36",
+"end_ref": "11006036",
+"end_ref_usfm": "1KI 6:36"
+},
+{
+"start_ref": "11007002",
+"start_ref_usfm": "1KI 7:2",
+"end_ref": "11007002",
+"end_ref_usfm": "1KI 7:2"
+},
+{
+"start_ref": "11007003",
+"start_ref_usfm": "1KI 7:3",
+"end_ref": "11007003",
+"end_ref_usfm": "1KI 7:3"
+},
+{
+"start_ref": "11007007",
+"start_ref_usfm": "1KI 7:7",
+"end_ref": "11007007",
+"end_ref_usfm": "1KI 7:7"
+},
+{
+"start_ref": "11007011",
+"start_ref_usfm": "1KI 7:11",
+"end_ref": "11007011",
+"end_ref_usfm": "1KI 7:11"
+},
+{
+"start_ref": "11007012",
+"start_ref_usfm": "1KI 7:12",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "11009011",
+"start_ref_usfm": "1KI 9:11",
+"end_ref": "11009011",
+"end_ref_usfm": "1KI 9:11"
+},
+{
+"start_ref": "11010027",
+"start_ref_usfm": "1KI 10:27",
+"end_ref": "11010027",
+"end_ref_usfm": "1KI 10:27"
+},
+{
+"start_ref": "12014009",
+"start_ref_usfm": "2KI 14:9",
+"end_ref": "12014009",
+"end_ref_usfm": "2KI 14:9"
+},
+{
+"start_ref": "12019023",
+"start_ref_usfm": "2KI 19:23",
+"end_ref": "12019023",
+"end_ref_usfm": "2KI 19:23"
+},
+{
+"start_ref": "13014001",
+"start_ref_usfm": "1CH 14:1",
+"end_ref": "13014001",
+"end_ref_usfm": "1CH 14:1"
+},
+{
+"start_ref": "13017001",
+"start_ref_usfm": "1CH 17:1",
+"end_ref": "13017001",
+"end_ref_usfm": "1CH 17:1"
+},
+{
+"start_ref": "13017006",
+"start_ref_usfm": "1CH 17:6",
+"end_ref": "13017006",
+"end_ref_usfm": "1CH 17:6"
+},
+{
+"start_ref": "13022004",
+"start_ref_usfm": "1CH 22:4",
+"end_ref": "13022004",
+"end_ref_usfm": "1CH 22:4"
+},
+{
+"start_ref": "14001015",
+"start_ref_usfm": "2CH 1:15",
+"end_ref": "14001015",
+"end_ref_usfm": "2CH 1:15"
+},
+{
+"start_ref": "14002002",
+"start_ref_usfm": "2CH 2:2",
+"end_ref": "14002002",
+"end_ref_usfm": "2CH 2:2"
+},
+{
+"start_ref": "14002007",
+"start_ref_usfm": "2CH 2:7",
+"end_ref": "14002007",
+"end_ref_usfm": "2CH 2:7"
+},
+{
+"start_ref": "14009027",
+"start_ref_usfm": "2CH 9:27",
+"end_ref": "14009027",
+"end_ref_usfm": "2CH 9:27"
+},
+{
+"start_ref": "14025018",
+"start_ref_usfm": "2CH 25:18",
+"end_ref": "14025018",
+"end_ref_usfm": "2CH 25:18"
+},
+{
+"start_ref": "15003007",
+"start_ref_usfm": "EZR 3:7",
+"end_ref": "15003007",
+"end_ref_usfm": "EZR 3:7"
+},
+{
+"start_ref": "18040017",
+"start_ref_usfm": "JOB 40:17",
+"end_ref": "18040017",
+"end_ref_usfm": "JOB 40:17"
+},
+{
+"start_ref": "19029005",
+"start_ref_usfm": "PSA 29:5",
+"end_ref": "19029005",
+"end_ref_usfm": "PSA 29:5"
+},
+{
+"start_ref": "19080011",
+"start_ref_usfm": "PSA 80:11",
+"end_ref": "19080011",
+"end_ref_usfm": "PSA 80:11"
+},
+{
+"start_ref": "19092013",
+"start_ref_usfm": "PSA 92:13",
+"end_ref": "19092013",
+"end_ref_usfm": "PSA 92:13"
+},
+{
+"start_ref": "19104016",
+"start_ref_usfm": "PSA 104:16",
+"end_ref": "19104016",
+"end_ref_usfm": "PSA 104:16"
+},
+{
+"start_ref": "19148009",
+"start_ref_usfm": "PSA 148:9",
+"end_ref": "19148009",
+"end_ref_usfm": "PSA 148:9"
+},
+{
+"start_ref": "22001017",
+"start_ref_usfm": "SNG 1:17",
+"end_ref": "22001017",
+"end_ref_usfm": "SNG 1:17"
+},
+{
+"start_ref": "22005015",
+"start_ref_usfm": "SNG 5:15",
+"end_ref": "22005015",
+"end_ref_usfm": "SNG 5:15"
+},
+{
+"start_ref": "22008009",
+"start_ref_usfm": "SNG 8:9",
+"end_ref": "22008009",
+"end_ref_usfm": "SNG 8:9"
+},
+{
+"start_ref": "23002013",
+"start_ref_usfm": "ISA 2:13",
+"end_ref": "23002013",
+"end_ref_usfm": "ISA 2:13"
+},
+{
+"start_ref": "23009009",
+"start_ref_usfm": "ISA 9:9",
+"end_ref": "23009009",
+"end_ref_usfm": "ISA 9:9"
+},
+{
+"start_ref": "23014008",
+"start_ref_usfm": "ISA 14:8",
+"end_ref": "23014008",
+"end_ref_usfm": "ISA 14:8"
+},
+{
+"start_ref": "23037024",
+"start_ref_usfm": "ISA 37:24",
+"end_ref": "23037024",
+"end_ref_usfm": "ISA 37:24"
+},
+{
+"start_ref": "23041019",
+"start_ref_usfm": "ISA 41:19",
+"end_ref": "23041019",
+"end_ref_usfm": "ISA 41:19"
+},
+{
+"start_ref": "23044014",
+"start_ref_usfm": "ISA 44:14",
+"end_ref": "23044014",
+"end_ref_usfm": "ISA 44:14"
+},
+{
+"start_ref": "24022007",
+"start_ref_usfm": "JER 22:7",
+"end_ref": "24022007",
+"end_ref_usfm": "JER 22:7"
+},
+{
+"start_ref": "24022014",
+"start_ref_usfm": "JER 22:14",
+"end_ref": "24022014",
+"end_ref_usfm": "JER 22:14"
+},
+{
+"start_ref": "24022015",
+"start_ref_usfm": "JER 22:15",
+"end_ref": "24022015",
+"end_ref_usfm": "JER 22:15"
+},
+{
+"start_ref": "24022023",
+"start_ref_usfm": "JER 22:23",
+"end_ref": "24022023",
+"end_ref_usfm": "JER 22:23"
+},
+{
+"start_ref": "26017003",
+"start_ref_usfm": "EZK 17:3",
+"end_ref": "26017003",
+"end_ref_usfm": "EZK 17:3"
+},
+{
+"start_ref": "26017022",
+"start_ref_usfm": "EZK 17:22",
+"end_ref": "26017022",
+"end_ref_usfm": "EZK 17:22"
+},
+{
+"start_ref": "26017023",
+"start_ref_usfm": "EZK 17:23",
+"end_ref": "26017023",
+"end_ref_usfm": "EZK 17:23"
+},
+{
+"start_ref": "26027005",
+"start_ref_usfm": "EZK 27:5",
+"end_ref": "26027005",
+"end_ref_usfm": "EZK 27:5"
+},
+{
+"start_ref": "26031003",
+"start_ref_usfm": "EZK 31:3",
+"end_ref": "26031003",
+"end_ref_usfm": "EZK 31:3"
+},
+{
+"start_ref": "26031008",
+"start_ref_usfm": "EZK 31:8",
+"end_ref": "26031008",
+"end_ref_usfm": "EZK 31:8"
+},
+{
+"start_ref": "30002009",
+"start_ref_usfm": "AMO 2:9",
+"end_ref": "30002009",
+"end_ref_usfm": "AMO 2:9"
+},
+{
+"start_ref": "38011001",
+"start_ref_usfm": "ZEC 11:1",
+"end_ref": "38011001",
+"end_ref_usfm": "ZEC 11:1"
+},
+{
+"start_ref": "38011002",
+"start_ref_usfm": "ZEC 11:2",
+"end_ref": "38011002",
+"end_ref_usfm": "ZEC 11:2"
+},
+{
+"start_ref": "82004048",
+"start_ref_usfm": "1ES 4:48",
+"end_ref": "82004048",
+"end_ref_usfm": "1ES 4:48"
+},
+{
+"start_ref": "82005053",
+"start_ref_usfm": "1ES 5:53",
+"end_ref": "82005053",
+"end_ref_usfm": "1ES 5:53"
+},
+{
+"start_ref": "72024013",
+"start_ref_usfm": "SIR 24:13",
+"end_ref": "72024013",
+"end_ref_usfm": "SIR 24:13"
+},
+{
+"start_ref": "72050012",
+"start_ref_usfm": "SIR 50:12",
+"end_ref": "72050012",
+"end_ref_usfm": "SIR 50:12"
+},
+{
+"start_ref": "23044015",
+"start_ref_usfm": "ISA 44:15",
+"end_ref": "23044015",
+"end_ref_usfm": "ISA 44:15"
+},
+{
+"start_ref": "23044016",
+"start_ref_usfm": "ISA 44:16",
+"end_ref": "23044016",
+"end_ref_usfm": "ISA 44:16"
+},
+{
+"start_ref": "23044017",
+"start_ref_usfm": "ISA 44:17",
+"end_ref": "23044017",
+"end_ref_usfm": "ISA 44:17"
+},
+{
+"start_ref": "23044018",
+"start_ref_usfm": "ISA 44:18",
+"end_ref": "23044018",
+"end_ref_usfm": "ISA 44:18"
+},
+{
+"start_ref": "23044019",
+"start_ref_usfm": "ISA 44:19",
+"end_ref": "23044019",
+"end_ref_usfm": "ISA 44:19"
+},
+{
+"start_ref": "23044020",
+"start_ref_usfm": "ISA 44:20",
+"end_ref": "23044020",
+"end_ref_usfm": "ISA 44:20"
+},
+{
+"start_ref": "03014004",
+"start_ref_usfm": "LEV 14:4",
+"end_ref": "03014004",
+"end_ref_usfm": "LEV 14:4"
+},
+{
+"start_ref": "03014006",
+"start_ref_usfm": "LEV 14:6",
+"end_ref": "03014006",
+"end_ref_usfm": "LEV 14:6"
+},
+{
+"start_ref": "03014049",
+"start_ref_usfm": "LEV 14:49",
+"end_ref": "03014049",
+"end_ref_usfm": "LEV 14:49"
+},
+{
+"start_ref": "03014051",
+"start_ref_usfm": "LEV 14:51",
+"end_ref": "03014051",
+"end_ref_usfm": "LEV 14:51"
+},
+{
+"start_ref": "03014052",
+"start_ref_usfm": "LEV 14:52",
+"end_ref": "03014052",
+"end_ref_usfm": "LEV 14:52"
+},
+{
+"start_ref": "04019006",
+"start_ref_usfm": "NUM 19:6",
+"end_ref": "04019006",
+"end_ref_usfm": "NUM 19:6"
+}
+],
+"resource": []
+}
+}
+]

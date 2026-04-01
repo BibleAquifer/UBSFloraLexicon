@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FLORA:2.9",
+"reference_id": "FLORA:2.9",
+"version": "1.0.4",
+"title": "Pistachio",
+"media_type": "Text",
+"index_reference": "2.9",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:2.9\"><span class=\"thlex-key\">2.9</span> Pistachio</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:”</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בָּטְנִים</span> <span class=\"thlex-translit\">(botnim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The plant genus <em>Pistacia</em> has representatives throughout the world, especially in Europe and Asia. The fruit-bearing ones grow well in the Mediterranean region and in West Asia up to Pakistan, and they were probably there in Bible times. There are three species that concern us: <em>Pistacia vera</em>, the True Pistachio; the <em>Pistacia palaestina</em>; and the <em>Pistacia atlantica</em> (also called the Atlas pistacio or Mount Atlas mastic tree). The latter two are called <em>’elah</em> or <em>’alah</em> (“terebinth”) in the Bible; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.24\" href=\"#FLORA:1.24\">1.24 Terebinth</a>. Zohary holds that in <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a> the <em>botnim</em> that Jacob’s sons carried to Egypt as a gift to Pharaoh could have been the fruit of any of these three species, since all grew there. He also believes that the place named Betonim in <a href=\"https://ref.ly/Josh13:26\">JOS 13:26</a> is a reference to the fruit of either the terebinth or the true pistachio tree.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0720_pistachio.jpg\" alt=\"WEB-0720_pistachio\"></figure>The true pistachio (<em>Pistacia vera</em>) is a small tree with many branches that lose their leaves in winter. The seeds are nuts with a hard, red, heart-shaped shell about 2 centimeters (1 inch) long, and the oily green kernel inside is about a centimeter (1/2 inch) long.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Whatever <em>botnim</em> referred to, whether true pistachio nuts or the fruit of the terebinth, they were obviously highly valued, as we see Jacob sending them with his sons as a gift to Pharaoh.</p>\n<p>Pistachio nuts in European shops are often dyed red. This tradition started in the 1930s, when importers began dyeing the shells to hide blemishes that occurred during harvesting.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Since the only occurrence of <em>botnim</em> refers to the fruit, and we are not sure whether it is the fruit of the true pistachio or the terebinth, translators who live where these trees do not grow are free to follow a major language version, using a transliteration of pistachio or of terebinth, or even a generic term. Possible transliterations for pistachio are French <em>pistache</em>, Arabic <em>fustuq</em> /<em>futua</em>, Spanish <em>pistachio</em> /<em>alfonigo</em>, and Portuguese <em>alfoncico</em>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+},
+{
+"start_ref": "06013026",
+"start_ref_usfm": "JOS 13:26",
+"end_ref": "06013026",
+"end_ref_usfm": "JOS 13:26"
+}
+],
+"resource": []
+}
+}
+]

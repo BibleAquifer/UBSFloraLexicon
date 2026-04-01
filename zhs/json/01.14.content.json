@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FLORA:1.14",
+"reference_id": "FLORA:1.14",
+"version": "1.0.4",
+"title": "标题：莲花（lotus plant）",
+"media_type": "Text",
+"index_reference": "1.14",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.14\"><span class=\"thlex-key\">1.14</span> 标题：莲花（lotus plant）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：צֶאֱלִים</span> <span class=\"thlex-translit\">(音译：tse’elim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job40:21\">JOB 40:21</a>, <a href=\"https://ref.ly/Job40:22\">JOB 40:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p>《约伯记》记载，怪兽&quot;贝希摩斯&quot;（《和》、《和修》、《思》、《吕》作&quot;河马&quot;）栖息在称为<em>tse’elim</em> 的树木或植物下面。数百年来，<em>tse’elim</em> 究竟是什么一直困扰着学者，部分原因是这种巨兽本身是什么也属未知（参《大小的活物》［<em>All Creatures Great and Small</em> ］，<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.1\" href=\"#FAUNA:7.1\">7.1</a>）。令人惊讶的是，祖海里和赫珀都没有对<em>tse’elim</em> 作出评论。试图辨识这种动物及其栖息处的植物可能是徒劳的，因为从表面上的条件来看，两者的生存条件似乎有些互斥。如果这种动物确实是河马或者鳄鱼，那么该植物就不会是枣莲（学名<em>Ziziphus Lotus</em> ），因为枣莲不长在水边。如果枣莲是正确的，那么该动物就不是河马或鳄鱼，即便这些动物真的有可能从河里出来，在岸上的树荫下打盹儿。莫尔登克说，根据上下文提及芦苇和柳树的背景来看，<em>tse’elim</em> 可能是悬铃树或夹竹桃灌木。当然，这种植物也可能确实是生长在河中的莲花（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 的译法）；圣经没有其他地方提及这种植物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>由于无法确定<em>tse’elim</em> 是什么，翻译者可能希望遵循所在地区的主要翻译传统，即设定一个潮湿有水的环境（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> ），并将这个词译为&quot;莲花&quot;（&quot;lotus plants&quot;）。有些译本将其扩展为&quot;成荫的树木&quot;，提供了另一种选择（如<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ，&quot;shady trees&quot;）。<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 译作&quot;thorn bushes&quot;（&quot;荆棘丛&quot;），显然是以<em>tse’elim</em> 为基督刺或欧洲枸杞，把这个植物谜题留给了好奇的读者。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18040021",
+"start_ref_usfm": "JOB 40:21",
+"end_ref": "18040021",
+"end_ref_usfm": "JOB 40:21"
+},
+{
+"start_ref": "18040022",
+"start_ref_usfm": "JOB 40:22",
+"end_ref": "18040022",
+"end_ref_usfm": "JOB 40:22"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FLORA:1.13",
+"reference_id": "FLORA:1.13",
+"version": "1.0.4",
+"title": "標題：地中海莢蒾（laurustinus [laurestinus]）",
+"media_type": "Text",
+"index_reference": "1.13",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.13\"><span class=\"thlex-key\">1.13</span> 標題：地中海莢蒾（laurustinus [laurestinus]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： תִּדְהָר</span> <span class=\"thlex-translit\">(音譯： tidhar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a>, <a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0580_laurustinus.jpg\" alt=\"WEB-0580_laurustinus\"></figure>關於<a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a> 和<a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a> 中希伯來文<em>tidhar</em> 所指的植物，目前還沒有達成共識。<em>Tidhar</em> 只出現在這兩處經文裡，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 和<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> 均譯成&quot;plane&quot;（「懸鈴樹」）。其他英文譯本有&quot;fir&quot;（「杉樹」；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> ）、&quot;box&quot;（「黃楊樹」；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）和&quot;pine&quot;（「松樹」；<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ，莫爾登克贊同此譯法）等譯詞。祖海里根據亞蘭文譯本《約拿單的他爾根》（<em>Targum Jonathan</em> ），主張<em>tidhar</em> 為地中海莢蒾（學名<em>Viburnum tinus</em> ），因為亞蘭文譯本將<em>tidhar</em> 譯作<em>mornian</em> ，這個詞和地中海莢蒾的阿拉伯文名稱<em>murran</em> 同源。赫珀同意祖海里的意見。FFB （按照莫爾登克的意見）謹慎地將<em>tidhar</em> 確定為土耳其松（學名<em>Pinus brutia</em> ）。<abbr class=\"thlex-abbr\" title=\"Brown-Driver-Briggs Hebrew and English Lexicon\">BDB</abbr> 和其他一些譯本參照《武加大譯本》，將其翻譯為&quot;elm&quot;（「榆樹」），注意敘利亞文稱普通的榆樹為&quot;dadar&quot;。新近的證據支持「地中海莢蒾」（laurustinus）的譯法。另一種拼寫法「laurestinus」則不太常見。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>地中海莢蒾是一種堅韌的常綠灌木，高度可達3.5米（12英呎），葉子深綠有光澤，開白花，紫色的漿果有毒。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>地中海莢蒾所屬的樹科生長在溫帶及氣候暖和的地方，包括歐洲、亞洲和北美洲；但是，地中海莢蒾的近緣樹種只生長在地中海地區。由於「地中海莢蒾」（laurustinus）並不是一個為人熟知的名稱，而且音譯冗長，所以最好按照一個主要譯本進行音譯，或者音譯希伯來文<em>tidhar</em> 或阿拉伯文<em>murran</em> 。然而，翻譯者對於<em>tidhar</em> 的具體處理，可能取決於如何處理<a href=\"https://ref.ly/Isa41:19\">ISA 41:19</a> 和<a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a> 中其他表示樹木的詞語。如果把<em>berosh</em> 翻譯成「杉樹」或者據此音譯，那麼就要用一個不同的詞語來翻譯<em>tidhar</em> （比如「懸鈴樹」，同<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 和<abbr class=\"thlex-abbr\" title=\"Jerusalem Bible (1966)\">JB</abbr> ）。在聖經研讀本中，「地中海莢蒾」可以作為<em>tidhar</em> 可能指稱的一種樹，「松樹」的可能性略居其次。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23041019",
+"start_ref_usfm": "ISA 41:19",
+"end_ref": "23041019",
+"end_ref_usfm": "ISA 41:19"
+},
+{
+"start_ref": "23060013",
+"start_ref_usfm": "ISA 60:13",
+"end_ref": "23060013",
+"end_ref_usfm": "ISA 60:13"
+}
+],
+"resource": []
+}
+}
+]

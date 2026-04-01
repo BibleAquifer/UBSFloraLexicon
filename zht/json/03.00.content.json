@@ -1,0 +1,42 @@
+[
+{
+"content_id": "FLORA:3.0",
+"reference_id": "FLORA:3.0",
+"version": "1.0.4",
+"title": "標題：介绍",
+"media_type": "Text",
+"index_reference": "3.0",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:3.0\"><span class=\"thlex-key\">3.0</span> 標題：介绍</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Gen2:5\">GEN 2:5</a> 提到曾有一個時期，「那時，地上還沒有田間的植物（希伯來文<em>siach</em> ），田間的草本植物（<em>‘esev</em> ）還沒有長出來，因為耶和華上帝還沒有降雨在地上，也沒有人耕種土地」（「田間」或譯「田野」）。如果把這節經文看作交錯配列結構，則「耕種土地」與<em>siach</em> 對應，而「降雨在地上」與<em>‘esev</em> 對應。讀者可能會推斷：<em>siach</em> 指的是種植類的植物，而<em>‘esev</em> 指的是野生植物。但是，如果這兩個詞都是指「田間的」植物，這個推論似乎就不成立了。無論如何，我們從<a href=\"https://ref.ly/Gen2:15\">GEN 2:15</a> 得知，人類本來就是應該耕種土地的。後來，<a href=\"https://ref.ly/Gen4:2\">GEN 4:2</a>; <a href=\"https://ref.ly/Gen4:3\">GEN 4:3</a> 說該隱是「耕地的」，他拿了「地裡的出產」為供物獻給耶和華。考古學家認為，大約在主前7000年，生活在伊拉克東北部地區的人們就已經種植了兩種小麥、大麥和一些豆類（蠶豆、豌豆、扁豆）。另外，考古學家還發現了可追溯到主前第六個千年的碳化小麥和大麥。然而，農業的發端也許比這還要早。20世紀60年代，研究人員在土耳其高原發掘出了一座真正的城，即卡托•胡玉克（Catal Hüyük），年代可追溯到大約主前8000年。他們在這座城中發現了糧倉，去除穀物外殼的研缽，以及磨碎穀物的石塊。像卡托•胡玉克這樣人口稠密的地方，必然需要一定規模的農業。</p>\n<p>在聖地，耶利哥城的發掘結果表明，那裡的農民在幾千年前就可能種植和收穫幾種豆科作物（類似蠶豆或豌豆的植物）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002005",
+"start_ref_usfm": "GEN 2:5",
+"end_ref": "01002005",
+"end_ref_usfm": "GEN 2:5"
+},
+{
+"start_ref": "01002015",
+"start_ref_usfm": "GEN 2:15",
+"end_ref": "01002015",
+"end_ref_usfm": "GEN 2:15"
+},
+{
+"start_ref": "01004002",
+"start_ref_usfm": "GEN 4:2",
+"end_ref": "01004002",
+"end_ref_usfm": "GEN 4:2"
+},
+{
+"start_ref": "01004003",
+"start_ref_usfm": "GEN 4:3",
+"end_ref": "01004003",
+"end_ref_usfm": "GEN 4:3"
+}
+],
+"resource": []
+}
+}
+]

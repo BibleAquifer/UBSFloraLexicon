@@ -1,0 +1,1930 @@
+[
+{
+"content_id": "FLORA:5.1",
+"reference_id": "FLORA:5.1",
+"version": "1.0.4",
+"title": "標題：用於紡織和建築的植物",
+"media_type": "Text",
+"index_reference": "5.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1\"><span class=\"thlex-key\">5.1</span> 標題：用於紡織和建築的植物</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>在討論這部分內容之前，我們需要先澄清一些一般性的表達。有些人認為，草就是在耕種前必須從田裡除掉的一些綠色植物，或是長在房子周圍、需要定期修剪的東西。但是，植物學家將草劃作一個極大的科（禾本科；學名<em>Poaceae</em> ），包含9,000多個物種，分成600個屬。這個科涵蓋世界各地主要的糧食作物（穀類）：大米、玉米、高粱、小麥、大麥、藜麥、黑麥等等；還包括重要的建築材料竹子，以及用來製作籃子、床、樂器、紙張、椅子的蘆葦和藤條。甚至甘蔗也是一種草。這些植物的莖都是中空的，葉子在莖節處長出，都生有保護葉子基部的葉鞘、某種類型的穗、由風授粉的無瓣小花，以及生長在植株基部而非頂端的劍形窄葉。</p>\n<p>關於希伯來文中的統稱和特定詞彙可能產生的問題，我們可以在<a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>; <a href=\"https://ref.ly/Gen1:12\">GEN 1:12</a> 看到一個很好的例子。從字面意思來看，上帝在第11節的開頭說：「地要長出（<em>tadshe’</em> ）芽（<em>deshe’</em> ），含種子的植物（<em>‘esev</em> ），以及結果子的果樹……。」對於希伯來文<em>deshe’</em> 一詞，學者仍有爭論，不確定這個詞是引出後面兩個類別的統稱，還是指「草、含種子的植物和果樹」這三個類別中的第一類（詳參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.2\" href=\"#FLORA:5.1.2\">5.1.2 草 (grass)</a> 中的討論和翻譯）。</p>\n<p>另一個希伯來文統稱出現在<a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a> ，那裡提到上帝將<em>yereq ‘esev</em> （意為「綠色植物」）賜給動物作食物。有意思的是，<a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a> 同樣記載了<em>yereq ‘esev</em> 一詞，但卻是連同動物的肉一起賜給挪亞作食物的。</p>\n<p>還有一個需要提及的希伯來文統稱是<em>siach</em> 。這個詞通常意為「抱怨」、「沉思」、「默想」或「喋喋不休」，但在一些地方是指「灌木叢」或「灌木」。在<a href=\"https://ref.ly/Gen2:5\">GEN 2:5</a>; <a href=\"https://ref.ly/Gen21:15\">GEN 21:15</a>; <a href=\"https://ref.ly/Job30:4\">JOB 30:4</a>; <a href=\"https://ref.ly/Job30:7\">JOB 30:7</a> 中，<em>siach</em> 是後一種意思。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001011",
+"start_ref_usfm": "GEN 1:11",
+"end_ref": "01001011",
+"end_ref_usfm": "GEN 1:11"
+},
+{
+"start_ref": "01001012",
+"start_ref_usfm": "GEN 1:12",
+"end_ref": "01001012",
+"end_ref_usfm": "GEN 1:12"
+},
+{
+"start_ref": "01001030",
+"start_ref_usfm": "GEN 1:30",
+"end_ref": "01001030",
+"end_ref_usfm": "GEN 1:30"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "01002005",
+"start_ref_usfm": "GEN 2:5",
+"end_ref": "01002005",
+"end_ref_usfm": "GEN 2:5"
+},
+{
+"start_ref": "01021015",
+"start_ref_usfm": "GEN 21:15",
+"end_ref": "01021015",
+"end_ref_usfm": "GEN 21:15"
+},
+{
+"start_ref": "18030004",
+"start_ref_usfm": "JOB 30:4",
+"end_ref": "18030004",
+"end_ref_usfm": "JOB 30:4"
+},
+{
+"start_ref": "18030007",
+"start_ref_usfm": "JOB 30:7",
+"end_ref": "18030007",
+"end_ref_usfm": "JOB 30:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.1",
+"reference_id": "FLORA:5.1.1",
+"version": "1.0.4",
+"title": "標題：香蒲（cattail [reed-mace]）",
+"media_type": "Text",
+"index_reference": "5.1.1",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.1\"><span class=\"thlex-key\">5.1.1</span> 標題：香蒲（cattail [reed-mace]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： סוּף</span> <span class=\"thlex-translit\">(音譯： suf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>, <a href=\"https://ref.ly/Exod2:5\">EXO 2:5</a>, <a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a>, <a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0118_cattails.jpg\" alt=\"WEB-0118_cattails\"></figure>希伯來文<em>suf</em> 所指的香蒲可能不止一種，香蒲又名「貓尾草」、「水燭」和「蒲草」。以色列有兩種香蒲：長苞香蒲（學名<em>Typha domingensis</em> ）和寬葉香蒲（學名<em>Typha latifolia</em> ；祖海里認為是<em>Typha australis</em> ）。這兩種香蒲都喜歡生長在河邊或溪邊緩慢的水流中。祖海里（Zohary）推測，<em>suf</em> 可能是很多種水生植物的統稱。<a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a> （《和》2:5）提到<em>suf</em> ，中文譯本多譯為「海草」，可算是支持此論點的例子。在<a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a> ，<em>suf</em> 與<em>qaneh</em> （「蘆葦」）是一組成對的詞，因此幾乎可以肯定<em>suf</em> 就是香蒲，因為兩者都生長在沼澤和緩流的小溪中。</p>\n<p>有些解經家認為，耶穌被人戲弄時，放在他手裡的「葦子」是一根香蒲草的稈（<a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a> ）。還有些人則反對這個看法，認為香蒲花梗不會在一年中這麼早的時候成熟。但是，這根香蒲草的稈也可能是前一年的。關於此爭論，目前仍未有共識。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>香蒲草的高度可達3米（10英呎），柔軟且毛茸茸的棕色果穗非常顯眼，果穗最終裂成蓬鬆狀，被風吹落，漂在水面上。這種植物的粗根會沿著淺水湖泊和溪流的底部匍匐蔓延，長長的葉子又直又尖。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>香蒲草葉在聖經時期就用來製作籃子和墊子，現今依然如此。這種植物的粗根、花粉和嫩莖都可食用。《出埃及記》中的香蒲（蘆葦）眾所周知，摩西的母親正是把他藏在漂浮的小箱子裡面，然後把箱子擱在了香蒲叢中。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>香蒲的大部分品種分佈在歐洲和北美洲，葉子用來編製墊子和椅座。印度有一種香蒲屬（學名<em>Typha</em> ）植物叫做象蒲（學名<em>Typha elephantina</em> ），人們用它來造紙和製作裝飾品。生活在河流附近的翻譯者可能有其他類似蘆葦的植物名稱用作譯詞，然而需要留意，聖經共提到過四種類似蘆葦的植物（另參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.3\" href=\"#FLORA:5.1.3\">5.1.3 紙莎草、蒲草 (papyrus)</a> 、<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.4\" href=\"#FLORA:5.1.4\">5.1.4 蘆葦（普通蘆葦、蘆竹）（reed [common reed, giant reed]）</a> 和<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.5\" href=\"#FLORA:5.1.5\">5.1.5 燈心草（蒲草、莎草）（rush [bulrush, sedge]）</a> ）。在<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>; <a href=\"https://ref.ly/Exod2:5\">EXO 2:5</a> ，許多英文譯本都使用了統稱&quot;reeds&quot;（「蘆葦」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）。<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 譯作&quot;papyrus plants&quot;（「紙莎草」），但是植物學家認為，紙莎草更適合作為希伯來文<em>gome’</em> 的譯詞。在不熟悉水邊植物的地方，可以譯成「很高的草」（&quot;tall grass&quot;；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）或「很高的草稈」（&quot;tall stalks of grass&quot;；<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> ）等一般性的表述。對於《出埃及記》和《以賽亞書》中的<em>suf</em> ，主要譯法有：</p>\n<p>1. 使用當地生長在溪流或河水中的一種草；</p>\n<p>2. 使用「草」的統稱；</p>\n<p>3. 使用描述性短語，如「很高的草」。</p>\n<p>希伯來文<em>suf</em> 在<a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a> （《和》2:5）中的含義不同。該節經文所記的植物生長在水裡，但沒有根，或者扎根在淺海的海底。因此，英文譯本通常譯成&quot;seaweed&quot;（「海草」；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ），這是一種葉子長長的、似草的植物，通常不固著在海床上。</p>\n<p>如果需要音譯<em>suf</em> ，可以考慮音譯以下主要語言的詞語：阿拉伯文<em>bardi</em> 或<em>but</em> 或<em>dadi</em> 或<em>tifa</em> 、法文<em>jonc</em> 或<em>marset</em> 、葡萄牙文<em>murao</em> 或<em>tabua</em> 、西班牙文<em>aseña</em> 或<em>enea</em> 或<em>espadaina</em> 或<em>españada</em> 或<em>junco</em> 或<em>macio</em> 或<em>totora</em> 或<em>tule espidilla</em> 。</p>\n<p>希伯來文<em>yam suf</em> （字面意為「蘆葦海」）在《七十士譯本》和許多其他譯本中被譯成「紅海」，這種譯法有些不準確。除非目標語言文化中的「紅海」翻譯傳統根深蒂固，否則應依照《〈出埃及記〉手冊》（<em>A Handbook on Exodus</em> ）的建議，按照希伯來文本直譯成「蘆葦海」，或採用現代的對等詞「蘇伊士灣」（&quot;Gulf of Suez&quot;；如<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> ）。如果使用「紅海」，則應在腳註裡註明希伯來文本的字面意思是「蘆葦海」。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "02002005",
+"start_ref_usfm": "EXO 2:5",
+"end_ref": "02002005",
+"end_ref_usfm": "EXO 2:5"
+},
+{
+"start_ref": "23019006",
+"start_ref_usfm": "ISA 19:6",
+"end_ref": "23019006",
+"end_ref_usfm": "ISA 19:6"
+},
+{
+"start_ref": "32002006",
+"start_ref_usfm": "JON 2:6",
+"end_ref": "32002006",
+"end_ref_usfm": "JON 2:6"
+},
+{
+"start_ref": "40027029",
+"start_ref_usfm": "MAT 27:29",
+"end_ref": "40027029",
+"end_ref_usfm": "MAT 27:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.2",
+"reference_id": "FLORA:5.1.2",
+"version": "1.0.4",
+"title": "標題：草（grass）",
+"media_type": "Text",
+"index_reference": "5.1.2",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.2\"><span class=\"thlex-key\">5.1.2</span> 標題：草（grass）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אָחוּ</span> <span class=\"thlex-translit\">(音譯： ’achu)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen41:2\">GEN 41:2</a>, <a href=\"https://ref.ly/Gen41:18\">GEN 41:18</a>, <a href=\"https://ref.ly/Job8:11\">JOB 8:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： דשׁא</span> <span class=\"thlex-translit\">(音譯： dasha’（動詞）)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>, <a href=\"https://ref.ly/Joel2:22\">JOL 2:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： דֶּשֶׁא</span> <span class=\"thlex-translit\">(音譯： deshe’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>, <a href=\"https://ref.ly/Gen1:12\">GEN 1:12</a>, <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>, <a href=\"https://ref.ly/2Sam23:4\">2SA 23:4</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Job6:5\">JOB 6:5</a>, <a href=\"https://ref.ly/Job38:27\">JOB 38:27</a>, <a href=\"https://ref.ly/Ps23:2\">PSA 23:2</a>, <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>, <a href=\"https://ref.ly/Prov27:25\">PRO 27:25</a>, <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa66:14\">ISA 66:14</a>, <a href=\"https://ref.ly/Jer14:5\">JER 14:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： דֶּתֶא</span> <span class=\"thlex-translit\">(音譯： dethe’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan4:12\">DAN 4:12</a>, <a href=\"https://ref.ly/Dan4:20\">DAN 4:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חָצִיר</span> <span class=\"thlex-translit\">(音譯： chatsir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs18:5\">1KI 18:5</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Job8:12\">JOB 8:12</a>, <a href=\"https://ref.ly/Job40:15\">JOB 40:15</a>, <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>, <a href=\"https://ref.ly/Ps90:5\">PSA 90:5</a>, <a href=\"https://ref.ly/Ps103:15\">PSA 103:15</a>, <a href=\"https://ref.ly/Ps104:14\">PSA 104:14</a>, <a href=\"https://ref.ly/Ps129:6\">PSA 129:6</a>, <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>, <a href=\"https://ref.ly/Prov27:25\">PRO 27:25</a>, <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>, <a href=\"https://ref.ly/Isa34:13\">ISA 34:13</a>, <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa40:6\">ISA 40:6</a>, <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a>, <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a>, <a href=\"https://ref.ly/Isa40:8\">ISA 40:8</a>, <a href=\"https://ref.ly/Isa44:4\">ISA 44:4</a>, <a href=\"https://ref.ly/Isa51:12\">ISA 51:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חֲשַׁשׁ</span> <span class=\"thlex-translit\">(音譯： chashash)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a>, <a href=\"https://ref.ly/Isa33:11\">ISA 33:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： יֶרֶק</span> <span class=\"thlex-translit\">(音譯： yereq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>, <a href=\"https://ref.ly/Num22:4\">NUM 22:4</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>, <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： מִרְעֶה</span> <span class=\"thlex-translit\">(音譯： mir‘eh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen47:4\">GEN 47:4</a>, <a href=\"https://ref.ly/1Chr4:39\">1CH 4:39</a>, <a href=\"https://ref.ly/1Chr4:40\">1CH 4:40</a>, <a href=\"https://ref.ly/1Chr4:41\">1CH 4:41</a>, <a href=\"https://ref.ly/Job39:8\">JOB 39:8</a>, <a href=\"https://ref.ly/Isa32:14\">ISA 32:14</a>, <a href=\"https://ref.ly/Lam1:6\">LAM 1:6</a>, <a href=\"https://ref.ly/Ezek34:14\">EZK 34:14</a>, <a href=\"https://ref.ly/Ezek34:14\">EZK 34:14</a>, <a href=\"https://ref.ly/Ezek34:18\">EZK 34:18</a>, <a href=\"https://ref.ly/Ezek34:18\">EZK 34:18</a>, <a href=\"https://ref.ly/Joel1:18\">JOL 1:18</a>, <a href=\"https://ref.ly/Nah2:12\">NAM 2:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： עֲשַׂב</span> <span class=\"thlex-translit\">(音譯： ‘asav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan4:12\">DAN 4:12</a>, <a href=\"https://ref.ly/Dan4:22\">DAN 4:22</a>, <a href=\"https://ref.ly/Dan4:29\">DAN 4:29</a>, <a href=\"https://ref.ly/Dan4:30\">DAN 4:30</a>, <a href=\"https://ref.ly/Dan5:21\">DAN 5:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： עֵשֶׂב</span> <span class=\"thlex-translit\">(音譯： ‘esev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>, <a href=\"https://ref.ly/Gen1:12\">GEN 1:12</a>, <a href=\"https://ref.ly/Gen1:29\">GEN 1:29</a>, <a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>, <a href=\"https://ref.ly/Gen2:5\">GEN 2:5</a>, <a href=\"https://ref.ly/Gen3:18\">GEN 3:18</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/Exod9:22\">EXO 9:22</a>, <a href=\"https://ref.ly/Exod9:25\">EXO 9:25</a>, <a href=\"https://ref.ly/Exod10:12\">EXO 10:12</a>, <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>, <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>, <a href=\"https://ref.ly/Deut11:15\">DEU 11:15</a>, <a href=\"https://ref.ly/Deut29:22\">DEU 29:22</a>, <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Job5:25\">JOB 5:25</a>, <a href=\"https://ref.ly/Ps72:16\">PSA 72:16</a>, <a href=\"https://ref.ly/Ps92:8\">PSA 92:8</a>, <a href=\"https://ref.ly/Ps102:5\">PSA 102:5</a>, <a href=\"https://ref.ly/Ps102:12\">PSA 102:12</a>, <a href=\"https://ref.ly/Ps104:14\">PSA 104:14</a>, <a href=\"https://ref.ly/Ps105:35\">PSA 105:35</a>, <a href=\"https://ref.ly/Ps106:20\">PSA 106:20</a>, <a href=\"https://ref.ly/Prov19:12\">PRO 19:12</a>, <a href=\"https://ref.ly/Prov27:25\">PRO 27:25</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa42:15\">ISA 42:15</a>, <a href=\"https://ref.ly/Jer12:4\">JER 12:4</a>, <a href=\"https://ref.ly/Jer14:6\">JER 14:6</a>, <a href=\"https://ref.ly/Amos7:2\">AMO 7:2</a>, <a href=\"https://ref.ly/Mic5:6\">MIC 5:6</a>, <a href=\"https://ref.ly/Zech10:1\">ZEC 10:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： βοτάνη</span> <span class=\"thlex-translit\">(音譯： botanē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Phlm6:7\">HEB 6:7</a>, <a href=\"https://ref.ly/EsthGr16:12\">WIS 16:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λάχανον</span> <span class=\"thlex-translit\">(音譯： lachanon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt13:32\">MAT 13:32</a>, <a href=\"https://ref.ly/Matt4:32\">MRK 4:32</a>, <a href=\"https://ref.ly/Mark11:42\">LUK 11:42</a>, <a href=\"https://ref.ly/Acts14:2\">ROM 14:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χλόη</span> <span class=\"thlex-translit\">(音譯： chloē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis40:22\">SIR 40:22</a>, <a href=\"https://ref.ly/Wis43:21\">SIR 43:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： χόρτος</span> <span class=\"thlex-translit\">(音譯： chortos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt6:30\">MAT 6:30</a>, <a href=\"https://ref.ly/Matt13:26\">MAT 13:26</a>, <a href=\"https://ref.ly/Matt14:19\">MAT 14:19</a>, <a href=\"https://ref.ly/Matt4:28\">MRK 4:28</a>, <a href=\"https://ref.ly/Matt6:39\">MRK 6:39</a>, <a href=\"https://ref.ly/Mark12:28\">LUK 12:28</a>, <a href=\"https://ref.ly/Luke6:10\">JHN 6:10</a>, <a href=\"https://ref.ly/Rom3:12\">1CO 3:12</a>, <a href=\"https://ref.ly/Heb1:10\">JAS 1:10</a>, <a href=\"https://ref.ly/Heb1:11\">JAS 1:11</a>, <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a>, <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a>, <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a>, <a href=\"https://ref.ly/Jude8:7\">REV 8:7</a>, <a href=\"https://ref.ly/Jude9:4\">REV 9:4</a>, <a href=\"https://ref.ly/Wis40:16\">SIR 40:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： faenum</span>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">拉： faenum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd9:27\">2ES 9:27</a>, <a href=\"https://ref.ly/1Esd15:42\">2ES 15:42</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0049_grass.jpg\" alt=\"PTZ-0049_grass\"></figure>聖地有450多種草，因此上面的希伯來文、亞蘭文、希臘文和拉丁文詞語不大可能是指特定的物種。這些詞語可能是統稱，在不同的時間或地點，指稱各種不同種類的草。</p>\n<p>祖海里認為，<a href=\"https://ref.ly/Gen41:2\">GEN 41:2</a>; <a href=\"https://ref.ly/Gen41:18\">GEN 41:18</a> 中的希伯來文<em>’achu</em> （「蘆葦」）指的不是一種草，而是「用於放牧的沼澤濕地」（第127頁；參<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> &quot;meadow&quot;，「草地」）。然而，<a href=\"https://ref.ly/Job8:11\">JOB 8:11</a> 似乎明確地提到某種植物（與蒲草平行），指出<em>’achu</em> 需要在有水的地方生長。</p>\n<p>希伯來文<em>chashash</em> 在<a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a> 中是指乾草，與碎稭平行，意指必被燒滅的惡人。在<a href=\"https://ref.ly/Isa33:11\">ISA 33:11</a> ，惡人徒勞無益的計謀被比作<em>chashash</em> ，同樣與碎稭平行。</p>\n<p>希伯來文<em>yereq</em> （「綠色」）在舊約出現過8次，都是指植被。其中大部分出現在短語中，如<em>yereq ‘esev</em> （在<a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>; <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a> 譯作「綠色植物」、「綠色的菜蔬」），或<em>yereq deshe’</em> （在<a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>; <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>; <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a> 譯作「嫩草」或「青菜」）。然而，有3處經文的<em>yereq</em> 是單獨使用的，在<a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>; <a href=\"https://ref.ly/Num22:4\">NUM 22:4</a>; <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a> 中分別譯作「青草」、「青綠之物」或「綠的東西」。</p>\n<p>希伯來文<em>deshe’</em> 有時被譯為「草」。這個詞通常出現在修辭語境中，常與<em>chatsir</em> 、<em>yereq</em> 或<em>‘esev</em> 平行。</p>\n<p>希伯來文<em>‘esev</em> 在聖經中出現33次。<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 有12次將其譯作&quot;plant&quot;（「植物」），12次譯作&quot;grass&quot;（「草」），5次譯作&quot;herb&quot;（「草木」）或&quot;herbage&quot;（「牧草」），4次譯作&quot;vegetation&quot;（「菜蔬」）。因為有些語言可能不存在像「植物」這樣的統稱，所以在這些經文中，很多時候可以根據語境來譯成「草」或「生長的東西」等。</p>\n<p>表示「牧場」的詞語有很多，牧場就是綿羊、山羊和牛吃草的地方。希伯來文至少有5個表示「牧場」的詞語：除了上文所列的<em>mir‘eh</em> ，還有<em>migrash</em> （114次，大多出現在《約書亞記》和《歷代志上》）、<em>dover</em> （<a href=\"https://ref.ly/Isa5:17\">ISA 5:17</a> ；<a href=\"https://ref.ly/Mic2:12\">MIC 2:12</a> ）、<em>kar</em> （<a href=\"https://ref.ly/Ps37:20\">PSA 37:20</a> ，<a href=\"https://ref.ly/Ps65:14\">PSA 65:14</a> ［《和》65:13］；<a href=\"https://ref.ly/Isa30:23\">ISA 30:23</a> ）和<em>nawah</em> （11次）。</p>\n<p>除此之外，還有譯作「稻草」的希伯來文<em>teven</em> ，指用來做磚和鋪在動物身下的乾草。例如，這個詞出現在<a href=\"https://ref.ly/Gen24:25\">GEN 24:25</a>; <a href=\"https://ref.ly/Gen24:32\">GEN 24:32</a> ，但翻譯者需要注意的是，這裡的「稻草」不是給駱駝吃的，而是放在地上吸收尿液的。</p>\n<p>有兩個希伯來文詞語常被譯為「飼料」（即動物的食物）或「草料」，即<em>belil</em> （<a href=\"https://ref.ly/Job6:5\">JOB 6:5</a> ，<a href=\"https://ref.ly/Job24:6\">JOB 24:6</a> ；<a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a> ）和<em>mispo’</em> （<a href=\"https://ref.ly/Gen24:25\">GEN 24:25</a> ，<a href=\"https://ref.ly/Gen24:32\">GEN 24:32</a> ，<a href=\"https://ref.ly/Gen42:27\">GEN 42:27</a> ，<a href=\"https://ref.ly/Gen43:24\">GEN 43:24</a> ；<a href=\"https://ref.ly/Judg19:19\">JDG 19:19</a> ）。這兩個詞可能是指某種草類。</p>\n<p>希臘文<em>chortos</em> 在新約出現了15次，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 通常將其譯作&quot;grass&quot;（「草」）。</p>\n<p>希臘文<em>lachanon</em> 在新約出現了4次。這是一個花園植物的統稱，可根據上下文來翻譯。<a href=\"https://ref.ly/Matt13:32\">MAT 13:32</a> 和<a href=\"https://ref.ly/Matt4:32\">MRK 4:32</a> 提到，芥菜種長起來比園中所有的<em>lachanon</em> （「灌木」）都要大。<a href=\"https://ref.ly/Mark11:42\">LUK 11:42</a> 記載，法利賽人將薄荷、芸香和各樣<em>lachanon</em> （「香草」）獻上十分之一。<a href=\"https://ref.ly/Acts14:2\">ROM 14:2</a> 說，信心軟弱的弟兄只吃<em>lachanon</em> （「蔬菜」）。</p>\n<p>希臘文<em>botanē</em> 也是一個統稱，在<a href=\"https://ref.ly/Phlm6:7\">HEB 6:7</a> 譯作「植被」（&quot;vegetation&quot;；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ），中文譯本多譯為「蔬菜」。</p>\n<p>在次經中，希臘文<em>chloē</em> 意為「嫩綠的禾苗」（<a href=\"https://ref.ly/Wis40:22\">SIR 40:22</a> ，<a href=\"https://ref.ly/Wis43:21\">SIR 43:21</a> ）。《七十士譯本》使用這個詞來翻譯希伯來文<em>deshe’</em> （<a href=\"https://ref.ly/2Sam23:4\">2SA 23:4</a> ；<a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a> ；<a href=\"https://ref.ly/Job38:27\">JOB 38:27</a> ；<a href=\"https://ref.ly/Ps23:2\">PSA 23:2</a> ，<a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a> ）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>對大多數翻譯者來說，草極其常見，因此不需要特別加以描述。但對於生活在北極圈內，或者不宜人居的荒漠地帶的翻譯者來說，翻譯聖地的草可能會不太容易。其中一個常見的問題是，當地語言有太多特定詞語但沒有「草」的統稱。在尼日爾（Tamasheq），曾有一個翻譯團隊因為<a href=\"https://ref.ly/Matt6:39\">MRK 6:39</a> 中的「坐在青草地上」一語而十分困擾，因為他們唯一知道的一種草只出現在短暫的雨季，沒有任何人會願意坐在上面。草可以描述為：高不到1米（3英呎）的植物，葉子狹窄、青綠、挺直，通常成束或成簇地生長。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>在<a href=\"https://ref.ly/Ps90:5\">PSA 90:5</a> 和<a href=\"https://ref.ly/Isa40:6\">ISA 40:6</a>; <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a> 中，作者用草作為比喻，強調人生命的短暫。在<a href=\"https://ref.ly/Matt6:30\">MAT 6:30</a> ，耶穌將「野地裡的草」作為沒有太大價值的東西，來與人進行比較。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>在一些非洲語言中，「草」的譯詞實際上指的是「未開發的植物」，與作為食物、入藥和製作器具的植物相對。希伯來文也可能存在這樣的區別，只是目前我們還未發現。在翻譯之前，需要先研究當地人對植物的分類；在了解當地的植物分類之後，翻譯者就可以決定在多大程度上加以使用，這取決於對整體翻譯的通盤考量。</p>\n<p>如果可能，希伯來文<em>deshe’</em> 的譯詞應含有植物新長出來或發出新芽的意思。由於<em>deshe’</em> 常出現在修辭語境中，並且常與其他指草的詞語平行，所以翻譯者需要找出兩三個用來指草以及類似草的植物的詞語。</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> a：「地要長出植物（<em>deshe’</em> ）。」由於這節經文與第20節平行，故本手冊贊同大多數學者的觀點，即<em>deshe’</em> 是一個統稱，引出後面的兩個類別（參本章的介紹部分）。翻譯者需要使用一個涵蓋最廣的植物統稱來翻譯這裡的<em>deshe’</em> 。如果沒有合適的統稱，可以使用「有葉子的東西」或「發芽的東西」這樣的短語。萬不得已的情況下，可以不譯這個統稱，直接翻譯後面具體的詞語。</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> b：「結種子的植物。」我們很難知道這裡的希伯來文短語（<em>‘esev mazri‘a zera‘</em> ）指的是像稻子這樣「果實」即是種子的植物，還是任何一種有種子的植物，包括番茄、辣椒、葡萄、茄子等等。關於這節經文，英文譯本的譯文含糊不清，例如，<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 譯作&quot;those that bear grain&quot;（「結出穀物的植物」），<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 譯作&quot;grain&quot;（「穀物」），<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯作&quot;some to make grain for seeds&quot;（「一些結子粒為種子的植物」），<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 譯作&quot;seed-bearing plants&quot;（「含種子的植物」；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 同；<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 相似），<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 譯作&quot;plants that bear seed&quot;（「帶種子的植物」）。如果譯成grain（「穀物」，相當於英式英語中的corn），可能太狹義了。無論怎樣，這類植物都與接下來「結果子的植物」相對，如蘋果和芒果。</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> c：「會結果子且果子裡有種子的果樹。」這節經文需要探討的問題是，希伯來文短語<em>’asher zar‘o vo</em> （意為「果子裡有種子」）是像「鳥是空中的鳥」這種多餘的表述，還是實際增添了新的內容。<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 和<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 將其理解為多餘的表述（<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 譯作&quot;those that bear fruit&quot;，「結果子的樹木」；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 譯作&quot;fruit trees&quot;，「果樹」）。其他譯本似乎認為有必要保留這個短語（例如，<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯作&quot;others to make fruits with seeds in them&quot;，「結果子且果子裡有種子的其他植物」；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 譯作&quot;fruit trees……bearing fruit with their seed inside&quot;，「結果子且果子裡有種子的……果樹」；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 類似）。</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> d：「各從其類」。<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 譯作&quot;each according to its own type&quot;（「各從其種類」）。英文譯本對這個希伯來文短語主要有三種解釋：</p>\n<p>1. 有些譯本認為這個短語是在強調植物類型的多樣性；例如，<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 和<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 譯作&quot;all kinds of plants&quot;（「所有種類的植物」；<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 類似）。</p>\n<p>2. 有些譯本的重點在於植物的分門別類；例如，<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 譯作&quot;according to their various kinds&quot;（「根據它們不同的種類」）、<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 譯作&quot;each corresponding to its own species&quot;（「各自對應自己的物種」）。</p>\n<p>3. 有些譯本側重植物的繁殖；例如，<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> 譯作&quot;Every seed will produce more of its own kind of plant&quot;（「每個種子都將長成同類的植物」），<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 譯作&quot;The seeds will then produce the kinds of plants and trees from which they came&quot;（「種子將長成自身所出的植物和樹木種類」）。比較<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 的譯文：&quot;each with its own kind of seed&quot;（「各自含有自身種類的種子」）。</p>\n<p>在<a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> ，作者表達的一個主題似乎是創造的秩序——類別和子類別。這個論點支持了<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> 的譯文。但是，文中反覆使用「種子」一詞，表明作者也對遺傳法則的規律性感興趣。與這個主題相呼應，《申命記》所述的律法嚴格禁止在田裡混種不同種類的植物（在有些語言中是「種子」！），也禁止穿混合布料做成的衣服。關於希伯來人對這一點的關切，基督自己也作了補充：「荊棘上豈能摘葡萄呢？蒺藜裡豈能摘無花果呢？」（<a href=\"https://ref.ly/Matt7:16\">MAT 7:16</a> ）。以下是<a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> 的兩個翻譯範本：</p>\n<p>1. 地要長滿植物。要有結種子的植物（或一個當地亞種），以及結果子的樹木（或一個當地亞種）。每種植物結不同種類的種子。</p>\n<p>2. 地要長出各樣植物，遍滿地面。要有草、灌木和樹木（或結種子的植物和結果子的樹木；或穀物、蔬菜和果樹）。每種植物要繁衍自身。</p>\n<p>翻譯者應該先研究自己語言的植物分類系統，然後仔細考慮這節經文的兩種基本結構，確定哪一種更符合自己的語言。<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 和一些註釋書所作的三重區分很可能更符合當地的植物分類系統。若是這樣，不妨採納。</p>\n<p>翻譯者在研究了當地的植物分類系統之後，必須決定是要採用該分類系統，還是嘗試表現希伯來人的分類。如果沒有中間程度的統稱，翻譯者可以使用「大米等植物」和「芒果等植物」之類的短語，不過這可能會讓人以為，經文最初的讀者知道大米或芒果等作物。</p>\n<p>希伯來人的植物分類方法更多是從類型學的角度，而沒有嚴格的邏輯性或科學性，所以我們看到了一些重疊的分類或是較為模稜兩可的分類。也許，作者最想要表達的是上帝造物的有序。</p>\n<p><a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a> ：這節經文的後兩行是「如房頂上的草（<em>chatsir</em> ），又如未長成而枯乾的禾稼」（同<a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a> ；<a href=\"https://ref.ly/Ps129:6\">PSA 129:6</a> 類似）。這兩行詩描繪的景象是：一座平頂房屋的屋頂落上了一些塵土，形成一個利於草籽發芽的環境，但土層很淺，由於缺乏水分和土壤，草註定很快就要枯萎死亡。然而，最後一行有一個文本問題。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 支持<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> 的文本，即「未長成就枯萎／烤焦」（<em>shedefah lifne qamah</em> ）。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 把<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> 的可靠性定為C級，不支持「被東風吹枯萎／烤焦」（<em>shedefah lifne qadim</em> ）這一猜測。<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 和<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 採納了這個猜測。<abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> 推斷：抄經者不具備充分的希伯來文知識，不理解這一行的意思，因而猜測其意可能是「被東風烤焦」，這種說法也是非常符合邏輯的。但各譯本基本上已有共識，一致遵循<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> 的文本（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> 、<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> ）。<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> 也參照了<abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> ，但卻將最後一行譯作&quot;blasted before the standing grain&quot;（「在長成挺立的植株之前就枯萎」），這在上下文中完全說不通。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041002",
+"start_ref_usfm": "GEN 41:2",
+"end_ref": "01041002",
+"end_ref_usfm": "GEN 41:2"
+},
+{
+"start_ref": "01041018",
+"start_ref_usfm": "GEN 41:18",
+"end_ref": "01041018",
+"end_ref_usfm": "GEN 41:18"
+},
+{
+"start_ref": "18008011",
+"start_ref_usfm": "JOB 8:11",
+"end_ref": "18008011",
+"end_ref_usfm": "JOB 8:11"
+},
+{
+"start_ref": "01001011",
+"start_ref_usfm": "GEN 1:11",
+"end_ref": "01001011",
+"end_ref_usfm": "GEN 1:11"
+},
+{
+"start_ref": "29002022",
+"start_ref_usfm": "JOL 2:22",
+"end_ref": "29002022",
+"end_ref_usfm": "JOL 2:22"
+},
+{
+"start_ref": "01001012",
+"start_ref_usfm": "GEN 1:12",
+"end_ref": "01001012",
+"end_ref_usfm": "GEN 1:12"
+},
+{
+"start_ref": "05032002",
+"start_ref_usfm": "DEU 32:2",
+"end_ref": "05032002",
+"end_ref_usfm": "DEU 32:2"
+},
+{
+"start_ref": "10023004",
+"start_ref_usfm": "2SA 23:4",
+"end_ref": "10023004",
+"end_ref_usfm": "2SA 23:4"
+},
+{
+"start_ref": "12019026",
+"start_ref_usfm": "2KI 19:26",
+"end_ref": "12019026",
+"end_ref_usfm": "2KI 19:26"
+},
+{
+"start_ref": "18006005",
+"start_ref_usfm": "JOB 6:5",
+"end_ref": "18006005",
+"end_ref_usfm": "JOB 6:5"
+},
+{
+"start_ref": "18038027",
+"start_ref_usfm": "JOB 38:27",
+"end_ref": "18038027",
+"end_ref_usfm": "JOB 38:27"
+},
+{
+"start_ref": "19023002",
+"start_ref_usfm": "PSA 23:2",
+"end_ref": "19023002",
+"end_ref_usfm": "PSA 23:2"
+},
+{
+"start_ref": "19037002",
+"start_ref_usfm": "PSA 37:2",
+"end_ref": "19037002",
+"end_ref_usfm": "PSA 37:2"
+},
+{
+"start_ref": "20027025",
+"start_ref_usfm": "PRO 27:25",
+"end_ref": "20027025",
+"end_ref_usfm": "PRO 27:25"
+},
+{
+"start_ref": "23015006",
+"start_ref_usfm": "ISA 15:6",
+"end_ref": "23015006",
+"end_ref_usfm": "ISA 15:6"
+},
+{
+"start_ref": "23037027",
+"start_ref_usfm": "ISA 37:27",
+"end_ref": "23037027",
+"end_ref_usfm": "ISA 37:27"
+},
+{
+"start_ref": "23066014",
+"start_ref_usfm": "ISA 66:14",
+"end_ref": "23066014",
+"end_ref_usfm": "ISA 66:14"
+},
+{
+"start_ref": "24014005",
+"start_ref_usfm": "JER 14:5",
+"end_ref": "24014005",
+"end_ref_usfm": "JER 14:5"
+},
+{
+"start_ref": "27004012",
+"start_ref_usfm": "DAN 4:12",
+"end_ref": "27004012",
+"end_ref_usfm": "DAN 4:12"
+},
+{
+"start_ref": "27004020",
+"start_ref_usfm": "DAN 4:20",
+"end_ref": "27004020",
+"end_ref_usfm": "DAN 4:20"
+},
+{
+"start_ref": "11018005",
+"start_ref_usfm": "1KI 18:5",
+"end_ref": "11018005",
+"end_ref_usfm": "1KI 18:5"
+},
+{
+"start_ref": "18008012",
+"start_ref_usfm": "JOB 8:12",
+"end_ref": "18008012",
+"end_ref_usfm": "JOB 8:12"
+},
+{
+"start_ref": "18040015",
+"start_ref_usfm": "JOB 40:15",
+"end_ref": "18040015",
+"end_ref_usfm": "JOB 40:15"
+},
+{
+"start_ref": "19090005",
+"start_ref_usfm": "PSA 90:5",
+"end_ref": "19090005",
+"end_ref_usfm": "PSA 90:5"
+},
+{
+"start_ref": "19103015",
+"start_ref_usfm": "PSA 103:15",
+"end_ref": "19103015",
+"end_ref_usfm": "PSA 103:15"
+},
+{
+"start_ref": "19104014",
+"start_ref_usfm": "PSA 104:14",
+"end_ref": "19104014",
+"end_ref_usfm": "PSA 104:14"
+},
+{
+"start_ref": "19129006",
+"start_ref_usfm": "PSA 129:6",
+"end_ref": "19129006",
+"end_ref_usfm": "PSA 129:6"
+},
+{
+"start_ref": "19147008",
+"start_ref_usfm": "PSA 147:8",
+"end_ref": "19147008",
+"end_ref_usfm": "PSA 147:8"
+},
+{
+"start_ref": "23034013",
+"start_ref_usfm": "ISA 34:13",
+"end_ref": "23034013",
+"end_ref_usfm": "ISA 34:13"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "23040006",
+"start_ref_usfm": "ISA 40:6",
+"end_ref": "23040006",
+"end_ref_usfm": "ISA 40:6"
+},
+{
+"start_ref": "23040007",
+"start_ref_usfm": "ISA 40:7",
+"end_ref": "23040007",
+"end_ref_usfm": "ISA 40:7"
+},
+{
+"start_ref": "23040008",
+"start_ref_usfm": "ISA 40:8",
+"end_ref": "23040008",
+"end_ref_usfm": "ISA 40:8"
+},
+{
+"start_ref": "23044004",
+"start_ref_usfm": "ISA 44:4",
+"end_ref": "23044004",
+"end_ref_usfm": "ISA 44:4"
+},
+{
+"start_ref": "23051012",
+"start_ref_usfm": "ISA 51:12",
+"end_ref": "23051012",
+"end_ref_usfm": "ISA 51:12"
+},
+{
+"start_ref": "23005024",
+"start_ref_usfm": "ISA 5:24",
+"end_ref": "23005024",
+"end_ref_usfm": "ISA 5:24"
+},
+{
+"start_ref": "23033011",
+"start_ref_usfm": "ISA 33:11",
+"end_ref": "23033011",
+"end_ref_usfm": "ISA 33:11"
+},
+{
+"start_ref": "01001030",
+"start_ref_usfm": "GEN 1:30",
+"end_ref": "01001030",
+"end_ref_usfm": "GEN 1:30"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "02010015",
+"start_ref_usfm": "EXO 10:15",
+"end_ref": "02010015",
+"end_ref_usfm": "EXO 10:15"
+},
+{
+"start_ref": "04022004",
+"start_ref_usfm": "NUM 22:4",
+"end_ref": "04022004",
+"end_ref_usfm": "NUM 22:4"
+},
+{
+"start_ref": "01047004",
+"start_ref_usfm": "GEN 47:4",
+"end_ref": "01047004",
+"end_ref_usfm": "GEN 47:4"
+},
+{
+"start_ref": "13004039",
+"start_ref_usfm": "1CH 4:39",
+"end_ref": "13004039",
+"end_ref_usfm": "1CH 4:39"
+},
+{
+"start_ref": "13004040",
+"start_ref_usfm": "1CH 4:40",
+"end_ref": "13004040",
+"end_ref_usfm": "1CH 4:40"
+},
+{
+"start_ref": "13004041",
+"start_ref_usfm": "1CH 4:41",
+"end_ref": "13004041",
+"end_ref_usfm": "1CH 4:41"
+},
+{
+"start_ref": "18039008",
+"start_ref_usfm": "JOB 39:8",
+"end_ref": "18039008",
+"end_ref_usfm": "JOB 39:8"
+},
+{
+"start_ref": "23032014",
+"start_ref_usfm": "ISA 32:14",
+"end_ref": "23032014",
+"end_ref_usfm": "ISA 32:14"
+},
+{
+"start_ref": "25001006",
+"start_ref_usfm": "LAM 1:6",
+"end_ref": "25001006",
+"end_ref_usfm": "LAM 1:6"
+},
+{
+"start_ref": "26034014",
+"start_ref_usfm": "EZK 34:14",
+"end_ref": "26034014",
+"end_ref_usfm": "EZK 34:14"
+},
+{
+"start_ref": "26034018",
+"start_ref_usfm": "EZK 34:18",
+"end_ref": "26034018",
+"end_ref_usfm": "EZK 34:18"
+},
+{
+"start_ref": "29001018",
+"start_ref_usfm": "JOL 1:18",
+"end_ref": "29001018",
+"end_ref_usfm": "JOL 1:18"
+},
+{
+"start_ref": "34002012",
+"start_ref_usfm": "NAM 2:12",
+"end_ref": "34002012",
+"end_ref_usfm": "NAM 2:12"
+},
+{
+"start_ref": "27004022",
+"start_ref_usfm": "DAN 4:22",
+"end_ref": "27004022",
+"end_ref_usfm": "DAN 4:22"
+},
+{
+"start_ref": "27004029",
+"start_ref_usfm": "DAN 4:29",
+"end_ref": "27004029",
+"end_ref_usfm": "DAN 4:29"
+},
+{
+"start_ref": "27004030",
+"start_ref_usfm": "DAN 4:30",
+"end_ref": "27004030",
+"end_ref_usfm": "DAN 4:30"
+},
+{
+"start_ref": "27005021",
+"start_ref_usfm": "DAN 5:21",
+"end_ref": "27005021",
+"end_ref_usfm": "DAN 5:21"
+},
+{
+"start_ref": "01001029",
+"start_ref_usfm": "GEN 1:29",
+"end_ref": "01001029",
+"end_ref_usfm": "GEN 1:29"
+},
+{
+"start_ref": "01002005",
+"start_ref_usfm": "GEN 2:5",
+"end_ref": "01002005",
+"end_ref_usfm": "GEN 2:5"
+},
+{
+"start_ref": "01003018",
+"start_ref_usfm": "GEN 3:18",
+"end_ref": "01003018",
+"end_ref_usfm": "GEN 3:18"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009022",
+"end_ref_usfm": "EXO 9:22"
+},
+{
+"start_ref": "02009025",
+"start_ref_usfm": "EXO 9:25",
+"end_ref": "02009025",
+"end_ref_usfm": "EXO 9:25"
+},
+{
+"start_ref": "02010012",
+"start_ref_usfm": "EXO 10:12",
+"end_ref": "02010012",
+"end_ref_usfm": "EXO 10:12"
+},
+{
+"start_ref": "05011015",
+"start_ref_usfm": "DEU 11:15",
+"end_ref": "05011015",
+"end_ref_usfm": "DEU 11:15"
+},
+{
+"start_ref": "05029022",
+"start_ref_usfm": "DEU 29:22",
+"end_ref": "05029022",
+"end_ref_usfm": "DEU 29:22"
+},
+{
+"start_ref": "18005025",
+"start_ref_usfm": "JOB 5:25",
+"end_ref": "18005025",
+"end_ref_usfm": "JOB 5:25"
+},
+{
+"start_ref": "19072016",
+"start_ref_usfm": "PSA 72:16",
+"end_ref": "19072016",
+"end_ref_usfm": "PSA 72:16"
+},
+{
+"start_ref": "19092008",
+"start_ref_usfm": "PSA 92:8",
+"end_ref": "19092008",
+"end_ref_usfm": "PSA 92:8"
+},
+{
+"start_ref": "19102005",
+"start_ref_usfm": "PSA 102:5",
+"end_ref": "19102005",
+"end_ref_usfm": "PSA 102:5"
+},
+{
+"start_ref": "19102012",
+"start_ref_usfm": "PSA 102:12",
+"end_ref": "19102012",
+"end_ref_usfm": "PSA 102:12"
+},
+{
+"start_ref": "19105035",
+"start_ref_usfm": "PSA 105:35",
+"end_ref": "19105035",
+"end_ref_usfm": "PSA 105:35"
+},
+{
+"start_ref": "19106020",
+"start_ref_usfm": "PSA 106:20",
+"end_ref": "19106020",
+"end_ref_usfm": "PSA 106:20"
+},
+{
+"start_ref": "20019012",
+"start_ref_usfm": "PRO 19:12",
+"end_ref": "20019012",
+"end_ref_usfm": "PRO 19:12"
+},
+{
+"start_ref": "23042015",
+"start_ref_usfm": "ISA 42:15",
+"end_ref": "23042015",
+"end_ref_usfm": "ISA 42:15"
+},
+{
+"start_ref": "24012004",
+"start_ref_usfm": "JER 12:4",
+"end_ref": "24012004",
+"end_ref_usfm": "JER 12:4"
+},
+{
+"start_ref": "24014006",
+"start_ref_usfm": "JER 14:6",
+"end_ref": "24014006",
+"end_ref_usfm": "JER 14:6"
+},
+{
+"start_ref": "30007002",
+"start_ref_usfm": "AMO 7:2",
+"end_ref": "30007002",
+"end_ref_usfm": "AMO 7:2"
+},
+{
+"start_ref": "33005006",
+"start_ref_usfm": "MIC 5:6",
+"end_ref": "33005006",
+"end_ref_usfm": "MIC 5:6"
+},
+{
+"start_ref": "38010001",
+"start_ref_usfm": "ZEC 10:1",
+"end_ref": "38010001",
+"end_ref_usfm": "ZEC 10:1"
+},
+{
+"start_ref": "58006007",
+"start_ref_usfm": "HEB 6:7",
+"end_ref": "58006007",
+"end_ref_usfm": "HEB 6:7"
+},
+{
+"start_ref": "71016012",
+"start_ref_usfm": "WIS 16:12",
+"end_ref": "71016012",
+"end_ref_usfm": "WIS 16:12"
+},
+{
+"start_ref": "40013032",
+"start_ref_usfm": "MAT 13:32",
+"end_ref": "40013032",
+"end_ref_usfm": "MAT 13:32"
+},
+{
+"start_ref": "41004032",
+"start_ref_usfm": "MRK 4:32",
+"end_ref": "41004032",
+"end_ref_usfm": "MRK 4:32"
+},
+{
+"start_ref": "42011042",
+"start_ref_usfm": "LUK 11:42",
+"end_ref": "42011042",
+"end_ref_usfm": "LUK 11:42"
+},
+{
+"start_ref": "45014002",
+"start_ref_usfm": "ROM 14:2",
+"end_ref": "45014002",
+"end_ref_usfm": "ROM 14:2"
+},
+{
+"start_ref": "72040022",
+"start_ref_usfm": "SIR 40:22",
+"end_ref": "72040022",
+"end_ref_usfm": "SIR 40:22"
+},
+{
+"start_ref": "72043021",
+"start_ref_usfm": "SIR 43:21",
+"end_ref": "72043021",
+"end_ref_usfm": "SIR 43:21"
+},
+{
+"start_ref": "40006030",
+"start_ref_usfm": "MAT 6:30",
+"end_ref": "40006030",
+"end_ref_usfm": "MAT 6:30"
+},
+{
+"start_ref": "40013026",
+"start_ref_usfm": "MAT 13:26",
+"end_ref": "40013026",
+"end_ref_usfm": "MAT 13:26"
+},
+{
+"start_ref": "40014019",
+"start_ref_usfm": "MAT 14:19",
+"end_ref": "40014019",
+"end_ref_usfm": "MAT 14:19"
+},
+{
+"start_ref": "41004028",
+"start_ref_usfm": "MRK 4:28",
+"end_ref": "41004028",
+"end_ref_usfm": "MRK 4:28"
+},
+{
+"start_ref": "41006039",
+"start_ref_usfm": "MRK 6:39",
+"end_ref": "41006039",
+"end_ref_usfm": "MRK 6:39"
+},
+{
+"start_ref": "42012028",
+"start_ref_usfm": "LUK 12:28",
+"end_ref": "42012028",
+"end_ref_usfm": "LUK 12:28"
+},
+{
+"start_ref": "43006010",
+"start_ref_usfm": "JHN 6:10",
+"end_ref": "43006010",
+"end_ref_usfm": "JHN 6:10"
+},
+{
+"start_ref": "46003012",
+"start_ref_usfm": "1CO 3:12",
+"end_ref": "46003012",
+"end_ref_usfm": "1CO 3:12"
+},
+{
+"start_ref": "59001010",
+"start_ref_usfm": "JAS 1:10",
+"end_ref": "59001010",
+"end_ref_usfm": "JAS 1:10"
+},
+{
+"start_ref": "59001011",
+"start_ref_usfm": "JAS 1:11",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "60001024",
+"start_ref_usfm": "1PE 1:24",
+"end_ref": "60001024",
+"end_ref_usfm": "1PE 1:24"
+},
+{
+"start_ref": "66008007",
+"start_ref_usfm": "REV 8:7",
+"end_ref": "66008007",
+"end_ref_usfm": "REV 8:7"
+},
+{
+"start_ref": "66009004",
+"start_ref_usfm": "REV 9:4",
+"end_ref": "66009004",
+"end_ref_usfm": "REV 9:4"
+},
+{
+"start_ref": "72040016",
+"start_ref_usfm": "SIR 40:16",
+"end_ref": "72040016",
+"end_ref_usfm": "SIR 40:16"
+},
+{
+"start_ref": "83009027",
+"start_ref_usfm": "2ES 9:27",
+"end_ref": "83009027",
+"end_ref_usfm": "2ES 9:27"
+},
+{
+"start_ref": "83015042",
+"start_ref_usfm": "2ES 15:42",
+"end_ref": "83015042",
+"end_ref_usfm": "2ES 15:42"
+},
+{
+"start_ref": "23005017",
+"start_ref_usfm": "ISA 5:17",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
+"start_ref": "33002012",
+"start_ref_usfm": "MIC 2:12",
+"end_ref": "33002012",
+"end_ref_usfm": "MIC 2:12"
+},
+{
+"start_ref": "19037020",
+"start_ref_usfm": "PSA 37:20",
+"end_ref": "19037020",
+"end_ref_usfm": "PSA 37:20"
+},
+{
+"start_ref": "19065014",
+"start_ref_usfm": "PSA 65:14",
+"end_ref": "19065014",
+"end_ref_usfm": "PSA 65:14"
+},
+{
+"start_ref": "23030023",
+"start_ref_usfm": "ISA 30:23",
+"end_ref": "23030023",
+"end_ref_usfm": "ISA 30:23"
+},
+{
+"start_ref": "01024025",
+"start_ref_usfm": "GEN 24:25",
+"end_ref": "01024025",
+"end_ref_usfm": "GEN 24:25"
+},
+{
+"start_ref": "01024032",
+"start_ref_usfm": "GEN 24:32",
+"end_ref": "01024032",
+"end_ref_usfm": "GEN 24:32"
+},
+{
+"start_ref": "18024006",
+"start_ref_usfm": "JOB 24:6",
+"end_ref": "18024006",
+"end_ref_usfm": "JOB 24:6"
+},
+{
+"start_ref": "23030024",
+"start_ref_usfm": "ISA 30:24",
+"end_ref": "23030024",
+"end_ref_usfm": "ISA 30:24"
+},
+{
+"start_ref": "01042027",
+"start_ref_usfm": "GEN 42:27",
+"end_ref": "01042027",
+"end_ref_usfm": "GEN 42:27"
+},
+{
+"start_ref": "01043024",
+"start_ref_usfm": "GEN 43:24",
+"end_ref": "01043024",
+"end_ref_usfm": "GEN 43:24"
+},
+{
+"start_ref": "07019019",
+"start_ref_usfm": "JDG 19:19",
+"end_ref": "07019019",
+"end_ref_usfm": "JDG 19:19"
+},
+{
+"start_ref": "40007016",
+"start_ref_usfm": "MAT 7:16",
+"end_ref": "40007016",
+"end_ref_usfm": "MAT 7:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.3",
+"reference_id": "FLORA:5.1.3",
+"version": "1.0.4",
+"title": "標題：紙莎草、蒲草（papyrus）",
+"media_type": "Text",
+"index_reference": "5.1.3",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.3\"><span class=\"thlex-key\">5.1.3</span> 標題：紙莎草、蒲草（papyrus）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： גֹּמֶא</span> <span class=\"thlex-translit\">(音譯： gome’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>, <a href=\"https://ref.ly/Job8:11\">JOB 8:11</a>, <a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a>, <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֵבֶה</span> <span class=\"thlex-translit\">(音譯： ’eveh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job9:26\">JOB 9:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0693_papyrus.jpg\" alt=\"WEB-0693_papyrus\"></figure>對於聖經中提及的各種蘆葦究竟是什麼品種，植物學界仍有相當大的爭議，但根據詞源學和實際情況，人們普遍認為希伯來文<em>gome’</em> 指的是紙莎草（又名蒲草；學名<em>Cyperus Papyrus</em> ）。至於希伯來文<em>’eveh</em> ，<a href=\"https://ref.ly/Job9:26\">JOB 9:26</a> 中的短語「<em>’eveh</em> 做的快船」暗示<em>’eveh</em> 指紙莎草，因為埃及除了有木船，還有紙莎草做的船。然而，在這節經文中，英文譯本有&quot;papyrus&quot;（「紙莎草」；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ）和&quot;reed&quot;（「蘆葦」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）兩種譯法。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0697_papyrus_heads.jpg\" alt=\"WEB-0697_papyrus_heads\"></figure>紙莎草是一種很高的草，生有許多花莖，花莖高度可達6米（20英呎），直徑達10厘米（4英吋）。莖頂端的穗分成數百個分支，像棕櫚樹頂一樣伸展開來，每個分支都開小花。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>紙莎草是古代近東用途最廣的草。在埃及，人們用紙莎草製作箱子、墊子、繩子，最特別的是做紙張。當約基別試圖解救幼子摩西脫離法老的殘暴法令所害時，她或許想到了紙莎草造船的功能（<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> ）。約伯的朋友比勒達以紙莎草是一種需要水的植物來抨擊約伯，暗示他必定犯了罪（<a href=\"https://ref.ly/Job8:11\">JOB 8:11</a> ）。<a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a> 提到「使者在水面上，坐蒲草船過海」，藉此象徵埃及強大的政治力量。窮人還用紙莎草做桶、棚屋、涼鞋和衣服。然而，紙莎草通常不用來編籃子，這或許有些出人意料。與現今撒哈拉沙漠以南的非洲地區的製作方式相似，埃及人的籃子是以海棗樹葉、纖維或劈開的葉片中脈為心，外面纏繞纖維（像吉他弦一樣）製成的，呈盤繞結構。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>世界上有超過600種莎草屬（學名<em>Cyperus</em> ）植物，生長在熱帶和溫帶氣候地區，但是很多都和紙莎草的外形不相像。例如，分佈在西亞和非洲的油莎草隸於莎草屬，塊莖（又稱<em>chufa</em> 或<em>Zulu nut</em> ）很可口。亞洲各地用來做墊子的可可草（續根草）和其他幾種類型的草也隸於莎草屬。紙莎草今天在埃及很少見，但在烏干達北部卻生長得很繁茂，當地稱之為<em>sudd</em> 。</p>\n<p>希伯來文<em>gome’</em> 在經文中出現的語境大部分是修辭性的（<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> 除外），因此翻譯者可以用當地在修辭意義上對等的詞語來替代。然而，如果原來的植物名稱被替代，最好在腳註中註明原詞，特別是在這個詞語和某個特定地區有關聯的經文裡；例如，在<a href=\"https://ref.ly/Isa18:1\">ISA 18:1</a> ，蒲草船和「埃塞俄比亞」有關聯。在<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> ，摩西的母親用的不是「蒲草」（&quot;bulrushes&quot;；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ），而是紙莎草；用的不是「籃子」（&quot;basket&quot;；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ），而是「箱子」（&quot;box&quot;；希伯來文<em>tevah</em> ）。若有表示「箱子」的詞，就應該使用該詞。不然，可以使用「籃子」的統稱，並用一種編製籃子的韌草來指明材料。以下是<em>gome’</em> 的幾種譯法：</p>\n<p>1. 採用當地的一種韌草作為譯詞；</p>\n<p>2. 使用描述性的短語，如「堅韌的草」；</p>\n<p>3. 使用「草」的統稱；</p>\n<p>4. 在<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> 中，把這種植物隱含在動詞「編織」或名詞「箱子／籃子」裡；</p>\n<p>5. 使用「燈心草」（&quot;rush&quot;；<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> ）、「紙莎草」（&quot;papyrus reeds&quot;；<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr> ）或「蘆葦」（&quot;reeds&quot;；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> ）為譯詞。</p>\n<p>如果需要音譯紙莎草，可以按照法文<em>jonc</em> 或葡萄牙文／西班牙文<em>papiro</em> 。</p>\n<p><a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a> ：這節經文的最後兩行是：「野狗躺臥休息之處，必長出青草、蘆葦和蒲草（<em>gome’</em> ）。」在這裡，翻譯者必須有一組表示「草」的詞語，因為這兩行平行詩句需要表現出一種遞進：曾經的沙漠（野狗出沒的地方）將變成沼澤，普通的草將變成水生的草。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "18008011",
+"start_ref_usfm": "JOB 8:11",
+"end_ref": "18008011",
+"end_ref_usfm": "JOB 8:11"
+},
+{
+"start_ref": "23018002",
+"start_ref_usfm": "ISA 18:2",
+"end_ref": "23018002",
+"end_ref_usfm": "ISA 18:2"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "18009026",
+"start_ref_usfm": "JOB 9:26",
+"end_ref": "18009026",
+"end_ref_usfm": "JOB 9:26"
+},
+{
+"start_ref": "23018001",
+"start_ref_usfm": "ISA 18:1",
+"end_ref": "23018001",
+"end_ref_usfm": "ISA 18:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.4",
+"reference_id": "FLORA:5.1.4",
+"version": "1.0.4",
+"title": "標題：蘆葦（普通蘆葦、蘆竹）（reed [common reed, giant reed]）",
+"media_type": "Text",
+"index_reference": "5.1.4",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.4\"><span class=\"thlex-key\">5.1.4</span> 標題：蘆葦（普通蘆葦、蘆竹）（reed [common reed, giant reed]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： קָנֶה</span> <span class=\"thlex-translit\">(音譯： qaneh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs14:15\">1KI 14:15</a>, <a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a>, <a href=\"https://ref.ly/Job40:21\">JOB 40:21</a>, <a href=\"https://ref.ly/Ps68:31\">PSA 68:31</a>, <a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a>, <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>, <a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a>, <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>, <a href=\"https://ref.ly/Ezek29:6\">EZK 29:6</a>, <a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： καλάμη</span> <span class=\"thlex-translit\">(音譯： kalamē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Rom3:12\">1CO 3:12</a>, <a href=\"https://ref.ly/EsthGr3:7\">WIS 3:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： κάλαμος</span> <span class=\"thlex-translit\">(音譯： kalamos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:7\">MAT 11:7</a>, <a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a>, <a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a>, <a href=\"https://ref.ly/Matt27:30\">MAT 27:30</a>, <a href=\"https://ref.ly/Matt27:48\">MAT 27:48</a>, <a href=\"https://ref.ly/Matt15:19\">MRK 15:19</a>, <a href=\"https://ref.ly/Matt15:36\">MRK 15:36</a>, <a href=\"https://ref.ly/Mark7:24\">LUK 7:24</a>, <a href=\"https://ref.ly/2John1:13\">3JN 1:13</a>, <a href=\"https://ref.ly/Jude11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Jude21:15\">REV 21:15</a>, <a href=\"https://ref.ly/Jude21:16\">REV 21:16</a>, <a href=\"https://ref.ly/2Macc2:22\">3MA 2:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0752_reed.jpg\" alt=\"WEB-0752_reed\"></figure>以色列的蘆葦分為兩大類，即普通蘆葦（學名<em>Phragmites australis</em> ）和蘆竹（學名<em>Arundo donax</em> ），然而在某個給定的聖經語境中，很難分辨作者指的是哪一種蘆葦。</p>\n<p>英文&quot;cane&quot;（「杖、藤、中空的莖」）源自希伯來文<em>qaneh</em> 。在眾多指稱蘆葦和燈心草的希伯來文詞語中，<em>qaneh</em> 的含義最廣。就像英文&quot;reed&quot;（「蘆葦」）一樣，<em>qaneh</em> 可以具體地指某種蘆葦，也可以是幾種水生植物的統稱。這個詞也用來指法老夢中的麥稈（<a href=\"https://ref.ly/Gen41:5\">GEN 41:5</a> ，<a href=\"https://ref.ly/Gen41:22\">GEN 41:22</a> ）、帳幕中金燈臺的幹和枝子（<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>; <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>; <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a> ，<a href=\"https://ref.ly/Exod25:35\">EXO 25:35</a>; <a href=\"https://ref.ly/Exod25:36\">EXO 25:36</a> ，<a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>; <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>; <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a> ，<a href=\"https://ref.ly/Exod37:21\">EXO 37:21</a>; <a href=\"https://ref.ly/Exod37:22\">EXO 37:22</a> ）、天平的桿（<a href=\"https://ref.ly/Isa46:6\">ISA 46:6</a> ）、人的上臂（<a href=\"https://ref.ly/Job31:22\">JOB 31:22</a> ）、丈量竿（<a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a> ，<a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>; <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>; <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>; <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a> ，<a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a> ，<a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>; <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>; <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>; <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a> ），以及香菖蒲（<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a> ；<a href=\"https://ref.ly/Song4:14\">SNG 4:14</a> ；<a href=\"https://ref.ly/Isa43:24\">ISA 43:24</a> ；<a href=\"https://ref.ly/Jer6:20\">JER 6:20</a> ；<a href=\"https://ref.ly/Ezek27:19\">EZK 27:19</a> ；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.1.2\" href=\"#FLORA:4.1.2\">4.1.2 香菖蒲（水菖蒲、香甘蔗、甜甘蔗、薑草）(calamus [sweet flag, aromatic cane, sweet cane, ginger grass])</a> ）。</p>\n<p>希臘文<em>kalamos</em> 也用來指丈量的杖（<a href=\"https://ref.ly/Jude11:1\">REV 11:1</a> ，<a href=\"https://ref.ly/Jude21:15\">REV 21:15</a>; <a href=\"https://ref.ly/Jude21:16\">REV 21:16</a> ）和筆（<a href=\"https://ref.ly/2John1:13\">3JN 1:13</a> ；<a href=\"https://ref.ly/2Macc4:20\">3MA 4:20</a> ）。關於蘆葦筆的討論，參WTH ，<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:1.7.3\" href=\"#REALIA:1.7.3\">1.7.3 筆 (pen)</a> 。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>普通蘆葦是一種很高的草，葉子硬而尖，羽毛狀花序的高度可達2米（7英呎）以上。這種蘆葦生長在湖泊和溪流中，根在水底匍匐，並生出新葉和莖。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0754_reed_cluster.jpg\" alt=\"WEB-0754_reed_cluster\"></figure>蘆竹的外形與普通蘆葦相似，但不是生長在水中，而是長在河岸上。中空的莖稈看起來像竹子，其上巨大的羽毛狀花序可達5米（17英呎）高。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0755_reed_stalk.jpg\" alt=\"WEB-0755_reed_stalk\"></figure>這兩種蘆葦都可用來製作籃子、墊子、笛子、筆、箭和屋頂。<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> 說，彌賽亞將溫和地對待軟弱的人，「壓傷的蘆葦，他不折斷」，這個溫柔的形象與當時典型的鐵腕暴君形成對比。在<a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a> 、<a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a> 和<a href=\"https://ref.ly/Ezek29:6\">EZK 29:6</a> ，法老被比作一根靠不住的蘆葦杖。在<a href=\"https://ref.ly/1Kgs14:15\">1KI 14:15</a> ，以色列被比作水中搖動的蘆葦。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>地中海地區的普通蘆葦在歐洲、印度、日本和北美都有近緣植物。一般認為，普通蘆葦是蘆葦屬（學名<em>Phragmites</em> ）的唯一一種植物，但也有一些植物學家將其分為3個物種。普通蘆葦對自然資源的保護非常重要，因為它為許多種類的動物和鳥類提供了棲息地。在北美，適應環境能力較弱的當地品種正在被源自歐洲的更強壯的品種所取代，這些外來品種也正威脅著其他種類的沼澤植物。此外，日本人會食用蘆葦的嫩芽，印第安人曾吃蘆葦的種子。</p>\n<p>蘆竹屬（學名<em>Arundo</em> ）植物遍佈地中海地區和臺灣，至今仍用於製作單簧管簧片、管風琴管（「西班牙藤」）、釣魚竿和手杖。</p>\n<p>蘆葦中的纖維素可用於人造絲工業。</p>\n<p>對於生活在湖泊和河流附近的翻譯者來說，即使找不到蘆葦的近緣植物，也必定能找到對等的植物。其他翻譯者可以採用一般性的表述，譯成「草」或「長在水裡面的很高的草」等類短語。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11014015",
+"start_ref_usfm": "1KI 14:15",
+"end_ref": "11014015",
+"end_ref_usfm": "1KI 14:15"
+},
+{
+"start_ref": "12018021",
+"start_ref_usfm": "2KI 18:21",
+"end_ref": "12018021",
+"end_ref_usfm": "2KI 18:21"
+},
+{
+"start_ref": "18040021",
+"start_ref_usfm": "JOB 40:21",
+"end_ref": "18040021",
+"end_ref_usfm": "JOB 40:21"
+},
+{
+"start_ref": "19068031",
+"start_ref_usfm": "PSA 68:31",
+"end_ref": "19068031",
+"end_ref_usfm": "PSA 68:31"
+},
+{
+"start_ref": "23019006",
+"start_ref_usfm": "ISA 19:6",
+"end_ref": "23019006",
+"end_ref_usfm": "ISA 19:6"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "23036006",
+"start_ref_usfm": "ISA 36:6",
+"end_ref": "23036006",
+"end_ref_usfm": "ISA 36:6"
+},
+{
+"start_ref": "23042003",
+"start_ref_usfm": "ISA 42:3",
+"end_ref": "23042003",
+"end_ref_usfm": "ISA 42:3"
+},
+{
+"start_ref": "26029006",
+"start_ref_usfm": "EZK 29:6",
+"end_ref": "26029006",
+"end_ref_usfm": "EZK 29:6"
+},
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26040006",
+"start_ref_usfm": "EZK 40:6",
+"end_ref": "26040006",
+"end_ref_usfm": "EZK 40:6"
+},
+{
+"start_ref": "26040007",
+"start_ref_usfm": "EZK 40:7",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "26040008",
+"start_ref_usfm": "EZK 40:8",
+"end_ref": "26040008",
+"end_ref_usfm": "EZK 40:8"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26042016",
+"start_ref_usfm": "EZK 42:16",
+"end_ref": "26042016",
+"end_ref_usfm": "EZK 42:16"
+},
+{
+"start_ref": "26042017",
+"start_ref_usfm": "EZK 42:17",
+"end_ref": "26042017",
+"end_ref_usfm": "EZK 42:17"
+},
+{
+"start_ref": "26042018",
+"start_ref_usfm": "EZK 42:18",
+"end_ref": "26042018",
+"end_ref_usfm": "EZK 42:18"
+},
+{
+"start_ref": "26042019",
+"start_ref_usfm": "EZK 42:19",
+"end_ref": "26042019",
+"end_ref_usfm": "EZK 42:19"
+},
+{
+"start_ref": "46003012",
+"start_ref_usfm": "1CO 3:12",
+"end_ref": "46003012",
+"end_ref_usfm": "1CO 3:12"
+},
+{
+"start_ref": "71003007",
+"start_ref_usfm": "WIS 3:7",
+"end_ref": "71003007",
+"end_ref_usfm": "WIS 3:7"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011007",
+"end_ref_usfm": "MAT 11:7"
+},
+{
+"start_ref": "40012020",
+"start_ref_usfm": "MAT 12:20",
+"end_ref": "40012020",
+"end_ref_usfm": "MAT 12:20"
+},
+{
+"start_ref": "40027029",
+"start_ref_usfm": "MAT 27:29",
+"end_ref": "40027029",
+"end_ref_usfm": "MAT 27:29"
+},
+{
+"start_ref": "40027030",
+"start_ref_usfm": "MAT 27:30",
+"end_ref": "40027030",
+"end_ref_usfm": "MAT 27:30"
+},
+{
+"start_ref": "40027048",
+"start_ref_usfm": "MAT 27:48",
+"end_ref": "40027048",
+"end_ref_usfm": "MAT 27:48"
+},
+{
+"start_ref": "41015019",
+"start_ref_usfm": "MRK 15:19",
+"end_ref": "41015019",
+"end_ref_usfm": "MRK 15:19"
+},
+{
+"start_ref": "41015036",
+"start_ref_usfm": "MRK 15:36",
+"end_ref": "41015036",
+"end_ref_usfm": "MRK 15:36"
+},
+{
+"start_ref": "42007024",
+"start_ref_usfm": "LUK 7:24",
+"end_ref": "42007024",
+"end_ref_usfm": "LUK 7:24"
+},
+{
+"start_ref": "64001013",
+"start_ref_usfm": "3JN 1:13",
+"end_ref": "64001013",
+"end_ref_usfm": "3JN 1:13"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66021015",
+"start_ref_usfm": "REV 21:15",
+"end_ref": "66021015",
+"end_ref_usfm": "REV 21:15"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "80002022",
+"start_ref_usfm": "3MA 2:22",
+"end_ref": "80002022",
+"end_ref_usfm": "3MA 2:22"
+},
+{
+"start_ref": "01041005",
+"start_ref_usfm": "GEN 41:5",
+"end_ref": "01041005",
+"end_ref_usfm": "GEN 41:5"
+},
+{
+"start_ref": "01041022",
+"start_ref_usfm": "GEN 41:22",
+"end_ref": "01041022",
+"end_ref_usfm": "GEN 41:22"
+},
+{
+"start_ref": "02025031",
+"start_ref_usfm": "EXO 25:31",
+"end_ref": "02025031",
+"end_ref_usfm": "EXO 25:31"
+},
+{
+"start_ref": "02025032",
+"start_ref_usfm": "EXO 25:32",
+"end_ref": "02025032",
+"end_ref_usfm": "EXO 25:32"
+},
+{
+"start_ref": "02025033",
+"start_ref_usfm": "EXO 25:33",
+"end_ref": "02025033",
+"end_ref_usfm": "EXO 25:33"
+},
+{
+"start_ref": "02025035",
+"start_ref_usfm": "EXO 25:35",
+"end_ref": "02025035",
+"end_ref_usfm": "EXO 25:35"
+},
+{
+"start_ref": "02025036",
+"start_ref_usfm": "EXO 25:36",
+"end_ref": "02025036",
+"end_ref_usfm": "EXO 25:36"
+},
+{
+"start_ref": "02037017",
+"start_ref_usfm": "EXO 37:17",
+"end_ref": "02037017",
+"end_ref_usfm": "EXO 37:17"
+},
+{
+"start_ref": "02037018",
+"start_ref_usfm": "EXO 37:18",
+"end_ref": "02037018",
+"end_ref_usfm": "EXO 37:18"
+},
+{
+"start_ref": "02037019",
+"start_ref_usfm": "EXO 37:19",
+"end_ref": "02037019",
+"end_ref_usfm": "EXO 37:19"
+},
+{
+"start_ref": "02037021",
+"start_ref_usfm": "EXO 37:21",
+"end_ref": "02037021",
+"end_ref_usfm": "EXO 37:21"
+},
+{
+"start_ref": "02037022",
+"start_ref_usfm": "EXO 37:22",
+"end_ref": "02037022",
+"end_ref_usfm": "EXO 37:22"
+},
+{
+"start_ref": "23046006",
+"start_ref_usfm": "ISA 46:6",
+"end_ref": "23046006",
+"end_ref_usfm": "ISA 46:6"
+},
+{
+"start_ref": "18031022",
+"start_ref_usfm": "JOB 31:22",
+"end_ref": "18031022",
+"end_ref_usfm": "JOB 31:22"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "23043024",
+"start_ref_usfm": "ISA 43:24",
+"end_ref": "23043024",
+"end_ref_usfm": "ISA 43:24"
+},
+{
+"start_ref": "24006020",
+"start_ref_usfm": "JER 6:20",
+"end_ref": "24006020",
+"end_ref_usfm": "JER 6:20"
+},
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+},
+{
+"start_ref": "80004020",
+"start_ref_usfm": "3MA 4:20",
+"end_ref": "80004020",
+"end_ref_usfm": "3MA 4:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.5",
+"reference_id": "FLORA:5.1.5",
+"version": "1.0.4",
+"title": "標題：燈心草（蒲草、莎草）（rush [bulrush, sedge]）",
+"media_type": "Text",
+"index_reference": "5.1.5",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.5\"><span class=\"thlex-key\">5.1.5</span> 標題：燈心草（蒲草、莎草）（rush [bulrush, sedge]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אַגְמוֹן</span> <span class=\"thlex-translit\">(音譯： ’agmon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:12\">JOB 41:12</a>, <a href=\"https://ref.ly/Isa9:13\">ISA 9:13</a>, <a href=\"https://ref.ly/Isa19:15\">ISA 19:15</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0776_rush.jpg\" alt=\"WEB-0776_rush\"></figure>地中海沼澤地區生長著許多種燈心草（或莎草），其中兩種是湖泊燈心草（學名<em>Scirpus lacustris</em> ）和軟燈心草（學名<em>Juncus effusus</em> ）。莫爾登克（Moldenke）指出，聖地生長著15種藨草屬（學名<em>Scirpus</em> ）植物和21種燈心草屬（學名<em>Juncus</em> ）植物。祖海里確信，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 譯作&quot;reed&quot;（「蘆葦」）或&quot;rush&quot;（「燈心草」）的希伯來文<em>’agmon</em> 是一個統稱，不應等同於某種特定的植物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>燈心草生長在潮濕的沙地和河畔，莖稈可高達1米（3英呎），沒有葉子，頂端下方的莖稈側面長著小花簇。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0777_rush.jpg\" alt=\"WEB-0777_rush\"></figure>燈心草常用來編製墊子和籃子，也用來作房屋的牆壁和隔斷。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>燈心草屬（學名<em>Juncus</em> ）至少有200種植物。生活在溪流附近的翻譯者可以輕鬆地找到與聖經提到的物種相近或相同的植物。在其他地方，翻譯者可以將其譯成「生長在水中的很高的植物」。在<a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a> 的修辭語境中（「如蘆葦般低頭」），翻譯者可以使用符合「低頭」這一描述的植物來替代。</p>\n<p>赫珀（Hepper）認為，<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 和<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 將<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> 中的希伯來文<em>gome’</em> 錯譯成&quot;bulrushes&quot;（「蒲草」），其實應該是&quot;papyrus&quot;（「紙莎草」）；參<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.3\" href=\"#FLORA:5.1.3\">5.1.3 紙莎草、蒲草 (papyrus)</a> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18041012",
+"start_ref_usfm": "JOB 41:12",
+"end_ref": "18041012",
+"end_ref_usfm": "JOB 41:12"
+},
+{
+"start_ref": "23009013",
+"start_ref_usfm": "ISA 9:13",
+"end_ref": "23009013",
+"end_ref_usfm": "ISA 9:13"
+},
+{
+"start_ref": "23019015",
+"start_ref_usfm": "ISA 19:15",
+"end_ref": "23019015",
+"end_ref_usfm": "ISA 19:15"
+},
+{
+"start_ref": "23058005",
+"start_ref_usfm": "ISA 58:5",
+"end_ref": "23058005",
+"end_ref_usfm": "ISA 58:5"
+},
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.6",
+"reference_id": "FLORA:5.1.6",
+"version": "1.0.4",
+"title": "標題：棉花（cotton）",
+"media_type": "Text",
+"index_reference": "5.1.6",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.6\"><span class=\"thlex-key\">5.1.6</span> 標題：棉花（cotton）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： חוֹרַי</span> <span class=\"thlex-translit\">(音譯： choray)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： כַּרְפַּס</span> <span class=\"thlex-translit\">(音譯： karpas)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0155_cotton.jpg\" alt=\"WEB-0155_cotton\"></figure>在印度河流域（今天的巴基斯坦），草棉（學名<em>Gossypium herbaceum</em> ）的種植和紡織至少已有5000年的歷史。在那裡，人們發現了同樣年代久遠的棉布殘餘物。然而，直到基督降生前幾百年，棉花才在以色列地種植。</p>\n<p>以斯帖的故事發生在巴比倫，亞哈隨魯（薛西斯）王統治期間（主前485—主前465年）。那個時候，棉花和亞麻產品可能已經在整個巴比倫帝國往來交易，並且這兩種植物的種植面積可能都在擴大，但印度、巴基斯坦和巴比倫地區可能仍是棉花和亞麻最大的產地。主前5世紀的希羅多德提到來自印度的「長羊毛的樹」。</p>\n<p>《以斯帖記》的作者描述了由<em>karpas</em> 製成的布料。希伯來文<em>karpas</em> 源自梵文，梵文是印度在很久以前使用的語言，而棉花就是在印度栽培的。這或許證明<em>karpas</em> 可能單指棉花，特別是因為同一節經文中的另一個希伯來文詞語<em>buts</em> 可能指「亞麻」。</p>\n<p>有些植物學家指出，聖經中提到的一些「亞麻布」實際上可能是棉布，特別是在較晚寫成的舊約書卷中，因為那時棉花已經廣為人知。此外，有49處經文提到希伯來文<em>tekeleth</em> ，這個詞通常譯作「藍色」或「紫色」，並且常與<em>argamon</em> 一起出現，可能是指棉紗，不過有些學者認為這種材料肯定是羊毛。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0156_cotton.jpg\" alt=\"WEB-0156_cotton\"></figure><a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a> 是一則論到埃及的默示，其中提到「織布（<em>choray</em> ）的」，與「以細緻的麻編織的」平行。這節經文支持下述觀點：在舊約時期，至少在以色列王國時期，棉花就已經在埃及廣泛使用了。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>印度和阿拉伯的原產棉花（「黎凡特棉」）可以長到2米（7英呎）高，葉子柔軟、淺裂（像其近緣植物芙蓉和蜀葵）。黃色的花朵類似錦葵，中間是紫色的。花朵成熟後，下面的棉鈴會膨脹裂開，露出一團白色細絲，也就是我們所稱的「棉花」。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0158_cottonboll.jpg\" alt=\"WEB-0158_cottonboll\"></figure>棉花主要用來織布，也用於醫藥（做藥簽）和其他多種行業。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>現今，棉花在世界各地廣泛種植，特別是在氣候溫暖乾燥的地區。樹棉（學名<em>Gossypium arboreum</em> ）原產於北非，現種植於尼羅河上游的上埃及地區。另一種海島棉（學名<em>Gossypium barbadense</em> ）則生長在西印度群島。埃及、印度、中國和尼日利亞都大量種植棉花，因為棉布是這些國家最重要的紡織品。如果需要從一種主要語言音譯棉花，建議音譯以下詞語：法文<em>cotonnier</em> 、葡萄牙文<em>algodão</em> 或<em>algodeiro</em> 、西班牙文<em>algodonero</em> 、阿拉伯文<em>kutun</em> ，或者英文<em>cotton</em> 。</p>\n<p><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a> a：希伯來文短語<em>chur choray utekeleth</em> 被譯作「有白色的棉布幔子和藍色帳子」（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 直譯）。有些譯本在這裡只提到一件物品（<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ），顯然是將<em>utekeleth</em> （「和藍色」）解作物品<em>karpas</em> 的另一種顏色。有些譯本提到兩件物品（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr> ），是將<em>chur karpas</em> 理解為白色的幔子或帳子，將<em>tekeleth</em> 理解為藍色的幔子或帳子。</p>\n<p>即使翻譯者的民族並不種植棉花，他們也會從布料商那裡得知棉花的名稱。如果不知道，建議按照一種主要語言進行音譯。</p>\n<p>對於<a href=\"https://ref.ly/Esth1:6\">EST 1:6</a> a中提到的材料，就英文譯本來說，我認為較好的譯法依次是：</p>\n<p>1. &quot;blue and white cotton curtains&quot;（「藍色和白色棉布 幔子」；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 、<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）；</p>\n<p>2. &quot;[hangings of] white cotton and blue wool &quot;（「白色棉布 和藍色羊毛 的（帳子）」；<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ）；</p>\n<p>3. &quot;white and violet hangings&quot;（「白色和紫色的帳子」；<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> ，此譯本沒有提到任何材料）；</p>\n<p>4. &quot;hangings of white and blue linen &quot;（「白色和藍色亞麻布 的帳子」；<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> ；<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 類似）；</p>\n<p>5. &quot;white and violet hangings of linen and cotton &quot;（「白色和紫色的亞麻布 及棉布 帳子」；布什）。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23019009",
+"start_ref_usfm": "ISA 19:9",
+"end_ref": "23019009",
+"end_ref_usfm": "ISA 19:9"
+},
+{
+"start_ref": "17001006",
+"start_ref_usfm": "EST 1:6",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.7",
+"reference_id": "FLORA:5.1.7",
+"version": "1.0.4",
+"title": "標題：亞麻（亞麻布）（flax [linen]）",
+"media_type": "Text",
+"index_reference": "5.1.7",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.7\"><span class=\"thlex-key\">5.1.7</span> 標題：亞麻（亞麻布）（flax [linen]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： אֵטוּן</span> <span class=\"thlex-translit\">(音譯： ’etun)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov7:16\">PRO 7:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בַּד</span> <span class=\"thlex-translit\">(音譯： bad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Lev6:3\">LEV 6:3</a>, <a href=\"https://ref.ly/Lev6:3\">LEV 6:3</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:23\">LEV 16:23</a>, <a href=\"https://ref.ly/Lev16:32\">LEV 16:32</a>, <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a>, <a href=\"https://ref.ly/1Sam22:18\">1SA 22:18</a>, <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a>, <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, <a href=\"https://ref.ly/Ezek9:2\">EZK 9:2</a>, <a href=\"https://ref.ly/Ezek9:3\">EZK 9:3</a>, <a href=\"https://ref.ly/Ezek9:11\">EZK 9:11</a>, <a href=\"https://ref.ly/Ezek10:2\">EZK 10:2</a>, <a href=\"https://ref.ly/Ezek10:6\">EZK 10:6</a>, <a href=\"https://ref.ly/Ezek10:7\">EZK 10:7</a>, <a href=\"https://ref.ly/Dan10:5\">DAN 10:5</a>, <a href=\"https://ref.ly/Dan12:6\">DAN 12:6</a>, <a href=\"https://ref.ly/Dan12:7\">DAN 12:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： בּוּץ</span> <span class=\"thlex-translit\">(音譯： buts)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr4:21\">1CH 4:21</a>, <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, <a href=\"https://ref.ly/2Chr2:13\">2CH 2:13</a>, <a href=\"https://ref.ly/2Chr3:14\">2CH 3:14</a>, <a href=\"https://ref.ly/2Chr5:12\">2CH 5:12</a>, <a href=\"https://ref.ly/Esth1:6\">EST 1:6</a>, <a href=\"https://ref.ly/Esth8:15\">EST 8:15</a>, <a href=\"https://ref.ly/Ezek27:16\">EZK 27:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： סָדִין</span> <span class=\"thlex-translit\">(音譯： sadin)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg14:12\">JDG 14:12</a>, <a href=\"https://ref.ly/Judg14:13\">JDG 14:13</a>, <a href=\"https://ref.ly/Prov31:24\">PRO 31:24</a>, <a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： פֵּשֶׁת, פִּשְׁתָּה</span> <span class=\"thlex-translit\">(音譯： pesheth, pishtah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>, <a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>, <a href=\"https://ref.ly/Lev13:47\">LEV 13:47</a>, <a href=\"https://ref.ly/Lev13:48\">LEV 13:48</a>, <a href=\"https://ref.ly/Lev13:52\">LEV 13:52</a>, <a href=\"https://ref.ly/Lev13:59\">LEV 13:59</a>, <a href=\"https://ref.ly/Deut22:11\">DEU 22:11</a>, <a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a>, <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a>, <a href=\"https://ref.ly/Prov31:13\">PRO 31:13</a>, <a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a>, <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>, <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a>, <a href=\"https://ref.ly/Jer13:1\">JER 13:1</a>, <a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek44:17\">EZK 44:17</a>, <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>, <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>, <a href=\"https://ref.ly/Hos2:7\">HOS 2:7</a>, <a href=\"https://ref.ly/Hos2:11\">HOS 2:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： שֵׁשׁ</span> <span class=\"thlex-translit\">(音譯： shesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>, <a href=\"https://ref.ly/Exod25:4\">EXO 25:4</a>, <a href=\"https://ref.ly/Exod26:1\">EXO 26:1</a>, <a href=\"https://ref.ly/Exod26:31\">EXO 26:31</a>, <a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a>, <a href=\"https://ref.ly/Exod27:9\">EXO 27:9</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod27:18\">EXO 27:18</a>, <a href=\"https://ref.ly/Exod28:5\">EXO 28:5</a>, <a href=\"https://ref.ly/Exod28:6\">EXO 28:6</a>, <a href=\"https://ref.ly/Exod28:8\">EXO 28:8</a>, <a href=\"https://ref.ly/Exod28:15\">EXO 28:15</a>, <a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a>, <a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a>, <a href=\"https://ref.ly/Exod35:6\">EXO 35:6</a>, <a href=\"https://ref.ly/Exod35:23\">EXO 35:23</a>, <a href=\"https://ref.ly/Exod35:25\">EXO 35:25</a>, <a href=\"https://ref.ly/Exod35:35\">EXO 35:35</a>, <a href=\"https://ref.ly/Exod36:8\">EXO 36:8</a>, <a href=\"https://ref.ly/Exod36:35\">EXO 36:35</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:9\">EXO 38:9</a>, <a href=\"https://ref.ly/Exod38:16\">EXO 38:16</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod38:23\">EXO 38:23</a>, <a href=\"https://ref.ly/Exod39:2\">EXO 39:2</a>, <a href=\"https://ref.ly/Exod39:3\">EXO 39:3</a>, <a href=\"https://ref.ly/Exod39:5\">EXO 39:5</a>, <a href=\"https://ref.ly/Exod39:8\">EXO 39:8</a>, <a href=\"https://ref.ly/Exod39:27\">EXO 39:27</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Exod39:29\">EXO 39:29</a>, <a href=\"https://ref.ly/Prov31:22\">PRO 31:22</a>, <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>, <a href=\"https://ref.ly/Ezek27:7\">EZK 27:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： βύσσινος</span> <span class=\"thlex-translit\">(音譯： bussinos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude18:12\">REV 18:12</a>, <a href=\"https://ref.ly/Jude18:16\">REV 18:16</a>, <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>, <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>, <a href=\"https://ref.ly/Jude19:14\">REV 19:14</a>, <a href=\"https://ref.ly/4Macc3:6\">1ES 3:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： βύσσος</span> <span class=\"thlex-translit\">(音譯： bussos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark16:19\">LUK 16:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： λίνον; λινοῦς</span> <span class=\"thlex-translit\">(音譯： linon, linous)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a>, <a href=\"https://ref.ly/Jude15:6\">REV 15:6</a>, <a href=\"https://ref.ly/Tob16:8\">JDT 16:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： ὀθόνη; ὀθόνιον</span> <span class=\"thlex-translit\">(音譯： othonē, othonion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark24:12\">LUK 24:12</a>, <a href=\"https://ref.ly/Luke19:40\">JHN 19:40</a>, <a href=\"https://ref.ly/Luke20:5\">JHN 20:5</a>, <a href=\"https://ref.ly/Luke20:6\">JHN 20:6</a>, <a href=\"https://ref.ly/Luke20:7\">JHN 20:7</a>, <a href=\"https://ref.ly/John10:11\">ACT 10:11</a>, <a href=\"https://ref.ly/John11:5\">ACT 11:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希： σινδών</span> <span class=\"thlex-translit\">(音譯： sindōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:59\">MAT 27:59</a>, <a href=\"https://ref.ly/Matt14:51\">MRK 14:51</a>, <a href=\"https://ref.ly/Matt14:52\">MRK 14:52</a>, <a href=\"https://ref.ly/Matt15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Matt15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark23:53\">LUK 23:53</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0230_flax.jpg\" alt=\"WEB-0230_flax\"></figure></p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0235_flax_stalk.jpg\" alt=\"WEB-0235_flax_stalk\"></figure>早在主前5000年，亞麻布的原料亞麻（學名<em>Linum usitatissimum</em> ）就開始在中東種植，包括迦南地區。亞麻甚至可能起源於聖地（祖海里，第78頁）。一份來自以色列基色的文獻提到了亞麻的種植，時間約在掃羅王時期（主前1000年），指出亞麻和羊毛是布匹的主要原料。<a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a> 記載，以色列人的探子被喇合藏在了亞麻梗中。亞麻在埃及廣泛種植，並用來編織成布料和墊子。</p>\n<p>如果事實真如祖海里所言，亞麻確實曾在聖地培植，那麼<em>pesheth</em> 和<em>pishtah</em> 可能是最初指稱亞麻的希伯來文詞語。這兩個詞可能與<em>pashat</em> 有關，意為「剝去」或「剝皮」，或者與<em>pasas</em> 有關，意為「分解」。<em>Pesheth</em> 和<em>pishtah</em> 在舊約中使用了20次，其中兩次明確用來指稱這種植物（<a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>; <a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a> ）。其他經文出處是指加工後的亞麻（<a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a> ；<a href=\"https://ref.ly/Prov31:13\">PRO 31:13</a> ；<a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a> ；<a href=\"https://ref.ly/Hos2:7\">HOS 2:7</a> ［《和》2:5］，<a href=\"https://ref.ly/Hos2:11\">HOS 2:11</a> ［《和》2:9］）。還有幾處是指亞麻製品，即燈心（<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>; <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a> ）、麻繩（<a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a> ）和衣物（<a href=\"https://ref.ly/Jer13:1\">JER 13:1</a>; <a href=\"https://ref.ly/Ezek44:17\">EZK 44:17</a>; <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>; <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a> ）。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0234_flax_flower.jpg\" alt=\"WEB-0234_flax_flower\"></figure>希伯來人很可能是在埃及寄居期間，從那裡借來<em>shesh</em> 這個詞的，因為亞麻也在埃及種植。亞麻的埃及文是<em>shent</em> （源於<em>shen-suten</em> ）。希伯來文<em>shesh</em> 在舊約中使用了38次：指法老給約瑟穿上的細麻衣、《出埃及記》中帳幕的幔子和帷子、以弗得和祭司的外袍。<a href=\"https://ref.ly/Prov31:22\">PRO 31:22</a> 中的才德婦人也穿它。在<a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a> ，細麻布與絲綢成對出現；<a href=\"https://ref.ly/Ezek27:7\">EZK 27:7</a> 記載，「埃及的<em>shesh</em> 」是船帆的材料。</p>\n<p>有幾處提到亞麻的經文使用的是希伯來文<em>bad</em> 。<a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a> 記載，祭司的內袍是用<em>bad</em> 做的，之後《利未記》用<em>bad</em> 來描述祭司所穿的各件衣服——外袍、褲子、腰帶和頭巾。後來，在提到撒母耳和大衛王所穿的以弗得時，<em>bad</em> 又出現了；在《以西結書》和《但以理書》中，我們看到「一個人穿著<em>bad</em> 」的異象。</p>\n<p>在《歷代志上下》、《以斯帖記》和《以西結書》，表示亞麻布的希伯來文是<em>buts</em> ，用來描述聖殿詩班、王和富人所穿的長袍。莫爾登克認為這個詞是亞述文，指東方出產的亞麻布。但是，<em>buts</em> 也可能是源於埃及文的外來詞（比較埃及文<em>nbos</em> ，意為「穿上衣服」）；另外，注意希伯來文動詞<em>bots</em> /<em>bits</em> 的意思是「使變白」或「漂白」（《昂格爾聖經字典》，<em>Unger’s Bible Dictionary</em> ）。在這些經文中，《七十士譯本》通常使用希臘文<em>bussos</em> 或<em>bussinos</em> 為譯詞。</p>\n<p>舊約有4處經文出現希伯來文<em>sadin</em> （「亞麻衣服」）：<a href=\"https://ref.ly/Judg14:12\">JDG 14:12</a> （參孫答應將細麻內衣給他的敵人）、<a href=\"https://ref.ly/Prov31:24\">PRO 31:24</a> （才德的婦人做細麻布衣裳），以及<a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a> （耶路撒冷富貴的女子穿細麻衣）。在這些經文中，《七十士譯本》使用的希臘文是<em>bussos</em> 或<em>sindōn</em> 。</p>\n<p>希伯來文<em>’etun</em> 只出現在<a href=\"https://ref.ly/Prov7:16\">PRO 7:16</a> ，指埃及麻織的被單（比較指裹屍布的希臘文<em>othonion</em> ，以及在<a href=\"https://ref.ly/John10:11\">ACT 10:11</a> 中，指彼得在異象中所見大布的希臘文<em>othonē</em> ）。《七十士譯本》在這裡使用的希臘文是<em>amphitapos</em> ，該詞通常指雙面的毯子。</p>\n<p>在新約中，表示亞麻的希臘文詞語主要有3個：<em>linon</em> /<em>linous</em> 、<em>sindōn</em> 和<em>othonē</em> /<em>othonion</em> 。在<a href=\"https://ref.ly/Jude15:6\">REV 15:6</a> ，<em>linon</em> 是指天使穿的衣服；在<a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a> 指「將殘的燈心」（引用<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> ，與《七十士譯本》<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> 所用的希臘文詞語相同)。符類福音書的作者用<em>sindōn</em> 指約瑟和尼哥德慕用來裹耶穌的麻布。馬可用同一個詞指耶穌被捕時，那個在場的少年人所披的麻布（<a href=\"https://ref.ly/Matt14:51\">MRK 14:51</a>; <a href=\"https://ref.ly/Matt14:52\">MRK 14:52</a> ）。約翰用另一個希臘文<em>othonion</em> 來表示耶穌的裹屍布。</p>\n<p>在拉撒路的故事中，那個財主穿著「細麻布」（<em>bussos</em> ）衣服（<a href=\"https://ref.ly/Mark16:19\">LUK 16:19</a> ）。希臘文<em>bussos</em> 是<em>bussinos</em> 的詞根，<em>bussinos</em> 是指用亞麻布做成的內衣、長袍和頭巾（<a href=\"https://ref.ly/Jude18:12\">REV 18:12</a> ，<a href=\"https://ref.ly/Jude18:16\">REV 18:16</a> ，<a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>; <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a> ，<a href=\"https://ref.ly/Jude19:14\">REV 19:14</a> ；<a href=\"https://ref.ly/4Macc3:6\">1ES 3:6</a> ）。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0232_flax_cutting.jpg\" alt=\"WEB-0232_flax_cutting\"></figure>這些表示亞麻的希伯來文和希臘文詞語指的是布料還是衣服，如襯衫、長袍、內衣、外套等，我們通常很難判斷。更多關於亞麻布的討論，參WTH ，<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:1.5.3.7\" href=\"#REALIA:1.5.3.7\">1.5.3.7 麻、亞麻、細麻布 (linen)</a> 。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>亞麻高約1米（3英呎），比芝麻植株略高。葉子較窄，花為寶藍色，有5個花瓣。蒴果含油，可用於烹飪和稀釋油漆。亞麻成熟後，植株會被連根拔起，稭稈要放置一段時間使其乾燥。然後，將稭稈進行浸泡、晾乾、捶打等步驟，使纖維分離出來，再把纖維進行梳理並織成布。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意義</h2>\n<div class=\"thlex-paragraphs\">\n<p>亞麻布在以色列地比較昂貴，因其質地輕又易染色而受到珍視。以色列人的祭司穿亞麻布衣服來減少出汗（參<a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>; <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a> ）。他們在離開聖殿時必須脫掉這些聖衣，「免得……使百姓成為聖」（<a href=\"https://ref.ly/Ezek44:19\">EZK 44:19</a> ）。還有一件事情表明猶太人非常珍視亞麻布，即他們用細麻布埋葬死者，並且據稱死海古卷就是用細麻布包裹著的。另外，亞麻植物還具有其他特別用途，壓碎的亞麻稭稈還可用來製作繩子和燈心，亞麻籽可用來榨油。</p>\n<p>今天，人們種植亞麻主要是為了榨取亞麻籽的油，而不是為了獲取亞麻纖維，不過人們也用亞麻稭稈製作特殊的紙張。</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0233_flax_flowers.jpg\" alt=\"WEB-0233_flax_flowers\"></figure>在聖經中，亞麻的比喻性用法比較少，而且都是在強調這種材料的脆弱。在<a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a> ，亞麻纖維被用來比喻捆綁參孫的繩索（它們像亞麻線一樣斷開）。<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> 說，彌賽亞會溫和地對待軟弱的人，「將殘的燈火（<em>pishtah</em> ），他不熄滅」，這個形象與當時典型的鐵腕暴君形成鮮明對比。<a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a> 描述了仇敵巴比倫人的命運：他們滅沒，好像熄滅的「燈火（<em>pishtah</em> ）」。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>亞麻布（或其他名稱相似的布料）在世界各地都十分普遍。翻譯者所在地區的布料商可能知道其商業名稱，此時翻譯者可以使用這個名稱。在尼日利亞北部的豪薩，亞麻稱為<em>lilin</em> 。在有些地方，亞麻布只用於埋葬死者。在這種情況下，如果在翻譯中使用了該詞，則需要在腳註中註明這個文化差異。由於亞麻布的顏色源自漂白的工序，所以在很多地方可以考慮使用「精美的白布」這樣的一般性短語。在指亞麻布衣服時，英文通俗譯本使用的是&quot;beautiful clothing&quot;（「美麗的衣服」；<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> ）或&quot;fine clothes&quot;（「精緻的衣服」；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ）這樣的短語。在上文提到的三節比喻性經文中（<a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a>; <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>; <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a> ），翻譯者可以用當地文化中一個恰當的比喻來替代，或用一個表示軟弱或脆弱的副詞來翻譯。在不具有修辭意義的經文中，可按照下述某種主要語言的詞語進行音譯：拉丁文<em>linum</em> 、阿拉伯文<em>fitas</em> 或<em>kattan</em> 、西班牙文<em>lino</em> 、葡萄牙文<em>linho</em> 、法文<em>lin</em> 、泰米爾文<em>alvira</em> ，或者中文「亞麻」。</p>\n<p><a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>; <a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a> 提到的亞麻植物並非修辭性的，翻譯者可以按照一種主要語言進行音譯，如英文<em>filaks</em> /<em>filas</em> ，或希伯來文<em>pishita</em> /<em>fisita</em> 。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "20007016",
+"start_ref_usfm": "PRO 7:16",
+"end_ref": "20007016",
+"end_ref_usfm": "PRO 7:16"
+},
+{
+"start_ref": "02028042",
+"start_ref_usfm": "EXO 28:42",
+"end_ref": "02028042",
+"end_ref_usfm": "EXO 28:42"
+},
+{
+"start_ref": "02039028",
+"start_ref_usfm": "EXO 39:28",
+"end_ref": "02039028",
+"end_ref_usfm": "EXO 39:28"
+},
+{
+"start_ref": "03006003",
+"start_ref_usfm": "LEV 6:3",
+"end_ref": "03006003",
+"end_ref_usfm": "LEV 6:3"
+},
+{
+"start_ref": "03016004",
+"start_ref_usfm": "LEV 16:4",
+"end_ref": "03016004",
+"end_ref_usfm": "LEV 16:4"
+},
+{
+"start_ref": "03016023",
+"start_ref_usfm": "LEV 16:23",
+"end_ref": "03016023",
+"end_ref_usfm": "LEV 16:23"
+},
+{
+"start_ref": "03016032",
+"start_ref_usfm": "LEV 16:32",
+"end_ref": "03016032",
+"end_ref_usfm": "LEV 16:32"
+},
+{
+"start_ref": "09002018",
+"start_ref_usfm": "1SA 2:18",
+"end_ref": "09002018",
+"end_ref_usfm": "1SA 2:18"
+},
+{
+"start_ref": "09022018",
+"start_ref_usfm": "1SA 22:18",
+"end_ref": "09022018",
+"end_ref_usfm": "1SA 22:18"
+},
+{
+"start_ref": "10006014",
+"start_ref_usfm": "2SA 6:14",
+"end_ref": "10006014",
+"end_ref_usfm": "2SA 6:14"
+},
+{
+"start_ref": "13015027",
+"start_ref_usfm": "1CH 15:27",
+"end_ref": "13015027",
+"end_ref_usfm": "1CH 15:27"
+},
+{
+"start_ref": "26009002",
+"start_ref_usfm": "EZK 9:2",
+"end_ref": "26009002",
+"end_ref_usfm": "EZK 9:2"
+},
+{
+"start_ref": "26009003",
+"start_ref_usfm": "EZK 9:3",
+"end_ref": "26009003",
+"end_ref_usfm": "EZK 9:3"
+},
+{
+"start_ref": "26009011",
+"start_ref_usfm": "EZK 9:11",
+"end_ref": "26009011",
+"end_ref_usfm": "EZK 9:11"
+},
+{
+"start_ref": "26010002",
+"start_ref_usfm": "EZK 10:2",
+"end_ref": "26010002",
+"end_ref_usfm": "EZK 10:2"
+},
+{
+"start_ref": "26010006",
+"start_ref_usfm": "EZK 10:6",
+"end_ref": "26010006",
+"end_ref_usfm": "EZK 10:6"
+},
+{
+"start_ref": "26010007",
+"start_ref_usfm": "EZK 10:7",
+"end_ref": "26010007",
+"end_ref_usfm": "EZK 10:7"
+},
+{
+"start_ref": "27010005",
+"start_ref_usfm": "DAN 10:5",
+"end_ref": "27010005",
+"end_ref_usfm": "DAN 10:5"
+},
+{
+"start_ref": "27012006",
+"start_ref_usfm": "DAN 12:6",
+"end_ref": "27012006",
+"end_ref_usfm": "DAN 12:6"
+},
+{
+"start_ref": "27012007",
+"start_ref_usfm": "DAN 12:7",
+"end_ref": "27012007",
+"end_ref_usfm": "DAN 12:7"
+},
+{
+"start_ref": "13004021",
+"start_ref_usfm": "1CH 4:21",
+"end_ref": "13004021",
+"end_ref_usfm": "1CH 4:21"
+},
+{
+"start_ref": "14002013",
+"start_ref_usfm": "2CH 2:13",
+"end_ref": "14002013",
+"end_ref_usfm": "2CH 2:13"
+},
+{
+"start_ref": "14003014",
+"start_ref_usfm": "2CH 3:14",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14005012",
+"start_ref_usfm": "2CH 5:12",
+"end_ref": "14005012",
+"end_ref_usfm": "2CH 5:12"
+},
+{
+"start_ref": "17001006",
+"start_ref_usfm": "EST 1:6",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+},
+{
+"start_ref": "17008015",
+"start_ref_usfm": "EST 8:15",
+"end_ref": "17008015",
+"end_ref_usfm": "EST 8:15"
+},
+{
+"start_ref": "26027016",
+"start_ref_usfm": "EZK 27:16",
+"end_ref": "26027016",
+"end_ref_usfm": "EZK 27:16"
+},
+{
+"start_ref": "07014012",
+"start_ref_usfm": "JDG 14:12",
+"end_ref": "07014012",
+"end_ref_usfm": "JDG 14:12"
+},
+{
+"start_ref": "07014013",
+"start_ref_usfm": "JDG 14:13",
+"end_ref": "07014013",
+"end_ref_usfm": "JDG 14:13"
+},
+{
+"start_ref": "20031024",
+"start_ref_usfm": "PRO 31:24",
+"end_ref": "20031024",
+"end_ref_usfm": "PRO 31:24"
+},
+{
+"start_ref": "23003023",
+"start_ref_usfm": "ISA 3:23",
+"end_ref": "23003023",
+"end_ref_usfm": "ISA 3:23"
+},
+{
+"start_ref": "02009031",
+"start_ref_usfm": "EXO 9:31",
+"end_ref": "02009031",
+"end_ref_usfm": "EXO 9:31"
+},
+{
+"start_ref": "03013047",
+"start_ref_usfm": "LEV 13:47",
+"end_ref": "03013047",
+"end_ref_usfm": "LEV 13:47"
+},
+{
+"start_ref": "03013048",
+"start_ref_usfm": "LEV 13:48",
+"end_ref": "03013048",
+"end_ref_usfm": "LEV 13:48"
+},
+{
+"start_ref": "03013052",
+"start_ref_usfm": "LEV 13:52",
+"end_ref": "03013052",
+"end_ref_usfm": "LEV 13:52"
+},
+{
+"start_ref": "03013059",
+"start_ref_usfm": "LEV 13:59",
+"end_ref": "03013059",
+"end_ref_usfm": "LEV 13:59"
+},
+{
+"start_ref": "05022011",
+"start_ref_usfm": "DEU 22:11",
+"end_ref": "05022011",
+"end_ref_usfm": "DEU 22:11"
+},
+{
+"start_ref": "06002006",
+"start_ref_usfm": "JOS 2:6",
+"end_ref": "06002006",
+"end_ref_usfm": "JOS 2:6"
+},
+{
+"start_ref": "07015014",
+"start_ref_usfm": "JDG 15:14",
+"end_ref": "07015014",
+"end_ref_usfm": "JDG 15:14"
+},
+{
+"start_ref": "20031013",
+"start_ref_usfm": "PRO 31:13",
+"end_ref": "20031013",
+"end_ref_usfm": "PRO 31:13"
+},
+{
+"start_ref": "23019009",
+"start_ref_usfm": "ISA 19:9",
+"end_ref": "23019009",
+"end_ref_usfm": "ISA 19:9"
+},
+{
+"start_ref": "23042003",
+"start_ref_usfm": "ISA 42:3",
+"end_ref": "23042003",
+"end_ref_usfm": "ISA 42:3"
+},
+{
+"start_ref": "23043017",
+"start_ref_usfm": "ISA 43:17",
+"end_ref": "23043017",
+"end_ref_usfm": "ISA 43:17"
+},
+{
+"start_ref": "24013001",
+"start_ref_usfm": "JER 13:1",
+"end_ref": "24013001",
+"end_ref_usfm": "JER 13:1"
+},
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26044017",
+"start_ref_usfm": "EZK 44:17",
+"end_ref": "26044017",
+"end_ref_usfm": "EZK 44:17"
+},
+{
+"start_ref": "26044018",
+"start_ref_usfm": "EZK 44:18",
+"end_ref": "26044018",
+"end_ref_usfm": "EZK 44:18"
+},
+{
+"start_ref": "28002007",
+"start_ref_usfm": "HOS 2:7",
+"end_ref": "28002007",
+"end_ref_usfm": "HOS 2:7"
+},
+{
+"start_ref": "28002011",
+"start_ref_usfm": "HOS 2:11",
+"end_ref": "28002011",
+"end_ref_usfm": "HOS 2:11"
+},
+{
+"start_ref": "01041042",
+"start_ref_usfm": "GEN 41:42",
+"end_ref": "01041042",
+"end_ref_usfm": "GEN 41:42"
+},
+{
+"start_ref": "02025004",
+"start_ref_usfm": "EXO 25:4",
+"end_ref": "02025004",
+"end_ref_usfm": "EXO 25:4"
+},
+{
+"start_ref": "02026001",
+"start_ref_usfm": "EXO 26:1",
+"end_ref": "02026001",
+"end_ref_usfm": "EXO 26:1"
+},
+{
+"start_ref": "02026031",
+"start_ref_usfm": "EXO 26:31",
+"end_ref": "02026031",
+"end_ref_usfm": "EXO 26:31"
+},
+{
+"start_ref": "02026036",
+"start_ref_usfm": "EXO 26:36",
+"end_ref": "02026036",
+"end_ref_usfm": "EXO 26:36"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027009",
+"end_ref_usfm": "EXO 27:9"
+},
+{
+"start_ref": "02027016",
+"start_ref_usfm": "EXO 27:16",
+"end_ref": "02027016",
+"end_ref_usfm": "EXO 27:16"
+},
+{
+"start_ref": "02027018",
+"start_ref_usfm": "EXO 27:18",
+"end_ref": "02027018",
+"end_ref_usfm": "EXO 27:18"
+},
+{
+"start_ref": "02028005",
+"start_ref_usfm": "EXO 28:5",
+"end_ref": "02028005",
+"end_ref_usfm": "EXO 28:5"
+},
+{
+"start_ref": "02028006",
+"start_ref_usfm": "EXO 28:6",
+"end_ref": "02028006",
+"end_ref_usfm": "EXO 28:6"
+},
+{
+"start_ref": "02028008",
+"start_ref_usfm": "EXO 28:8",
+"end_ref": "02028008",
+"end_ref_usfm": "EXO 28:8"
+},
+{
+"start_ref": "02028015",
+"start_ref_usfm": "EXO 28:15",
+"end_ref": "02028015",
+"end_ref_usfm": "EXO 28:15"
+},
+{
+"start_ref": "02028039",
+"start_ref_usfm": "EXO 28:39",
+"end_ref": "02028039",
+"end_ref_usfm": "EXO 28:39"
+},
+{
+"start_ref": "02035006",
+"start_ref_usfm": "EXO 35:6",
+"end_ref": "02035006",
+"end_ref_usfm": "EXO 35:6"
+},
+{
+"start_ref": "02035023",
+"start_ref_usfm": "EXO 35:23",
+"end_ref": "02035023",
+"end_ref_usfm": "EXO 35:23"
+},
+{
+"start_ref": "02035025",
+"start_ref_usfm": "EXO 35:25",
+"end_ref": "02035025",
+"end_ref_usfm": "EXO 35:25"
+},
+{
+"start_ref": "02035035",
+"start_ref_usfm": "EXO 35:35",
+"end_ref": "02035035",
+"end_ref_usfm": "EXO 35:35"
+},
+{
+"start_ref": "02036008",
+"start_ref_usfm": "EXO 36:8",
+"end_ref": "02036008",
+"end_ref_usfm": "EXO 36:8"
+},
+{
+"start_ref": "02036035",
+"start_ref_usfm": "EXO 36:35",
+"end_ref": "02036035",
+"end_ref_usfm": "EXO 36:35"
+},
+{
+"start_ref": "02036037",
+"start_ref_usfm": "EXO 36:37",
+"end_ref": "02036037",
+"end_ref_usfm": "EXO 36:37"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038009",
+"end_ref_usfm": "EXO 38:9"
+},
+{
+"start_ref": "02038016",
+"start_ref_usfm": "EXO 38:16",
+"end_ref": "02038016",
+"end_ref_usfm": "EXO 38:16"
+},
+{
+"start_ref": "02038018",
+"start_ref_usfm": "EXO 38:18",
+"end_ref": "02038018",
+"end_ref_usfm": "EXO 38:18"
+},
+{
+"start_ref": "02038023",
+"start_ref_usfm": "EXO 38:23",
+"end_ref": "02038023",
+"end_ref_usfm": "EXO 38:23"
+},
+{
+"start_ref": "02039002",
+"start_ref_usfm": "EXO 39:2",
+"end_ref": "02039002",
+"end_ref_usfm": "EXO 39:2"
+},
+{
+"start_ref": "02039003",
+"start_ref_usfm": "EXO 39:3",
+"end_ref": "02039003",
+"end_ref_usfm": "EXO 39:3"
+},
+{
+"start_ref": "02039005",
+"start_ref_usfm": "EXO 39:5",
+"end_ref": "02039005",
+"end_ref_usfm": "EXO 39:5"
+},
+{
+"start_ref": "02039008",
+"start_ref_usfm": "EXO 39:8",
+"end_ref": "02039008",
+"end_ref_usfm": "EXO 39:8"
+},
+{
+"start_ref": "02039027",
+"start_ref_usfm": "EXO 39:27",
+"end_ref": "02039027",
+"end_ref_usfm": "EXO 39:27"
+},
+{
+"start_ref": "02039029",
+"start_ref_usfm": "EXO 39:29",
+"end_ref": "02039029",
+"end_ref_usfm": "EXO 39:29"
+},
+{
+"start_ref": "20031022",
+"start_ref_usfm": "PRO 31:22",
+"end_ref": "20031022",
+"end_ref_usfm": "PRO 31:22"
+},
+{
+"start_ref": "26016010",
+"start_ref_usfm": "EZK 16:10",
+"end_ref": "26016010",
+"end_ref_usfm": "EZK 16:10"
+},
+{
+"start_ref": "26016013",
+"start_ref_usfm": "EZK 16:13",
+"end_ref": "26016013",
+"end_ref_usfm": "EZK 16:13"
+},
+{
+"start_ref": "26027007",
+"start_ref_usfm": "EZK 27:7",
+"end_ref": "26027007",
+"end_ref_usfm": "EZK 27:7"
+},
+{
+"start_ref": "66018012",
+"start_ref_usfm": "REV 18:12",
+"end_ref": "66018012",
+"end_ref_usfm": "REV 18:12"
+},
+{
+"start_ref": "66018016",
+"start_ref_usfm": "REV 18:16",
+"end_ref": "66018016",
+"end_ref_usfm": "REV 18:16"
+},
+{
+"start_ref": "66019008",
+"start_ref_usfm": "REV 19:8",
+"end_ref": "66019008",
+"end_ref_usfm": "REV 19:8"
+},
+{
+"start_ref": "66019014",
+"start_ref_usfm": "REV 19:14",
+"end_ref": "66019014",
+"end_ref_usfm": "REV 19:14"
+},
+{
+"start_ref": "82003006",
+"start_ref_usfm": "1ES 3:6",
+"end_ref": "82003006",
+"end_ref_usfm": "1ES 3:6"
+},
+{
+"start_ref": "42016019",
+"start_ref_usfm": "LUK 16:19",
+"end_ref": "42016019",
+"end_ref_usfm": "LUK 16:19"
+},
+{
+"start_ref": "40012020",
+"start_ref_usfm": "MAT 12:20",
+"end_ref": "40012020",
+"end_ref_usfm": "MAT 12:20"
+},
+{
+"start_ref": "66015006",
+"start_ref_usfm": "REV 15:6",
+"end_ref": "66015006",
+"end_ref_usfm": "REV 15:6"
+},
+{
+"start_ref": "69016008",
+"start_ref_usfm": "JDT 16:8",
+"end_ref": "69016008",
+"end_ref_usfm": "JDT 16:8"
+},
+{
+"start_ref": "42024012",
+"start_ref_usfm": "LUK 24:12",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "43019040",
+"start_ref_usfm": "JHN 19:40",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "43020005",
+"start_ref_usfm": "JHN 20:5",
+"end_ref": "43020005",
+"end_ref_usfm": "JHN 20:5"
+},
+{
+"start_ref": "43020006",
+"start_ref_usfm": "JHN 20:6",
+"end_ref": "43020006",
+"end_ref_usfm": "JHN 20:6"
+},
+{
+"start_ref": "43020007",
+"start_ref_usfm": "JHN 20:7",
+"end_ref": "43020007",
+"end_ref_usfm": "JHN 20:7"
+},
+{
+"start_ref": "44010011",
+"start_ref_usfm": "ACT 10:11",
+"end_ref": "44010011",
+"end_ref_usfm": "ACT 10:11"
+},
+{
+"start_ref": "44011005",
+"start_ref_usfm": "ACT 11:5",
+"end_ref": "44011005",
+"end_ref_usfm": "ACT 11:5"
+},
+{
+"start_ref": "40027059",
+"start_ref_usfm": "MAT 27:59",
+"end_ref": "40027059",
+"end_ref_usfm": "MAT 27:59"
+},
+{
+"start_ref": "41014051",
+"start_ref_usfm": "MRK 14:51",
+"end_ref": "41014051",
+"end_ref_usfm": "MRK 14:51"
+},
+{
+"start_ref": "41014052",
+"start_ref_usfm": "MRK 14:52",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "26044019",
+"start_ref_usfm": "EZK 44:19",
+"end_ref": "26044019",
+"end_ref_usfm": "EZK 44:19"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,1930 @@
+[
+{
+"content_id": "FLORA:5.1",
+"reference_id": "FLORA:5.1",
+"version": "1.0.4",
+"title": "Plants for weaving and building",
+"media_type": "Text",
+"index_reference": "5.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1\"><span class=\"thlex-key\">5.1</span> Plants for weaving and building</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">We begin this section with the usual survey of generic expressions. While some of us think of grass as the green stuff that has to be removed from the farm before planting, or the stuff surrounding our house that needs to be cut short regularly, botanists look at a mammoth family of plants (<em>Poaceae</em>) containing over nine thousand species grouped into six hundred genera. The family includes the major food grains (cereals) grown around the world: rice, maize, sorghum, wheat, barley, quinoa, rye, and others. It includes bamboo, which is a major construction material, as well as reeds and canes used for baskets, beds, musical instruments, paper, and chairs. Even sugarcane is a type of grass. All have hollow stems, joints where leaves protrude, sheaths protecting the base of the leaf, a seed head of some type with tiny, wind-pollinated flowers lacking petals, and narrow sword-shaped leaves that grow at the base, not at the tip.</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>; <a href=\"https://ref.ly/Gen1:12\">GEN 1:12</a> gives us a good introduction to the problem of generic and specific vocabulary in Hebrew. God’s speech in verse 11 begins literally “Let the earth sprout [<em>tadshe’</em> ] sprouts [<em>deshe’</em> ], plants [<em>‘esev</em> ] bearing seed, and fruit trees bearing fruit … .” Scholars continue to debate about the Hebrew word <em>deshe’</em>. Is it a generic word introducing the two categories that follow, or is it the first of three categories: grass, seed plants, and fruit trees? (See the Discussion and Translation under <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.2\" href=\"#FLORA:5.1.2\">5.1.2 Grass</a> for more detail.).</p>\n<p>Another generic Hebrew expression is found in <a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>, where God gives <em>yereq ‘esev</em> (“green plants”) to the animals for food. Interestingly, in <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a> the same <em>yereq ‘esev</em> is to serve as food for Noah in the ark along with the meat of animals.</p>\n<p>The generic Hebrew word <em>siach</em> also needs to be mentioned. This word usually means “complaint,” “musing,” “meditation,” or “chatter.” In a few places it refers to “bushes” or “shrubs.” It occurs with the latter meaning in <a href=\"https://ref.ly/Gen2:5\">GEN 2:5</a>; <a href=\"https://ref.ly/Gen21:15\">GEN 21:15</a>; <a href=\"https://ref.ly/Job30:4\">JOB 30:4</a>; <a href=\"https://ref.ly/Job30:7\">JOB 30:7</a>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001011",
+"start_ref_usfm": "GEN 1:11",
+"end_ref": "01001011",
+"end_ref_usfm": "GEN 1:11"
+},
+{
+"start_ref": "01001012",
+"start_ref_usfm": "GEN 1:12",
+"end_ref": "01001012",
+"end_ref_usfm": "GEN 1:12"
+},
+{
+"start_ref": "01001030",
+"start_ref_usfm": "GEN 1:30",
+"end_ref": "01001030",
+"end_ref_usfm": "GEN 1:30"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "01002005",
+"start_ref_usfm": "GEN 2:5",
+"end_ref": "01002005",
+"end_ref_usfm": "GEN 2:5"
+},
+{
+"start_ref": "01021015",
+"start_ref_usfm": "GEN 21:15",
+"end_ref": "01021015",
+"end_ref_usfm": "GEN 21:15"
+},
+{
+"start_ref": "18030004",
+"start_ref_usfm": "JOB 30:4",
+"end_ref": "18030004",
+"end_ref_usfm": "JOB 30:4"
+},
+{
+"start_ref": "18030007",
+"start_ref_usfm": "JOB 30:7",
+"end_ref": "18030007",
+"end_ref_usfm": "JOB 30:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.1",
+"reference_id": "FLORA:5.1.1",
+"version": "1.0.4",
+"title": "Cattail (reed-mace)",
+"media_type": "Text",
+"index_reference": "5.1.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.1\"><span class=\"thlex-key\">5.1.1</span> Cattail (reed-mace)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">סוּף</span> <span class=\"thlex-translit\">(suf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>, <a href=\"https://ref.ly/Exod2:5\">EXO 2:5</a>, <a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a>, <a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0118_cattails.jpg\" alt=\"WEB-0118_cattails\"></figure>The Hebrew word <em>suf</em> probably designates more than one species of the cattail, also called “reed-mace” and “bulrush.” There are two in Israel: <em>Typha domingensis</em> and <em>Typha latifolia</em> (<em>Typha australis</em> according to Zohary). Both species like to stand in the slow-moving water on the edge of rivers and streams. The reference to <em>suf</em> (“weeds”) in <a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a> (5) supports Zohary’s conjecture that <em>suf</em> may be a collective name for many water plants. <em>Suf</em> is paired with <em>qaneh</em> (“reeds”) in <a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a>, so it is almost certainly the cattail since both are found in marshes and slow streams.</p>\n<p>Some writers have suggested that the “reed” placed in the hand of Jesus at his mock trial was a cattail stalk (<a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a>). Others have countered that a cattail flower stalk would not have been ripe that early in the year. But it could also have been a stalk from the previous season. The debate continues.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The cattail reaches 3 meters (10 feet) in height and is notable for its soft, fuzzy brown seed head that eventually disintegrates into fluffy material that blows away in the wind and floats on the water. The plant also spreads through its thick roots, which creep along the bottom of shallow lakes and streams. Its leaves are long, erect, and sharply pointed.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In Bible times, as now, the leaves of cattails were used for baskets and mats. The thick roots are edible, as are the pollen and the young green stalks. The cattails of Exodus are famous as the plants among which the mother of Moses hid her son in his little floating basket.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Most kinds of cattail are found in Europe and North America, where the leaves are used for mats and chair seats. Some <em>Typha</em> species in India (<em>Typha elephantina</em>) are used for making paper and ornaments. Translators who live near rivers may have other reed-like plants that can be used, keeping in mind that there are four reed-like plants mentioned in the Bible (see also <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.3\" href=\"#FLORA:5.1.3\">5.1.3 Papyrus</a>, <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.4\" href=\"#FLORA:5.1.4\">5.1.4 Reed (common reed, giant reed)</a>, and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.5\" href=\"#FLORA:5.1.5\">5.1.5 Rush (bulrush, sedge)</a>. In <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>; <a href=\"https://ref.ly/Exod2:5\">EXO 2:5</a> a number of English versions use the generic word “reeds” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>). <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> has “papyrus plants,” but the experts prefer to see papyrus associated with the Hebrew word <em>gome’</em>. In communities that are unfamiliar with waterside vegetation, generic expressions such as “tall grass” (<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) or “tall stalks of grass” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>) may be effective. The basic options for rendering <em>suf</em> in Exodus and Isaiah are:</p>\n<p>1. a local grass that grows in streams and rivers;</p>\n<p>2. a generic word such as “grass”;</p>\n<p>3. a descriptive phrase such as “tall grass.”</p>\n<p>The word <em>suf</em> has a different sense in <a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a> (5). In this passage the plants are living in the water without roots or are perhaps rooted in the bottom of a shallow sea. So translations typically use “seaweed” (<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr>, <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>), a plant with long, grass-like leaves that is often not attached to the soil under the sea.</p>\n<p>If specific transliterations of <em>suf</em> are needed, adaptations of the following major language words could be considered: Arabic <em>bardi</em>, <em>but</em>, <em>dadi</em>, <em>tifa</em>; French <em>jonc</em>, <em>marset</em>; Portuguese <em>murao</em>, <em>tabua</em>; and Spanish <em>aseña</em>, <em>enea</em>, <em>espadaina</em>, <em>españada</em>, <em>junco</em>, <em>macio</em>, <em>totora</em>, <em>tule espidilla</em>.</p>\n<p>The Hebrew expression <em>yam suf</em> (literally “sea of reeds”) has been translated somewhat inaccurately by the Septuagint translators and many others as “Red Sea.” <em>A Handbook on Exodus</em> recommends following the Hebrew, which is literally “Sea of Reeds,” or the modern equivalent “Gulf of Suez” as in <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, unless there is a strong tradition in the receptor culture for “Red Sea.” If “Red Sea” is used, then a footnote should be added, giving “Sea of Reeds” as the literal meaning of the Hebrew text.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "02002005",
+"start_ref_usfm": "EXO 2:5",
+"end_ref": "02002005",
+"end_ref_usfm": "EXO 2:5"
+},
+{
+"start_ref": "23019006",
+"start_ref_usfm": "ISA 19:6",
+"end_ref": "23019006",
+"end_ref_usfm": "ISA 19:6"
+},
+{
+"start_ref": "32002006",
+"start_ref_usfm": "JON 2:6",
+"end_ref": "32002006",
+"end_ref_usfm": "JON 2:6"
+},
+{
+"start_ref": "40027029",
+"start_ref_usfm": "MAT 27:29",
+"end_ref": "40027029",
+"end_ref_usfm": "MAT 27:29"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.2",
+"reference_id": "FLORA:5.1.2",
+"version": "1.0.4",
+"title": "Grass",
+"media_type": "Text",
+"index_reference": "5.1.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.2\"><span class=\"thlex-key\">5.1.2</span> Grass</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אָחוּ</span> <span class=\"thlex-translit\">(’achu)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen41:2\">GEN 41:2</a>, <a href=\"https://ref.ly/Gen41:18\">GEN 41:18</a>, <a href=\"https://ref.ly/Job8:11\">JOB 8:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">דשׁא</span> <span class=\"thlex-translit\">(dasha’ (verb))</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>, <a href=\"https://ref.ly/Joel2:22\">JOL 2:22</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">דֶּשֶׁא</span> <span class=\"thlex-translit\">(deshe’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>, <a href=\"https://ref.ly/Gen1:12\">GEN 1:12</a>, <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>, <a href=\"https://ref.ly/2Sam23:4\">2SA 23:4</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Job6:5\">JOB 6:5</a>, <a href=\"https://ref.ly/Job38:27\">JOB 38:27</a>, <a href=\"https://ref.ly/Ps23:2\">PSA 23:2</a>, <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>, <a href=\"https://ref.ly/Prov27:25\">PRO 27:25</a>, <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa66:14\">ISA 66:14</a>, <a href=\"https://ref.ly/Jer14:5\">JER 14:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">דֶּתֶא</span> <span class=\"thlex-translit\">(dethe’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan4:12\">DAN 4:12</a>, <a href=\"https://ref.ly/Dan4:20\">DAN 4:20</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חָצִיר</span> <span class=\"thlex-translit\">(chatsir)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs18:5\">1KI 18:5</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Job8:12\">JOB 8:12</a>, <a href=\"https://ref.ly/Job40:15\">JOB 40:15</a>, <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>, <a href=\"https://ref.ly/Ps90:5\">PSA 90:5</a>, <a href=\"https://ref.ly/Ps103:15\">PSA 103:15</a>, <a href=\"https://ref.ly/Ps104:14\">PSA 104:14</a>, <a href=\"https://ref.ly/Ps129:6\">PSA 129:6</a>, <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>, <a href=\"https://ref.ly/Prov27:25\">PRO 27:25</a>, <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>, <a href=\"https://ref.ly/Isa34:13\">ISA 34:13</a>, <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa40:6\">ISA 40:6</a>, <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a>, <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a>, <a href=\"https://ref.ly/Isa40:8\">ISA 40:8</a>, <a href=\"https://ref.ly/Isa44:4\">ISA 44:4</a>, <a href=\"https://ref.ly/Isa51:12\">ISA 51:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חֲשַׁשׁ</span> <span class=\"thlex-translit\">(chashash)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a>, <a href=\"https://ref.ly/Isa33:11\">ISA 33:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">יֶרֶק</span> <span class=\"thlex-translit\">(yereq)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>, <a href=\"https://ref.ly/Num22:4\">NUM 22:4</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>, <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">מִרְעֶה</span> <span class=\"thlex-translit\">(mir‘eh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen47:4\">GEN 47:4</a>, <a href=\"https://ref.ly/1Chr4:39\">1CH 4:39</a>, <a href=\"https://ref.ly/1Chr4:40\">1CH 4:40</a>, <a href=\"https://ref.ly/1Chr4:41\">1CH 4:41</a>, <a href=\"https://ref.ly/Job39:8\">JOB 39:8</a>, <a href=\"https://ref.ly/Isa32:14\">ISA 32:14</a>, <a href=\"https://ref.ly/Lam1:6\">LAM 1:6</a>, <a href=\"https://ref.ly/Ezek34:14\">EZK 34:14</a>, <a href=\"https://ref.ly/Ezek34:14\">EZK 34:14</a>, <a href=\"https://ref.ly/Ezek34:18\">EZK 34:18</a>, <a href=\"https://ref.ly/Ezek34:18\">EZK 34:18</a>, <a href=\"https://ref.ly/Joel1:18\">JOL 1:18</a>, <a href=\"https://ref.ly/Nah2:12\">NAM 2:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֲשַׂב</span> <span class=\"thlex-translit\">(‘asav)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Dan4:12\">DAN 4:12</a>, <a href=\"https://ref.ly/Dan4:22\">DAN 4:22</a>, <a href=\"https://ref.ly/Dan4:29\">DAN 4:29</a>, <a href=\"https://ref.ly/Dan4:30\">DAN 4:30</a>, <a href=\"https://ref.ly/Dan5:21\">DAN 5:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עֵשֶׂב</span> <span class=\"thlex-translit\">(‘esev)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a>, <a href=\"https://ref.ly/Gen1:12\">GEN 1:12</a>, <a href=\"https://ref.ly/Gen1:29\">GEN 1:29</a>, <a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>, <a href=\"https://ref.ly/Gen2:5\">GEN 2:5</a>, <a href=\"https://ref.ly/Gen3:18\">GEN 3:18</a>, <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>, <a href=\"https://ref.ly/Exod9:22\">EXO 9:22</a>, <a href=\"https://ref.ly/Exod9:25\">EXO 9:25</a>, <a href=\"https://ref.ly/Exod10:12\">EXO 10:12</a>, <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>, <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>, <a href=\"https://ref.ly/Deut11:15\">DEU 11:15</a>, <a href=\"https://ref.ly/Deut29:22\">DEU 29:22</a>, <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>, <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>, <a href=\"https://ref.ly/Job5:25\">JOB 5:25</a>, <a href=\"https://ref.ly/Ps72:16\">PSA 72:16</a>, <a href=\"https://ref.ly/Ps92:8\">PSA 92:8</a>, <a href=\"https://ref.ly/Ps102:5\">PSA 102:5</a>, <a href=\"https://ref.ly/Ps102:12\">PSA 102:12</a>, <a href=\"https://ref.ly/Ps104:14\">PSA 104:14</a>, <a href=\"https://ref.ly/Ps105:35\">PSA 105:35</a>, <a href=\"https://ref.ly/Ps106:20\">PSA 106:20</a>, <a href=\"https://ref.ly/Prov19:12\">PRO 19:12</a>, <a href=\"https://ref.ly/Prov27:25\">PRO 27:25</a>, <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa42:15\">ISA 42:15</a>, <a href=\"https://ref.ly/Jer12:4\">JER 12:4</a>, <a href=\"https://ref.ly/Jer14:6\">JER 14:6</a>, <a href=\"https://ref.ly/Amos7:2\">AMO 7:2</a>, <a href=\"https://ref.ly/Mic5:6\">MIC 5:6</a>, <a href=\"https://ref.ly/Zech10:1\">ZEC 10:1</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">βοτάνη</span> <span class=\"thlex-translit\">(botanē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Phlm6:7\">HEB 6:7</a>, <a href=\"https://ref.ly/EsthGr16:12\">WIS 16:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λάχανον</span> <span class=\"thlex-translit\">(lachanon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt13:32\">MAT 13:32</a>, <a href=\"https://ref.ly/Matt4:32\">MRK 4:32</a>, <a href=\"https://ref.ly/Mark11:42\">LUK 11:42</a>, <a href=\"https://ref.ly/Acts14:2\">ROM 14:2</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">χλόη</span> <span class=\"thlex-translit\">(chloē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis40:22\">SIR 40:22</a>, <a href=\"https://ref.ly/Wis43:21\">SIR 43:21</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">χόρτος</span> <span class=\"thlex-translit\">(chortos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt6:30\">MAT 6:30</a>, <a href=\"https://ref.ly/Matt13:26\">MAT 13:26</a>, <a href=\"https://ref.ly/Matt14:19\">MAT 14:19</a>, <a href=\"https://ref.ly/Matt4:28\">MRK 4:28</a>, <a href=\"https://ref.ly/Matt6:39\">MRK 6:39</a>, <a href=\"https://ref.ly/Mark12:28\">LUK 12:28</a>, <a href=\"https://ref.ly/Luke6:10\">JHN 6:10</a>, <a href=\"https://ref.ly/Rom3:12\">1CO 3:12</a>, <a href=\"https://ref.ly/Heb1:10\">JAS 1:10</a>, <a href=\"https://ref.ly/Heb1:11\">JAS 1:11</a>, <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a>, <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a>, <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a>, <a href=\"https://ref.ly/Jude8:7\">REV 8:7</a>, <a href=\"https://ref.ly/Jude9:4\">REV 9:4</a>, <a href=\"https://ref.ly/Wis40:16\">SIR 40:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Latin</span> <span class=\"thlex-lemma\">faenum</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Esd9:27\">2ES 9:27</a>, <a href=\"https://ref.ly/1Esd15:42\">2ES 15:42</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0049_grass.jpg\" alt=\"PTZ-0049_grass\"></figure>There are over 450 species of grass in the Holy Land, and it is unlikely that the Hebrew, Aramaic, Greek, and Latin words above refer to particular species. They are probably generic words that have at one time or other, or in one place or another, referred to various kinds of grass.</p>\n<p>According to Zohary, in <a href=\"https://ref.ly/Gen41:2\">GEN 41:2</a>; <a href=\"https://ref.ly/Gen41:18\">GEN 41:18</a> the Hebrew word <em>’achu</em> (“reed grass”) refers not to a kind of grass but to “damp swampy land used for grazing” (page 127; see <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> “meadow”). However, <a href=\"https://ref.ly/Job8:11\">JOB 8:11</a> seems to speak specifically of some kind of plant (parallel to papyrus), stating that <em>’achu</em> cannot grow where there is no water.</p>\n<p>The Hebrew word <em>chashash</em> in <a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a> is used for dry grass, parallel to stubble, referring to the wicked who will be burned up. In <a href=\"https://ref.ly/Isa33:11\">ISA 33:11</a> the futile plans of the wicked are likened to <em>chashash</em>, again parallel to stubble.</p>\n<p>The eight occurrences of the Hebrew word <em>yereq</em> (“green”) in the Old Testament refer to vegetation. Most of them occur in a phrase such as <em>yereq ‘esev</em> (rendered “green plant” in <a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>; <a href=\"https://ref.ly/Gen9:3\">GEN 9:3</a>) or <em>yereq deshe’</em> (rendered “tender grass” or “green herb” in <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>; <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>; <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>). However, in three passages <em>yereq</em> stands alone (rendered “grass,” “verdue,” or “green thing” in <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a>; <a href=\"https://ref.ly/Num22:4\">NUM 22:4</a>; <a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a>).</p>\n<p>The Hebrew word <em>deshe’</em> is sometimes translated “grass.” It usually occurs in rhetorical contexts, where it is often parallel to <em>chatsir</em>, <em>yereq</em>, or <em>‘esev</em>.</p>\n<p>The Hebrew word <em>‘esev</em> occurs thirty-three times in the Bible and is translated by <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> as “plant” in twelve of them, as “grass” in twelve, as “herb” or “herbage” in five, and as “vegetation” in four. Since there may be languages that have no generic word like “plant,” they may be able to use their word for “grass” or “growing things” in many of these passages when it is appropriate.</p>\n<p>There are a number of words for “pasture,” the grassy fields in which sheep, goats, and cows like to graze. Hebrew has not less than five words: apart from <em>mir‘eh</em>, listed above, there are also <em>migrash</em> (114 times, mostly in Joshua and 1 Chronicles), <em>dover</em> (<a href=\"https://ref.ly/Isa5:17\">ISA 5:17</a>; <a href=\"https://ref.ly/Mic2:12\">MIC 2:12</a>), <em>kar</em> (<a href=\"https://ref.ly/Ps37:20\">PSA 37:20</a>; <a href=\"https://ref.ly/Ps65:14\">PSA 65:14</a>; <a href=\"https://ref.ly/Isa30:23\">ISA 30:23</a>), and <em>nawah</em> (11 times).</p>\n<p>Apart from all of the above, there is also the Hebrew word <em>teven</em>, which is translated “straw”—dried grass used for bricks and as bedding for animals. For example, this word occurs in <a href=\"https://ref.ly/Gen24:25\">GEN 24:25</a>; <a href=\"https://ref.ly/Gen24:32\">GEN 24:32</a>, but translators need to be aware that “straw” for the camels was not for the camels to eat but rather was put on the ground to absorb the urine of the animals.</p>\n<p>There are two Hebrew words that are usually translated “fodder” (that is, animal food) or “provender”: <em>belil</em> (<a href=\"https://ref.ly/Job6:5\">JOB 6:5</a>; <a href=\"https://ref.ly/Job24:6\">JOB 24:6</a>; <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a>) and <em>mispo’</em> (<a href=\"https://ref.ly/Gen24:25\">GEN 24:25</a>, <a href=\"https://ref.ly/Gen24:32\">GEN 24:32</a>; <a href=\"https://ref.ly/Gen42:27\">GEN 42:27</a>; <a href=\"https://ref.ly/Gen43:24\">GEN 43:24</a>; <a href=\"https://ref.ly/Judg19:19\">JDG 19:19</a>). These words probably refer to some type of grass.</p>\n<p>In the New Testament the Greek word <em>chortos</em> occurs fifteen times and is usually translated by <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> as “grass.”</p>\n<p>The Greek word <em>lachanon</em> occurs four times in the New Testament. It is a generic term for garden plants that can be translated according to its context. In <a href=\"https://ref.ly/Matt13:32\">MAT 13:32</a>; <a href=\"https://ref.ly/Matt4:32\">MRK 4:32</a> the mustard seed grows to become bigger than all the <em>lachanon</em> (“shrubs”) of the garden. The Pharisees tithe mint, rue, and every <em>lachanon</em> (“herb”) in <a href=\"https://ref.ly/Mark11:42\">LUK 11:42</a>. The weaker brother of <a href=\"https://ref.ly/Acts14:2\">ROM 14:2</a> eats only <em>lachanon</em> (“vegetables”).</p>\n<p>The Greek word <em>botanē</em> is another generic term. It is translated “vegetation” in <a href=\"https://ref.ly/Phlm6:7\">HEB 6:7</a>.</p>\n<p>In the Deuterocanon the Greek word <em>chloē</em> means “young green growth” (<a href=\"https://ref.ly/Wis40:22\">SIR 40:22</a>; <a href=\"https://ref.ly/Wis43:21\">SIR 43:21</a>). This same word occurs in the Septuagint to translate the Hebrew word <em>deshe’</em> (<a href=\"https://ref.ly/2Sam23:4\">2SA 23:4</a>; <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>; <a href=\"https://ref.ly/Job38:27\">JOB 38:27</a>; <a href=\"https://ref.ly/Ps23:2\">PSA 23:2</a>; <a href=\"https://ref.ly/Ps37:2\">PSA 37:2</a>).</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Grass is so common to most translators that no description is needed. However, for translators who live above the Arctic Circle or in inhospitable deserts, the grasses of the lands of the Bible may cause problems. A common problem is having too many specific words and no generic one. I recall a translation team in Niger (Tamasheq) that really struggled with “sat down on the green grass” in <a href=\"https://ref.ly/Matt6:39\">MRK 6:39</a>, because the only grass they knew (appearing in the short rainy season), was not something anyone would want to sit on. Grass can be described as being less than a meter (3 feet) high, with narrow, green, upright leaves, usually growing in bunches or clumps.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In <a href=\"https://ref.ly/Ps90:5\">PSA 90:5</a> and <a href=\"https://ref.ly/Isa40:6\">ISA 40:6</a>; <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a> grass is used in a metaphor to emphasize the short lives of human beings. In <a href=\"https://ref.ly/Matt6:30\">MAT 6:30</a> Jesus uses “grass of the field” as something of little value compared to human beings.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In the case of some African languages, a word translated “grass” actually refers to “unexploited vegetation” in contrast to plants used for food, medicine, and utensils. It is possible that such a distinction was present in Hebrew as well, but at this point we don’t know about it. Before translating, it will be important to investigate how the local people categorize the plant world. Once the local taxonomy is known, the translators can decide how much or how little of it they want to use, depending on their general principles of accommodation in the translation as a whole.</p>\n<p>Where possible, the Hebrew word <em>deshe’</em> should carry the meaning of new growth or fresh sprouts of a plant. Since it usually occurs in rhetorical contexts and is often parallel with other references to grass, the translator needs to think of pairs or triplets of words that refer to grass and grass-like plants.</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> a: “Let the earth put forth vegetation [<em>deshe’</em> ].” On the basis of this verse’s parallelism with verse 20, I support the majority view here that there are two categories with a generic introducer (see the <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1\" href=\"#FLORA:5.1\">introductory comments</a> on this section). The translator needs the most general word for plants here to render <em>deshe’</em>.* If there is no generic word available, a phrase such as “things with leaves” or “sprouting things” is appropriate. As a last resort, one could simply omit the generic term and translate the specifics.</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> b: “Plants yielding seed.” It is difficult to know if the Hebrew phrase here (<em>‘esev mazri‘a zera‘</em>) is talking about plants whose “fruit” is a seed, like rice, or any kind of plants that have seeds, including tomatoes, peppers, grapes, eggplants, and so forth. The English versions stay ambiguous; for example, <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> “those that bear grain,” <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “grain,” <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> “some to make grain for seeds,” <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> “seed-bearing plants” (also <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>; similarly <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr>, <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr>), and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> “plants that bear seed.” “Grain” (equivalent to “corn” in British English) may be too narrow. In either case, this category is set off against what follows, namely, fruit-bearing plants like apples and mangoes.</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> c: “Fruit trees bearing fruit in which is their seed.” The issue here is whether the Hebrew phrase <em>’asher zar‘o vo</em> (“in which is their seed”) is a redundant expression like “of the air” after birds, or whether the phrase actually adds information. <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> take it as redundant (<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> “those that bear fruit,” <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> “fruit trees”). Others seem to feel it necessary to retain this phrase (for example, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> “others to make fruits with seeds in them,” and <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> “fruit trees … bearing fruit with their seed inside” [similarly <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ]).</p>\n<p><a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> d: “Each according to its kind.” <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> says “each according to its own type.” There seem to be three interpretations of the Hebrew phrase here in the English versions:</p>\n<p>1. Some take it as emphasizing the multiplicity of plant types; for example, <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> and <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> say “all kinds of plants” (similarly <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>).</p>\n<p>2. Some seem to focus on the categorization of plants; for example, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> says “according to their various kinds,” and <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr> has “each corresponding to its own species.”</p>\n<p>3. Some focus on the reproductivity of plants; for example, <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> says “Every seed will produce more of its own kind of plant” and <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> has “The seeds will then produce the kinds of plants and trees from which they came.” Compare <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, which reads “each with its own kind of seed.”</p>\n<p>A major theme of the writer in <a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> seems to be the orderliness—the categories and subcategories—of creation. This supports <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>. But the repeated use of “seed” indicates that the writer is also interested in the regularity of genetic laws. Echoing this theme, Deuteronomy includes laws strictly forbidding the mixture of different kinds (“seeds” in some languages!) of plants in farms and fibers in clothes. Christ added his own version to this Hebrew concern when he said, “Are grapes gathered from thorns, or figs from thistles?” (<a href=\"https://ref.ly/Matt7:16\">MAT 7:16</a>). Possible models for <a href=\"https://ref.ly/Gen1:11\">GEN 1:11</a> are:</p>\n<p>1. Let the earth be covered with plants. Let there be plants with seeds [or, a local subcategory] and trees with fruit [or, a local subcategory]. Let each one have a different kind of seed.</p>\n<p>2. Let different kinds of plants sprout from the ground and cover the whole earth. Let there be grass, shrubs, and trees [or, plants with seeds and trees with fruit; or, grain, vegetables, and fruit trees]. Let each kind produce its own.</p>\n<p>Translators, after carefully studying the categorization system of their own language, should consider which of the two basic structures of this verse matches their own best. It is quite possible that the three-way division taken by <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> and some commentaries would fit the local system better. If so, there is no harm in following it.</p>\n<p>Once translators have investigated their local taxonomy, they must decide whether to use it or to try to express the Hebrew categorization. In the absence of middle level generic terms, translators could say “plants like rice” and “plants like mangos,” though this carries the hazard of implying that the original audience had rice or mangos.</p>\n<p>The Hebrew categorization is more typological than strictly logical or scientific, so it leaves us with overlap and ambiguity. Probably the most important thing that the writer intends to show is the orderliness of God’s creation.</p>\n<p><a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>: The last two lines of this verse read “like grass [<em>chatsir</em> ] on the housetops; blighted before it is grown” (also <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>; similarly <a href=\"https://ref.ly/Ps129:6\">PSA 129:6</a>). These lines gives us a picture of a house with a flat roof where dust could settle, forming a fertile but shallow environment for the germination of grass seeds. However, the grass was doomed to wither and die quickly because of the lack of moisture and soil. There is a textual problem with the last line. <abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> backs the <abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr>, which reads “blighted/scorced before it rises” (<em>shedefah lifne qamah</em>). It gives a “C” rating to the <abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> over against the conjecture, which reads “blighted/scorched before the east wind” (<em>shedefah lifne qadim</em>). The conjection is followed by <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> and <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>. <abbr class=\"thlex-abbr\" title=\"Hebrew Old Testament Text Project (UBS)\">HOTTP</abbr> concludes that the copyist(s), lacking sufficient knowledge of Hebrew, didn’t understand this line and guessed that it might have meant “scorched by the east wind,” which is also very logical. The consensus appears to follow the <abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> (so <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr>, <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr>). <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> also follows the <abbr class=\"thlex-abbr\" title=\"Masoretic Text\">MT</abbr> by saying “blasted before the standing grain,” which makes no sense at all in the context.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041002",
+"start_ref_usfm": "GEN 41:2",
+"end_ref": "01041002",
+"end_ref_usfm": "GEN 41:2"
+},
+{
+"start_ref": "01041018",
+"start_ref_usfm": "GEN 41:18",
+"end_ref": "01041018",
+"end_ref_usfm": "GEN 41:18"
+},
+{
+"start_ref": "18008011",
+"start_ref_usfm": "JOB 8:11",
+"end_ref": "18008011",
+"end_ref_usfm": "JOB 8:11"
+},
+{
+"start_ref": "01001011",
+"start_ref_usfm": "GEN 1:11",
+"end_ref": "01001011",
+"end_ref_usfm": "GEN 1:11"
+},
+{
+"start_ref": "29002022",
+"start_ref_usfm": "JOL 2:22",
+"end_ref": "29002022",
+"end_ref_usfm": "JOL 2:22"
+},
+{
+"start_ref": "01001012",
+"start_ref_usfm": "GEN 1:12",
+"end_ref": "01001012",
+"end_ref_usfm": "GEN 1:12"
+},
+{
+"start_ref": "05032002",
+"start_ref_usfm": "DEU 32:2",
+"end_ref": "05032002",
+"end_ref_usfm": "DEU 32:2"
+},
+{
+"start_ref": "10023004",
+"start_ref_usfm": "2SA 23:4",
+"end_ref": "10023004",
+"end_ref_usfm": "2SA 23:4"
+},
+{
+"start_ref": "12019026",
+"start_ref_usfm": "2KI 19:26",
+"end_ref": "12019026",
+"end_ref_usfm": "2KI 19:26"
+},
+{
+"start_ref": "18006005",
+"start_ref_usfm": "JOB 6:5",
+"end_ref": "18006005",
+"end_ref_usfm": "JOB 6:5"
+},
+{
+"start_ref": "18038027",
+"start_ref_usfm": "JOB 38:27",
+"end_ref": "18038027",
+"end_ref_usfm": "JOB 38:27"
+},
+{
+"start_ref": "19023002",
+"start_ref_usfm": "PSA 23:2",
+"end_ref": "19023002",
+"end_ref_usfm": "PSA 23:2"
+},
+{
+"start_ref": "19037002",
+"start_ref_usfm": "PSA 37:2",
+"end_ref": "19037002",
+"end_ref_usfm": "PSA 37:2"
+},
+{
+"start_ref": "20027025",
+"start_ref_usfm": "PRO 27:25",
+"end_ref": "20027025",
+"end_ref_usfm": "PRO 27:25"
+},
+{
+"start_ref": "23015006",
+"start_ref_usfm": "ISA 15:6",
+"end_ref": "23015006",
+"end_ref_usfm": "ISA 15:6"
+},
+{
+"start_ref": "23037027",
+"start_ref_usfm": "ISA 37:27",
+"end_ref": "23037027",
+"end_ref_usfm": "ISA 37:27"
+},
+{
+"start_ref": "23066014",
+"start_ref_usfm": "ISA 66:14",
+"end_ref": "23066014",
+"end_ref_usfm": "ISA 66:14"
+},
+{
+"start_ref": "24014005",
+"start_ref_usfm": "JER 14:5",
+"end_ref": "24014005",
+"end_ref_usfm": "JER 14:5"
+},
+{
+"start_ref": "27004012",
+"start_ref_usfm": "DAN 4:12",
+"end_ref": "27004012",
+"end_ref_usfm": "DAN 4:12"
+},
+{
+"start_ref": "27004020",
+"start_ref_usfm": "DAN 4:20",
+"end_ref": "27004020",
+"end_ref_usfm": "DAN 4:20"
+},
+{
+"start_ref": "11018005",
+"start_ref_usfm": "1KI 18:5",
+"end_ref": "11018005",
+"end_ref_usfm": "1KI 18:5"
+},
+{
+"start_ref": "18008012",
+"start_ref_usfm": "JOB 8:12",
+"end_ref": "18008012",
+"end_ref_usfm": "JOB 8:12"
+},
+{
+"start_ref": "18040015",
+"start_ref_usfm": "JOB 40:15",
+"end_ref": "18040015",
+"end_ref_usfm": "JOB 40:15"
+},
+{
+"start_ref": "19090005",
+"start_ref_usfm": "PSA 90:5",
+"end_ref": "19090005",
+"end_ref_usfm": "PSA 90:5"
+},
+{
+"start_ref": "19103015",
+"start_ref_usfm": "PSA 103:15",
+"end_ref": "19103015",
+"end_ref_usfm": "PSA 103:15"
+},
+{
+"start_ref": "19104014",
+"start_ref_usfm": "PSA 104:14",
+"end_ref": "19104014",
+"end_ref_usfm": "PSA 104:14"
+},
+{
+"start_ref": "19129006",
+"start_ref_usfm": "PSA 129:6",
+"end_ref": "19129006",
+"end_ref_usfm": "PSA 129:6"
+},
+{
+"start_ref": "19147008",
+"start_ref_usfm": "PSA 147:8",
+"end_ref": "19147008",
+"end_ref_usfm": "PSA 147:8"
+},
+{
+"start_ref": "23034013",
+"start_ref_usfm": "ISA 34:13",
+"end_ref": "23034013",
+"end_ref_usfm": "ISA 34:13"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "23040006",
+"start_ref_usfm": "ISA 40:6",
+"end_ref": "23040006",
+"end_ref_usfm": "ISA 40:6"
+},
+{
+"start_ref": "23040007",
+"start_ref_usfm": "ISA 40:7",
+"end_ref": "23040007",
+"end_ref_usfm": "ISA 40:7"
+},
+{
+"start_ref": "23040008",
+"start_ref_usfm": "ISA 40:8",
+"end_ref": "23040008",
+"end_ref_usfm": "ISA 40:8"
+},
+{
+"start_ref": "23044004",
+"start_ref_usfm": "ISA 44:4",
+"end_ref": "23044004",
+"end_ref_usfm": "ISA 44:4"
+},
+{
+"start_ref": "23051012",
+"start_ref_usfm": "ISA 51:12",
+"end_ref": "23051012",
+"end_ref_usfm": "ISA 51:12"
+},
+{
+"start_ref": "23005024",
+"start_ref_usfm": "ISA 5:24",
+"end_ref": "23005024",
+"end_ref_usfm": "ISA 5:24"
+},
+{
+"start_ref": "23033011",
+"start_ref_usfm": "ISA 33:11",
+"end_ref": "23033011",
+"end_ref_usfm": "ISA 33:11"
+},
+{
+"start_ref": "01001030",
+"start_ref_usfm": "GEN 1:30",
+"end_ref": "01001030",
+"end_ref_usfm": "GEN 1:30"
+},
+{
+"start_ref": "01009003",
+"start_ref_usfm": "GEN 9:3",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "02010015",
+"start_ref_usfm": "EXO 10:15",
+"end_ref": "02010015",
+"end_ref_usfm": "EXO 10:15"
+},
+{
+"start_ref": "04022004",
+"start_ref_usfm": "NUM 22:4",
+"end_ref": "04022004",
+"end_ref_usfm": "NUM 22:4"
+},
+{
+"start_ref": "01047004",
+"start_ref_usfm": "GEN 47:4",
+"end_ref": "01047004",
+"end_ref_usfm": "GEN 47:4"
+},
+{
+"start_ref": "13004039",
+"start_ref_usfm": "1CH 4:39",
+"end_ref": "13004039",
+"end_ref_usfm": "1CH 4:39"
+},
+{
+"start_ref": "13004040",
+"start_ref_usfm": "1CH 4:40",
+"end_ref": "13004040",
+"end_ref_usfm": "1CH 4:40"
+},
+{
+"start_ref": "13004041",
+"start_ref_usfm": "1CH 4:41",
+"end_ref": "13004041",
+"end_ref_usfm": "1CH 4:41"
+},
+{
+"start_ref": "18039008",
+"start_ref_usfm": "JOB 39:8",
+"end_ref": "18039008",
+"end_ref_usfm": "JOB 39:8"
+},
+{
+"start_ref": "23032014",
+"start_ref_usfm": "ISA 32:14",
+"end_ref": "23032014",
+"end_ref_usfm": "ISA 32:14"
+},
+{
+"start_ref": "25001006",
+"start_ref_usfm": "LAM 1:6",
+"end_ref": "25001006",
+"end_ref_usfm": "LAM 1:6"
+},
+{
+"start_ref": "26034014",
+"start_ref_usfm": "EZK 34:14",
+"end_ref": "26034014",
+"end_ref_usfm": "EZK 34:14"
+},
+{
+"start_ref": "26034018",
+"start_ref_usfm": "EZK 34:18",
+"end_ref": "26034018",
+"end_ref_usfm": "EZK 34:18"
+},
+{
+"start_ref": "29001018",
+"start_ref_usfm": "JOL 1:18",
+"end_ref": "29001018",
+"end_ref_usfm": "JOL 1:18"
+},
+{
+"start_ref": "34002012",
+"start_ref_usfm": "NAM 2:12",
+"end_ref": "34002012",
+"end_ref_usfm": "NAM 2:12"
+},
+{
+"start_ref": "27004022",
+"start_ref_usfm": "DAN 4:22",
+"end_ref": "27004022",
+"end_ref_usfm": "DAN 4:22"
+},
+{
+"start_ref": "27004029",
+"start_ref_usfm": "DAN 4:29",
+"end_ref": "27004029",
+"end_ref_usfm": "DAN 4:29"
+},
+{
+"start_ref": "27004030",
+"start_ref_usfm": "DAN 4:30",
+"end_ref": "27004030",
+"end_ref_usfm": "DAN 4:30"
+},
+{
+"start_ref": "27005021",
+"start_ref_usfm": "DAN 5:21",
+"end_ref": "27005021",
+"end_ref_usfm": "DAN 5:21"
+},
+{
+"start_ref": "01001029",
+"start_ref_usfm": "GEN 1:29",
+"end_ref": "01001029",
+"end_ref_usfm": "GEN 1:29"
+},
+{
+"start_ref": "01002005",
+"start_ref_usfm": "GEN 2:5",
+"end_ref": "01002005",
+"end_ref_usfm": "GEN 2:5"
+},
+{
+"start_ref": "01003018",
+"start_ref_usfm": "GEN 3:18",
+"end_ref": "01003018",
+"end_ref_usfm": "GEN 3:18"
+},
+{
+"start_ref": "02009022",
+"start_ref_usfm": "EXO 9:22",
+"end_ref": "02009022",
+"end_ref_usfm": "EXO 9:22"
+},
+{
+"start_ref": "02009025",
+"start_ref_usfm": "EXO 9:25",
+"end_ref": "02009025",
+"end_ref_usfm": "EXO 9:25"
+},
+{
+"start_ref": "02010012",
+"start_ref_usfm": "EXO 10:12",
+"end_ref": "02010012",
+"end_ref_usfm": "EXO 10:12"
+},
+{
+"start_ref": "05011015",
+"start_ref_usfm": "DEU 11:15",
+"end_ref": "05011015",
+"end_ref_usfm": "DEU 11:15"
+},
+{
+"start_ref": "05029022",
+"start_ref_usfm": "DEU 29:22",
+"end_ref": "05029022",
+"end_ref_usfm": "DEU 29:22"
+},
+{
+"start_ref": "18005025",
+"start_ref_usfm": "JOB 5:25",
+"end_ref": "18005025",
+"end_ref_usfm": "JOB 5:25"
+},
+{
+"start_ref": "19072016",
+"start_ref_usfm": "PSA 72:16",
+"end_ref": "19072016",
+"end_ref_usfm": "PSA 72:16"
+},
+{
+"start_ref": "19092008",
+"start_ref_usfm": "PSA 92:8",
+"end_ref": "19092008",
+"end_ref_usfm": "PSA 92:8"
+},
+{
+"start_ref": "19102005",
+"start_ref_usfm": "PSA 102:5",
+"end_ref": "19102005",
+"end_ref_usfm": "PSA 102:5"
+},
+{
+"start_ref": "19102012",
+"start_ref_usfm": "PSA 102:12",
+"end_ref": "19102012",
+"end_ref_usfm": "PSA 102:12"
+},
+{
+"start_ref": "19105035",
+"start_ref_usfm": "PSA 105:35",
+"end_ref": "19105035",
+"end_ref_usfm": "PSA 105:35"
+},
+{
+"start_ref": "19106020",
+"start_ref_usfm": "PSA 106:20",
+"end_ref": "19106020",
+"end_ref_usfm": "PSA 106:20"
+},
+{
+"start_ref": "20019012",
+"start_ref_usfm": "PRO 19:12",
+"end_ref": "20019012",
+"end_ref_usfm": "PRO 19:12"
+},
+{
+"start_ref": "23042015",
+"start_ref_usfm": "ISA 42:15",
+"end_ref": "23042015",
+"end_ref_usfm": "ISA 42:15"
+},
+{
+"start_ref": "24012004",
+"start_ref_usfm": "JER 12:4",
+"end_ref": "24012004",
+"end_ref_usfm": "JER 12:4"
+},
+{
+"start_ref": "24014006",
+"start_ref_usfm": "JER 14:6",
+"end_ref": "24014006",
+"end_ref_usfm": "JER 14:6"
+},
+{
+"start_ref": "30007002",
+"start_ref_usfm": "AMO 7:2",
+"end_ref": "30007002",
+"end_ref_usfm": "AMO 7:2"
+},
+{
+"start_ref": "33005006",
+"start_ref_usfm": "MIC 5:6",
+"end_ref": "33005006",
+"end_ref_usfm": "MIC 5:6"
+},
+{
+"start_ref": "38010001",
+"start_ref_usfm": "ZEC 10:1",
+"end_ref": "38010001",
+"end_ref_usfm": "ZEC 10:1"
+},
+{
+"start_ref": "58006007",
+"start_ref_usfm": "HEB 6:7",
+"end_ref": "58006007",
+"end_ref_usfm": "HEB 6:7"
+},
+{
+"start_ref": "71016012",
+"start_ref_usfm": "WIS 16:12",
+"end_ref": "71016012",
+"end_ref_usfm": "WIS 16:12"
+},
+{
+"start_ref": "40013032",
+"start_ref_usfm": "MAT 13:32",
+"end_ref": "40013032",
+"end_ref_usfm": "MAT 13:32"
+},
+{
+"start_ref": "41004032",
+"start_ref_usfm": "MRK 4:32",
+"end_ref": "41004032",
+"end_ref_usfm": "MRK 4:32"
+},
+{
+"start_ref": "42011042",
+"start_ref_usfm": "LUK 11:42",
+"end_ref": "42011042",
+"end_ref_usfm": "LUK 11:42"
+},
+{
+"start_ref": "45014002",
+"start_ref_usfm": "ROM 14:2",
+"end_ref": "45014002",
+"end_ref_usfm": "ROM 14:2"
+},
+{
+"start_ref": "72040022",
+"start_ref_usfm": "SIR 40:22",
+"end_ref": "72040022",
+"end_ref_usfm": "SIR 40:22"
+},
+{
+"start_ref": "72043021",
+"start_ref_usfm": "SIR 43:21",
+"end_ref": "72043021",
+"end_ref_usfm": "SIR 43:21"
+},
+{
+"start_ref": "40006030",
+"start_ref_usfm": "MAT 6:30",
+"end_ref": "40006030",
+"end_ref_usfm": "MAT 6:30"
+},
+{
+"start_ref": "40013026",
+"start_ref_usfm": "MAT 13:26",
+"end_ref": "40013026",
+"end_ref_usfm": "MAT 13:26"
+},
+{
+"start_ref": "40014019",
+"start_ref_usfm": "MAT 14:19",
+"end_ref": "40014019",
+"end_ref_usfm": "MAT 14:19"
+},
+{
+"start_ref": "41004028",
+"start_ref_usfm": "MRK 4:28",
+"end_ref": "41004028",
+"end_ref_usfm": "MRK 4:28"
+},
+{
+"start_ref": "41006039",
+"start_ref_usfm": "MRK 6:39",
+"end_ref": "41006039",
+"end_ref_usfm": "MRK 6:39"
+},
+{
+"start_ref": "42012028",
+"start_ref_usfm": "LUK 12:28",
+"end_ref": "42012028",
+"end_ref_usfm": "LUK 12:28"
+},
+{
+"start_ref": "43006010",
+"start_ref_usfm": "JHN 6:10",
+"end_ref": "43006010",
+"end_ref_usfm": "JHN 6:10"
+},
+{
+"start_ref": "46003012",
+"start_ref_usfm": "1CO 3:12",
+"end_ref": "46003012",
+"end_ref_usfm": "1CO 3:12"
+},
+{
+"start_ref": "59001010",
+"start_ref_usfm": "JAS 1:10",
+"end_ref": "59001010",
+"end_ref_usfm": "JAS 1:10"
+},
+{
+"start_ref": "59001011",
+"start_ref_usfm": "JAS 1:11",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "60001024",
+"start_ref_usfm": "1PE 1:24",
+"end_ref": "60001024",
+"end_ref_usfm": "1PE 1:24"
+},
+{
+"start_ref": "66008007",
+"start_ref_usfm": "REV 8:7",
+"end_ref": "66008007",
+"end_ref_usfm": "REV 8:7"
+},
+{
+"start_ref": "66009004",
+"start_ref_usfm": "REV 9:4",
+"end_ref": "66009004",
+"end_ref_usfm": "REV 9:4"
+},
+{
+"start_ref": "72040016",
+"start_ref_usfm": "SIR 40:16",
+"end_ref": "72040016",
+"end_ref_usfm": "SIR 40:16"
+},
+{
+"start_ref": "83009027",
+"start_ref_usfm": "2ES 9:27",
+"end_ref": "83009027",
+"end_ref_usfm": "2ES 9:27"
+},
+{
+"start_ref": "83015042",
+"start_ref_usfm": "2ES 15:42",
+"end_ref": "83015042",
+"end_ref_usfm": "2ES 15:42"
+},
+{
+"start_ref": "23005017",
+"start_ref_usfm": "ISA 5:17",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
+"start_ref": "33002012",
+"start_ref_usfm": "MIC 2:12",
+"end_ref": "33002012",
+"end_ref_usfm": "MIC 2:12"
+},
+{
+"start_ref": "19037020",
+"start_ref_usfm": "PSA 37:20",
+"end_ref": "19037020",
+"end_ref_usfm": "PSA 37:20"
+},
+{
+"start_ref": "19065014",
+"start_ref_usfm": "PSA 65:14",
+"end_ref": "19065014",
+"end_ref_usfm": "PSA 65:14"
+},
+{
+"start_ref": "23030023",
+"start_ref_usfm": "ISA 30:23",
+"end_ref": "23030023",
+"end_ref_usfm": "ISA 30:23"
+},
+{
+"start_ref": "01024025",
+"start_ref_usfm": "GEN 24:25",
+"end_ref": "01024025",
+"end_ref_usfm": "GEN 24:25"
+},
+{
+"start_ref": "01024032",
+"start_ref_usfm": "GEN 24:32",
+"end_ref": "01024032",
+"end_ref_usfm": "GEN 24:32"
+},
+{
+"start_ref": "18024006",
+"start_ref_usfm": "JOB 24:6",
+"end_ref": "18024006",
+"end_ref_usfm": "JOB 24:6"
+},
+{
+"start_ref": "23030024",
+"start_ref_usfm": "ISA 30:24",
+"end_ref": "23030024",
+"end_ref_usfm": "ISA 30:24"
+},
+{
+"start_ref": "01042027",
+"start_ref_usfm": "GEN 42:27",
+"end_ref": "01042027",
+"end_ref_usfm": "GEN 42:27"
+},
+{
+"start_ref": "01043024",
+"start_ref_usfm": "GEN 43:24",
+"end_ref": "01043024",
+"end_ref_usfm": "GEN 43:24"
+},
+{
+"start_ref": "07019019",
+"start_ref_usfm": "JDG 19:19",
+"end_ref": "07019019",
+"end_ref_usfm": "JDG 19:19"
+},
+{
+"start_ref": "40007016",
+"start_ref_usfm": "MAT 7:16",
+"end_ref": "40007016",
+"end_ref_usfm": "MAT 7:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.3",
+"reference_id": "FLORA:5.1.3",
+"version": "1.0.4",
+"title": "Papyrus",
+"media_type": "Text",
+"index_reference": "5.1.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.3\"><span class=\"thlex-key\">5.1.3</span> Papyrus</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֹּמֶא</span> <span class=\"thlex-translit\">(gome’)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>, <a href=\"https://ref.ly/Job8:11\">JOB 8:11</a>, <a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a>, <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֵבֶה</span> <span class=\"thlex-translit\">(’eveh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job9:26\">JOB 9:26</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0693_papyrus.jpg\" alt=\"WEB-0693_papyrus\"></figure>Although there has been considerable debate among botanists as to the identity of the various types of reed in the Bible, there is general agreement that the Hebrew word <em>gome’</em> refers to the Papyrus <em>Cyperus papyrus</em>, based on etymological and practical grounds. As for the Hebrew word <em>’eveh</em>, the phrase “skiffs of <em>’eveh</em> in <a href=\"https://ref.ly/Job9:26\">JOB 9:26</a> suggests that it refers to papyrus, since boats in Egypt were made of papyrus, apart from those made from wood. However, versions are divided between “papyrus” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) and “reed” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>) in this passage.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0697_papyrus_heads.jpg\" alt=\"WEB-0697_papyrus_heads\"></figure>Papyrus is a very tall grass producing many flower stems that can be as much as 6 meters (20 feet) tall and 10 centimeters (4 inches) in diameter. The head at the top the stem separates into hundreds of branches that spread out like the top of a palm tree. Each one has small flowers.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Papyrus was the most versatile grass in the Ancient Near East. In Egypt it was used to make boxes, mats, ropes, and especially paper. Perhaps its use in boats came to the mind of Jochebed when she wanted to save her infant son Moses from the wrath of the Pharoah (<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>). Job’s companion Bildad uses papyrus as an example of a plant that needs water, and further as a slam at Job suggesting he must have sinned <a href=\"https://ref.ly/Job8:11\">JOB 8:11</a>). <a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a> refers to “ambassadors by the Nile, in vessels of papyrus” as emblems of the great political power of Egypt. Poor people also used papyrus for barrels, huts, sandals, and clothing. Perhaps surprisingly, papyrus was not usually used for baskets. The baskets of the Egyptians, like those in sub-Saharan Africa today, were made of coiled construction using a core of date palm leaflets, fibers, or the split midrib, with a fiber wrapped around the core, like a guitar string.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>There are over six hundred kinds of <em>Cyperus</em> growing in tropical and warm climates throughout the world, but many do not resemble the papyrus. For example, the tigernut sedge, found in West Asia and Africa and producing a tasty tuber (also called <em>chufa</em> or <em>Zulu nut</em>), belongs to the <em>Cyperus</em> genus. So also do the coco grass and several other types used for mats throughout Asia. The papyrus proper is now rare in Egypt but rampant in northern Uganda, where it is called <em>sudd</em>.</p>\n<p>Most of the contexts where <em>gome’</em> is found are rhetorical (<a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> being the exception), opening the way for translators to substitute local equivalents. However, if the original plant name is replaced, it is usually good to document the original in a footnote, especially where the word identifies a particular area, as in <a href=\"https://ref.ly/Isa18:1\">ISA 18:1</a>, where papyrus vessels are identified with “Ethiopia.” In <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a> the mother of Moses did not use “bulrushes” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr>) but papyrus, nor did she make a “basket” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>) but a “box” (<em>tevah</em> in Hebrew). If there is a word for “box,” it should be used. Otherwise, the general word for “basket” can be used, and a type of strong grass used for baskets should be used for the material. The following options are available for <em>gome’</em>:</p>\n<p>1. use a local strong grass;</p>\n<p>2. use a descriptive phrase such as “strong grass”;</p>\n<p>3. use a generic word for “grass”;</p>\n<p>4. leave the plant implicit as part of the verb “weave” or the noun “box/basket” in <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>;</p>\n<p>5. use “rush” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>), “papyrus reeds” (<abbr class=\"thlex-abbr\" title=\"Living Bible (1971)\">LB</abbr>), or “reeds” (<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>).</p>\n<p>If transliterations are needed for papyrus, some possibilities are French <em>jonc</em> and Portuguese/Spanish <em>papiro</em>.</p>\n<p><a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>: The last two lines of this verse read “the haunt of jackals shall become a swamp, the grass shall become reeds and rushes [<em>gome’</em> ].” Here translators must have a set of words for grass since these two parallel lines need to show a progression: what was once desert (a haunt of jackals) will become a swamp; and what was once ordinary grass will become grass growing in water.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "18008011",
+"start_ref_usfm": "JOB 8:11",
+"end_ref": "18008011",
+"end_ref_usfm": "JOB 8:11"
+},
+{
+"start_ref": "23018002",
+"start_ref_usfm": "ISA 18:2",
+"end_ref": "23018002",
+"end_ref_usfm": "ISA 18:2"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "18009026",
+"start_ref_usfm": "JOB 9:26",
+"end_ref": "18009026",
+"end_ref_usfm": "JOB 9:26"
+},
+{
+"start_ref": "23018001",
+"start_ref_usfm": "ISA 18:1",
+"end_ref": "23018001",
+"end_ref_usfm": "ISA 18:1"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.4",
+"reference_id": "FLORA:5.1.4",
+"version": "1.0.4",
+"title": "Reed (common reed, giant reed)",
+"media_type": "Text",
+"index_reference": "5.1.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.4\"><span class=\"thlex-key\">5.1.4</span> Reed (common reed, giant reed)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קָנֶה</span> <span class=\"thlex-translit\">(qaneh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs14:15\">1KI 14:15</a>, <a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a>, <a href=\"https://ref.ly/Job40:21\">JOB 40:21</a>, <a href=\"https://ref.ly/Ps68:31\">PSA 68:31</a>, <a href=\"https://ref.ly/Isa19:6\">ISA 19:6</a>, <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>, <a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a>, <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>, <a href=\"https://ref.ly/Ezek29:6\">EZK 29:6</a>, <a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>, <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a>, <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">καλάμη</span> <span class=\"thlex-translit\">(kalamē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Rom3:12\">1CO 3:12</a>, <a href=\"https://ref.ly/EsthGr3:7\">WIS 3:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">κάλαμος</span> <span class=\"thlex-translit\">(kalamos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt11:7\">MAT 11:7</a>, <a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a>, <a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a>, <a href=\"https://ref.ly/Matt27:30\">MAT 27:30</a>, <a href=\"https://ref.ly/Matt27:48\">MAT 27:48</a>, <a href=\"https://ref.ly/Matt15:19\">MRK 15:19</a>, <a href=\"https://ref.ly/Matt15:36\">MRK 15:36</a>, <a href=\"https://ref.ly/Mark7:24\">LUK 7:24</a>, <a href=\"https://ref.ly/2John1:13\">3JN 1:13</a>, <a href=\"https://ref.ly/Jude11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Jude21:15\">REV 21:15</a>, <a href=\"https://ref.ly/Jude21:16\">REV 21:16</a>, <a href=\"https://ref.ly/2Macc2:22\">3MA 2:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0752_reed.jpg\" alt=\"WEB-0752_reed\"></figure>There are two general types of reed in Israel, the Common Reed <em>Phragmites australis</em> and the Giant Reed <em>Arundo donax</em>, and it is impossible to say which one is intended in a given biblical context.</p>\n<p>The English word “cane” comes from the Hebrew word <em>qaneh.</em><em>Qaneh</em> is the most general Hebrew word of the many referring to reeds and rushes. Like the English word “reed,” it may refer to a specific type of reed or be a general name for several kinds of water plant. This word is also used to refer to the stalk of grain in Pharaoh’s dream (<a href=\"https://ref.ly/Gen41:5\">GEN 41:5</a>, <a href=\"https://ref.ly/Gen41:22\">GEN 41:22</a>), to the shaft and branches of the golden lampstand in the Tabernacle (<a href=\"https://ref.ly/Exod25:31\">EXO 25:31</a>; <a href=\"https://ref.ly/Exod25:32\">EXO 25:32</a>; <a href=\"https://ref.ly/Exod25:33\">EXO 25:33</a>, <a href=\"https://ref.ly/Exod25:35\">EXO 25:35</a>; <a href=\"https://ref.ly/Exod25:36\">EXO 25:36</a>; <a href=\"https://ref.ly/Exod37:17\">EXO 37:17</a>; <a href=\"https://ref.ly/Exod37:18\">EXO 37:18</a>; <a href=\"https://ref.ly/Exod37:19\">EXO 37:19</a>, <a href=\"https://ref.ly/Exod37:21\">EXO 37:21</a>; <a href=\"https://ref.ly/Exod37:22\">EXO 37:22</a>), to the beam of a scale (<a href=\"https://ref.ly/Isa46:6\">ISA 46:6</a>), to the upper arm of a person (<a href=\"https://ref.ly/Job31:22\">JOB 31:22</a>), to a measuring stick (<a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>; <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>; <a href=\"https://ref.ly/Ezek40:7\">EZK 40:7</a>; <a href=\"https://ref.ly/Ezek40:8\">EZK 40:8</a>; <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>; <a href=\"https://ref.ly/Ezek42:16\">EZK 42:16</a>; <a href=\"https://ref.ly/Ezek42:17\">EZK 42:17</a>; <a href=\"https://ref.ly/Ezek42:18\">EZK 42:18</a>; <a href=\"https://ref.ly/Ezek42:19\">EZK 42:19</a>), and to aromatic cane (<a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>; <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a>; <a href=\"https://ref.ly/Isa43:24\">ISA 43:24</a>; <a href=\"https://ref.ly/Jer6:20\">JER 6:20</a>; <a href=\"https://ref.ly/Ezek27:19\">EZK 27:19</a>; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.1.2\" href=\"#FLORA:4.1.2\">4.1.2</a>).</p>\n<p>The Greek word <em>kalamos</em> is also used to refer to a measuring stick (<a href=\"https://ref.ly/Jude11:1\">REV 11:1</a>; <a href=\"https://ref.ly/Jude21:15\">REV 21:15</a>; <a href=\"https://ref.ly/Jude21:16\">REV 21:16</a>) and to a pen (<a href=\"https://ref.ly/2John1:13\">3JN 1:13</a>; <a href=\"https://ref.ly/2Macc4:20\">3MA 4:20</a>). For a good discussion on pens made out of reeds, see WTH, <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:1.7.3\" href=\"#REALIA:1.7.3\">1.7.3 Pen</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The common reed is a tall grass with stiff, sharply-pointed leaves and a plume-like flower head that reaches to more than 2 meters (7 feet). It grows in lakes and streams, the roots creeping across the bottom of the lake to produce new leaves and stalks.</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0754_reed_cluster.jpg\" alt=\"WEB-0754_reed_cluster\"></figure>The giant reed is similar to the common reed but tends to grow not in the water but on the river banks. Its majestic plumes can reach up to 5 meters (17 feet) in height on hollow stalks that look like bamboo.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0755_reed_stalk.jpg\" alt=\"WEB-0755_reed_stalk\"></figure>Reeds of both kinds were used for baskets, mats, flutes, pens, arrows, and roof-coverings. <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> says that the Messiah will be gentle with weak people (“a bruised reed he will not break”), in contrast to the typical iron-fisted tyrants of the day. The Pharaoh is likened to an undependable reed staff in <a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a>; <a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a>; <a href=\"https://ref.ly/Ezek29:6\">EZK 29:6</a>. In <a href=\"https://ref.ly/1Kgs14:15\">1KI 14:15</a> Israel is compared to a reed shaking in the water.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The common reed of the Mediterranean area has relatives in Europe, India, Japan, and North America. It is thought to be the only species of the genus <em>Phragmites</em> (although some botanists divide it into three species). It is very important for conservationists, because it provides habitat for many kinds of animals and birds. In North America the weaker native type is being overtaken by more robust types from Europe, which are now threatening other kinds of marsh plants. In Japan people eat the young shoots of reeds. Native Americans used to eat the seeds.</p>\n<p><em>Arundo</em> species are found throughout the Mediterranean area and also in Taiwan and are still used for making the reeds for clarinets, pipes for pipe organs (“Spanish cane”), fishing rods, and walking sticks.</p>\n<p>In the form of cellulose, reeds are also used in the rayon industry.</p>\n<p>Translators living near lakes and rivers will be able to find an equivalent, if not a relative, of the reed. Others can be generic and use “grass” or a phrase such as “tall grass growing in the water.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "11014015",
+"start_ref_usfm": "1KI 14:15",
+"end_ref": "11014015",
+"end_ref_usfm": "1KI 14:15"
+},
+{
+"start_ref": "12018021",
+"start_ref_usfm": "2KI 18:21",
+"end_ref": "12018021",
+"end_ref_usfm": "2KI 18:21"
+},
+{
+"start_ref": "18040021",
+"start_ref_usfm": "JOB 40:21",
+"end_ref": "18040021",
+"end_ref_usfm": "JOB 40:21"
+},
+{
+"start_ref": "19068031",
+"start_ref_usfm": "PSA 68:31",
+"end_ref": "19068031",
+"end_ref_usfm": "PSA 68:31"
+},
+{
+"start_ref": "23019006",
+"start_ref_usfm": "ISA 19:6",
+"end_ref": "23019006",
+"end_ref_usfm": "ISA 19:6"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "23036006",
+"start_ref_usfm": "ISA 36:6",
+"end_ref": "23036006",
+"end_ref_usfm": "ISA 36:6"
+},
+{
+"start_ref": "23042003",
+"start_ref_usfm": "ISA 42:3",
+"end_ref": "23042003",
+"end_ref_usfm": "ISA 42:3"
+},
+{
+"start_ref": "26029006",
+"start_ref_usfm": "EZK 29:6",
+"end_ref": "26029006",
+"end_ref_usfm": "EZK 29:6"
+},
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "26040006",
+"start_ref_usfm": "EZK 40:6",
+"end_ref": "26040006",
+"end_ref_usfm": "EZK 40:6"
+},
+{
+"start_ref": "26040007",
+"start_ref_usfm": "EZK 40:7",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "26040008",
+"start_ref_usfm": "EZK 40:8",
+"end_ref": "26040008",
+"end_ref_usfm": "EZK 40:8"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26042016",
+"start_ref_usfm": "EZK 42:16",
+"end_ref": "26042016",
+"end_ref_usfm": "EZK 42:16"
+},
+{
+"start_ref": "26042017",
+"start_ref_usfm": "EZK 42:17",
+"end_ref": "26042017",
+"end_ref_usfm": "EZK 42:17"
+},
+{
+"start_ref": "26042018",
+"start_ref_usfm": "EZK 42:18",
+"end_ref": "26042018",
+"end_ref_usfm": "EZK 42:18"
+},
+{
+"start_ref": "26042019",
+"start_ref_usfm": "EZK 42:19",
+"end_ref": "26042019",
+"end_ref_usfm": "EZK 42:19"
+},
+{
+"start_ref": "46003012",
+"start_ref_usfm": "1CO 3:12",
+"end_ref": "46003012",
+"end_ref_usfm": "1CO 3:12"
+},
+{
+"start_ref": "71003007",
+"start_ref_usfm": "WIS 3:7",
+"end_ref": "71003007",
+"end_ref_usfm": "WIS 3:7"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011007",
+"end_ref_usfm": "MAT 11:7"
+},
+{
+"start_ref": "40012020",
+"start_ref_usfm": "MAT 12:20",
+"end_ref": "40012020",
+"end_ref_usfm": "MAT 12:20"
+},
+{
+"start_ref": "40027029",
+"start_ref_usfm": "MAT 27:29",
+"end_ref": "40027029",
+"end_ref_usfm": "MAT 27:29"
+},
+{
+"start_ref": "40027030",
+"start_ref_usfm": "MAT 27:30",
+"end_ref": "40027030",
+"end_ref_usfm": "MAT 27:30"
+},
+{
+"start_ref": "40027048",
+"start_ref_usfm": "MAT 27:48",
+"end_ref": "40027048",
+"end_ref_usfm": "MAT 27:48"
+},
+{
+"start_ref": "41015019",
+"start_ref_usfm": "MRK 15:19",
+"end_ref": "41015019",
+"end_ref_usfm": "MRK 15:19"
+},
+{
+"start_ref": "41015036",
+"start_ref_usfm": "MRK 15:36",
+"end_ref": "41015036",
+"end_ref_usfm": "MRK 15:36"
+},
+{
+"start_ref": "42007024",
+"start_ref_usfm": "LUK 7:24",
+"end_ref": "42007024",
+"end_ref_usfm": "LUK 7:24"
+},
+{
+"start_ref": "64001013",
+"start_ref_usfm": "3JN 1:13",
+"end_ref": "64001013",
+"end_ref_usfm": "3JN 1:13"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66021015",
+"start_ref_usfm": "REV 21:15",
+"end_ref": "66021015",
+"end_ref_usfm": "REV 21:15"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "80002022",
+"start_ref_usfm": "3MA 2:22",
+"end_ref": "80002022",
+"end_ref_usfm": "3MA 2:22"
+},
+{
+"start_ref": "01041005",
+"start_ref_usfm": "GEN 41:5",
+"end_ref": "01041005",
+"end_ref_usfm": "GEN 41:5"
+},
+{
+"start_ref": "01041022",
+"start_ref_usfm": "GEN 41:22",
+"end_ref": "01041022",
+"end_ref_usfm": "GEN 41:22"
+},
+{
+"start_ref": "02025031",
+"start_ref_usfm": "EXO 25:31",
+"end_ref": "02025031",
+"end_ref_usfm": "EXO 25:31"
+},
+{
+"start_ref": "02025032",
+"start_ref_usfm": "EXO 25:32",
+"end_ref": "02025032",
+"end_ref_usfm": "EXO 25:32"
+},
+{
+"start_ref": "02025033",
+"start_ref_usfm": "EXO 25:33",
+"end_ref": "02025033",
+"end_ref_usfm": "EXO 25:33"
+},
+{
+"start_ref": "02025035",
+"start_ref_usfm": "EXO 25:35",
+"end_ref": "02025035",
+"end_ref_usfm": "EXO 25:35"
+},
+{
+"start_ref": "02025036",
+"start_ref_usfm": "EXO 25:36",
+"end_ref": "02025036",
+"end_ref_usfm": "EXO 25:36"
+},
+{
+"start_ref": "02037017",
+"start_ref_usfm": "EXO 37:17",
+"end_ref": "02037017",
+"end_ref_usfm": "EXO 37:17"
+},
+{
+"start_ref": "02037018",
+"start_ref_usfm": "EXO 37:18",
+"end_ref": "02037018",
+"end_ref_usfm": "EXO 37:18"
+},
+{
+"start_ref": "02037019",
+"start_ref_usfm": "EXO 37:19",
+"end_ref": "02037019",
+"end_ref_usfm": "EXO 37:19"
+},
+{
+"start_ref": "02037021",
+"start_ref_usfm": "EXO 37:21",
+"end_ref": "02037021",
+"end_ref_usfm": "EXO 37:21"
+},
+{
+"start_ref": "02037022",
+"start_ref_usfm": "EXO 37:22",
+"end_ref": "02037022",
+"end_ref_usfm": "EXO 37:22"
+},
+{
+"start_ref": "23046006",
+"start_ref_usfm": "ISA 46:6",
+"end_ref": "23046006",
+"end_ref_usfm": "ISA 46:6"
+},
+{
+"start_ref": "18031022",
+"start_ref_usfm": "JOB 31:22",
+"end_ref": "18031022",
+"end_ref_usfm": "JOB 31:22"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "23043024",
+"start_ref_usfm": "ISA 43:24",
+"end_ref": "23043024",
+"end_ref_usfm": "ISA 43:24"
+},
+{
+"start_ref": "24006020",
+"start_ref_usfm": "JER 6:20",
+"end_ref": "24006020",
+"end_ref_usfm": "JER 6:20"
+},
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+},
+{
+"start_ref": "80004020",
+"start_ref_usfm": "3MA 4:20",
+"end_ref": "80004020",
+"end_ref_usfm": "3MA 4:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.5",
+"reference_id": "FLORA:5.1.5",
+"version": "1.0.4",
+"title": "Rush (bulrush, sedge)",
+"media_type": "Text",
+"index_reference": "5.1.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.5\"><span class=\"thlex-key\">5.1.5</span> Rush (bulrush, sedge)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אַגְמוֹן</span> <span class=\"thlex-translit\">(’agmon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job41:12\">JOB 41:12</a>, <a href=\"https://ref.ly/Isa9:13\">ISA 9:13</a>, <a href=\"https://ref.ly/Isa19:15\">ISA 19:15</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0776_rush.jpg\" alt=\"WEB-0776_rush\"></figure>The Lake Rush <em>Scirpus lacustris</em> and the Soft Rush <em>Juncus effusus</em> are two of many types of rush (or sedge) that grow in swampy areas of the Mediterranean area. Moldenke states that fifteen species of <em>Scirpus</em> and twenty-one species of <em>Juncus</em> grow in the Holy Land. Zohary feels strongly that the Hebrew word <em>’agmon</em>, translated as “reed” or “rush” in <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, is a generic label and should not be equated with a specific plant.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Rushes do not have leaves. They are stalks that grow in sandy, waterside soil. They reach a meter (3 feet) or less in height. Tiny flowers form in clusters on the side of the stalk below the top.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0777_rush.jpg\" alt=\"WEB-0777_rush\"></figure>Rushes were used for the walls and partitions of homes, as well as for mats and baskets.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>There are at least two hundred species of <em>Juncus</em>. Translators who live near streams will have no problem finding types of rush that will be close or equivalent to the biblical types. Elsewhere, translators can use “tall plant that grows in water.” In the rhetorical context of <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a> (“bow down his head like a rush”), a translator can substitute a plant that suits the description of “bowing down.”</p>\n<p>According to Hepper, <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> have confusingly rendered the Hebrew word <em>gome’</em> as “bulrushes” in <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>, instead of “papyrus” (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.1.3\" href=\"#FLORA:5.1.3\">5.1.3 Papyrus</a>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18041012",
+"start_ref_usfm": "JOB 41:12",
+"end_ref": "18041012",
+"end_ref_usfm": "JOB 41:12"
+},
+{
+"start_ref": "23009013",
+"start_ref_usfm": "ISA 9:13",
+"end_ref": "23009013",
+"end_ref_usfm": "ISA 9:13"
+},
+{
+"start_ref": "23019015",
+"start_ref_usfm": "ISA 19:15",
+"end_ref": "23019015",
+"end_ref_usfm": "ISA 19:15"
+},
+{
+"start_ref": "23058005",
+"start_ref_usfm": "ISA 58:5",
+"end_ref": "23058005",
+"end_ref_usfm": "ISA 58:5"
+},
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.6",
+"reference_id": "FLORA:5.1.6",
+"version": "1.0.4",
+"title": "Cotton",
+"media_type": "Text",
+"index_reference": "5.1.6",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.6\"><span class=\"thlex-key\">5.1.6</span> Cotton</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">חוֹרַי</span> <span class=\"thlex-translit\">(choray)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כַּרְפַּס</span> <span class=\"thlex-translit\">(karpas)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0155_cotton.jpg\" alt=\"WEB-0155_cotton\"></figure>Cotton <em>Gossypium herbaceum</em> has been grown and woven in the Indus Valley (now Pakistan) for at least five thousand years. Pieces of cotton cloth that old have been found there. However, it was not grown in the land of Israel until a few centuries before Christ.</p>\n<p>The story of Esther takes place in Babylon in the time of Ahasuerus (= Xerxes) 485–465 B.C. By that time both cotton and flax products were probably traded back and forth throughout the Babylonian Empire, and the cultivation of both was probably expanding, although the area of India, Pakistan, and Babylonia would have been the area of largest production. Herodotus, in the fifth century B.C., mentions “trees that bear wool” from India.</p>\n<p>The writer of Esther describes fabric made from <em>karpas</em>, a Hebrew word that comes from Sanskrit, a language spoken long ago in India, where cotton was domesticated. That may be evidence that <em>karpas</em> probably refers to cotton alone, particularly since the Hebrew word <em>buts</em> is probably used for “linen” in the same verse.</p>\n<p>Some botanists have stated that some of the “linen” mentioned in the Scriptures may actually be cotton, especially in the later books of the Old Testament, written when cotton would have been well known. Also, the forty-nine references to the Hebrew word <em>tekeleth</em>, usually translated “blue” or “purple” and often in conjunction with <em>argamon</em>, may have been cotton yarn, though some scholars hold that this material must have been wool.</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0156_cotton.jpg\" alt=\"WEB-0156_cotton\"></figure><a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a>, an oracle about Egypt, refers to the “weavers of white cotton [<em>choray</em> ],” parallel to “workers in combed flax.” This supports the contention that cotton was well established in Egypt in Old Testament times, at least by the time of the Israelite monarchy.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The original Indian and Arabian type of cotton (“Levant cotton”) grows to 2 meters (7 feet) in height, with soft, lobed leaves (like its relatives the hibiscus and the hollyhock). The mallow-like flowers are yellow with a purple center. When the flower matures, the boll underneath puffs out and eventually splits, revealing a mass of fine white filaments that we know as “cotton wool.”</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0158_cottonboll.jpg\" alt=\"WEB-0158_cottonboll\"></figure>The main use for cotton has always been to make cloth. It is also used in medicine (for swabs) and in various industries.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Cotton is now grown extensively throughout the world, especially in warm, dry areas. The Tree Cotton <em>Gossypium arboreum</em> is native to North Africa and is now grown in Upper Egypt. Another species, Upland Cotton <em>Gossypium barbadense</em>, grows in the West Indies. Egypt, India, China, and Nigeria all raise cotton in great quantities since it is their most important textile. If a transliteration of cotton from a major language is needed, adaptations of the following are advised: French <em>cotonnier</em>; Portuguese <em>algodão</em>, <em>algodeiro</em>; Spanish <em>algodonero</em>; Arabic <em>kutun</em>; and English <em>cotton</em>.</p>\n<p><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a> a: “There were white cotton curtains and blue hangings” renders the Hebrew phrase <em>chur choray utekeleth</em>.Versions of Esther that have just one object mentioned here (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr>, <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>) apparently take <em>utekeleth</em> (“and blue”) as ascribing a second color for the object <em>karpas</em>. The versions that have two objects (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>) take <em>chur karpas</em> as white curtains or hangings and <em>tekeleth</em> as blue curtains or hangings.</p>\n<p>Even if the translator’s people do not actually grow cotton, they know it from the cloth sellers and will have a name for it. Failing that, a transliteration from a major language is recommended.</p>\n<p>In terms of the material in <a href=\"https://ref.ly/Esth1:6\">EST 1:6</a> a, my order of preference in English models is:</p>\n<p>1. “blue and white cotton curtains” (<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>);</p>\n<p>2. “[hangings of] white cotton and blue wool ” (<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr>);</p>\n<p>3. “white and violet hangings” (<abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, which does not mention any materials);</p>\n<p>4. “hangings of white and blue linen ” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>; similarly <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr>);</p>\n<p>5. “white and violet hangings of linen and cotton ” (Bush).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23019009",
+"start_ref_usfm": "ISA 19:9",
+"end_ref": "23019009",
+"end_ref_usfm": "ISA 19:9"
+},
+{
+"start_ref": "17001006",
+"start_ref_usfm": "EST 1:6",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:5.1.7",
+"reference_id": "FLORA:5.1.7",
+"version": "1.0.4",
+"title": "Flax (linen)",
+"media_type": "Text",
+"index_reference": "5.1.7",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:5.1.7\"><span class=\"thlex-key\">5.1.7</span> Flax (linen)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֵטוּן</span> <span class=\"thlex-translit\">(’etun)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Prov7:16\">PRO 7:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בַּד</span> <span class=\"thlex-translit\">(bad)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Lev6:3\">LEV 6:3</a>, <a href=\"https://ref.ly/Lev6:3\">LEV 6:3</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>, <a href=\"https://ref.ly/Lev16:23\">LEV 16:23</a>, <a href=\"https://ref.ly/Lev16:32\">LEV 16:32</a>, <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a>, <a href=\"https://ref.ly/1Sam22:18\">1SA 22:18</a>, <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a>, <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, <a href=\"https://ref.ly/Ezek9:2\">EZK 9:2</a>, <a href=\"https://ref.ly/Ezek9:3\">EZK 9:3</a>, <a href=\"https://ref.ly/Ezek9:11\">EZK 9:11</a>, <a href=\"https://ref.ly/Ezek10:2\">EZK 10:2</a>, <a href=\"https://ref.ly/Ezek10:6\">EZK 10:6</a>, <a href=\"https://ref.ly/Ezek10:7\">EZK 10:7</a>, <a href=\"https://ref.ly/Dan10:5\">DAN 10:5</a>, <a href=\"https://ref.ly/Dan12:6\">DAN 12:6</a>, <a href=\"https://ref.ly/Dan12:7\">DAN 12:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בּוּץ</span> <span class=\"thlex-translit\">(buts)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Chr4:21\">1CH 4:21</a>, <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>, <a href=\"https://ref.ly/2Chr2:13\">2CH 2:13</a>, <a href=\"https://ref.ly/2Chr3:14\">2CH 3:14</a>, <a href=\"https://ref.ly/2Chr5:12\">2CH 5:12</a>, <a href=\"https://ref.ly/Esth1:6\">EST 1:6</a>, <a href=\"https://ref.ly/Esth8:15\">EST 8:15</a>, <a href=\"https://ref.ly/Ezek27:16\">EZK 27:16</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">סָדִין</span> <span class=\"thlex-translit\">(sadin)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg14:12\">JDG 14:12</a>, <a href=\"https://ref.ly/Judg14:13\">JDG 14:13</a>, <a href=\"https://ref.ly/Prov31:24\">PRO 31:24</a>, <a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">פֵּשֶׁת, פִּשְׁתָּה</span> <span class=\"thlex-translit\">(pesheth, pishtah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>, <a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>, <a href=\"https://ref.ly/Lev13:47\">LEV 13:47</a>, <a href=\"https://ref.ly/Lev13:48\">LEV 13:48</a>, <a href=\"https://ref.ly/Lev13:52\">LEV 13:52</a>, <a href=\"https://ref.ly/Lev13:59\">LEV 13:59</a>, <a href=\"https://ref.ly/Deut22:11\">DEU 22:11</a>, <a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a>, <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a>, <a href=\"https://ref.ly/Prov31:13\">PRO 31:13</a>, <a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a>, <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>, <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a>, <a href=\"https://ref.ly/Jer13:1\">JER 13:1</a>, <a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek44:17\">EZK 44:17</a>, <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>, <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>, <a href=\"https://ref.ly/Hos2:7\">HOS 2:7</a>, <a href=\"https://ref.ly/Hos2:11\">HOS 2:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">שֵׁשׁ</span> <span class=\"thlex-translit\">(shesh)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>, <a href=\"https://ref.ly/Exod25:4\">EXO 25:4</a>, <a href=\"https://ref.ly/Exod26:1\">EXO 26:1</a>, <a href=\"https://ref.ly/Exod26:31\">EXO 26:31</a>, <a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a>, <a href=\"https://ref.ly/Exod27:9\">EXO 27:9</a>, <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod27:18\">EXO 27:18</a>, <a href=\"https://ref.ly/Exod28:5\">EXO 28:5</a>, <a href=\"https://ref.ly/Exod28:6\">EXO 28:6</a>, <a href=\"https://ref.ly/Exod28:8\">EXO 28:8</a>, <a href=\"https://ref.ly/Exod28:15\">EXO 28:15</a>, <a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a>, <a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a>, <a href=\"https://ref.ly/Exod35:6\">EXO 35:6</a>, <a href=\"https://ref.ly/Exod35:23\">EXO 35:23</a>, <a href=\"https://ref.ly/Exod35:25\">EXO 35:25</a>, <a href=\"https://ref.ly/Exod35:35\">EXO 35:35</a>, <a href=\"https://ref.ly/Exod36:8\">EXO 36:8</a>, <a href=\"https://ref.ly/Exod36:35\">EXO 36:35</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:9\">EXO 38:9</a>, <a href=\"https://ref.ly/Exod38:16\">EXO 38:16</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a>, <a href=\"https://ref.ly/Exod38:23\">EXO 38:23</a>, <a href=\"https://ref.ly/Exod39:2\">EXO 39:2</a>, <a href=\"https://ref.ly/Exod39:3\">EXO 39:3</a>, <a href=\"https://ref.ly/Exod39:5\">EXO 39:5</a>, <a href=\"https://ref.ly/Exod39:8\">EXO 39:8</a>, <a href=\"https://ref.ly/Exod39:27\">EXO 39:27</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Exod39:28\">EXO 39:28</a>, <a href=\"https://ref.ly/Exod39:29\">EXO 39:29</a>, <a href=\"https://ref.ly/Prov31:22\">PRO 31:22</a>, <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>, <a href=\"https://ref.ly/Ezek27:7\">EZK 27:7</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">βύσσινος</span> <span class=\"thlex-translit\">(bussinos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jude18:12\">REV 18:12</a>, <a href=\"https://ref.ly/Jude18:16\">REV 18:16</a>, <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>, <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>, <a href=\"https://ref.ly/Jude19:14\">REV 19:14</a>, <a href=\"https://ref.ly/4Macc3:6\">1ES 3:6</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">βύσσος</span> <span class=\"thlex-translit\">(bussos)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark16:19\">LUK 16:19</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">λίνον; λινοῦς</span> <span class=\"thlex-translit\">(linon, linous)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a>, <a href=\"https://ref.ly/Jude15:6\">REV 15:6</a>, <a href=\"https://ref.ly/Tob16:8\">JDT 16:8</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ὀθόνη; ὀθόνιον</span> <span class=\"thlex-translit\">(othonē, othonion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Mark24:12\">LUK 24:12</a>, <a href=\"https://ref.ly/Luke19:40\">JHN 19:40</a>, <a href=\"https://ref.ly/Luke20:5\">JHN 20:5</a>, <a href=\"https://ref.ly/Luke20:6\">JHN 20:6</a>, <a href=\"https://ref.ly/Luke20:7\">JHN 20:7</a>, <a href=\"https://ref.ly/John10:11\">ACT 10:11</a>, <a href=\"https://ref.ly/John11:5\">ACT 11:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">σινδών</span> <span class=\"thlex-translit\">(sindōn)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt27:59\">MAT 27:59</a>, <a href=\"https://ref.ly/Matt14:51\">MRK 14:51</a>, <a href=\"https://ref.ly/Matt14:52\">MRK 14:52</a>, <a href=\"https://ref.ly/Matt15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Matt15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Mark23:53\">LUK 23:53</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0230_flax.jpg\" alt=\"WEB-0230_flax\"></figure></p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0235_flax_stalk.jpg\" alt=\"WEB-0235_flax_stalk\"></figure>Flax <em>Linum usitatissimum</em>, from which linen cloth is made, was cultivated in the Middle East, including Canaan, at least as early as 5000 B.C. It may even have originated in the Holy Land (Zohary, page 78). A document from Gezer (in Israel) from around King Saul’s time (1000 B.C.) refers to the cultivation of flax and states that flax and wool were the main materials for making cloth. According to <a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a>, the Israelite spies were hidden under flax stalks by Rahab. Flax was grown extensively in Egypt and made into cloth and mats.</p>\n<p><em>Pesheth</em> and <em>pishtah</em> are probably the original Hebrew words for flax, if indeed the plant was domesticated in the Holy Land, as Zohary proposes. They may be related to the word <em>pashat</em>, meaning “to strip off” or “to flay,” or to the word <em>pasas</em>, meaning “to disintegrate.” <em>Pesheth</em> and <em>pishtah</em> are used twenty times in the Old Testament, twice referring clearly to the plant itself (<a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>; <a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a>). Other references are to the processed flax (<a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a>; <a href=\"https://ref.ly/Prov31:13\">PRO 31:13</a>; <a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a>; <a href=\"https://ref.ly/Hos2:7\">HOS 2:7</a>; <a href=\"https://ref.ly/Hos2:11\">HOS 2:11</a> [5, 9]). A few cases refer to finished products, namely wicks (<a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>; <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a>), cords (<a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>), and items of clothing (<a href=\"https://ref.ly/Jer13:1\">JER 13:1</a>; <a href=\"https://ref.ly/Ezek44:17\">EZK 44:17</a>; <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>; <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>).</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0234_flax_flower.jpg\" alt=\"WEB-0234_flax_flower\"></figure>It is likely that the Hebrews acquired the word <em>shesh</em> from the Egyptians during their sojourn in Egypt, since flax was cultivated there also. The Egyptian word for flax was <em>shent</em> (via <em>shen-suten</em>). <em>Shesh</em> is used thirty-eight times in the Old Testament: for the material that Pharaoh put on Joseph, for the Tabernacle curtains and hangings in Exodus, for the ephod, and for the priests’ tunics. The wise woman of <a href=\"https://ref.ly/Prov31:22\">PRO 31:22</a> wears it. In <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a> it is paired with silk, and in <a href=\"https://ref.ly/Ezek27:7\">EZK 27:7</a> “<em>shesh</em> from Egypt” is spoken of as material for the sails of ships.</p>\n<p>Several references to linen use the Hebrew word <em>bad</em>. In <a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a> the priests’ underwear are made from <em>bad</em>, and it is used thereafter in Leviticus to describe various items of clothing—coat, breeches, girdle, and turban. It turns up again in Samuel’s and King David’s “ephods” and then again in Ezekiel and Daniel, where we see visions of “a man clothed in <em>bad</em>.”</p>\n<p>Linen is referred by the Hebrew word <em>buts</em> in 1–2 Chronicles, Esther, and Ezekiel, where the robes of the Temple choir, kings, and rich men are described. Moldenke holds that this word is Assyrian and refers to linen coming from the East. But it could also be a loanword from Egyptian (compare Egyptian <em>nbos</em> “to clothe”); note also the Hebrew verb <em>bots</em> /<em>bits</em>, meaning “whiten” or “bleach” (<em>Unger’s Bible Dictionary</em>). The Septuagint often uses the Greek word <em>bussos</em> or <em>bussinos</em> in these passages.</p>\n<p>The Old Testament has four references to the Hebrew word <em>sadin</em> (“linen garment”): <a href=\"https://ref.ly/Judg14:12\">JDG 14:12</a> (Samson promises them to his opponents), <a href=\"https://ref.ly/Prov31:24\">PRO 31:24</a> (the wise woman makes them), and <a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a> (the rich women of Jerusalem wear them). The Septuagint uses the Greek word <em>bussos</em> or <em>sindōn</em> in these passages.</p>\n<p>The Hebrew word <em>’etun</em> occurs only in <a href=\"https://ref.ly/Prov7:16\">PRO 7:16</a>, where it refers to a linen bedspread from Egypt (compare the Greek word <em>othonion</em> for burial cloths, and the Greek word <em>othonē</em> in <a href=\"https://ref.ly/John10:11\">ACT 10:11</a> for the sheet in Peter’s vision). Here the Septuagint uses the Greek word <em>amphitapos</em>, which normally referred to a double-sided rug.</p>\n<p>In the New Testament there are three primary Greek words for linen: <em>linon</em> /<em>linous</em>, <em>sindōn</em>, and <em>othonē</em> /<em>othonion</em>. <em>Linon</em> is used to refer to garments of the angels in <a href=\"https://ref.ly/Jude15:6\">REV 15:6</a> as well as to the “smoldering wick” in <a href=\"https://ref.ly/Matt12:20\">MAT 12:20</a> (quoting <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> and using the same Greek word as in the Septuagint of <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>). The synoptic Gospel writers refer to the linen cloth that Joseph and Nicodemus used to wrap Jesus’ body as a <em>sindōn</em>. Mark uses the same word to refer to the cloth that was worn by the unidentified young man at the time of Jesus’ arrest (<a href=\"https://ref.ly/Matt14:51\">MRK 14:51</a>; <a href=\"https://ref.ly/Matt14:52\">MRK 14:52</a>). John uses a different Greek word for Jesus’ burial cloths: <em>othonion</em>.</p>\n<p>The rich man referred to in the Lazarus story (<a href=\"https://ref.ly/Mark16:19\">LUK 16:19</a>) is clothed in “fine linen” (<em>bussos</em>). The Greek word <em>bussos</em> is the root word for <em>bussinos</em>, which refers to tunics, robes and turbans made from linen fabric (<a href=\"https://ref.ly/Jude18:12\">REV 18:12</a>; <a href=\"https://ref.ly/Jude18:16\">REV 18:16</a>; <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>; <a href=\"https://ref.ly/Jude19:8\">REV 19:8</a>; <a href=\"https://ref.ly/Jude19:14\">REV 19:14</a>; <a href=\"https://ref.ly/4Macc3:6\">1ES 3:6</a>).</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0232_flax_cutting.jpg\" alt=\"WEB-0232_flax_cutting\"></figure>It is often difficult to tell whether the Hebrew and Greek words for linen refer to a material or to an item of clothing such as a shirt, robe, tunic, or coat. For more discussion on linen, see WTH, <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:1.5.3.7\" href=\"#REALIA:1.5.3.7\">1.5.3.7 Linen</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Flax is a little taller than a sesame plant, about a meter (3 feet) tall. Its leaves are narrow and the flowers are bright blue with five petals. The seed capsule contains oil that is used for cooking and also for thinning paint. After flax ripens, the plants are uprooted and the stalks are left to dry for a while. The stalks are then soaked, dried, and beaten to separate the fibers, which are then combed and woven into cloth.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Linen cloth was relatively costly in Israel, and being light and easy to dye it was highly valued. Their priests wore linen garments to combat sweating (see <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>; <a href=\"https://ref.ly/Ezek44:18\">EZK 44:18</a>). They had to remove these holy garments when they left the Temple, “lest they communicate holiness to the people” (<a href=\"https://ref.ly/Ezek44:19\">EZK 44:19</a>). The high esteem given to linen by the Jews is shown also by the fact that they used it for burying the dead, and we are told that the Dead Sea Scrolls were wrapped in linen cloths. However, the flax plant was special in other ways. The crushed stalks of flax plants were also used for making rope and lamp wicks. The seed was used for oil.</p>\n<p>Today flax is raised more for the oil that comes from the seeds (called linseed oil) than for the fibers, although flax stalks are also made into special kinds of paper.</p>\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0233_flax_flowers.jpg\" alt=\"WEB-0233_flax_flowers\"></figure>Metaphorical uses of flax are relatively few in the Bible, and all suggest the weakness of the material. In <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a> flax fiber is used as a simile for Samson’s fetters (they snapped like linen thread). <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a> says the Messiah will be gentle with weak people (“a dimly burning wick [<em>pishtah</em> ] he will not quench”), in contrast to the typical iron-fisted tyrants of the day. <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a> describes the fate of the Babylonian enemies: they will be snuffed out “like a wick [<em>pishtah</em> ].”</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Linen cloth (or other cloth with a similar name) is surprisingly widespread. Cloth merchants in the translators’ area may know it under a trade language name, and if so, that can be used. In Hausa of northern Nigeria it is called <em>lilin</em>. In some places it is used only for burying people. In that case, if it is used in translation at all, the difference in culture should be explained in a footnote. Since linen is bleached white, a generic phrase such as “beautiful white cloth” can be considered in many places. English common language versions use phrases such as “beautiful clothing” (<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr>) or “fine clothes” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>) when garments are involved. In the three metaphorical passages mentioned above (<a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a>; <a href=\"https://ref.ly/Isa42:3\">ISA 42:3</a>; <a href=\"https://ref.ly/Isa43:17\">ISA 43:17</a>), an appropriate cultural image may be substituted, or an adverb expressing weakness or fragility. Models for transliteration in the non-rhetorical passages are the Latin <em>linum</em>; Arabic <em>fitas</em>, <em>kattan</em>; Spanish <em>lino</em>; Portuguese <em>linho</em>; French <em>lin</em>; Tamil <em>alvira</em>; and Chinese <em>ya ma</em>.</p>\n<p>In <a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>; <a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>, where the reference is to the flax plant and is not rhetorical, the translator can transliterate from a major language such as English (<em>filaks</em> /<em>filas</em>) or from Hebrew (<em>pishita</em> /<em>fisita</em>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "20007016",
+"start_ref_usfm": "PRO 7:16",
+"end_ref": "20007016",
+"end_ref_usfm": "PRO 7:16"
+},
+{
+"start_ref": "02028042",
+"start_ref_usfm": "EXO 28:42",
+"end_ref": "02028042",
+"end_ref_usfm": "EXO 28:42"
+},
+{
+"start_ref": "02039028",
+"start_ref_usfm": "EXO 39:28",
+"end_ref": "02039028",
+"end_ref_usfm": "EXO 39:28"
+},
+{
+"start_ref": "03006003",
+"start_ref_usfm": "LEV 6:3",
+"end_ref": "03006003",
+"end_ref_usfm": "LEV 6:3"
+},
+{
+"start_ref": "03016004",
+"start_ref_usfm": "LEV 16:4",
+"end_ref": "03016004",
+"end_ref_usfm": "LEV 16:4"
+},
+{
+"start_ref": "03016023",
+"start_ref_usfm": "LEV 16:23",
+"end_ref": "03016023",
+"end_ref_usfm": "LEV 16:23"
+},
+{
+"start_ref": "03016032",
+"start_ref_usfm": "LEV 16:32",
+"end_ref": "03016032",
+"end_ref_usfm": "LEV 16:32"
+},
+{
+"start_ref": "09002018",
+"start_ref_usfm": "1SA 2:18",
+"end_ref": "09002018",
+"end_ref_usfm": "1SA 2:18"
+},
+{
+"start_ref": "09022018",
+"start_ref_usfm": "1SA 22:18",
+"end_ref": "09022018",
+"end_ref_usfm": "1SA 22:18"
+},
+{
+"start_ref": "10006014",
+"start_ref_usfm": "2SA 6:14",
+"end_ref": "10006014",
+"end_ref_usfm": "2SA 6:14"
+},
+{
+"start_ref": "13015027",
+"start_ref_usfm": "1CH 15:27",
+"end_ref": "13015027",
+"end_ref_usfm": "1CH 15:27"
+},
+{
+"start_ref": "26009002",
+"start_ref_usfm": "EZK 9:2",
+"end_ref": "26009002",
+"end_ref_usfm": "EZK 9:2"
+},
+{
+"start_ref": "26009003",
+"start_ref_usfm": "EZK 9:3",
+"end_ref": "26009003",
+"end_ref_usfm": "EZK 9:3"
+},
+{
+"start_ref": "26009011",
+"start_ref_usfm": "EZK 9:11",
+"end_ref": "26009011",
+"end_ref_usfm": "EZK 9:11"
+},
+{
+"start_ref": "26010002",
+"start_ref_usfm": "EZK 10:2",
+"end_ref": "26010002",
+"end_ref_usfm": "EZK 10:2"
+},
+{
+"start_ref": "26010006",
+"start_ref_usfm": "EZK 10:6",
+"end_ref": "26010006",
+"end_ref_usfm": "EZK 10:6"
+},
+{
+"start_ref": "26010007",
+"start_ref_usfm": "EZK 10:7",
+"end_ref": "26010007",
+"end_ref_usfm": "EZK 10:7"
+},
+{
+"start_ref": "27010005",
+"start_ref_usfm": "DAN 10:5",
+"end_ref": "27010005",
+"end_ref_usfm": "DAN 10:5"
+},
+{
+"start_ref": "27012006",
+"start_ref_usfm": "DAN 12:6",
+"end_ref": "27012006",
+"end_ref_usfm": "DAN 12:6"
+},
+{
+"start_ref": "27012007",
+"start_ref_usfm": "DAN 12:7",
+"end_ref": "27012007",
+"end_ref_usfm": "DAN 12:7"
+},
+{
+"start_ref": "13004021",
+"start_ref_usfm": "1CH 4:21",
+"end_ref": "13004021",
+"end_ref_usfm": "1CH 4:21"
+},
+{
+"start_ref": "14002013",
+"start_ref_usfm": "2CH 2:13",
+"end_ref": "14002013",
+"end_ref_usfm": "2CH 2:13"
+},
+{
+"start_ref": "14003014",
+"start_ref_usfm": "2CH 3:14",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14005012",
+"start_ref_usfm": "2CH 5:12",
+"end_ref": "14005012",
+"end_ref_usfm": "2CH 5:12"
+},
+{
+"start_ref": "17001006",
+"start_ref_usfm": "EST 1:6",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+},
+{
+"start_ref": "17008015",
+"start_ref_usfm": "EST 8:15",
+"end_ref": "17008015",
+"end_ref_usfm": "EST 8:15"
+},
+{
+"start_ref": "26027016",
+"start_ref_usfm": "EZK 27:16",
+"end_ref": "26027016",
+"end_ref_usfm": "EZK 27:16"
+},
+{
+"start_ref": "07014012",
+"start_ref_usfm": "JDG 14:12",
+"end_ref": "07014012",
+"end_ref_usfm": "JDG 14:12"
+},
+{
+"start_ref": "07014013",
+"start_ref_usfm": "JDG 14:13",
+"end_ref": "07014013",
+"end_ref_usfm": "JDG 14:13"
+},
+{
+"start_ref": "20031024",
+"start_ref_usfm": "PRO 31:24",
+"end_ref": "20031024",
+"end_ref_usfm": "PRO 31:24"
+},
+{
+"start_ref": "23003023",
+"start_ref_usfm": "ISA 3:23",
+"end_ref": "23003023",
+"end_ref_usfm": "ISA 3:23"
+},
+{
+"start_ref": "02009031",
+"start_ref_usfm": "EXO 9:31",
+"end_ref": "02009031",
+"end_ref_usfm": "EXO 9:31"
+},
+{
+"start_ref": "03013047",
+"start_ref_usfm": "LEV 13:47",
+"end_ref": "03013047",
+"end_ref_usfm": "LEV 13:47"
+},
+{
+"start_ref": "03013048",
+"start_ref_usfm": "LEV 13:48",
+"end_ref": "03013048",
+"end_ref_usfm": "LEV 13:48"
+},
+{
+"start_ref": "03013052",
+"start_ref_usfm": "LEV 13:52",
+"end_ref": "03013052",
+"end_ref_usfm": "LEV 13:52"
+},
+{
+"start_ref": "03013059",
+"start_ref_usfm": "LEV 13:59",
+"end_ref": "03013059",
+"end_ref_usfm": "LEV 13:59"
+},
+{
+"start_ref": "05022011",
+"start_ref_usfm": "DEU 22:11",
+"end_ref": "05022011",
+"end_ref_usfm": "DEU 22:11"
+},
+{
+"start_ref": "06002006",
+"start_ref_usfm": "JOS 2:6",
+"end_ref": "06002006",
+"end_ref_usfm": "JOS 2:6"
+},
+{
+"start_ref": "07015014",
+"start_ref_usfm": "JDG 15:14",
+"end_ref": "07015014",
+"end_ref_usfm": "JDG 15:14"
+},
+{
+"start_ref": "20031013",
+"start_ref_usfm": "PRO 31:13",
+"end_ref": "20031013",
+"end_ref_usfm": "PRO 31:13"
+},
+{
+"start_ref": "23019009",
+"start_ref_usfm": "ISA 19:9",
+"end_ref": "23019009",
+"end_ref_usfm": "ISA 19:9"
+},
+{
+"start_ref": "23042003",
+"start_ref_usfm": "ISA 42:3",
+"end_ref": "23042003",
+"end_ref_usfm": "ISA 42:3"
+},
+{
+"start_ref": "23043017",
+"start_ref_usfm": "ISA 43:17",
+"end_ref": "23043017",
+"end_ref_usfm": "ISA 43:17"
+},
+{
+"start_ref": "24013001",
+"start_ref_usfm": "JER 13:1",
+"end_ref": "24013001",
+"end_ref_usfm": "JER 13:1"
+},
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26044017",
+"start_ref_usfm": "EZK 44:17",
+"end_ref": "26044017",
+"end_ref_usfm": "EZK 44:17"
+},
+{
+"start_ref": "26044018",
+"start_ref_usfm": "EZK 44:18",
+"end_ref": "26044018",
+"end_ref_usfm": "EZK 44:18"
+},
+{
+"start_ref": "28002007",
+"start_ref_usfm": "HOS 2:7",
+"end_ref": "28002007",
+"end_ref_usfm": "HOS 2:7"
+},
+{
+"start_ref": "28002011",
+"start_ref_usfm": "HOS 2:11",
+"end_ref": "28002011",
+"end_ref_usfm": "HOS 2:11"
+},
+{
+"start_ref": "01041042",
+"start_ref_usfm": "GEN 41:42",
+"end_ref": "01041042",
+"end_ref_usfm": "GEN 41:42"
+},
+{
+"start_ref": "02025004",
+"start_ref_usfm": "EXO 25:4",
+"end_ref": "02025004",
+"end_ref_usfm": "EXO 25:4"
+},
+{
+"start_ref": "02026001",
+"start_ref_usfm": "EXO 26:1",
+"end_ref": "02026001",
+"end_ref_usfm": "EXO 26:1"
+},
+{
+"start_ref": "02026031",
+"start_ref_usfm": "EXO 26:31",
+"end_ref": "02026031",
+"end_ref_usfm": "EXO 26:31"
+},
+{
+"start_ref": "02026036",
+"start_ref_usfm": "EXO 26:36",
+"end_ref": "02026036",
+"end_ref_usfm": "EXO 26:36"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027009",
+"end_ref_usfm": "EXO 27:9"
+},
+{
+"start_ref": "02027016",
+"start_ref_usfm": "EXO 27:16",
+"end_ref": "02027016",
+"end_ref_usfm": "EXO 27:16"
+},
+{
+"start_ref": "02027018",
+"start_ref_usfm": "EXO 27:18",
+"end_ref": "02027018",
+"end_ref_usfm": "EXO 27:18"
+},
+{
+"start_ref": "02028005",
+"start_ref_usfm": "EXO 28:5",
+"end_ref": "02028005",
+"end_ref_usfm": "EXO 28:5"
+},
+{
+"start_ref": "02028006",
+"start_ref_usfm": "EXO 28:6",
+"end_ref": "02028006",
+"end_ref_usfm": "EXO 28:6"
+},
+{
+"start_ref": "02028008",
+"start_ref_usfm": "EXO 28:8",
+"end_ref": "02028008",
+"end_ref_usfm": "EXO 28:8"
+},
+{
+"start_ref": "02028015",
+"start_ref_usfm": "EXO 28:15",
+"end_ref": "02028015",
+"end_ref_usfm": "EXO 28:15"
+},
+{
+"start_ref": "02028039",
+"start_ref_usfm": "EXO 28:39",
+"end_ref": "02028039",
+"end_ref_usfm": "EXO 28:39"
+},
+{
+"start_ref": "02035006",
+"start_ref_usfm": "EXO 35:6",
+"end_ref": "02035006",
+"end_ref_usfm": "EXO 35:6"
+},
+{
+"start_ref": "02035023",
+"start_ref_usfm": "EXO 35:23",
+"end_ref": "02035023",
+"end_ref_usfm": "EXO 35:23"
+},
+{
+"start_ref": "02035025",
+"start_ref_usfm": "EXO 35:25",
+"end_ref": "02035025",
+"end_ref_usfm": "EXO 35:25"
+},
+{
+"start_ref": "02035035",
+"start_ref_usfm": "EXO 35:35",
+"end_ref": "02035035",
+"end_ref_usfm": "EXO 35:35"
+},
+{
+"start_ref": "02036008",
+"start_ref_usfm": "EXO 36:8",
+"end_ref": "02036008",
+"end_ref_usfm": "EXO 36:8"
+},
+{
+"start_ref": "02036035",
+"start_ref_usfm": "EXO 36:35",
+"end_ref": "02036035",
+"end_ref_usfm": "EXO 36:35"
+},
+{
+"start_ref": "02036037",
+"start_ref_usfm": "EXO 36:37",
+"end_ref": "02036037",
+"end_ref_usfm": "EXO 36:37"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038009",
+"end_ref_usfm": "EXO 38:9"
+},
+{
+"start_ref": "02038016",
+"start_ref_usfm": "EXO 38:16",
+"end_ref": "02038016",
+"end_ref_usfm": "EXO 38:16"
+},
+{
+"start_ref": "02038018",
+"start_ref_usfm": "EXO 38:18",
+"end_ref": "02038018",
+"end_ref_usfm": "EXO 38:18"
+},
+{
+"start_ref": "02038023",
+"start_ref_usfm": "EXO 38:23",
+"end_ref": "02038023",
+"end_ref_usfm": "EXO 38:23"
+},
+{
+"start_ref": "02039002",
+"start_ref_usfm": "EXO 39:2",
+"end_ref": "02039002",
+"end_ref_usfm": "EXO 39:2"
+},
+{
+"start_ref": "02039003",
+"start_ref_usfm": "EXO 39:3",
+"end_ref": "02039003",
+"end_ref_usfm": "EXO 39:3"
+},
+{
+"start_ref": "02039005",
+"start_ref_usfm": "EXO 39:5",
+"end_ref": "02039005",
+"end_ref_usfm": "EXO 39:5"
+},
+{
+"start_ref": "02039008",
+"start_ref_usfm": "EXO 39:8",
+"end_ref": "02039008",
+"end_ref_usfm": "EXO 39:8"
+},
+{
+"start_ref": "02039027",
+"start_ref_usfm": "EXO 39:27",
+"end_ref": "02039027",
+"end_ref_usfm": "EXO 39:27"
+},
+{
+"start_ref": "02039029",
+"start_ref_usfm": "EXO 39:29",
+"end_ref": "02039029",
+"end_ref_usfm": "EXO 39:29"
+},
+{
+"start_ref": "20031022",
+"start_ref_usfm": "PRO 31:22",
+"end_ref": "20031022",
+"end_ref_usfm": "PRO 31:22"
+},
+{
+"start_ref": "26016010",
+"start_ref_usfm": "EZK 16:10",
+"end_ref": "26016010",
+"end_ref_usfm": "EZK 16:10"
+},
+{
+"start_ref": "26016013",
+"start_ref_usfm": "EZK 16:13",
+"end_ref": "26016013",
+"end_ref_usfm": "EZK 16:13"
+},
+{
+"start_ref": "26027007",
+"start_ref_usfm": "EZK 27:7",
+"end_ref": "26027007",
+"end_ref_usfm": "EZK 27:7"
+},
+{
+"start_ref": "66018012",
+"start_ref_usfm": "REV 18:12",
+"end_ref": "66018012",
+"end_ref_usfm": "REV 18:12"
+},
+{
+"start_ref": "66018016",
+"start_ref_usfm": "REV 18:16",
+"end_ref": "66018016",
+"end_ref_usfm": "REV 18:16"
+},
+{
+"start_ref": "66019008",
+"start_ref_usfm": "REV 19:8",
+"end_ref": "66019008",
+"end_ref_usfm": "REV 19:8"
+},
+{
+"start_ref": "66019014",
+"start_ref_usfm": "REV 19:14",
+"end_ref": "66019014",
+"end_ref_usfm": "REV 19:14"
+},
+{
+"start_ref": "82003006",
+"start_ref_usfm": "1ES 3:6",
+"end_ref": "82003006",
+"end_ref_usfm": "1ES 3:6"
+},
+{
+"start_ref": "42016019",
+"start_ref_usfm": "LUK 16:19",
+"end_ref": "42016019",
+"end_ref_usfm": "LUK 16:19"
+},
+{
+"start_ref": "40012020",
+"start_ref_usfm": "MAT 12:20",
+"end_ref": "40012020",
+"end_ref_usfm": "MAT 12:20"
+},
+{
+"start_ref": "66015006",
+"start_ref_usfm": "REV 15:6",
+"end_ref": "66015006",
+"end_ref_usfm": "REV 15:6"
+},
+{
+"start_ref": "69016008",
+"start_ref_usfm": "JDT 16:8",
+"end_ref": "69016008",
+"end_ref_usfm": "JDT 16:8"
+},
+{
+"start_ref": "42024012",
+"start_ref_usfm": "LUK 24:12",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "43019040",
+"start_ref_usfm": "JHN 19:40",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "43020005",
+"start_ref_usfm": "JHN 20:5",
+"end_ref": "43020005",
+"end_ref_usfm": "JHN 20:5"
+},
+{
+"start_ref": "43020006",
+"start_ref_usfm": "JHN 20:6",
+"end_ref": "43020006",
+"end_ref_usfm": "JHN 20:6"
+},
+{
+"start_ref": "43020007",
+"start_ref_usfm": "JHN 20:7",
+"end_ref": "43020007",
+"end_ref_usfm": "JHN 20:7"
+},
+{
+"start_ref": "44010011",
+"start_ref_usfm": "ACT 10:11",
+"end_ref": "44010011",
+"end_ref_usfm": "ACT 10:11"
+},
+{
+"start_ref": "44011005",
+"start_ref_usfm": "ACT 11:5",
+"end_ref": "44011005",
+"end_ref_usfm": "ACT 11:5"
+},
+{
+"start_ref": "40027059",
+"start_ref_usfm": "MAT 27:59",
+"end_ref": "40027059",
+"end_ref_usfm": "MAT 27:59"
+},
+{
+"start_ref": "41014051",
+"start_ref_usfm": "MRK 14:51",
+"end_ref": "41014051",
+"end_ref_usfm": "MRK 14:51"
+},
+{
+"start_ref": "41014052",
+"start_ref_usfm": "MRK 14:52",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "26044019",
+"start_ref_usfm": "EZK 44:19",
+"end_ref": "26044019",
+"end_ref_usfm": "EZK 44:19"
+}
+],
+"resource": []
+}
+}
+]

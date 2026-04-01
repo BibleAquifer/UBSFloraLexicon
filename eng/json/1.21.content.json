@@ -1,0 +1,120 @@
+[
+{
+"content_id": "FLORA:1.21",
+"reference_id": "FLORA:1.21",
+"version": "1.0.4",
+"title": "Sandalwood (red saunders)",
+"media_type": "Text",
+"index_reference": "1.21",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.21\"><span class=\"thlex-key\">1.21</span> Sandalwood (red saunders)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אַלְגּוּמִּים</span> <span class=\"thlex-translit\">(’algum)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a>, <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a>, <a href=\"https://ref.ly/2Chr9:11\">2CH 9:11</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אַלְמֹגִּים</span> <span class=\"thlex-translit\">(’almug)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs10:11\">1KI 10:11</a>, <a href=\"https://ref.ly/1Kgs10:12\">1KI 10:12</a>, <a href=\"https://ref.ly/1Kgs10:12\">1KI 10:12</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0786_sandalwood.jpg\" alt=\"WEB-0786_sandalwood\"></figure>A survey of the English versions indicates the vigorous debate, if not confusion, surrounding the Hebrew word <em>’almug</em> in 1 Kings and its parallel <em>’algum</em> in 2 Chronicles. The majority of English versions (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>) transliterate directly from the Hebrew in both books, but <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> harmonize 1 Kings and 2 Chronicles by using “juniper” throughout. <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr> likewise avoids the issue by translating “precious wood” in both books. The debate hinges on two questions:</p>\n<p>1. Is <em>’almug</em> in 1 Kings the same as <em>’algum</em> in 2 Chronicles?</p>\n<p>2. Where does the <em>’almug</em> /<em>’algum</em> tree come from?</p>\n<p>Note where they are said to come from: <a href=\"https://ref.ly/1Kgs10:11\">1KI 10:11</a>, <em>’almug</em> from Ophir; <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a>, <em>’algum</em> from Lebanon; <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a>, <em>’algum</em> from Ophir.</p>\n<p>The botanical commentators stand as follows: Zohary, following Tristram, says that the trees are the same, that is, red sandalwood (<em>Pterocarpus santolinus</em>, also called red saunders) from India (via Ophir). Hepper, following Moldenke, Celsius, W. Smith and others, says the trees are different: <em>’almug</em> is the red sandalwood; <em>’algum</em> is the Grecian Juniper <em>Juniperus excelsa</em> of Lebanon.</p>\n<p>According to FFB, the trees are the same, of unknown origin but maybe the red sandalwood, the white sandalwood, or the Phoenician juniper.</p>\n<p>The biblical commentators Keil and Delitzsch consider the trees to be the same, namely sandalwood. According to them, in <a href=\"https://ref.ly/2Chr2:8\">2CH 2:8</a> the writer mistakenly groups <em>’algum</em> with cedar and cypress as products of Lebanon, whereas <em>’algum</em> should stand separately with “precious stones,” as it does in <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a>. Furthermore, G. H. Jones argues it should be <em>’almug</em>, not <em>’algum</em>, on the basis of cognates in Ugaritic (<em>’-l-m-g</em>) and Akkadian (<em>elammakku</em>). Furthermore, a dialect of Sanskrit has the word <em>mocha</em> for the sandalwood tree (see also the appendix below). Adding the Arabic definite article <em>al</em> could explain <em>al-mug</em> (and Arabic typically changes <em>o</em> to <em>u</em> in loan words). Greenfield and Mayrhofer (1967, quoted in Hepper) also hold on philological grounds that <em>’algum</em> and <em>’almug</em> are the same thing; they identify it with a tree from Lebanon which they do not name. Ugaritic records, incidentally, refer to a tree called <em>’-l-m-g</em>.</p>\n<p>On a quite different track, Hareuveni (page 99) tries to make a case for translating <em>’almug</em> as “coral,” a mineral product found in the sea, on the ground that <em>’almog</em> is the modern Hebrew word for coral. It makes a good pair with “precious stones.” Hareuveni quotes the Babylonian Talmud, which describes in detail how these “coral trees” are brought up from the bottom of the Mediterranean Sea.</p>\n<p>The translators of <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr> (following FFB, which follows Koehler and Baumgartner) hold that the phrase “<em>’algum</em> from Lebanon” in <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a> is basic and that it must refer to the Phoenician juniper (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.11.2\" href=\"#FLORA:1.11.2\">1.11.2 Phoenician juniper (coastal juniper)</a>). Then they harmonize 1 Kings with 2 Chronicles.</p>\n<p>Looking at the accounts in 1 Kgs 10 and 2 Chr 9 as stories about Hiram’s contribution to King Solomon, one may observe first of all that the accounts are both awkwardly interrupted by the story of the visit of the queen of Sheba.* They are almost word-for-word parallels except for the <em>’almug</em> /<em>’algum</em> difference. King Hiram brought gold from Ophir, and also, incidentally, <em>’algum</em> /<em>’almug</em> wood and precious stones. 1 Kings refers to <em>’almug</em> three times; the parallel account in 2 Chronicles mentions <em>’algum</em> twice, with the third parallel clearly implied. It is difficult to escape the conclusion that they refer to the same product, and that the variation is caused by the simple inversion of the two Hebrew consonants <em>mem</em> and <em>gimel</em> in one account. Neither account says where the wood came from, but it seems not to be Lebanon. This seems to rule out “juniper” (as in <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>). And it may not be Ophir. Which of the two readings is earlier? It is generally accepted that the Kings account came first and that the Chronicler used the Deuteronomic Kings account (with <em>’almug</em>) as a reference. Let us assume that <em>’almug</em> is prior.</p>\n<p>Note that <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a> (8) expresses King Solomon’s desire that King Hiram send him “cedar, cypress and <em>’algum</em>.” There is no exact parallel to this in 1 Kings, but in <a href=\"https://ref.ly/1Kgs5:7\">1KI 5:7</a>; <a href=\"https://ref.ly/1Kgs5:8\">1KI 5:8</a>; <a href=\"https://ref.ly/1Kgs5:9\">1KI 5:9</a> we have King Hiram’s response to Solomon’s request. He says that he will send Solomon cedar and cypress. There is no reference to any other type of wood. But when we get to <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a> we find that Hiram sends algum wood and precious stones. We can conclude that <em>’algum</em> was added to <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a> in order to anticipate the statement in <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a> (and <a href=\"https://ref.ly/1Kgs10:11\">1KI 10:11</a>) that Solomon brought <em>’algum</em> wood for use in the Temple. Unfortunately, the way it was added makes it sound as though the precious wood is from Lebanon. <a href=\"https://ref.ly/2Chr8:18\">2CH 8:18</a> and <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a> (interrupted by the queen of Sheba story) clearly separate the gold (from Ophir) from the algum and precious stones (origin unspecified). We conclude that, in adapting the text of <a href=\"https://ref.ly/1Kgs10:11\">1KI 10:11</a>; <a href=\"https://ref.ly/1Kgs10:12\">1KI 10:12</a>, the scribe preparing <a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a>; <a href=\"https://ref.ly/2Chr9:11\">2CH 9:11</a> inverted the consonants, yielding <em>’algum</em>, and the other reference in 2 Chronicles was adapted to harmonize with the first.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Red Sandalwood <em>Pterocarpus santolinus</em> is a large tropical tree with hard, reddish wood and yellow flowers. The fruit appears as a pod with two seeds in it.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0787_sandalwood_leaf.jpg\" alt=\"WEB-0787_sandalwood_leaf\"></figure>If the translator is convinced on the basis of the cognates that the sandalwood tree is intended in both 1 Kings and 2 Chronicles, as we propose, it is worthwhile noting that many species of sandalwood (<em>Pterocarpus</em>) occur all over the world. There are twenty tropical species (some known as padouk, vermilion wood, bloodwood, and kino). In Africa species of <em>Pterocarpus</em> are called rosewood, barwood, or kino. In Asia the <em>Pterocarpus</em> species may be called Burmese rosewood, red wood, Amboyna wood, or maidu. French-speaking areas may know it as <em>santal rouge</em>; in Portuguese it is <em>sandalo vermelho</em>.</p>\n<p>Translation options are:</p>\n<p>1. Use a relative of the sandalwood present in the local area, or transliterate from a major language.</p>\n<p>2. Take 1 Kings as “original” and use a transliteration of <em>mug</em> /<em>mok</em> or <em>almug</em> /<em>almok</em> in both books. <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a> could then have a footnote explaining that the Hebrew has <em>’algum</em>. (A study Bible would explain why this tropical tree came to be in this verse about Lebanon.)</p>\n<p>3. Generalize by using “precious wood” in both books as in <abbr class=\"thlex-abbr\" title=\"German Common Language Version (Gute Nachricht Bibel)\">GECL</abbr>.</p>\n<p>4. Transliterate from the Hebrew in both 1 Kings and 2 Chronicles as in <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, live with the tantalizing similarity (for example, <em>aligumu</em> /<em>alimugu</em>), and wait for archeologists to discover samples at the Temple Mount.</p>\n<p>Zohary suggests that <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a> a be revised to read “Send me also cedar [and] cypress from Lebanon and [also] algum timber.” This matches better with 1 Kings but may be a more radical rearrangement of the grammar than some translators will allow.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Appendix</h2>\n<div class=\"thlex-paragraphs\">\n<p>Zohary and others have argued for <em>’almug</em> being sandalwood on the grounds that <em>mug</em> is cognate with the Sanskrit <em>mocha</em>, with the definite article <em>al</em> prefixed. This assumes that the Arabs were trafficking in sandalwood, using the name <em>almuka</em> or something like it, and that the Arabic word came into the Hebrew Bible at the time of the writing of 1–2 Kings and 1–2 Chronicles. There is a question, however, whether the definite article was in use in Arabic at the time these books were written. Moscati’s <em>An Introduction to the Comparative Grammar of the Semitic Languages</em> says that most texts of Epigraphic South Arabian and Early Northern Arabic (fifth century B.C. to fourth century A.D.) have no definite article, but instead suffix a <em>nun</em> or <em>mem</em> for the absolute state (as in Babylonian). It has been assumed until recently that the article <em>al</em> appears regularly only in classical Arabic (beginning in the fourth century A.D. onward). However, two important exceptions with <em>al</em> have been found, in the form of inscriptions, and Moscati concedes that they may date to the Early Northern Arabic Period. Further, Herodotus, writing in the fifth century B.C., already uses a phrase for “the goddess” with both of the prefixes <em>h</em> /<em>hn</em> and <em>al</em> in an Aramaic inscription.</p>\n<p>1 Kgs</p>\n<p><a href=\"https://ref.ly/1Kgs9:26\">1KI 9:26</a>; <a href=\"https://ref.ly/1Kgs9:27\">1KI 9:27</a> gold from Ophir</p>\n<p><a href=\"https://ref.ly/1Kgs10:11\">1KI 10:11</a>; <a href=\"https://ref.ly/1Kgs10:12\">1KI 10:12</a> <em>’almug</em> and precious stones</p>\n<p><a href=\"https://ref.ly/1Kgs10:14\">1KI 10:14</a>; <a href=\"https://ref.ly/1Kgs10:15\">1KI 10:15</a> total amount of gold</p>\n<p>2 Chr</p>\n<p><a href=\"https://ref.ly/2Chr8:17\">2CH 8:17</a>; <a href=\"https://ref.ly/2Chr8:18\">2CH 8:18</a> gold from Ophir</p>\n<p><a href=\"https://ref.ly/2Chr9:10\">2CH 9:10</a>; <a href=\"https://ref.ly/2Chr9:11\">2CH 9:11</a> <em>’algum</em> and precious stones</p>\n<p><a href=\"https://ref.ly/2Chr9:13\">2CH 9:13</a>; <a href=\"https://ref.ly/2Chr9:14\">2CH 9:14</a> total amount of gold</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "14002007",
+"start_ref_usfm": "2CH 2:7",
+"end_ref": "14002007",
+"end_ref_usfm": "2CH 2:7"
+},
+{
+"start_ref": "14009010",
+"start_ref_usfm": "2CH 9:10",
+"end_ref": "14009010",
+"end_ref_usfm": "2CH 9:10"
+},
+{
+"start_ref": "14009011",
+"start_ref_usfm": "2CH 9:11",
+"end_ref": "14009011",
+"end_ref_usfm": "2CH 9:11"
+},
+{
+"start_ref": "11010011",
+"start_ref_usfm": "1KI 10:11",
+"end_ref": "11010011",
+"end_ref_usfm": "1KI 10:11"
+},
+{
+"start_ref": "11010012",
+"start_ref_usfm": "1KI 10:12",
+"end_ref": "11010012",
+"end_ref_usfm": "1KI 10:12"
+},
+{
+"start_ref": "14002008",
+"start_ref_usfm": "2CH 2:8",
+"end_ref": "14002008",
+"end_ref_usfm": "2CH 2:8"
+},
+{
+"start_ref": "11005007",
+"start_ref_usfm": "1KI 5:7",
+"end_ref": "11005007",
+"end_ref_usfm": "1KI 5:7"
+},
+{
+"start_ref": "11005008",
+"start_ref_usfm": "1KI 5:8",
+"end_ref": "11005008",
+"end_ref_usfm": "1KI 5:8"
+},
+{
+"start_ref": "11005009",
+"start_ref_usfm": "1KI 5:9",
+"end_ref": "11005009",
+"end_ref_usfm": "1KI 5:9"
+},
+{
+"start_ref": "14008018",
+"start_ref_usfm": "2CH 8:18",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+},
+{
+"start_ref": "11009026",
+"start_ref_usfm": "1KI 9:26",
+"end_ref": "11009026",
+"end_ref_usfm": "1KI 9:26"
+},
+{
+"start_ref": "11009027",
+"start_ref_usfm": "1KI 9:27",
+"end_ref": "11009027",
+"end_ref_usfm": "1KI 9:27"
+},
+{
+"start_ref": "11010014",
+"start_ref_usfm": "1KI 10:14",
+"end_ref": "11010014",
+"end_ref_usfm": "1KI 10:14"
+},
+{
+"start_ref": "11010015",
+"start_ref_usfm": "1KI 10:15",
+"end_ref": "11010015",
+"end_ref_usfm": "1KI 10:15"
+},
+{
+"start_ref": "14008017",
+"start_ref_usfm": "2CH 8:17",
+"end_ref": "14008017",
+"end_ref_usfm": "2CH 8:17"
+},
+{
+"start_ref": "14009013",
+"start_ref_usfm": "2CH 9:13",
+"end_ref": "14009013",
+"end_ref_usfm": "2CH 9:13"
+},
+{
+"start_ref": "14009014",
+"start_ref_usfm": "2CH 9:14",
+"end_ref": "14009014",
+"end_ref_usfm": "2CH 9:14"
+}
+],
+"resource": []
+}
+}
+]
