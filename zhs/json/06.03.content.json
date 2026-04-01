@@ -1,0 +1,87 @@
+[
+{
+"content_id": "FLORA:6.3",
+"reference_id": "FLORA:6.3",
+"version": "1.0.4",
+"title": "标题：杂草",
+"media_type": "Text",
+"index_reference": "6.3",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:6.3\"><span class=\"thlex-key\">6.3</span> 标题：杂草</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>圣经中提到有一种植物，其名字本身并没有多刺的意思。这种植物之所以不受欢迎是因为它顽固地生长在不该生长的地方。它就是福音书一个著名比喻中的&quot;稗子&quot;。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:6.3.1",
+"reference_id": "FLORA:6.3.1",
+"version": "1.0.4",
+"title": "标题：杂草（稗子、毒麦）（weed [tare, darnel]）",
+"media_type": "Text",
+"index_reference": "6.3.1",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:6.3.1\"><span class=\"thlex-key\">6.3.1</span> 标题：杂草（稗子、毒麦）（weed [tare, darnel]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：בָּאְשָׁה</span> <span class=\"thlex-translit\">(音译：ba’ashah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job31:40\">JOB 31:40</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：ζιζάνιον</span> <span class=\"thlex-translit\">(音译：zizanion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Matt13:25\">MAT 13:25</a>, <a href=\"https://ref.ly/Matt13:26\">MAT 13:26</a>, <a href=\"https://ref.ly/Matt13:27\">MAT 13:27</a>, <a href=\"https://ref.ly/Matt13:29\">MAT 13:29</a>, <a href=\"https://ref.ly/Matt13:30\">MAT 13:30</a>, <a href=\"https://ref.ly/Matt13:36\">MAT 13:36</a>, <a href=\"https://ref.ly/Matt13:38\">MAT 13:38</a>, <a href=\"https://ref.ly/Matt13:40\">MAT 13:40</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0174_darnel.jpg\" alt=\"WEB-0174_darnel\"></figure><a href=\"https://ref.ly/Matt13:25\">MAT 13:25</a> 讲到仇敌把杂草（或稗子）的种子撒到麦子里。虽然圣地的田里有很多种有害的杂草，但希腊文<em>zizanion</em> 在这里最有可能指的是毒麦（学名<em>Lolium temulentum</em> ）。埃及坟墓和拉吉考古发掘的证据告诉我们，毒麦这种有害的杂草已经烦扰人们至少3000年了。毒麦的外形很像二粒小麦，两者很难区分。</p>\n<p>希伯来文名词<em>ba’ashah</em> 只在<a href=\"https://ref.ly/Job31:40\">JOB 31:40</a> 中出现了一次，但它的动词形式在旧约出现过很多次，意思是&quot;发臭&quot;，就像腐烂的疮或尸体那样。这个名词实际上并不是指一种植物，它的字面意思是&quot;发臭的东西&quot;。然而在<a href=\"https://ref.ly/Job31:40\">JOB 31:40</a> 中，该词与希伯来文<em>choach</em> （&quot;蒺藜&quot;；参<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:6.2.1\" href=\"#FLORA:6.2.1\">6.2.1 蒺藜 (thistles)</a> ）平行，因此在这个上下文中有&quot;发臭的／难闻的杂草&quot;的意思。有词典将这个词解作一种叫做&quot;臭草&quot;的植物，但它在这节经文里的意思比较宽泛，指任何散发出臭味的杂草。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0175_darnel_grass.jpg\" alt=\"WEB-0175_darnel_grass\"></figure>毒麦是一年生植物，分布在整个巴勒斯坦地区，植株高为30—60厘米（1—2英尺）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>圣经提到毒麦时，仅是一种有害的植物。不过，亚述人曾把毒麦入药。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>圣经时期的农民在面对讨厌的杂草时会感到沮丧，农业地区的翻译者应该不难理解这一点。毒麦广为人知，因此具有很多名字（例如，法文<em>herbe a couteau</em> 、<em>herbe d’ivrogue</em> 、<em>ivraie</em> ，西班牙文<em>barrachuela</em> 、<em>cizaña</em> 、<em>cominillo</em> 、<em>joyo</em> 、<em>trigollo</em> ，葡萄牙文<em>joio</em> ）。翻译者如果不了解农村和农业，需要向农民讨教合适的译名。圣经提到的&quot;假的麦子&quot;可能会有文化上的对等词。若不然，在杂草的比喻中，翻译者可以采用&quot;假的麦子&quot;这类短语。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18031040",
+"start_ref_usfm": "JOB 31:40",
+"end_ref": "18031040",
+"end_ref_usfm": "JOB 31:40"
+},
+{
+"start_ref": "40013025",
+"start_ref_usfm": "MAT 13:25",
+"end_ref": "40013025",
+"end_ref_usfm": "MAT 13:25"
+},
+{
+"start_ref": "40013026",
+"start_ref_usfm": "MAT 13:26",
+"end_ref": "40013026",
+"end_ref_usfm": "MAT 13:26"
+},
+{
+"start_ref": "40013027",
+"start_ref_usfm": "MAT 13:27",
+"end_ref": "40013027",
+"end_ref_usfm": "MAT 13:27"
+},
+{
+"start_ref": "40013029",
+"start_ref_usfm": "MAT 13:29",
+"end_ref": "40013029",
+"end_ref_usfm": "MAT 13:29"
+},
+{
+"start_ref": "40013030",
+"start_ref_usfm": "MAT 13:30",
+"end_ref": "40013030",
+"end_ref_usfm": "MAT 13:30"
+},
+{
+"start_ref": "40013036",
+"start_ref_usfm": "MAT 13:36",
+"end_ref": "40013036",
+"end_ref_usfm": "MAT 13:36"
+},
+{
+"start_ref": "40013038",
+"start_ref_usfm": "MAT 13:38",
+"end_ref": "40013038",
+"end_ref_usfm": "MAT 13:38"
+},
+{
+"start_ref": "40013040",
+"start_ref_usfm": "MAT 13:40",
+"end_ref": "40013040",
+"end_ref_usfm": "MAT 13:40"
+}
+],
+"resource": []
+}
+}
+]

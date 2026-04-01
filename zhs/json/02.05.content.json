@@ -1,0 +1,306 @@
+[
+{
+"content_id": "FLORA:2.5",
+"reference_id": "FLORA:2.5",
+"version": "1.0.4",
+"title": "标题：海枣树（date palm）",
+"media_type": "Text",
+"index_reference": "2.5",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:2.5\"><span class=\"thlex-key\">2.5</span> 标题：海枣树（date palm）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<h3 class=\"thlex-subheading\"><strong>树</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：תָּמָר</span> <span class=\"thlex-translit\">(音译：tamar)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod15:27\">EXO 15:27</a>, <a href=\"https://ref.ly/Lev23:40\">LEV 23:40</a>, <a href=\"https://ref.ly/Num33:9\">NUM 33:9</a>, <a href=\"https://ref.ly/Deut34:3\">DEU 34:3</a>, <a href=\"https://ref.ly/Judg1:16\">JDG 1:16</a>, <a href=\"https://ref.ly/Judg3:13\">JDG 3:13</a>, <a href=\"https://ref.ly/2Chr28:15\">2CH 28:15</a>, <a href=\"https://ref.ly/Neh8:15\">NEH 8:15</a>, <a href=\"https://ref.ly/Ps92:13\">PSA 92:13</a>, <a href=\"https://ref.ly/Song7:8\">SNG 7:8</a>, <a href=\"https://ref.ly/Song7:9\">SNG 7:9</a>, <a href=\"https://ref.ly/Joel1:12\">JOL 1:12</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：תֹּמֶר</span> <span class=\"thlex-translit\">(音译：tomer)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Judg4:5\">JDG 4:5</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：תִּמֹרָה</span> <span class=\"thlex-translit\">(音译：timorah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/1Kgs6:29\">1KI 6:29</a>, <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>, <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>, <a href=\"https://ref.ly/1Kgs6:35\">1KI 6:35</a>, <a href=\"https://ref.ly/1Kgs7:36\">1KI 7:36</a>, <a href=\"https://ref.ly/2Chr3:5\">2CH 3:5</a>, <a href=\"https://ref.ly/Ezek40:16\">EZK 40:16</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:26\">EZK 40:26</a>, <a href=\"https://ref.ly/Ezek40:31\">EZK 40:31</a>, <a href=\"https://ref.ly/Ezek40:34\">EZK 40:34</a>, <a href=\"https://ref.ly/Ezek40:37\">EZK 40:37</a>, <a href=\"https://ref.ly/Ezek41:18\">EZK 41:18</a>, <a href=\"https://ref.ly/Ezek41:18\">EZK 41:18</a>, <a href=\"https://ref.ly/Ezek41:19\">EZK 41:19</a>, <a href=\"https://ref.ly/Ezek41:19\">EZK 41:19</a>, <a href=\"https://ref.ly/Ezek41:20\">EZK 41:20</a>, <a href=\"https://ref.ly/Ezek41:25\">EZK 41:25</a>, <a href=\"https://ref.ly/Ezek41:26\">EZK 41:26</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：φοῖνιξ</span> <span class=\"thlex-translit\">(音译：phoinix)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke12:13\">JHN 12:13</a>, <a href=\"https://ref.ly/Jude7:9\">REV 7:9</a>, <a href=\"https://ref.ly/Wis24:14\">SIR 24:14</a>, <a href=\"https://ref.ly/Wis50:12\">SIR 50:12</a>, <a href=\"https://ref.ly/1Macc10:7\">2MA 10:7</a>, <a href=\"https://ref.ly/1Macc14:4\">2MA 14:4</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<h3 class=\"thlex-subheading\"><strong>枝子</strong> ：</h3>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：כִּפָּה</span> <span class=\"thlex-translit\">(音译：kipah)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job15:32\">JOB 15:32</a>, <a href=\"https://ref.ly/Isa9:13\">ISA 9:13</a>, <a href=\"https://ref.ly/Isa19:15\">ISA 19:15</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：βαΐνη</span> <span class=\"thlex-translit\">(音译：bainē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Bel13:37\">1MA 13:37</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">希：βάϊον</span> <span class=\"thlex-translit\">(音译：baion)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke12:13\">JHN 12:13</a>, <a href=\"https://ref.ly/Bel13:51\">1MA 13:51</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0026_date_palm.jpg\" alt=\"PTZ-0026_date_palm\"></figure>在从加那利群岛开始，横贯非洲直到印度的气候干燥的热带国家，有40多种海枣树（学名<em>Phoenix dactylifera</em> ）。海枣树可能起源于中东（祖海里和霍普夫［Hopf］），现在那里仍有许多这种树。我们在<a href=\"https://ref.ly/Lev23:40\">LEV 23:40</a> 看到，住棚节会使用海枣树的枝子；在<a href=\"https://ref.ly/Luke12:13\">JHN 12:13</a> ，人们用海枣树的枝子（《和》、《和修》、《吕》作&quot;棕树枝&quot;，《思》作&quot;棕榈枝&quot;）欢迎耶稣。对于《约翰福音》12章所述事件，有一个合理的疑问：百姓是从哪里弄到这些海枣树枝的呢？因为耶路撒冷地势较高，气候较冷，海枣树无法生长。但是，女先知底波拉的海枣树（<a href=\"https://ref.ly/Judg4:5\">JDG 4:5</a> ）也存在同样的疑问，因为她所住的地方是在拉玛和伯特利之间，那地的海拔和耶路撒冷相差无几。耶利哥被称为&quot;海枣树之城&quot;（希伯来文<em>temarim</em> ；<a href=\"https://ref.ly/Deut34:3\">DEU 34:3</a>; <a href=\"https://ref.ly/Judg1:16\">JDG 1:16</a>; <a href=\"https://ref.ly/Judg3:13\">JDG 3:13</a>; <a href=\"https://ref.ly/2Chr28:15\">2CH 28:15</a> ）。海枣可以生吃，也可以晒干后压成&quot;饼&quot;，有时还可以做成饮料。在<a href=\"https://ref.ly/Deut8:8\">DEU 8:8</a> 中，希伯来文<em>devash</em> 通常被认为是&quot;蜂蜜&quot;，但也可能指一种用海枣制成的糖浆。在过去和现在，人们都用海枣树的叶子做垫子、篮子、篱笆和屋顶。今天，在约旦河谷和阿拉瓦谷、死海周边，以及以色列沿海平原，都大量种植海枣树。英文&quot;date&quot;（&quot;海枣&quot;）是从拉丁文<em>dactylus</em> ，经古法文<em>datil</em> 演变而成的。拉丁文则源于希腊文<em>daktylos</em> （意为&quot;手指&quot;）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p>海枣树通常可以长到10—20米（33—66英尺）高，树顶的大叶子聚成一簇。老树叶每年枯萎下垂，果农就把老枝砍掉。未成熟的叶子紧紧地包在一起，这束叶子在希伯来文中称为<em>lulav</em> 。海枣树大约生长5年到8年就开始结果，果实甘甜，比大拇指略小，结成一大串。柔软的果肉里面有一颗长约2.5厘米（1英寸）的硬核，也是种子。海枣树雌雄异株。有些地方只生有单一性株的海枣树，因为没有授粉，所以不结果实。果农更喜欢通过培育树基处的吸芽来繁殖海枣树，而不是通过种子繁殖，因为种子会产生太多的雄株。雌株在夏季（6月—8月）结果。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\" data-image-id=\"WEB-0176_datepalm\"><img class=\"thlex-img\" alt=\"WEB-0176_datepalm\"></figure>在<a href=\"https://ref.ly/Song7:8\">SNG 7:8</a> （《和》7:7），海枣树是高贵和优雅的象征。<a href=\"https://ref.ly/Ps92:13\">PSA 92:13</a>; <a href=\"https://ref.ly/Ps92:14\">PSA 92:14</a>; <a href=\"https://ref.ly/Ps92:15\">PSA 92:15</a> （《和》92:12–14）说，义人要如海枣树那样兴旺，而<a href=\"https://ref.ly/Job15:32\">JOB 15:32</a> 说，恶人要像枯干的海枣枝那样枯萎。<a href=\"https://ref.ly/Neh8:15\">NEH 8:15</a> 提到与住棚节有关的四种特殊树木，海枣树便是其中之一。她玛（意为&quot;海枣树&quot;）是一个常见的希伯来名字，圣经有好几卷书都提到过这个名字（如<a href=\"https://ref.ly/Gen38:6\">GEN 38:6</a>; <a href=\"https://ref.ly/Ruth4:12\">RUT 4:12</a>; <a href=\"https://ref.ly/1Chr2:4\">1CH 2:4</a> ）。在<a href=\"https://ref.ly/Bel13:37\">1MA 13:37</a> ，海枣枝是和平的象征，然而在<a href=\"https://ref.ly/Bel13:51\">1MA 13:51</a> 象征胜利（另参<a href=\"https://ref.ly/Luke12:13\">JHN 12:13</a> ；<a href=\"https://ref.ly/Jude7:9\">REV 7:9</a> ；<a href=\"https://ref.ly/1Macc10:7\">2MA 10:7</a> ）。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0177_dates.jpg\" alt=\"WEB-0177_dates\"></figure>对于通常生长在沙漠地区的海枣树，西非海岸的翻译者经常会用油棕树或椰子树来替代。还有一些翻译者熟悉扇叶棕榈（学名<em>Borassus</em> ；&quot;鲁恩棕榈&quot;），但应注意，扇叶棕榈的叶子和海枣树的叶子很不一样。我不清楚非欧洲语言中是否有棕榈树的统称。海枣树枝在住棚节的作用是搭建简陋的住所，因此这里的棕榈树是哪一种并没有太大的关系。在描述圣殿时，经文提到用棕树作装饰（参<a href=\"https://ref.ly/1Kgs6:29\">1KI 6:29</a>; <a href=\"https://ref.ly/1Kgs6:35\">1KI 6:35</a> ），情况也是一样。但是，如果提到这种树的果实，那么建议按照希伯来文<em>tamar</em> 或某种主要语言的词语进行音译。</p>\n<p>在有油棕树和椰子树、但没有海枣树的地方，建议译成&quot;油棕&quot;。在没有棕榈树的地方，市场上仍然可能有海枣树的果实，尤其是在穆斯林占多数的地方，海枣树的果实可能是斋月期间一种受欢迎的开斋食品。尼日利亚北部的峡谷内长着一种矮种海枣树（学名<em>Phoenix reclinata</em> ），所结的小果子和大棕榈树的果子非常像，可食用。至少有一个译本（贝罗姆文译本）采用了当地名称。</p>\n<p>在海枣树根本不为人所知的地方，有以下几种选择：</p>\n<p>1. 使用表示油棕或椰子树的词语（并考虑添加脚注，说明希伯来文<em>tamar</em> 和<em>tomer</em> ，以及希腊文<em>phoinix</em> ，都是指另外一种外形相似但是果实非常不同的树）；</p>\n<p>2. 按照希伯来文（<em>tomera</em> 、<em>tamara</em> ）和希腊文（<em>fonis</em> 、<em>fowinik</em> ）进行音译；</p>\n<p>3. 按照一种主要语言进行音译，例如，<em>nakhal</em> /<em>temer</em> （阿拉伯文）、<em>dattier</em> （法文）、<em>datil</em> /<em>palmera</em> （西班牙文）、<em>mtende</em> （斯瓦希里文）、<em>khaji</em> （印度文）、<em>karchuram</em> （泰米尔文）、&quot;海枣&quot;（中文）；</p>\n<p>4. 使用一个与上下文相符的一般性短语，例如&quot;好看的树&quot;。</p>\n<p><a href=\"https://ref.ly/Num24:6\">NUM 24:6</a> ：这节经文的第一行是&quot;如连绵的<em>nechalim</em> &quot;（<em>nachal</em> 的复数）。希伯来文<em>nachal</em> 的字面意思是水的&quot;急流&quot;。由于&quot;急流&quot;与花园、沉香树和香柏木并列在一起很奇怪，并且阿拉伯文中有一个意为海枣的词与之相似，因此大多数学者认为这个词在这里指的就是海枣。许多英文译本译为&quot;palm groves&quot;（&quot;棕榈丛&quot;；<abbr class=\"thlex-abbr\" title=\"New Revised Standard Version (1989)\">NRSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> 、<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> 、<abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> ；<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 类似），或&quot;rows of palms&quot;（&quot;一行行的棕榈&quot;；<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> ）。</p>\n<p><a href=\"https://ref.ly/Job15:32\">JOB 15:32</a> ：关于第31节的希伯来文<em>temurato</em> （&quot;他的报应&quot;）和第32节的<em>timmale&#x27;</em> （&quot;它（报应）必完全实现&quot;）的争论已持续几个世纪。乌比冈（Houbigant）等人说，<em>temurato</em> 应读作<em>timorato</em> （&quot;他的棕榈树&quot;）；<em>timmale&#x27;</em> 应读作<em>timmal</em> （&quot;它必干枯&quot;；《七十士译本》、《武加大译本》和叙利亚文译本同）。这个解释为第32节的希伯来文<em>kipah</em> （&quot;枝子&quot;）作了铺垫；该节第二行是&quot;它的枝子不得青绿&quot;。多尔姆（Dhorme）认为，<em>temurato</em> 应读作<em>zemorato</em> （&quot;他的葡萄嫩枝&quot;），指向第33节关于葡萄树的那行诗文。《〈约伯记〉手册》（<em>A Handbook on The Book of Job</em> ）支持在这段经文中使用&quot;棕榈树&quot;和&quot;棕榈枝&quot;。我们也赞同。</p>\n<p><a href=\"https://ref.ly/Job29:18\">JOB 29:18</a> ：《七十士译本》译作<em>phoinix</em> （&quot;棕榈树&quot;），而不是&quot;尘沙&quot;。许多学者在这里采用《七十士译本》的译法，但有些学者认为<em>phoinix</em> 不是指海枣树，而是指传说中一种很长寿的鸟，&quot;凤凰&quot;。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02015027",
+"start_ref_usfm": "EXO 15:27",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+},
+{
+"start_ref": "03023040",
+"start_ref_usfm": "LEV 23:40",
+"end_ref": "03023040",
+"end_ref_usfm": "LEV 23:40"
+},
+{
+"start_ref": "04033009",
+"start_ref_usfm": "NUM 33:9",
+"end_ref": "04033009",
+"end_ref_usfm": "NUM 33:9"
+},
+{
+"start_ref": "05034003",
+"start_ref_usfm": "DEU 34:3",
+"end_ref": "05034003",
+"end_ref_usfm": "DEU 34:3"
+},
+{
+"start_ref": "07001016",
+"start_ref_usfm": "JDG 1:16",
+"end_ref": "07001016",
+"end_ref_usfm": "JDG 1:16"
+},
+{
+"start_ref": "07003013",
+"start_ref_usfm": "JDG 3:13",
+"end_ref": "07003013",
+"end_ref_usfm": "JDG 3:13"
+},
+{
+"start_ref": "14028015",
+"start_ref_usfm": "2CH 28:15",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "16008015",
+"start_ref_usfm": "NEH 8:15",
+"end_ref": "16008015",
+"end_ref_usfm": "NEH 8:15"
+},
+{
+"start_ref": "19092013",
+"start_ref_usfm": "PSA 92:13",
+"end_ref": "19092013",
+"end_ref_usfm": "PSA 92:13"
+},
+{
+"start_ref": "22007008",
+"start_ref_usfm": "SNG 7:8",
+"end_ref": "22007008",
+"end_ref_usfm": "SNG 7:8"
+},
+{
+"start_ref": "22007009",
+"start_ref_usfm": "SNG 7:9",
+"end_ref": "22007009",
+"end_ref_usfm": "SNG 7:9"
+},
+{
+"start_ref": "29001012",
+"start_ref_usfm": "JOL 1:12",
+"end_ref": "29001012",
+"end_ref_usfm": "JOL 1:12"
+},
+{
+"start_ref": "07004005",
+"start_ref_usfm": "JDG 4:5",
+"end_ref": "07004005",
+"end_ref_usfm": "JDG 4:5"
+},
+{
+"start_ref": "11006029",
+"start_ref_usfm": "1KI 6:29",
+"end_ref": "11006029",
+"end_ref_usfm": "1KI 6:29"
+},
+{
+"start_ref": "11006032",
+"start_ref_usfm": "1KI 6:32",
+"end_ref": "11006032",
+"end_ref_usfm": "1KI 6:32"
+},
+{
+"start_ref": "11006035",
+"start_ref_usfm": "1KI 6:35",
+"end_ref": "11006035",
+"end_ref_usfm": "1KI 6:35"
+},
+{
+"start_ref": "11007036",
+"start_ref_usfm": "1KI 7:36",
+"end_ref": "11007036",
+"end_ref_usfm": "1KI 7:36"
+},
+{
+"start_ref": "14003005",
+"start_ref_usfm": "2CH 3:5",
+"end_ref": "14003005",
+"end_ref_usfm": "2CH 3:5"
+},
+{
+"start_ref": "26040016",
+"start_ref_usfm": "EZK 40:16",
+"end_ref": "26040016",
+"end_ref_usfm": "EZK 40:16"
+},
+{
+"start_ref": "26040022",
+"start_ref_usfm": "EZK 40:22",
+"end_ref": "26040022",
+"end_ref_usfm": "EZK 40:22"
+},
+{
+"start_ref": "26040026",
+"start_ref_usfm": "EZK 40:26",
+"end_ref": "26040026",
+"end_ref_usfm": "EZK 40:26"
+},
+{
+"start_ref": "26040031",
+"start_ref_usfm": "EZK 40:31",
+"end_ref": "26040031",
+"end_ref_usfm": "EZK 40:31"
+},
+{
+"start_ref": "26040034",
+"start_ref_usfm": "EZK 40:34",
+"end_ref": "26040034",
+"end_ref_usfm": "EZK 40:34"
+},
+{
+"start_ref": "26040037",
+"start_ref_usfm": "EZK 40:37",
+"end_ref": "26040037",
+"end_ref_usfm": "EZK 40:37"
+},
+{
+"start_ref": "26041018",
+"start_ref_usfm": "EZK 41:18",
+"end_ref": "26041018",
+"end_ref_usfm": "EZK 41:18"
+},
+{
+"start_ref": "26041019",
+"start_ref_usfm": "EZK 41:19",
+"end_ref": "26041019",
+"end_ref_usfm": "EZK 41:19"
+},
+{
+"start_ref": "26041020",
+"start_ref_usfm": "EZK 41:20",
+"end_ref": "26041020",
+"end_ref_usfm": "EZK 41:20"
+},
+{
+"start_ref": "26041025",
+"start_ref_usfm": "EZK 41:25",
+"end_ref": "26041025",
+"end_ref_usfm": "EZK 41:25"
+},
+{
+"start_ref": "26041026",
+"start_ref_usfm": "EZK 41:26",
+"end_ref": "26041026",
+"end_ref_usfm": "EZK 41:26"
+},
+{
+"start_ref": "43012013",
+"start_ref_usfm": "JHN 12:13",
+"end_ref": "43012013",
+"end_ref_usfm": "JHN 12:13"
+},
+{
+"start_ref": "66007009",
+"start_ref_usfm": "REV 7:9",
+"end_ref": "66007009",
+"end_ref_usfm": "REV 7:9"
+},
+{
+"start_ref": "72024014",
+"start_ref_usfm": "SIR 24:14",
+"end_ref": "72024014",
+"end_ref_usfm": "SIR 24:14"
+},
+{
+"start_ref": "72050012",
+"start_ref_usfm": "SIR 50:12",
+"end_ref": "72050012",
+"end_ref_usfm": "SIR 50:12"
+},
+{
+"start_ref": "79010007",
+"start_ref_usfm": "2MA 10:7",
+"end_ref": "79010007",
+"end_ref_usfm": "2MA 10:7"
+},
+{
+"start_ref": "79014004",
+"start_ref_usfm": "2MA 14:4",
+"end_ref": "79014004",
+"end_ref_usfm": "2MA 14:4"
+},
+{
+"start_ref": "18015032",
+"start_ref_usfm": "JOB 15:32",
+"end_ref": "18015032",
+"end_ref_usfm": "JOB 15:32"
+},
+{
+"start_ref": "23009013",
+"start_ref_usfm": "ISA 9:13",
+"end_ref": "23009013",
+"end_ref_usfm": "ISA 9:13"
+},
+{
+"start_ref": "23019015",
+"start_ref_usfm": "ISA 19:15",
+"end_ref": "23019015",
+"end_ref_usfm": "ISA 19:15"
+},
+{
+"start_ref": "78013037",
+"start_ref_usfm": "1MA 13:37",
+"end_ref": "78013037",
+"end_ref_usfm": "1MA 13:37"
+},
+{
+"start_ref": "78013051",
+"start_ref_usfm": "1MA 13:51",
+"end_ref": "78013051",
+"end_ref_usfm": "1MA 13:51"
+},
+{
+"start_ref": "05008008",
+"start_ref_usfm": "DEU 8:8",
+"end_ref": "05008008",
+"end_ref_usfm": "DEU 8:8"
+},
+{
+"start_ref": "19092014",
+"start_ref_usfm": "PSA 92:14",
+"end_ref": "19092014",
+"end_ref_usfm": "PSA 92:14"
+},
+{
+"start_ref": "19092015",
+"start_ref_usfm": "PSA 92:15",
+"end_ref": "19092015",
+"end_ref_usfm": "PSA 92:15"
+},
+{
+"start_ref": "01038006",
+"start_ref_usfm": "GEN 38:6",
+"end_ref": "01038006",
+"end_ref_usfm": "GEN 38:6"
+},
+{
+"start_ref": "08004012",
+"start_ref_usfm": "RUT 4:12",
+"end_ref": "08004012",
+"end_ref_usfm": "RUT 4:12"
+},
+{
+"start_ref": "13002004",
+"start_ref_usfm": "1CH 2:4",
+"end_ref": "13002004",
+"end_ref_usfm": "1CH 2:4"
+},
+{
+"start_ref": "04024006",
+"start_ref_usfm": "NUM 24:6",
+"end_ref": "04024006",
+"end_ref_usfm": "NUM 24:6"
+},
+{
+"start_ref": "18029018",
+"start_ref_usfm": "JOB 29:18",
+"end_ref": "18029018",
+"end_ref_usfm": "JOB 29:18"
+}
+],
+"resource": []
+}
+}
+]

@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FLORA:1.8",
+"reference_id": "FLORA:1.8",
+"version": "1.0.4",
+"title": "標題：榆樹（elm）",
+"media_type": "Text",
+"index_reference": "1.8",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.8\"><span class=\"thlex-key\">1.8</span> 標題：榆樹（elm）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： גֶּשֶׁם</span> <span class=\"thlex-translit\">(音譯： geshem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0204_elm.jpg\" alt=\"WEB-0204_elm\"></figure>在以賽亞對木匠雕刻偶像的描述中，有一個句子寫道：「或栽種香柏樹，得雨水滋潤長大」（希伯來文<em>nata‘ ’oren wegeshem yegadel</em> ）。分句「得雨水滋潤長大」在這個語境裡顯得很奇怪。所以，祖海里把這裡的<em>geshem</em> （「雨水」）修改為<em>neshem</em> ，這個詞在阿拉伯文中意為毛榆（學名<em>Ulmus canescens</em> ）。考慮到希伯來文字母<em>nun</em> 和<em>gimel</em> 十分相似，加上句法也相仿，我們很容易推斷這裡是指另外一種樹。根據祖海里的修改，<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> a中的<em>tirzah we’allon</em> （&quot;stone pine and oak&quot;，「石松和橡樹」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）與<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> b中的<em>’oren weneshem</em> （&quot;laurel and elm&quot;，「月桂和榆樹」；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ）可能是平行的。祖海里的假設是基於這個前提：該希伯來原文詞語和阿拉伯文<em>neshem</em> 很相似（即以字母<em>nun</em> 開頭），並且抄寫經文的文士在某個時候把原始文本中的字母<em>nun</em> 錯寫成了與之非常相似的<em>gimel</em> 。可是，據我所知，目前似乎沒有聖經學者考慮過這種可能性。《七十士譯本》仍譯作「雨水」。</p>\n<p>在<a href=\"https://ref.ly/Hos4:13\">HOS 4:13</a> ，<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 將<em>’elah</em> 譯為&quot;elm&quot;（「榆樹」），這在植物學上是不正確的，應該是「篤耨香樹」。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>到目前為止，還沒有一個翻譯者採納這個建議，把榆樹納入這節經文。然而，如果祖海里的假設得到證實，我們鼓勵翻譯者認真考慮這個建議。具體譯法取決於翻譯者如何處理這節經文中的其他三種樹木：石松、橡樹和月桂樹。如果翻譯者從修辭的角度來考慮，並用一種製造偶像的樹木來替代，那麼也要對<em>neshem</em> 做同樣的處理。如果其他樹木是從一種主要語言音譯過來的，那麼<em>neshem</em> 也要音譯，如<em>elem</em> /<em>elmu</em> （音譯自英文）或<em>ulum</em> /<em>ulmu</em> （音譯自拉丁文）。</p>\n<p>榆屬（學名<em>Ulmus</em> ）樹木生長在世界各地氣候溫和的地方，常栽植在街道兩旁提供蔭涼，木材可用來製作家具、工具手柄、棺材、椅子、輪轂、木槌頭，等等。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044014",
+"start_ref_usfm": "ISA 44:14",
+"end_ref": "23044014",
+"end_ref_usfm": "ISA 44:14"
+},
+{
+"start_ref": "28004013",
+"start_ref_usfm": "HOS 4:13",
+"end_ref": "28004013",
+"end_ref_usfm": "HOS 4:13"
+}
+],
+"resource": []
+}
+}
+]

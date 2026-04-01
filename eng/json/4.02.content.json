@@ -1,0 +1,411 @@
+[
+{
+"content_id": "FLORA:4.2",
+"reference_id": "FLORA:4.2",
+"version": "1.0.4",
+"title": "Ointment and balm (medicinal plants)",
+"media_type": "Text",
+"index_reference": "4.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2\"><span class=\"thlex-key\">4.2</span> Ointment and balm (medicinal plants)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">As was mentioned earlier, many of the aromatic plants used for incense and perfumes are also believed to have curative powers. The ones listed below are those that are used primarily for healing: aloe, castor bean, liquidambar, opobalsamum, rock rose, saffron crocus, and tragacanth.</h2>\n<div class=\"thlex-paragraphs\">\n<p>To begin properly we must deal with definitions. As we said in the introduction to this chapter, the word “balm” is potentially confusing because it is used in a general sense as any oily or resinous substance used to treat injuries or reduce pain, but also as a particular species of plant and its derived resin, found in the Arabian Peninsula. We include it here in both senses. Note the heading above and the discussion of “balm” under <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.3\" href=\"#FLORA:4.2.3\">4.2.3 Liquidambar (Oriental sweetgum, storax)</a> and <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.4\" href=\"#FLORA:4.2.4\">4.2.4 Opobalsamum (balsam, balm)</a> below.</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.1",
+"reference_id": "FLORA:4.2.1",
+"version": "1.0.4",
+"title": "Aloe (bitter aloe)",
+"media_type": "Text",
+"index_reference": "4.2.1",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.1\"><span class=\"thlex-key\">4.2.1</span> Aloe (bitter aloe)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:”</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">ἀλόη</span> <span class=\"thlex-translit\">(aloē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Luke19:39\">JHN 19:39</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0024_aloe_vera.jpg\" alt=\"WEB-0024_aloe_vera\"></figure>The New Testament aloe must be distinguished from that mentioned in some versions of the Old Testament. In <a href=\"https://ref.ly/Num24:6\">NUM 24:6</a>; <a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a>; and some other places aloe refers to chips of fragrant wood from the agarwood tree found in northern India (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.1.1\" href=\"#FLORA:4.1.1\">4.1.1</a>). However, the New Testament reference to aloe is to the True Aloe <em>Aloe vera</em>. This aloe originated in southern Africa, Arabia, and Madagascar. The gel-like substance in the leaves of the aloe has been used as medicine for centuries, especially to treat burns and abrasions of the skin. It is also used as a laxative, and in modern times as an ingredient in all kinds of skin creams, soaps, shampoo, and even as a drink (in Asia), or as an additive to tea.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The leaves of aloe plants are stiff, fleshy spines that come out like fat knife blades from the center of the plant. They have spiny margins and are mostly solid green in color, but some are spotted or blotched. Most aloes have no visible stem, but some do have stems, and can reach a height of more than a meter (3 feet). The plants produce clusters of small red or yellow tube-like flowers that are borne on a stalk.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p><a href=\"https://ref.ly/Luke19:39\">JHN 19:39</a> mentions aloe along with myrrh as a mixture brought by Nicodemus to embalm the body of Jesus.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Aloes are native to southern Africa, Madagascar and Arabia, but are now found in tropical countries throughout the world. Translators in those areas will have local names for the plant. Since the one reference to aloe is a non-rhetorical passage, a transliteration from a major language is advised, but it will depend on what is done with myrrh, the other word in the pair. Possibilities are Latin <em>alovera</em>, French <em>alowes</em>, and Spanish <em>asibar</em>.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019039",
+"end_ref_usfm": "JHN 19:39"
+},
+{
+"start_ref": "04024006",
+"start_ref_usfm": "NUM 24:6",
+"end_ref": "04024006",
+"end_ref_usfm": "NUM 24:6"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.2",
+"reference_id": "FLORA:4.2.2",
+"version": "1.0.4",
+"title": "Castor oil plant (castor bean plant)",
+"media_type": "Text",
+"index_reference": "4.2.2",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.2\"><span class=\"thlex-key\">4.2.2</span> Castor oil plant (castor bean plant)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">קִיקָיוֹן</span> <span class=\"thlex-translit\">(qiqayon)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Jonah4:6\">JON 4:6</a>, <a href=\"https://ref.ly/Jonah4:6\">JON 4:6</a>, <a href=\"https://ref.ly/Jonah4:7\">JON 4:7</a>, <a href=\"https://ref.ly/Jonah4:9\">JON 4:9</a>, <a href=\"https://ref.ly/Jonah4:10\">JON 4:10</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0115_castor_leaf.jpg\" alt=\"WEB-0115_castor_leaf\"></figure>The identity of Jonah’s <em>qiqayon</em> plant has been debated since the days of St. Jerome and St. Augustine. Zohary, Hepper, and Moldenke all advocate the castor oil plant (<em>Ricinus communis</em>) as the <em>qiqayon</em>, followed by <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, FFB, various commentaries, and some Bible encyclopedias. But <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> “gourd” has a long history, including its use in the Septuagint (<em>kolocuntha</em> in Greek; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:5.2.6\" href=\"#FLORA:5.2.6\">5.2.6 Wild gourd (colocynth, egusi, bitter apple)</a>) and in <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>, <abbr class=\"thlex-abbr\" title=\"New American Bible (1970)\">NAB</abbr>, <abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr>, and <abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr>. The Vulgate translated <em>qiqayon</em> as <em>hedera</em> (“ivy”; see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.10\" href=\"#FLORA:1.10\">1.10 Ivy</a>) and that is used in Knox, but that rendering has not had further botanical support. In 1985 Robinson did an in-depth study of the literature going back as far as St. Jerome and votes hesitantly for the gourd (colocynth). Some scholars even suggest it could be an Assyrian word inserted in the story just to make it sound foreign, or even a made-up word.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0116_castor_stalk.jpg\" alt=\"WEB-0116_castor_stalk\"></figure>The castor oil plant can grow to a height of 3 meters (10 feet) and its dark green fan-like leaves can reach half a meter across. It produces bunches of prickly round seeds on a stalk.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Ancient people used the oil of the castor bean for medicine, often as a purgative. In the book of Jonah the plant is a key element of the dramatic confrontation between God and his strong-willed prophet.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>A number of translators have decided to avoid choosing between “gourd” and “castor oil plant” by selecting generic words here, for example, “vine” (<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>) and “plant” (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr>, <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>). <abbr class=\"thlex-abbr\" title=\"New Jewish Publication Society Version\">NJPSV</abbr> has “ricinus,” which uses the Latin for “castor bean.” Since the castor bean is originally an African plant, it will be known by most translators there. Some may prefer to transliterate the term for it from a major language (for example, Arabic <em>karwa</em>; French <em>ricin</em>; Portuguese <em>ricino</em>, <em>bofarera</em>, <em>karapatero</em>; Spanish <em>catapucia</em>, <em>higuera</em>, <em>higuerillo</em>) or use a generic descriptive phrase such as “leafy bush.”</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "32004006",
+"start_ref_usfm": "JON 4:6",
+"end_ref": "32004006",
+"end_ref_usfm": "JON 4:6"
+},
+{
+"start_ref": "32004007",
+"start_ref_usfm": "JON 4:7",
+"end_ref": "32004007",
+"end_ref_usfm": "JON 4:7"
+},
+{
+"start_ref": "32004009",
+"start_ref_usfm": "JON 4:9",
+"end_ref": "32004009",
+"end_ref_usfm": "JON 4:9"
+},
+{
+"start_ref": "32004010",
+"start_ref_usfm": "JON 4:10",
+"end_ref": "32004010",
+"end_ref_usfm": "JON 4:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.3",
+"reference_id": "FLORA:4.2.3",
+"version": "1.0.4",
+"title": "Liquidambar (Oriental sweetgum, storax)",
+"media_type": "Text",
+"index_reference": "4.2.3",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.3\"><span class=\"thlex-key\">4.2.3</span> Liquidambar (Oriental sweetgum, storax)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">צֳרִי</span> <span class=\"thlex-translit\">(tsori)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>, <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a>, <a href=\"https://ref.ly/Jer8:22\">JER 8:22</a>, <a href=\"https://ref.ly/Jer46:11\">JER 46:11</a>, <a href=\"https://ref.ly/Jer51:8\">JER 51:8</a>, <a href=\"https://ref.ly/Ezek27:17\">EZK 27:17</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נָטָף</span> <span class=\"thlex-translit\">(nataf)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Greek</span> <span class=\"thlex-lemma\">στακτή</span> <span class=\"thlex-translit\">(staktē)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Wis24:15\">SIR 24:15</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0597_liquidambar.jpg\" alt=\"WEB-0597_liquidambar\"></figure>The Hebrew word <em>tsori</em> (“balm”) may be the basis for the word “storax,” which Zohary takes to be a name for the dried resin of the Liquidambar <em>Liquidambar orientalis</em>, a tree that is also called <em>kataf</em> or <em>nataf</em> in Hebrew. FFB and <em>The Anchor Bible Dictionary</em> (<abbr class=\"thlex-abbr\" title=\"Anchor Bible Dictionary\">ABD</abbr>) suggest that <em>tsori</em> is <em>Balanites aegyptiaca</em>, which grows in both Palestine and Egypt, but this position raises a question: Why would the Ishmaelite (or Midianite) traders carry it to Egypt if it is already plentiful there? It is more likely that the word is generic and could cover all kinds of medicinal spices.</p>\n<p>The Hebrew word <em>nataf</em> does not occur outside of <a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a> in the Bible. The Septuagint renders it <em>staktē</em>, which <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> transliterates as “stacte.” According to Zohary, <em>nataf</em> is a synonym of <em>tsori</em> (= storax), which is found six times in the Bible. Hepper concedes this as possible but suggests that <em>nataf</em> may also be the opobalsamum (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.4\" href=\"#FLORA:4.2.4\">4.2.4 Opobalsamum (balsam, balm)</a>), which Zohary calls “balm.” The liquidambar (or storax) is a tree that used to grow widely in the Middle East and Turkey. It is quite a different tree from the streamside styrax (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:1.22\" href=\"#FLORA:1.22\">1.22 Styrax</a>).</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0599_liquidambar_leaf.jpg\" alt=\"WEB-0599_liquidambar_leaf\"></figure>The liquidambar tree grows to 10 meters (33 feet) tall, and has deeply incised leaves with five points and round yellow flowers on a 4 centimeter (2 inch) stalk. The fruits are prickly. The sticky gray-brown gum is produced by making cuts in the trunk of the tree.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0598_liquidambar_fruit.jpg\" alt=\"WEB-0598_liquidambar_fruit\"></figure>The Jeremiah and Ezekiel references indicate that <em>tsori</em> was medicinal. We conclude from <a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a> that it was aromatic. <a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a> shows that it was highly valued in trade with Egypt.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The genus <em>Liquidambar</em> was widespread many thousands of years ago, according to fossil evidence, but it disappeared from Europe when the glaciers came. The surviving species, apart from <em>orientalis</em> in the Middle East, are <em>formosana</em> in South China and Taiwan and <em>styraciflua</em> in the eastern United States and Central America.</p>\n<p>The references to <em>tsori</em> in Genesis and Ezekiel are non-rhetorical, as is <em>nataf</em> in Exodus. If Zohary is correct, and the translator wants to be specific, then a transliteration of “storax” may be used in these passages. Alternatively, in <a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a> translators can use a generic expression such as “resin” (<abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>) or “gum resin” (<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>); that is, they can use their local word for the globs of hardened sap that come from trees that produce it.</p>\n<p>If a word for “sweet-smelling healing ointment” exists, it can be used for <em>tsori</em> in Genesis. <em>Tsori</em> is the second of three spices the Ishmaelite traders carried in <a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>, the other two being <em>neko’th</em> (“gum”) and <em>lot</em> (“myrrh”). Translators can cover all three words with a phrase such as “different kinds of sweet-smelling medicine and incense.” Transliteration is also possible, from Hebrew <em>tsori</em> or Arabic <em>nakaa</em> /<em>nakati</em>. “Balm” in English is not a good basis for transliteration.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+},
+{
+"start_ref": "24008022",
+"start_ref_usfm": "JER 8:22",
+"end_ref": "24008022",
+"end_ref_usfm": "JER 8:22"
+},
+{
+"start_ref": "24046011",
+"start_ref_usfm": "JER 46:11",
+"end_ref": "24046011",
+"end_ref_usfm": "JER 46:11"
+},
+{
+"start_ref": "24051008",
+"start_ref_usfm": "JER 51:8",
+"end_ref": "24051008",
+"end_ref_usfm": "JER 51:8"
+},
+{
+"start_ref": "26027017",
+"start_ref_usfm": "EZK 27:17",
+"end_ref": "26027017",
+"end_ref_usfm": "EZK 27:17"
+},
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030034",
+"end_ref_usfm": "EXO 30:34"
+},
+{
+"start_ref": "72024015",
+"start_ref_usfm": "SIR 24:15",
+"end_ref": "72024015",
+"end_ref_usfm": "SIR 24:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.4",
+"reference_id": "FLORA:4.2.4",
+"version": "1.0.4",
+"title": "Opobalsamum (balsam, balm)",
+"media_type": "Text",
+"index_reference": "4.2.4",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.4\"><span class=\"thlex-key\">4.2.4</span> Opobalsamum (balsam, balm)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">בֹּשֶׂם</span> <span class=\"thlex-translit\">(bosem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Exod25:6\">EXO 25:6</a>, <a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>, <a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>, <a href=\"https://ref.ly/Exod30:23\">EXO 30:23</a>, <a href=\"https://ref.ly/Exod35:8\">EXO 35:8</a>, <a href=\"https://ref.ly/Exod35:28\">EXO 35:28</a>, <a href=\"https://ref.ly/1Kgs10:2\">1KI 10:2</a>, <a href=\"https://ref.ly/1Kgs10:10\">1KI 10:10</a>, <a href=\"https://ref.ly/1Kgs10:10\">1KI 10:10</a>, <a href=\"https://ref.ly/1Kgs10:25\">1KI 10:25</a>, <a href=\"https://ref.ly/2Kgs20:13\">2KI 20:13</a>, <a href=\"https://ref.ly/1Chr9:29\">1CH 9:29</a>, <a href=\"https://ref.ly/1Chr9:30\">1CH 9:30</a>, <a href=\"https://ref.ly/2Chr9:1\">2CH 9:1</a>, <a href=\"https://ref.ly/2Chr9:9\">2CH 9:9</a>, <a href=\"https://ref.ly/2Chr9:9\">2CH 9:9</a>, <a href=\"https://ref.ly/2Chr9:24\">2CH 9:24</a>, <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, <a href=\"https://ref.ly/2Chr32:27\">2CH 32:27</a>, <a href=\"https://ref.ly/Esth2:12\">EST 2:12</a>, <a href=\"https://ref.ly/Song4:10\">SNG 4:10</a>, <a href=\"https://ref.ly/Song4:14\">SNG 4:14</a>, <a href=\"https://ref.ly/Song4:16\">SNG 4:16</a>, <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a>, <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a>, <a href=\"https://ref.ly/Song6:2\">SNG 6:2</a>, <a href=\"https://ref.ly/Song8:14\">SNG 8:14</a>, <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa39:2\">ISA 39:2</a>, <a href=\"https://ref.ly/Ezek27:22\">EZK 27:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0053_balsam.jpg\" alt=\"WEB-0053_balsam\"></figure>The Hebrew word <em>bosem</em>, which is often rendered “balm” (derived from “balsam”), can refer to any type of aromatic healing substance, but it also designates the product of a particular tree, the Balsam or Opobalsamum <em>Commiphora gileadensis</em>. Arabs call it <em>balasam</em> or <em>balasham</em>. In the Talmud it is called <em>afarsimon</em>. Excavations near En Gedi have uncovered an ancient processing plant for balsam oil.</p>\n<p>Moldenke is of the opinion that in <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a> <em>bosem</em> (rendered “spice”) refers to gum tragacanth (see <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFloraLexicon\" data-key=\"FLORA:4.2.7\" href=\"#FLORA:4.2.7\">4.2.7 Tragacanth (gum tragacanth)</a>). We support Zohary and Hepper who associate <em>bosem</em> with opobalsamum.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The opobalsamum tree likes a desert or semi-desert climate. It grows to 2–3 meters (7–10 feet) tall and has small, wrinkled, three-part leaves, white flowers, and pea-sized red berries that have a fragrant yellow seed inside. The bark of younger branches is gray, turning brown with age. The resin appears by itself in green droplets from the stems and branches, but collectors also make cuts in the branches to speed the process. The droplets turn from green to brown, clump together, and fall to the ground, where they are collected.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In Bible times, balsam oil was used in holy anointing oil, as medicine, and as an ingredient of perfume.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>A generic word or phrase for sweet-smelling substances is appropriate to render <em>bosem</em>, although where a specific name for the balsam tree is available, as in southwestern Arabia and Somalia, this could also be used. At least one hundred species of the genus <em>Commiphora</em> are spread throughout dry areas of the world. Translators in some areas will know the plants; others may know only the dried resin of <em>Commiphora</em> sold in spice markets.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025006",
+"start_ref_usfm": "EXO 25:6",
+"end_ref": "02025006",
+"end_ref_usfm": "EXO 25:6"
+},
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030023",
+"end_ref_usfm": "EXO 30:23"
+},
+{
+"start_ref": "02035008",
+"start_ref_usfm": "EXO 35:8",
+"end_ref": "02035008",
+"end_ref_usfm": "EXO 35:8"
+},
+{
+"start_ref": "02035028",
+"start_ref_usfm": "EXO 35:28",
+"end_ref": "02035028",
+"end_ref_usfm": "EXO 35:28"
+},
+{
+"start_ref": "11010002",
+"start_ref_usfm": "1KI 10:2",
+"end_ref": "11010002",
+"end_ref_usfm": "1KI 10:2"
+},
+{
+"start_ref": "11010010",
+"start_ref_usfm": "1KI 10:10",
+"end_ref": "11010010",
+"end_ref_usfm": "1KI 10:10"
+},
+{
+"start_ref": "11010025",
+"start_ref_usfm": "1KI 10:25",
+"end_ref": "11010025",
+"end_ref_usfm": "1KI 10:25"
+},
+{
+"start_ref": "12020013",
+"start_ref_usfm": "2KI 20:13",
+"end_ref": "12020013",
+"end_ref_usfm": "2KI 20:13"
+},
+{
+"start_ref": "13009029",
+"start_ref_usfm": "1CH 9:29",
+"end_ref": "13009029",
+"end_ref_usfm": "1CH 9:29"
+},
+{
+"start_ref": "13009030",
+"start_ref_usfm": "1CH 9:30",
+"end_ref": "13009030",
+"end_ref_usfm": "1CH 9:30"
+},
+{
+"start_ref": "14009001",
+"start_ref_usfm": "2CH 9:1",
+"end_ref": "14009001",
+"end_ref_usfm": "2CH 9:1"
+},
+{
+"start_ref": "14009009",
+"start_ref_usfm": "2CH 9:9",
+"end_ref": "14009009",
+"end_ref_usfm": "2CH 9:9"
+},
+{
+"start_ref": "14009024",
+"start_ref_usfm": "2CH 9:24",
+"end_ref": "14009024",
+"end_ref_usfm": "2CH 9:24"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "14032027",
+"start_ref_usfm": "2CH 32:27",
+"end_ref": "14032027",
+"end_ref_usfm": "2CH 32:27"
+},
+{
+"start_ref": "17002012",
+"start_ref_usfm": "EST 2:12",
+"end_ref": "17002012",
+"end_ref_usfm": "EST 2:12"
+},
+{
+"start_ref": "22004010",
+"start_ref_usfm": "SNG 4:10",
+"end_ref": "22004010",
+"end_ref_usfm": "SNG 4:10"
+},
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "22004016",
+"start_ref_usfm": "SNG 4:16",
+"end_ref": "22004016",
+"end_ref_usfm": "SNG 4:16"
+},
+{
+"start_ref": "22005001",
+"start_ref_usfm": "SNG 5:1",
+"end_ref": "22005001",
+"end_ref_usfm": "SNG 5:1"
+},
+{
+"start_ref": "22005013",
+"start_ref_usfm": "SNG 5:13",
+"end_ref": "22005013",
+"end_ref_usfm": "SNG 5:13"
+},
+{
+"start_ref": "22006002",
+"start_ref_usfm": "SNG 6:2",
+"end_ref": "22006002",
+"end_ref_usfm": "SNG 6:2"
+},
+{
+"start_ref": "22008014",
+"start_ref_usfm": "SNG 8:14",
+"end_ref": "22008014",
+"end_ref_usfm": "SNG 8:14"
+},
+{
+"start_ref": "23003024",
+"start_ref_usfm": "ISA 3:24",
+"end_ref": "23003024",
+"end_ref_usfm": "ISA 3:24"
+},
+{
+"start_ref": "23039002",
+"start_ref_usfm": "ISA 39:2",
+"end_ref": "23039002",
+"end_ref_usfm": "ISA 39:2"
+},
+{
+"start_ref": "26027022",
+"start_ref_usfm": "EZK 27:22",
+"end_ref": "26027022",
+"end_ref_usfm": "EZK 27:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.5",
+"reference_id": "FLORA:4.2.5",
+"version": "1.0.4",
+"title": "Rock rose (ladanum)",
+"media_type": "Text",
+"index_reference": "4.2.5",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.5\"><span class=\"thlex-key\">4.2.5</span> Rock rose (ladanum)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">לֹט</span> <span class=\"thlex-translit\">(lot)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>, <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0115_rock_rose.jpg\" alt=\"PTZ-0115_rock_rose\"></figure>In Genesis the Hebrew word <em>lot</em> is mistakenly rendered “myrrh” by <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> and some other versions. It should be translated “ladanum,” which is a sticky juice that comes out on the hairy leaves of a low shrub called Cistus or Turkish Rock Rose <em>Cistus laurifolius</em>. It hardens and is sold in fragrant chunks that are ground and made into medicine for cough, catarrh, and dysentery. Hepper says it was used also as perfume.</p>\n<p>In North Africa ladanum is called <em>latai</em> (compare Assyrian <em>ladanu</em>). The Aramaic translation of Hebrew <em>lot</em> is <em>letem</em>, similar to the post-biblical Hebrew name <em>lotem</em>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The rock rose shrub grows to about 70 centimeters (28 inches) high and has hairy leaves and large pink flowers.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>People in the Near East collect the globs of sap that appear on the leaves of ladanum. They use small rakes with soft leather strips instead of metal teeth. On the island of Cyprus local farmers collect the gum by combing the beards of their goats that had foraged on the plants. Today it is used primarily in the manufacture of incense.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The references to ladanum are non-metaphorical, so translators have traditionally used a generic expression for it (for example, <abbr class=\"thlex-abbr\" title=\"Moffatt Translation (1926)\">Mft</abbr> with: “fragrant gum”) or a transliteration (for example, <abbr class=\"thlex-abbr\" title=\"American Translation (Goodspeed, 1935)\">AT</abbr> with “laudanum”). Other possible models are for transliteration are Hebrew <em>lot</em> and Arabic <em>ladan</em>.</p>\n<p><a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a>: Most commentators, perhaps influenced by the Septuagint, take the Hebrew word <em>shecheleth</em> (“onycha”) as referring to “onyx,” a kind of stone, not a plant. Zohary does not discuss it. Given the context (a list of ingredients for incense), both FFB and Hepper feel it is probably a resin-producing plant, possibly of the genus <em>Cistus</em>, like ladanum. Moldenke suggests that onycha may have applied to two substances, one being some kind of resin, and the other a substance coming from the shell of a mollusk living in the Mediterranean Sea. The resin option is supported by the fact that Arabic versions of the Bible have <em>ladana</em>, implying that the substance was ladanum. In view of the uncertainty about the identity of <em>shecheleth</em>, the easy way out for translators is to transliterate from a major language such as English (<em>onika</em>, <em>oniki</em>). For those who want to be more specific, “mollusk scent” (Durham) or “aromatic shell” (<abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr>) could be considered.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+},
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030034",
+"end_ref_usfm": "EXO 30:34"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.6",
+"reference_id": "FLORA:4.2.6",
+"version": "1.0.4",
+"title": "Saffron crocus",
+"media_type": "Text",
+"index_reference": "4.2.6",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.6\"><span class=\"thlex-key\">4.2.6</span> Saffron crocus</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:”</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">כַּרְכֹּם</span> <span class=\"thlex-translit\">(karkom)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Song4:14\">SNG 4:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0163_crocus.jpg\" alt=\"WEB-0163_crocus\"></figure>Our experts agree on the identification of the Hebrew word <em>karkom</em> with the Saffron Crocus <em>Crocus sativus</em>, but there are others who identify it as the Indian plant Turmeric <em>Curcuma longa</em> on the basis of its Arabic name <em>kurkum</em> or <em>kurkam</em>. However, according to Moldenke, Arabic <em>kurkum</em> refers to the plant, and the product from it is called <em>saferan</em>, from which we get the English word “saffron” (compare Arabic <em>asfar</em>, meaning “yellow”). Saffron is now widely known as a food additive and dye, but in Bible times it was also considered a perfume and medicine. It comes from the reddish-purple flowers of the crocus, which grew throughout Asia Minor in Bible times. Since then it has been widely cultivated in Europe, England, and America. The English word “crocus” comes from Hebrew <em>karkom</em> via Greek <em>krokos</em>.</p>\n<p>Archeological records indicate that saffron was cultivated in the seventh century B.C. in Assyria and later in Crete (Bronze Age). Saffron-based paint has been found in four thousand year old pictures in what is today Iraq. The Sumerians used saffron for medicine and magical potions and traded it with other kingdoms. International trade reached a peak with the Minoans in the second millennium B.C. Use of saffron spread into Asia via the Persians and/or the Mongol invaders, and today Buddhist monks in India wear saffron-colored robes. Merchants in the Middle East sell dried safflower (<em>Carthamus tinctorius</em>) as <em>saferan</em>, but real saffron comes only from crocus flowers. The fake saffron is appropriately called <em>alazor bastardo</em> in Spanish and <em>safran batard</em> in French.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Crocus plants have long, tapered grasslike leaves growing from an onion-like bulb under the ground. They grow to less than 13 centimeters (5 inches) in height and have beautiful reddish or purple flowers.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In Bible times saffron was used as perfume and as medicine, but today it is mostly known as a coloring agent for cloth and food. One reason why it was costly is that it takes about six hundred flowers to produce a few drops of oil.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>Since Bible times the saffron crocus has been grown mostly in the Mediterranean basin, but it also thrives in India, Oceania, and North Africa, so in those places local words will likely be found. Elsewhere, transliteration from a major language is recommended (for example Arabic <em>asfar</em>, <em>zafaran</em>, <em>kruku</em>, <em>kurkum</em>; French <em>safran</em>; Portuguese <em>asafrao</em>; Spanish <em>azafran</em>).</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "22004014",
+"start_ref_usfm": "SNG 4:14",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "FLORA:4.2.7",
+"reference_id": "FLORA:4.2.7",
+"version": "1.0.4",
+"title": "Tragacanth (gum tragacanth)",
+"media_type": "Text",
+"index_reference": "4.2.7",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:4.2.7\"><span class=\"thlex-key\">4.2.7</span> Tragacanth (gum tragacanth)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">נְכֹאת</span> <span class=\"thlex-translit\">(neko’th)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>, <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0878_tragacanth.jpg\" alt=\"WEB-0878_tragacanth\"></figure><em>Neko’th</em> (“gum”) is the first of three spices mentioned in <a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a> as being carried by the Ishmaelites along with <em>tsori</em> (“balm”) and <em>lot</em> (mistranslated as “myrrh”) to Egypt. In <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a> Jacob urges his sons to carry some <em>neko’th</em> to Egypt as a gift to the Pharaoh. It was an important ingredient of incense and was probably used for medicine as well. The Hebrew word <em>neko’th</em> refers to tragacanth. Most the eighteen hundred species of tragacanth (commonly called “milk vetches”) of the genus <em>Astragalus</em> produce tragacanth gum, but the ones growing in Judea and Gilead (<em>Astragalus gummifer</em> and <em>Astragalus bethlehemiticus</em>) are outstanding in their production.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The tragacanth shrub grows to about 50 centimeters (20 inches) in height and branches densely right from the base. Some of the plants at high elevations or in poor soil cling to the ground looking like sea anemones or pin cushions, with their sharp spines. The flowers, which grow from the point where the leaf joins the stem, give way to tiny wooly fruits that disperse in the wind.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The gum of the tragacanth shrub is stored in the roots, providing moisture for the plant during the dry season. People who collect the sap expose a root, make a cut in it, and place a cup where it will catch the globs of sap that ooze from the root. They often have many plants that they tap in this way. Tapping typically begins in June. Today tragacanth is still used in incense and medicine, but also in leatherworking, baking, and even in the production of cigars.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p><em>Neko’th</em> is rendered “gum tragacanth” by <abbr class=\"thlex-abbr\" title=\"Revised English Bible (1989)\">REB</abbr> and <abbr class=\"thlex-abbr\" title=\"New Jerusalem Bible (1985)\">NJB</abbr>, and “spices” by <abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr>, <abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr>, <abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr>, and <abbr class=\"thlex-abbr\" title=\"New Century Version\">NCV</abbr>. In <a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a> <abbr class=\"thlex-abbr\" title=\"God&#x27;s Word Translation\">GW</abbr> handles the set of three substances nicely by saying “materials for cosmetics, medicine, and embalming.” The Arabic word for the plant is <em>nakaa</em> or <em>nakaath</em>.</p>\n<p>The Genesis contexts are both non-rhetorical, so the translator may choose a general phrase to cover all of the terms in the list. If not, <em>neko’th</em> may be rendered “rubbing medicine,” or a transliteration from a major language may be used. A transliteration from English is “tiragacanti,” but this is unwieldy. If there is a word for the dried sap (gum) of trees, that could be used by itself or in combination with a transliteration. Arabic <em>nakaa</em> may be useful in some places.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+}
+],
+"resource": []
+}
+}
+]

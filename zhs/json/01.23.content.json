@@ -1,0 +1,60 @@
+[
+{
+"content_id": "FLORA:1.23",
+"reference_id": "FLORA:1.23",
+"version": "1.0.4",
+"title": "标题：柽柳（tamarisk）",
+"media_type": "Text",
+"index_reference": "1.23",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.23\"><span class=\"thlex-key\">1.23</span> 标题：柽柳（tamarisk）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֶשֶׁל</span> <span class=\"thlex-translit\">(音译：’eshel)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Gen21:33\">GEN 21:33</a>, <a href=\"https://ref.ly/1Sam22:6\">1SA 22:6</a>, <a href=\"https://ref.ly/1Sam31:13\">1SA 31:13</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0855_tamarisk.jpg\" alt=\"WEB-0855_tamarisk\"></figure>圣经提到柽柳的两个主要品种：无叶柽柳（学名<em>Tamarix aphylla</em> ）和更为常见的尼罗河柽柳（学名<em>Tamarix nilotica</em> ）。这两个品种遍布平原地区，以及阿拉瓦和尼革夫的河谷（干河床），汲取突发洪水后渗入地下的水。柽柳可以在盐碱地生长，因此有些地方称之为&quot;盐地香柏树&quot;。另一种柽柳只生长在约旦河谷。这三种柽柳都没有真正的叶子，只有多肉的小树枝，成为山羊和绵羊的食物。罗望子树（学名<em>Tamarindus indica</em> ）与柽柳的名称十分相似，但实际上两者没有亲缘关系。</p>\n<p>在埋葬扫罗的叙事中，<a href=\"https://ref.ly/1Sam31:13\">1SA 31:13</a> 说他葬在<em>’eshel</em> 下（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 译为&quot;tamarisk&quot;，&quot;柽柳&quot;），而<a href=\"https://ref.ly/1Chr10:12\">1CH 10:12</a> 说他葬在<em>’elah</em> 下（<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 译为&quot;oak&quot;，&quot;橡树&quot;），两者不符。那么究竟是什么树呢？也许这两种都不是！</p>\n<p>在希伯来文发展的某个阶段，<em>’eshel</em> 一词成为了树木的统称。然而，<em>’allon</em> （&quot;橡树&quot;）和<em>’elah</em> （&quot;笃耨香树&quot;）这两个词在圣经成书时期之后的希伯来文中被一般化为<em>’ilan</em> ，意思是&quot;树&quot;。所以一种可能性是，在《历代志上》的编辑过程中，<em>’elah</em> 作为一个通称取代了早前的<em>’eshel</em> ，而后者在当时可能已经是一个通称。也就是说，这两个词可能都是&quot;树&quot;的统称，只是各自作为不同地区、风格或时兴的变体。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/PTZ-0126_tamarisk_cypress_trees.jpg\" alt=\"PTZ-0126_tamarisk_cypress_trees\"></figure>无叶柽柳可以长到10米（33英尺）高，树干底部直径可达1米（3英尺）。更为常见的尼罗河柽柳比较矮小，实际上是从地面开始分枝的灌木。柽柳生长在非常干旱的地方，根系深深地扎进地里。据发现，伊拉克一棵柽柳的树根延伸到了地表以下11米（36英尺）处（赫珀，第53页）。这两个品种都有宽大的树冠，树干通常呈扭绞状，枝条类似香柏树，并且会像柳树一样垂下来。贝都因牧羊人为了牧羊，在尼革夫各地栽种了许多柽柳。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0856_tamarisk_leaf.jpg\" alt=\"WEB-0856_tamarisk_leaf\"></figure>亚伯拉罕种了一棵柽柳，在那里敬拜耶和华（<a href=\"https://ref.ly/Gen21:33\">GEN 21:33</a> ），表明这些树就像橡树那样，与灵界有关。祖海里认为，在<a href=\"https://ref.ly/Lev14:4\">LEV 14:4</a> 和<a href=\"https://ref.ly/Num19:6\">NUM 19:6</a> 关于洁净条例中提到的&quot;香柏树&quot;的枝子可能是柽柳枝，尽管以色列人在旷野漂流的一些地方也长着腓尼基杜松（与香柏树非常相似）。柽柳被引进到美国西部后，在河床里繁殖得非常快速，以致现在被视为一种造成重大损失的环境公害。有些地方会用柽柳来制造染料或加工皮革。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>柽柳盛产于亚洲（40种）和欧洲（14种），另有几个品种生长在地中海盆地的非洲。英文译本几乎一致将<em>’eshel</em> 译为&quot;tamarisk&quot;（&quot;柽柳&quot;）。<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> 译作&quot;tamarisk&quot;（&quot;柽柳&quot;），并增加了一个脚注：&quot;一种高大的遮荫树，根系深，需水少。&quot;翻译&quot;柽柳&quot;的方法有：</p>\n<p>1. 从一种主要语言进行音译，如<em>tamarisiki</em> 、<em>tamaris</em> 、<em>esheli</em> （希伯来文），或<em>eteli</em> /<em>atali</em> （阿拉伯文）。</p>\n<p>2. 在《创世记》，几乎可以肯定这种树与亚伯拉罕敬拜上帝有关联，鉴于树的这个功能，可以将其翻译为&quot;圣树&quot;，或许还可以增加一个脚注来说明这个词的希伯来文和／或英文；如果在<a href=\"https://ref.ly/Gen12:6\">GEN 12:6</a> 已经使用了&quot;圣树&quot;来表示&quot;橡树&quot;，则更需要在脚注中说明。</p>\n<p>3. 只译作&quot;树&quot;，在脚注中说明希伯来文作<em>’eshel</em> ，即柽柳。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "01021033",
+"start_ref_usfm": "GEN 21:33",
+"end_ref": "01021033",
+"end_ref_usfm": "GEN 21:33"
+},
+{
+"start_ref": "09022006",
+"start_ref_usfm": "1SA 22:6",
+"end_ref": "09022006",
+"end_ref_usfm": "1SA 22:6"
+},
+{
+"start_ref": "09031013",
+"start_ref_usfm": "1SA 31:13",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "13010012",
+"start_ref_usfm": "1CH 10:12",
+"end_ref": "13010012",
+"end_ref_usfm": "1CH 10:12"
+},
+{
+"start_ref": "03014004",
+"start_ref_usfm": "LEV 14:4",
+"end_ref": "03014004",
+"end_ref_usfm": "LEV 14:4"
+},
+{
+"start_ref": "04019006",
+"start_ref_usfm": "NUM 19:6",
+"end_ref": "04019006",
+"end_ref_usfm": "NUM 19:6"
+},
+{
+"start_ref": "01012006",
+"start_ref_usfm": "GEN 12:6",
+"end_ref": "01012006",
+"end_ref_usfm": "GEN 12:6"
+}
+],
+"resource": []
+}
+}
+]

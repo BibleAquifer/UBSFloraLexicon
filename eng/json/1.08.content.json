@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FLORA:1.8",
+"reference_id": "FLORA:1.8",
+"version": "1.0.4",
+"title": "Elm",
+"media_type": "Text",
+"index_reference": "1.8",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.8\"><span class=\"thlex-key\">1.8</span> Elm</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Reference:”</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">גֶּשֶׁם</span> <span class=\"thlex-translit\">(geshem)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0204_elm.jpg\" alt=\"WEB-0204_elm\"></figure>In Isaiah’s description of the idol carver’s work, we find a sentence that says “he plants a cedar and the rain nourishes it” (Hebrew <em>nata‘ ’oren wegeshem yegadel</em>). The clause “and the rain nourishes it” has always seemed strange in the context. So Zohary emends <em>geshem</em> (“rain”) here to read <em>neshem</em>, which is the word for the Hairy Elm (<em>Ulmus canescens</em>) in Arabic. Given the very close similarity between the letters <em>nun</em> and <em>gimel</em> in Hebrew, and the syntax, it is tempting to conclude that another tree is being suggested. According to Zohary’s emendation, there is a possible parallelism between <em>tirzah we’allon</em> (“stone pine and oak”) in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> a and <em>’oren weneshem</em> (“laurel and elm”) in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> b. Zohary’s hypothesis is based on the assumption that the original Hebrew word was similar to the Arabic word <em>neshem</em> (that is, beginning with the letter <em>nun</em>), and that a scribe at some point substituted the <em>gimel</em> for the very similar letter <em>nun</em> of the original text. I know of no Bible scholar who has considered this possibility. The Septuagint says “rain.”</p>\n<p>The <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> translation of <em>’elah</em> as “elm” in <a href=\"https://ref.ly/Hos4:13\">HOS 4:13</a> is botanically incorrect. It should be “terebinth.”</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>No translator at this date has taken up the suggestion to include the elm tree in this verse. If Zohary’s hypothesis is confirmed, however, we encourage translators to take it seriously. How it is handled in translation will depend on what the translator has done with the three other species in the verse: stone pine, oak, and laurel. If the translator takes those three rhetorically, and substitutes an equivalent species that is used for the making of idols, then the same should be done with <em>neshem</em>. If the others are transliterated from a major language, then <em>neshem</em> will also be transliterated, as, perhaps, <em>elem</em> /<em>elmu</em> (from English) or <em>ulum</em> /<em>ulmu</em> (from Latin).</p>\n<p><em>Ulmus</em> species are found in temperate climates throughout the world. They are planted along streets for shade, and the wood is used for furniture, tool handles, coffins, chair seats, wheel hubs, mallet heads, and many other things.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044014",
+"start_ref_usfm": "ISA 44:14",
+"end_ref": "23044014",
+"end_ref_usfm": "ISA 44:14"
+},
+{
+"start_ref": "28004013",
+"start_ref_usfm": "HOS 4:13",
+"end_ref": "28004013",
+"end_ref_usfm": "HOS 4:13"
+}
+],
+"resource": []
+}
+}
+]

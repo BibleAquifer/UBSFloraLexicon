@@ -1,0 +1,30 @@
+[
+{
+"content_id": "FLORA:1.14",
+"reference_id": "FLORA:1.14",
+"version": "1.0.4",
+"title": "標題：蓮花（lotus plant）",
+"media_type": "Text",
+"index_reference": "1.14",
+"language": "zht",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.14\"><span class=\"thlex-key\">1.14</span> 標題：蓮花（lotus plant）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">經文出處</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">來： צֶאֱלִים</span> <span class=\"thlex-translit\">(音譯： tse’elim)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Job40:21\">JOB 40:21</a>, <a href=\"https://ref.ly/Job40:22\">JOB 40:22</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">討論</h2>\n<div class=\"thlex-paragraphs\">\n<p>《約伯記》記載，怪獸「貝希摩斯」（《和》、《和修》、《思》、《呂》作「河馬」）棲息在稱為<em>tse’elim</em> 的樹木或植物下面。數百年來，<em>tse’elim</em> 究竟是什麼一直困擾著學者，部分原因是這種巨獸本身是什麼也屬未知（參《大小的活物》［<em>All Creatures Great and Small</em> ］，<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSFaunaLexicon\" data-key=\"FAUNA:7.1\" href=\"#FAUNA:7.1\">7.1</a> ）。令人驚訝的是，祖海里和赫珀都沒有對<em>tse’elim</em> 作出評論。試圖辨識這種動物及其棲息處的植物可能是徒勞的，因為從表面上的條件來看，兩者的生存條件似乎有些互斥。如果這種動物確實是河馬或者鱷魚，那麼該植物就不會是棗蓮（學名<em>Ziziphus Lotus</em> ），因為棗蓮不長在水邊。如果棗蓮是正確的，那麼該動物就不是河馬或鱷魚，即便這些動物真的有可能從河裡出來，在岸上的樹蔭下打盹兒。莫爾登克說，根據上下文提及蘆葦和柳樹的背景來看，<em>tse’elim</em> 可能是懸鈴樹或夾竹桃灌木。當然，這種植物也可能確實是生長在河中的蓮花（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 的譯法）；聖經沒有其他地方提及這種植物。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻譯</h2>\n<div class=\"thlex-paragraphs\">\n<p>由於無法確定<em>tse’elim</em> 是什麼，翻譯者可能希望遵循所在地區的主要翻譯傳統，即設定一個潮濕有水的環境（如<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 、<abbr class=\"thlex-abbr\" title=\"New International Version (1984)\">NIV</abbr> 和<abbr class=\"thlex-abbr\" title=\"New Living Translation\">NLT</abbr> ），並將這個詞譯為「蓮花」（&quot;lotus plants&quot;）。有些譯本將其擴展為「成蔭的樹木」，提供了另一種選擇（如<abbr class=\"thlex-abbr\" title=\"Contemporary English Version\">CEV</abbr> ，&quot;shady trees&quot;）。<abbr class=\"thlex-abbr\" title=\"Good News Bible\">GNB</abbr> 譯作&quot;thorn bushes&quot;（「荊棘叢」），顯然是以<em>tse’elim</em> 為基督刺或歐洲枸杞，把這個植物謎題留給了好奇的讀者。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "18040021",
+"start_ref_usfm": "JOB 40:21",
+"end_ref": "18040021",
+"end_ref_usfm": "JOB 40:21"
+},
+{
+"start_ref": "18040022",
+"start_ref_usfm": "JOB 40:22",
+"end_ref": "18040022",
+"end_ref_usfm": "JOB 40:22"
+}
+],
+"resource": []
+}
+}
+]

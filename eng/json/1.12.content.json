@@ -1,0 +1,66 @@
+[
+{
+"content_id": "FLORA:1.12",
+"reference_id": "FLORA:1.12",
+"version": "1.0.4",
+"title": "Laurel (bay tree)",
+"media_type": "Text",
+"index_reference": "1.12",
+"language": "eng",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.12\"><span class=\"thlex-key\">1.12</span> Laurel (bay tree)</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">References:</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">אֹרֶן</span> <span class=\"thlex-translit\">(’oren)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">עָרִיץ</span> <span class=\"thlex-translit\">(‘oritz)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Discussion:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The Laurel <em>Laurus nobilis</em> is the source of bay leaf used in European cooking up to today. It must have been common in Israel in biblical times, and was used for oil, as a spice in food, and in medicine. It has a fresh, pleasing smell. It was abundant in Carmel, where it is plentiful to the present, and on the other mountains, Tabor, Gilead and Hermon. However, we only have two very debatable references to the laurel tree in the Bible. One is <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a>, which refers to the making of idols: “… he plants <em>’oren</em> [‘cedar’ in <abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> ] and the rain nourishes it.” The other is <a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a>, where the Hebrew word <em>‘oritz</em> may not refer to a plant at all. In <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> the letter <em>n</em> in the Hebrew word <em>’oren</em> was marked as suspicious by the Masoretes, leading later scholars to take the root <em>’ar</em> as a reference to <em>’erez</em> (“cedar”). However, the reading <em>’oren</em> is probably correct.</p>\n<p>Although <em>’oren</em> is used in modern Hebrew for the pine tree, the Aramaic translation, <em>Targum Jonathan</em>, has <em>’aranye</em> in this passage, the Arabic equivalent of which is <em>’ar</em>. Post-biblical writers use the name <em>’ar</em> for “laurel.” The botanist Thompson associates the Akkadian word <em>’eru</em> with the laurel. Zohary follows this line of thinking, and assumes that the biblical writers could not have ignored such a useful and lovely tree, so he implicitly advocates using it in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a>. Similarly, the botanist Moldenke favors laurel for <em>‘oritz</em> in <a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a> (<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> “overbearing”), but no version has followed that. <abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> ’s “ash” for <em>’oren</em> in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> is unsupported, although a type of ash known as the Syrian Ash <em>Fraxinus syriaca</em> is fairly common in Israel and may have been known in Bible times.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Description:</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0579_laurel.jpg\" alt=\"WEB-0579_laurel\"></figure>The laurel reaches a height of 15 meters (50 feet) and has dark green leaves. The flowers are small, greenish white, and produce a one-seeded fruit the size of a small grape. Laurels are found in thickets and woods from the Mediterranean coast to the hills of Judea and Galilee.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Special significance:</h2>\n<div class=\"thlex-paragraphs\">\n<p>In Bible times wreaths (<em>stemma</em> in Greek) were made from bunches of laurel leaves used to honor winning athletes, and they were also worn by the Roman emperors. Hence it is quite possible that the garlands mentioned in <a href=\"https://ref.ly/John14:13\">ACT 14:13</a> were of laurel leaves. The victory wreaths referred to in <a href=\"https://ref.ly/Rom9:25\">1CO 9:25</a>; <a href=\"https://ref.ly/1Tim2:5\">2TI 2:5</a>; and <a href=\"https://ref.ly/Jas5:4\">1PE 5:4</a> would have been made of laurel leaves. Garlands are also mentioned in <a href=\"https://ref.ly/Prov1:9\">PRO 1:9</a> and <a href=\"https://ref.ly/Prov4:9\">PRO 4:9</a> (<em>liwyah</em> in Hebrew). If in fact the psalmist intended to refer to the laurel in <a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a>, it is used there as a symbol of the ostentatious prosperity of the wicked. (See also the discussion in WTH, <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:6.8\" href=\"#REALIA:6.8\">6.8 Wreath, crown</a>, <a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:6.9\" href=\"#REALIA:6.9\">6.9 Garland</a>.</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">Translation:</h2>\n<div class=\"thlex-paragraphs\">\n<p>The laurel is found throughout the Mediterranean region and southern Europe. It belongs to a large family of trees called <em>Lauraceae</em> that has hundreds of species scattered about the tropical and warm climates of the world, especially in Southeast Asia and Brazil. Cinnamon trees, avocado trees, and magnolias are well-known trees from this family. Close relatives of the true bay tree are only found in the Azores (<em>Laurus azorica</em>). In places where the laurel/bay tree is known, it may be used in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a>. If not, a transliteration from a major language is recommended, such as <em>laurier</em> (French), <em>loureiro</em> /<em>louro</em> (Portuguese), <em>laurel</em> (Spanish). However, the translation of <em>’oren</em> will depend partly on what has been done with the other trees mentioned in <a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a>. If transliterations are used, they should be used throughout. If local species are substituted, they should be used throughout.</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044014",
+"start_ref_usfm": "ISA 44:14",
+"end_ref": "23044014",
+"end_ref_usfm": "ISA 44:14"
+},
+{
+"start_ref": "19037035",
+"start_ref_usfm": "PSA 37:35",
+"end_ref": "19037035",
+"end_ref_usfm": "PSA 37:35"
+},
+{
+"start_ref": "44014013",
+"start_ref_usfm": "ACT 14:13",
+"end_ref": "44014013",
+"end_ref_usfm": "ACT 14:13"
+},
+{
+"start_ref": "46009025",
+"start_ref_usfm": "1CO 9:25",
+"end_ref": "46009025",
+"end_ref_usfm": "1CO 9:25"
+},
+{
+"start_ref": "55002005",
+"start_ref_usfm": "2TI 2:5",
+"end_ref": "55002005",
+"end_ref_usfm": "2TI 2:5"
+},
+{
+"start_ref": "60005004",
+"start_ref_usfm": "1PE 5:4",
+"end_ref": "60005004",
+"end_ref_usfm": "1PE 5:4"
+},
+{
+"start_ref": "20001009",
+"start_ref_usfm": "PRO 1:9",
+"end_ref": "20001009",
+"end_ref_usfm": "PRO 1:9"
+},
+{
+"start_ref": "20004009",
+"start_ref_usfm": "PRO 4:9",
+"end_ref": "20004009",
+"end_ref_usfm": "PRO 4:9"
+}
+],
+"resource": []
+}
+}
+]

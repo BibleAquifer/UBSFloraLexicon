@@ -1,0 +1,17 @@
+[
+{
+"content_id": "FLORA:6.0",
+"reference_id": "FLORA:6.0",
+"version": "1.0.4",
+"title": "标题：介绍",
+"media_type": "Text",
+"index_reference": "6.0",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:6.0\"><span class=\"thlex-key\">6.0</span> 标题：介绍</h1><div class=\"thlex-section\">\n<div class=\"thlex-paragraphs\">\n<p>圣地的开花植物有两三百种，其中多刺植物有七八十种。这里提醒读者，由于本手册主要是为满足圣经翻译者的需要，因此重点是在希伯来文、希腊文和拉丁文词语、这些词语的意思，以及如何既准确（在散文语境中）又自然（在修辞语境中）地进行翻译。</p>\n<p>在辨识圣经中提到的花和荆棘时，我们遇到的问题多而复杂。首先，有很多词可能是指一种植物，也可能指一类植物，或者指两者。其次，新约作者在引用旧约时，使用的是旧约的希腊文译本（《七十士译本》），而不是原来的希伯来圣经，因此，我们在力求辨别旧约希伯来文和新约希腊文中表示植物的词语时，分析可能会有偏差。最后，还有一个人类极易出现的问题，就是许多圣经读者都和参观圣地的游客一样，想要知道具体细节。他们想要听到诸如此类的话：这就是耶稣或以赛亚所说的&quot;芥菜&quot;、&quot;百合花&quot;或&quot;牛膝草&quot;。当然，有些作者和导游一样，会很乐于告诉读者或游客想听的东西。有一次，一个刚从圣地旅行回来的人对我说：&quot;我现在知道燃烧的荆棘是什么了。&quot;这种确信可能会坚固信心，但在学术上并没有根据。因此，我们在这里提醒一下读者：不论是在本手册，还是在其他关于圣经植物的书籍中，如果其中的内容读起来好像我们对圣经中提到的植物拥有确切的认识，那读者就要小心了！本手册中最好的内容（而且仅在少数情况下）也不过是学者的普遍共识。在&quot;沙仑的玫瑰&quot;这个人所共知的例子中，大多数学者会说这种植物根本不是玫瑰！&quot;谷中的百合花&quot;也可能不是百合花。</p>\n<p>读者要谨记一个重要的事实，就是词语的含义会随着时间而变化。圣经中某卷书的成书时间决定我们如何理解其中的文字。由于许多书卷的写作时间不详，因此很难完全确定植物名称的意思。</p>\n<p>在讨论圣经中的植物名称之前，我们先要指出中文（和英文）中一个潜在的障碍。&quot;花&quot;这个词至少有两种意思：（1）指一种开花的植物；（2）指花朵，即开花植物上面长着花瓣的那部分。</p>\n</div>\n</div>",
+"associations": {
+"passage": [],
+"resource": []
+}
+}
+]

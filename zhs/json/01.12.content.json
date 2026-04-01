@@ -1,0 +1,66 @@
+[
+{
+"content_id": "FLORA:1.12",
+"reference_id": "FLORA:1.12",
+"version": "1.0.4",
+"title": "标题：月桂树（laurel [bay tree]）",
+"media_type": "Text",
+"index_reference": "1.12",
+"language": "zhs",
+"review_level": "None",
+"content": "<style>\nh1.thlex-title { font-size: 1.3em; margin: 0 0 0.4em; }\n.thlex-key { color: #888; font-size: 0.85em; font-weight: normal; margin-right: 0.4em; }\nnav.thlex-index { margin: 0.5em 0 0.75em; }\nnav.thlex-index ul { margin: 0; padding-left: 1.2em; }\nnav.thlex-index li { margin: 0.15em 0; font-size: 0.95em; }\n.thlex-section { margin: 0.6em 0; }\nh2.thlex-heading { font-size: 1em; margin: 0.5em 0 0.2em; }\nh3.thlex-subheading { font-size: 0.95em; font-weight: normal; font-style: italic; margin: 0.2em 0; }\n.thlex-language-sets { margin: 0.3em 0 0.3em 1em; }\n.thlex-language-set { margin: 0.4em 0; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.thlex-language { font-size: 0.8em; color: #888; margin-right: 0.4em; }\n.thlex-lemma { font-weight: bold; font-family: serif; }\n.thlex-translit { color: #555; font-style: italic; font-size: 0.9em; margin-left: 0.3em; }\n.thlex-refs { font-size: 0.85em; color: #444; margin-top: 0.15em; }\n.thlex-paragraphs p { margin: 0.35em 0; font-size: 0.95em; line-height: 1.5; }\n.thlex-image { margin: 0.5em 0; }\n.thlex-image img { max-width: 100%; height: auto; }\n.thlex-abbr { border-bottom: 1px dotted #888; cursor: help; }\n.thlex-xref { color: #1a5fb4; }\nspan[data-bnType=\"bibleReference\"] { color: #1a5fb4; }\ntable.thlex-table { border-collapse: collapse; font-size: 0.9em; margin: 0.5em 0; }\ntable.thlex-table td { padding: 0.2em 0.6em; vertical-align: top; border: 1px solid #ddd; }\ntable.thlex-table tr:first-child td { font-weight: bold; background: #f5f5f5; }\nul.thlex-index-list { margin: 0.4em 0; padding-left: 1.4em; font-size: 0.95em; line-height: 1.6; }\nul.thlex-index-list ul { margin: 0.1em 0; padding-left: 1.4em; }\n.thlex-index-key { font-weight: bold; font-style: italic; }\n</style><h1 class=\"thlex-title\" id=\"FLORA:1.12\"><span class=\"thlex-key\">1.12</span> 标题：月桂树（laurel [bay tree]）</h1><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">经文出处</h2>\n<div class=\"thlex-language-sets\">\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：אֹרֶן</span> <span class=\"thlex-translit\">(音译：’oren)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a></div>\n</div>\n<div class=\"thlex-language-set\">\n<span class=\"thlex-language\">Hebrew</span> <span class=\"thlex-lemma\">来：עָרִיץ</span> <span class=\"thlex-translit\">(音译：‘oritz)</span>\n<div class=\"thlex-refs\"><a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a></div>\n</div>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">讨论</h2>\n<div class=\"thlex-paragraphs\">\n<p>月桂树（学名<em>Laurus nobilis</em> ）至今仍是欧式烹饪所用月桂叶的来源。月桂树在圣经时期的以色列一定很常见，用于榨油、作烹饪调料和入药。月桂树有一种清新宜人的味道，直至今日仍盛产于迦密山、他泊山、基列山和黑门山等地。然而，圣经中只有两处提到了月桂树，而且很有争议。一处是关于制造偶像的<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> ，&quot;……栽种<em>’oren</em> ，得雨水滋养长大&quot;；<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 将<em>’oren</em> 译为&quot;cedar&quot;（&quot;香柏树&quot;）。另一处是<a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a> ，其中的希伯来文<em>‘oritz</em> 可能根本不是指植物。在<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> ，马索拉文本将希伯来文<em>’oren</em> 中的字母<em>n</em> 标记为不确定，因此后来的学者认为词根<em>’ar</em> 指的是<em>’erez</em> （&quot;香柏树&quot;）。然而，<em>’oren</em> 也可能是正确的。</p>\n<p>虽然<em>’oren</em> 在现代希伯来文中是指松树，但亚兰文译本《约拿单的他尔根》（<em>Targum Jonathan</em> ）在这节经文中作<em>’aranye</em> ，对应的阿拉伯文是<em>’ar</em> 。在圣经成书之后的时期，作者用<em>’ar</em> 表示&quot;月桂树&quot;。植物学家汤普森（Thompson）将阿卡德文<em>’eru</em> 与月桂树联系在一起。祖海里遵循这个思路，设想圣经作者不可能忽视这种有用而可爱的树木，所以他含蓄地建议将其用在<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> 中。同样地，植物学家莫尔登克认为<a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a> 中的<em>‘oritz</em> （<abbr class=\"thlex-abbr\" title=\"Revised Standard Version (1952)\">RSV</abbr> 译为&quot;overbearing&quot;，&quot;专横&quot;）是指月桂树，但没有一个译本采纳。<abbr class=\"thlex-abbr\" title=\"King James Version (1611)\">KJV</abbr> 将<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> 中的<em>’oren</em> 译为&quot;ash&quot;（&quot;白蜡树&quot;），但没有得到学界的支持，尽管有一种名为叙利亚白蜡树（学名<em>Fraxinus syriaca</em> ）的植物在以色列十分常见，而且可能在圣经时期就已为人所知。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">描述</h2>\n<div class=\"thlex-paragraphs\">\n<p><figure class=\"thlex-image\"><img class=\"thlex-img\" src=\"images/WEB-0579_laurel.jpg\" alt=\"WEB-0579_laurel\"></figure>月桂树的高度可达15米（50英尺），叶子呈深绿色，花小，呈青白色，果实差不多和小葡萄粒一样大，内含一粒种子。月桂树生长在灌木丛和树林中，分布范围从地中海沿岸开始，一路延伸到犹太和加利利山区。</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">特殊意义</h2>\n<div class=\"thlex-paragraphs\">\n<p>在圣经时期，花环（希腊文为<em>stemma</em> ）是用月桂枝叶编成的，颁给获胜的运动员，象征荣誉；罗马皇帝也佩戴这种桂冠。因此，<a href=\"https://ref.ly/John14:13\">ACT 14:13</a> 中提到的花环很可能是用月桂叶做成。<a href=\"https://ref.ly/Rom9:25\">1CO 9:25</a> 、<a href=\"https://ref.ly/1Tim2:5\">2TI 2:5</a> 和<a href=\"https://ref.ly/Jas5:4\">1PE 5:4</a> 所说的冠冕应该是月桂叶编成的。<a href=\"https://ref.ly/Prov1:9\">PRO 1:9</a> 和<a href=\"https://ref.ly/Prov4:9\">PRO 4:9</a> 也提到了华冠（希伯来文为<em>liwyah</em> ）。在<a href=\"https://ref.ly/Ps37:35\">PSA 37:35</a> ，如果诗人指的确实是月桂树，那么月桂树在那里象征恶人的浮华。（另参WTH 中的讨论，<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:6.8\" href=\"#REALIA:6.8\">6.8</a> ，<a class=\"thlex-xref\" data-bnType=\"lexiconLink\" data-collection=\"UBSRealiaLexicon\" data-key=\"REALIA:6.9\" href=\"#REALIA:6.9\">6.9</a> 。）</p>\n</div>\n</div><div class=\"thlex-section\">\n<h2 class=\"thlex-heading\">翻译</h2>\n<div class=\"thlex-paragraphs\">\n<p>月桂树分布在整个地中海地区和欧洲南部，属樟科（学名<em>Lauraceae</em> ）。樟科有数百种植物，分布在全球热带及气候温暖的地区，在东南亚和巴西尤其常见。肉桂树、鳄梨树和木兰树都是该科为人所熟知的树种。月桂树的近缘植物只生长在亚速尔群岛（亚速尔月桂树；学名<em>Laurus azorica</em> ）。在知道月桂树的地方，<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> 可以采用这种译法。否则，我们建议音译一种主要语言的词语，如<em>laurier</em> （法文）、<em>loureiro</em> /<em>louro</em> （葡萄牙文）、<em>laurel</em> （西班牙文）等。然而，<em>’oren</em> 的翻译在一定程度上取决于翻译者如何处理<a href=\"https://ref.ly/Isa44:14\">ISA 44:14</a> 提到的其他树木。如果采用音译，那么其他树木也要音译。如果用当地的树木替代，则应全部替代。</p>\n</div>\n</div>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044014",
+"start_ref_usfm": "ISA 44:14",
+"end_ref": "23044014",
+"end_ref_usfm": "ISA 44:14"
+},
+{
+"start_ref": "19037035",
+"start_ref_usfm": "PSA 37:35",
+"end_ref": "19037035",
+"end_ref_usfm": "PSA 37:35"
+},
+{
+"start_ref": "44014013",
+"start_ref_usfm": "ACT 14:13",
+"end_ref": "44014013",
+"end_ref_usfm": "ACT 14:13"
+},
+{
+"start_ref": "46009025",
+"start_ref_usfm": "1CO 9:25",
+"end_ref": "46009025",
+"end_ref_usfm": "1CO 9:25"
+},
+{
+"start_ref": "55002005",
+"start_ref_usfm": "2TI 2:5",
+"end_ref": "55002005",
+"end_ref_usfm": "2TI 2:5"
+},
+{
+"start_ref": "60005004",
+"start_ref_usfm": "1PE 5:4",
+"end_ref": "60005004",
+"end_ref_usfm": "1PE 5:4"
+},
+{
+"start_ref": "20001009",
+"start_ref_usfm": "PRO 1:9",
+"end_ref": "20001009",
+"end_ref_usfm": "PRO 1:9"
+},
+{
+"start_ref": "20004009",
+"start_ref_usfm": "PRO 4:9",
+"end_ref": "20004009",
+"end_ref_usfm": "PRO 4:9"
+}
+],
+"resource": []
+}
+}
+]
