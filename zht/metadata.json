@@ -45,7 +45,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-04-01T15:50:23.707396"
+"dateCreated": "2026-04-01T16:58:38.600417"
 },
 "idAuthorities": {
 "aquifer": {
@@ -59,7 +59,7 @@
 "primary": {
 "aquifer": {
 "UBSFloraLexicon": {
-"timestamp": "2026-04-01T15:50:23.707396"
+"timestamp": "2026-04-01T16:58:38.600417"
 }
 }
 },
@@ -127,7 +127,7 @@
 },
 "json/01.05.content.json": {
 "mimeType": "text/json",
-"size": 23976
+"size": 23974
 },
 "json/01.06.content.json": {
 "mimeType": "text/json",
@@ -155,7 +155,7 @@
 },
 "json/01.12.content.json": {
 "mimeType": "text/json",
-"size": 9202
+"size": 9204
 },
 "json/01.13.content.json": {
 "mimeType": "text/json",
@@ -203,11 +203,11 @@
 },
 "json/01.24.content.json": {
 "mimeType": "text/json",
-"size": 15289
+"size": 15286
 },
 "json/01.25.content.json": {
 "mimeType": "text/json",
-"size": 5317
+"size": 5315
 },
 "json/01.26.content.json": {
 "mimeType": "text/json",
@@ -235,7 +235,7 @@
 },
 "json/02.05.content.json": {
 "mimeType": "text/json",
-"size": 21362
+"size": 21368
 },
 "json/02.06.content.json": {
 "mimeType": "text/json",
@@ -243,11 +243,11 @@
 },
 "json/02.07.content.json": {
 "mimeType": "text/json",
-"size": 10119
+"size": 10123
 },
 "json/02.08.content.json": {
 "mimeType": "text/json",
-"size": 22843
+"size": 22835
 },
 "json/02.09.content.json": {
 "mimeType": "text/json",
@@ -263,7 +263,7 @@
 },
 "json/02.12.content.json": {
 "mimeType": "text/json",
-"size": 102321
+"size": 102301
 },
 "json/02.13.content.json": {
 "mimeType": "text/json",
@@ -275,11 +275,11 @@
 },
 "json/03.01.content.json": {
 "mimeType": "text/json",
-"size": 90607
+"size": 90610
 },
 "json/03.02.content.json": {
 "mimeType": "text/json",
-"size": 29347
+"size": 29346
 },
 "json/03.03.content.json": {
 "mimeType": "text/json",
@@ -287,7 +287,7 @@
 },
 "json/03.04.content.json": {
 "mimeType": "text/json",
-"size": 19316
+"size": 19320
 },
 "json/03.05.content.json": {
 "mimeType": "text/json",
@@ -295,11 +295,11 @@
 },
 "json/04.00.content.json": {
 "mimeType": "text/json",
-"size": 12271
+"size": 12269
 },
 "json/04.01.content.json": {
 "mimeType": "text/json",
-"size": 81279
+"size": 81275
 },
 "json/04.02.content.json": {
 "mimeType": "text/json",
@@ -311,11 +311,11 @@
 },
 "json/05.01.content.json": {
 "mimeType": "text/json",
-"size": 137654
+"size": 137627
 },
 "json/05.02.content.json": {
 "mimeType": "text/json",
-"size": 67426
+"size": 67421
 },
 "json/06.00.content.json": {
 "mimeType": "text/json",
@@ -323,11 +323,11 @@
 },
 "json/06.01.content.json": {
 "mimeType": "text/json",
-"size": 61961
+"size": 61957
 },
 "json/06.02.content.json": {
 "mimeType": "text/json",
-"size": 61273
+"size": 61277
 },
 "json/06.03.content.json": {
 "mimeType": "text/json",
@@ -423,7 +423,7 @@
 },
 "md/01.05.content.md": {
 "mimeType": "text/markdown",
-"size": 10739
+"size": 10737
 },
 "md/01.06.content.md": {
 "mimeType": "text/markdown",
@@ -451,7 +451,7 @@
 },
 "md/01.12.content.md": {
 "mimeType": "text/markdown",
-"size": 5062
+"size": 5064
 },
 "md/01.13.content.md": {
 "mimeType": "text/markdown",
@@ -499,11 +499,11 @@
 },
 "md/01.24.content.md": {
 "mimeType": "text/markdown",
-"size": 7428
+"size": 7425
 },
 "md/01.25.content.md": {
 "mimeType": "text/markdown",
-"size": 2609
+"size": 2607
 },
 "md/01.26.content.md": {
 "mimeType": "text/markdown",
@@ -531,7 +531,7 @@
 },
 "md/02.05.content.md": {
 "mimeType": "text/markdown",
-"size": 11180
+"size": 11186
 },
 "md/02.06.content.md": {
 "mimeType": "text/markdown",
@@ -539,11 +539,11 @@
 },
 "md/02.07.content.md": {
 "mimeType": "text/markdown",
-"size": 5060
+"size": 5064
 },
 "md/02.08.content.md": {
 "mimeType": "text/markdown",
-"size": 10580
+"size": 10572
 },
 "md/02.09.content.md": {
 "mimeType": "text/markdown",
@@ -559,7 +559,7 @@
 },
 "md/02.12.content.md": {
 "mimeType": "text/markdown",
-"size": 42852
+"size": 42832
 },
 "md/02.13.content.md": {
 "mimeType": "text/markdown",
@@ -571,11 +571,11 @@
 },
 "md/03.01.content.md": {
 "mimeType": "text/markdown",
-"size": 39083
+"size": 39086
 },
 "md/03.02.content.md": {
 "mimeType": "text/markdown",
-"size": 12672
+"size": 12671
 },
 "md/03.03.content.md": {
 "mimeType": "text/markdown",
@@ -583,7 +583,7 @@
 },
 "md/03.04.content.md": {
 "mimeType": "text/markdown",
-"size": 9433
+"size": 9437
 },
 "md/03.05.content.md": {
 "mimeType": "text/markdown",
@@ -591,11 +591,11 @@
 },
 "md/04.00.content.md": {
 "mimeType": "text/markdown",
-"size": 7612
+"size": 7610
 },
 "md/04.01.content.md": {
 "mimeType": "text/markdown",
-"size": 37619
+"size": 37615
 },
 "md/04.02.content.md": {
 "mimeType": "text/markdown",
@@ -607,11 +607,11 @@
 },
 "md/05.01.content.md": {
 "mimeType": "text/markdown",
-"size": 66876
+"size": 66849
 },
 "md/05.02.content.md": {
 "mimeType": "text/markdown",
-"size": 34132
+"size": 34127
 },
 "md/06.00.content.md": {
 "mimeType": "text/markdown",
@@ -619,11 +619,11 @@
 },
 "md/06.01.content.md": {
 "mimeType": "text/markdown",
-"size": 30067
+"size": 30063
 },
 "md/06.02.content.md": {
 "mimeType": "text/markdown",
-"size": 32263
+"size": 32267
 },
 "md/06.03.content.md": {
 "mimeType": "text/markdown",
@@ -719,7 +719,7 @@
 },
 "pdf/01.05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4942492
+"size": 4942488
 },
 "pdf/01.06.content.pdf": {
 "mimeType": "application/pdf",
@@ -747,7 +747,7 @@
 },
 "pdf/01.12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 950598
+"size": 950602
 },
 "pdf/01.13.content.pdf": {
 "mimeType": "application/pdf",
@@ -795,11 +795,11 @@
 },
 "pdf/01.24.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2755052
+"size": 2755046
 },
 "pdf/01.25.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1236855
+"size": 1236851
 },
 "pdf/01.26.content.pdf": {
 "mimeType": "application/pdf",
@@ -827,7 +827,7 @@
 },
 "pdf/02.05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2644976
+"size": 2644988
 },
 "pdf/02.06.content.pdf": {
 "mimeType": "application/pdf",
@@ -835,11 +835,11 @@
 },
 "pdf/02.07.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4668264
+"size": 4668272
 },
 "pdf/02.08.content.pdf": {
 "mimeType": "application/pdf",
-"size": 7900280
+"size": 7900264
 },
 "pdf/02.09.content.pdf": {
 "mimeType": "application/pdf",
@@ -855,7 +855,7 @@
 },
 "pdf/02.12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2622879
+"size": 2622839
 },
 "pdf/02.13.content.pdf": {
 "mimeType": "application/pdf",
@@ -867,11 +867,11 @@
 },
 "pdf/03.01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 16900204
+"size": 16900210
 },
 "pdf/03.02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2658993
+"size": 2658991
 },
 "pdf/03.03.content.pdf": {
 "mimeType": "application/pdf",
@@ -879,7 +879,7 @@
 },
 "pdf/03.04.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4034332
+"size": 4034340
 },
 "pdf/03.05.content.pdf": {
 "mimeType": "application/pdf",
@@ -887,11 +887,11 @@
 },
 "pdf/04.00.content.pdf": {
 "mimeType": "application/pdf",
-"size": 134716
+"size": 134712
 },
 "pdf/04.01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 29109002
+"size": 29108994
 },
 "pdf/04.02.content.pdf": {
 "mimeType": "application/pdf",
@@ -903,11 +903,11 @@
 },
 "pdf/05.01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 37238862
+"size": 37238808
 },
 "pdf/05.02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 30555852
+"size": 30555842
 },
 "pdf/06.00.content.pdf": {
 "mimeType": "application/pdf",
@@ -915,11 +915,11 @@
 },
 "pdf/06.01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 22373439
+"size": 22373431
 },
 "pdf/06.02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 11820032
+"size": 11820040
 },
 "pdf/06.03.content.pdf": {
 "mimeType": "application/pdf",
