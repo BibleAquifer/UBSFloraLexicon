@@ -1,0 +1,109 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "45011024015|καλλιέλαιον"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011017009|ἀγριέλαιος"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011024009|ἀγριελαίου"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011017021|ἐλαίας"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45011024025|ἐλαίᾳ"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45014021008|οἶνον"
+            ],
+            [
+              "FLORA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45014002009|λάχανα"
+            ],
+            [
+              "FLORA:3.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "45014002009|λάχανα"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -378,7 +378,8 @@
 "end_ref_usfm": "2ES 15:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -418,7 +419,16 @@
 "end_ref_usfm": "SIR 50:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:WildFlower",
+"type": "flora",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Wild Flower"
+}
+]
 }
 },
 {
@@ -566,7 +576,16 @@
 "end_ref_usfm": "LUK 12:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Lily",
+"type": "flora",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "Lily"
+}
+]
 }
 },
 {
@@ -594,7 +613,16 @@
 "end_ref_usfm": "SNG 2:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Narcissus",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Narcissus"
+}
+]
 }
 },
 {
@@ -646,7 +674,8 @@
 "end_ref_usfm": "2ES 2:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -680,7 +709,16 @@
 "end_ref_usfm": "HOS 14:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Tulip",
+"type": "flora",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Tulip"
+}
+]
 }
 }
 ]

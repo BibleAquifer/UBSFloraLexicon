@@ -144,7 +144,16 @@
 "end_ref_usfm": "JDG 12:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 0.9273,
+"match_method": "scored",
+"preferred_label": "Oak"
+}
+]
 }
 }
 ]

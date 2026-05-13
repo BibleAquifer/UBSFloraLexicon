@@ -222,7 +222,16 @@
 "end_ref_usfm": "MIC 6:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Acacia"
+}
+]
 }
 }
 ]

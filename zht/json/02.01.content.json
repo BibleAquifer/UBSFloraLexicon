@@ -108,7 +108,16 @@
 "end_ref_usfm": "JDG 1:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Almond",
+"type": "flora",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Almond"
+}
+]
 }
 }
 ]

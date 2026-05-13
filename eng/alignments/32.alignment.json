@@ -1,0 +1,99 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-13"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "320040060041|קִיקָיוֹן"
+            ],
+            [
+              "FLORA:4.2.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "320040060182|קִּיקָיוֹן"
+            ],
+            [
+              "FLORA:4.2.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "320040070092|קִּיקָיוֹן"
+            ],
+            [
+              "FLORA:4.2.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "320040090092|קִּיקָיוֹן"
+            ],
+            [
+              "FLORA:4.2.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "320040100062|קִּיקָיוֹן"
+            ],
+            [
+              "FLORA:4.2.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "320020060071|סוּף"
+            ],
+            [
+              "FLORA:5.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "320040060041|קִיקָיוֹן"
+            ],
+            [
+              "FLORA:5.2.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

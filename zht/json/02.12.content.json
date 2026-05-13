@@ -2604,7 +2604,16 @@
 "end_ref_usfm": "DEU 15:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.8963,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
+]
 }
 }
 ]

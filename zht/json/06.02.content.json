@@ -24,7 +24,8 @@
 "end_ref_usfm": "JER 17:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -124,7 +125,16 @@
 "end_ref_usfm": "HOS 9:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.9399,
+"match_method": "scored",
+"preferred_label": "Thistle"
+}
+]
 }
 },
 {
@@ -182,7 +192,16 @@
 "end_ref_usfm": "HOS 9:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Nettle",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Nettle"
+}
+]
 }
 },
 {
@@ -618,7 +637,16 @@
 "end_ref_usfm": "JDG 9:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.6756,
+"match_method": "scored",
+"preferred_label": "Brier"
+}
+]
 }
 }
 ]

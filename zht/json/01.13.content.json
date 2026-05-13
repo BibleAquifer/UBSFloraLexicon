@@ -24,7 +24,16 @@
 "end_ref_usfm": "ISA 60:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Laurustinus",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Laurustinus"
+}
+]
 }
 }
 ]

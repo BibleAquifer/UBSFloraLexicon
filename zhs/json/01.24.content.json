@@ -198,7 +198,16 @@
 "end_ref_usfm": "PSA 56:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.8323,
+"match_method": "scored",
+"preferred_label": "Terebinth"
+}
+]
 }
 }
 ]
