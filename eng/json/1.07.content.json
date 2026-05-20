@@ -18,7 +18,16 @@
 "end_ref_usfm": "EZK 27:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Ebony",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Ebony"
+}
+]
 }
 }
 ]

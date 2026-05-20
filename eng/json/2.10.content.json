@@ -174,7 +174,16 @@
 "end_ref_usfm": "JOS 15:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Pomegranate"
+}
+]
 }
 }
 ]

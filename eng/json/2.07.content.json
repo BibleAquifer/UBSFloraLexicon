@@ -108,7 +108,16 @@
 "end_ref_usfm": "1CH 14:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Mulberry",
+"type": "flora",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Mulberry"
+}
+]
 }
 }
 ]

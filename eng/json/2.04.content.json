@@ -24,7 +24,16 @@
 "end_ref_usfm": "NEH 8:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:CitronTree",
+"type": "flora",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Citron"
+}
+]
 }
 }
 ]
