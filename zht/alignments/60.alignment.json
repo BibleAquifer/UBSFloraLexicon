@@ -1,0 +1,89 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "60005004010|στέφανον"
+            ],
+            [
+              "FLORA:1.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60001024005|χόρτος"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60001024012|χόρτου"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60001024015|χόρτος"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60001024011|ἄνθος"
+            ],
+            [
+              "FLORA:6.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "60001024018|ἄνθος"
+            ],
+            [
+              "FLORA:6.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

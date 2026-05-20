@@ -18,7 +18,16 @@
 "end_ref_usfm": "REV 18:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Thyine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Thyine"
+}
+]
 }
 }
 ]

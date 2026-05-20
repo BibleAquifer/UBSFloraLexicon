@@ -114,7 +114,16 @@
 "end_ref_usfm": "MRK 4:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Green Vegetation"
+}
+]
 }
 },
 {
@@ -160,7 +169,16 @@
 "end_ref_usfm": "EXO 12:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Chicory",
+"type": "flora",
+"confidence": 0.84,
+"match_method": "scored",
+"preferred_label": "Bitter Herbs"
+}
+]
 }
 },
 {
@@ -182,7 +200,16 @@
 "end_ref_usfm": "NUM 11:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Garlic",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Garlic"
+}
+]
 }
 },
 {
@@ -204,7 +231,16 @@
 "end_ref_usfm": "NUM 11:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Leek",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Leek"
+}
+]
 }
 },
 {
@@ -226,7 +262,16 @@
 "end_ref_usfm": "NUM 11:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Onion",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Onion"
+}
+]
 }
 }
 ]
