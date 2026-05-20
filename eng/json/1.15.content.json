@@ -54,7 +54,16 @@
 "end_ref_usfm": "EST 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Myrtle",
+"type": "flora",
+"confidence": 0.9429,
+"match_method": "scored",
+"preferred_label": "Myrtle"
+}
+]
 }
 }
 ]

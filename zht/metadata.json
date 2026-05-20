@@ -1,3467 +1,3556 @@
 {
-"resource_metadata": {
-"aquifer_type": "Handbook",
-"resource_type": "Thematic Dictionary",
-"title": "Plants and Trees in the Bible",
-"aquifer_name": "Plants and Trees in the Bible",
-"version": "1.1.2",
-"collection_title": "Plants and Trees in the Bible",
-"short_name": "UBSFlora",
-"license_info": {
-"title": "Plants and Trees in the Bible",
-"copyright": {
-"dates": "2012–2025",
-"holder": {
-"name": "United Bible Societies",
-"url": "https://www.unitedbiblesocieties.org/"
-},
-"statement": "Plants and Trees in the Bible © United Bible Societies, 2025. Adapted from: <cite>Each According to its Kind: Plants and Trees in the Bible</cite>, by Robert Koops © 2012 United Bible Societies. This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</a>)."
-},
-"licenses": [
-{
-"eng": {
-"name": "CC BY-SA 4.0 license",
-"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-}
-}
-],
-"showAdaptationNoticeForEnglish": false,
-"showAdaptationNoticeForNonEnglish": false
-},
-"adaptation_notice": "",
-"resource_code": "UBSFloraLexicon",
-"date_created": "2026-04-02",
-"language": "zht",
-"localizations": [
-"eng",
-"zhs"
-],
-"order": "monograph",
-"content_type": "Html"
-},
-"scripture_burrito": {
-"format": "scripture burrito",
-"meta": {
-"version": "1.0.0",
-"category": "source",
-"defaultLocale": "en",
-"dateCreated": "2026-04-02T07:37:45.435987"
-},
-"idAuthorities": {
-"aquifer": {
-"id": "https://aquifer.bible",
-"name": {
-"en": "Bible Aquifer"
-}
-}
-},
-"identification": {
-"primary": {
-"aquifer": {
-"UBSFloraLexicon": {
-"timestamp": "2026-04-02T07:37:45.435987"
-}
-}
-},
-"name": {
-"zh": "Plants and Trees in the Bible"
-},
-"abbreviation": {
-"zh": "UBSFlora"
-}
-},
-"languages": [
-{
-"tag": "zh",
-"name": {
-"zh": "Chinese (Traditional)"
-}
-}
-],
-"type": {
-"flavorType": {
-"name": "peripheral",
-"flavor": {
-"name": "textAquiferMonograph",
-"audience": "common"
-},
-"currentScope": {}
-}
-},
-"ingredients": {
-"json/00.00.content.json": {
-"mimeType": "text/json",
-"size": 3656
-},
-"json/00.01.content.json": {
-"mimeType": "text/json",
-"size": 6872
-},
-"json/00.02.content.json": {
-"mimeType": "text/json",
-"size": 3439
-},
-"json/00.03.content.json": {
-"mimeType": "text/json",
-"size": 2990
-},
-"json/01.00.content.json": {
-"mimeType": "text/json",
-"size": 5794
-},
-"json/01.01.content.json": {
-"mimeType": "text/json",
-"size": 12506
-},
-"json/01.02.content.json": {
-"mimeType": "text/json",
-"size": 6842
-},
-"json/01.03.content.json": {
-"mimeType": "text/json",
-"size": 9970
-},
-"json/01.04.content.json": {
-"mimeType": "text/json",
-"size": 8702
-},
-"json/01.05.content.json": {
-"mimeType": "text/json",
-"size": 24433
-},
-"json/01.06.content.json": {
-"mimeType": "text/json",
-"size": 22254
-},
-"json/01.07.content.json": {
-"mimeType": "text/json",
-"size": 6892
-},
-"json/01.08.content.json": {
-"mimeType": "text/json",
-"size": 6052
-},
-"json/01.09.content.json": {
-"mimeType": "text/json",
-"size": 8422
-},
-"json/01.10.content.json": {
-"mimeType": "text/json",
-"size": 4946
-},
-"json/01.11.content.json": {
-"mimeType": "text/json",
-"size": 19020
-},
-"json/01.12.content.json": {
-"mimeType": "text/json",
-"size": 9462
-},
-"json/01.13.content.json": {
-"mimeType": "text/json",
-"size": 6968
-},
-"json/01.14.content.json": {
-"mimeType": "text/json",
-"size": 5585
-},
-"json/01.15.content.json": {
-"mimeType": "text/json",
-"size": 7550
-},
-"json/01.16.content.json": {
-"mimeType": "text/json",
-"size": 9996
-},
-"json/01.17.content.json": {
-"mimeType": "text/json",
-"size": 6209
-},
-"json/01.18.content.json": {
-"mimeType": "text/json",
-"size": 19659
-},
-"json/01.19.content.json": {
-"mimeType": "text/json",
-"size": 6794
-},
-"json/01.20.content.json": {
-"mimeType": "text/json",
-"size": 10329
-},
-"json/01.21.content.json": {
-"mimeType": "text/json",
-"size": 18500
-},
-"json/01.22.content.json": {
-"mimeType": "text/json",
-"size": 6774
-},
-"json/01.23.content.json": {
-"mimeType": "text/json",
-"size": 9075
-},
-"json/01.24.content.json": {
-"mimeType": "text/json",
-"size": 15699
-},
-"json/01.25.content.json": {
-"mimeType": "text/json",
-"size": 5535
-},
-"json/01.26.content.json": {
-"mimeType": "text/json",
-"size": 9960
-},
-"json/02.00.content.json": {
-"mimeType": "text/json",
-"size": 5289
-},
-"json/02.01.content.json": {
-"mimeType": "text/json",
-"size": 12809
-},
-"json/02.02.content.json": {
-"mimeType": "text/json",
-"size": 8148
-},
-"json/02.03.content.json": {
-"mimeType": "text/json",
-"size": 6967
-},
-"json/02.04.content.json": {
-"mimeType": "text/json",
-"size": 7872
-},
-"json/02.05.content.json": {
-"mimeType": "text/json",
-"size": 21782
-},
-"json/02.06.content.json": {
-"mimeType": "text/json",
-"size": 20366
-},
-"json/02.07.content.json": {
-"mimeType": "text/json",
-"size": 10462
-},
-"json/02.08.content.json": {
-"mimeType": "text/json",
-"size": 23285
-},
-"json/02.09.content.json": {
-"mimeType": "text/json",
-"size": 6100
-},
-"json/02.10.content.json": {
-"mimeType": "text/json",
-"size": 16611
-},
-"json/02.11.content.json": {
-"mimeType": "text/json",
-"size": 9432
-},
-"json/02.12.content.json": {
-"mimeType": "text/json",
-"size": 102630
-},
-"json/02.13.content.json": {
-"mimeType": "text/json",
-"size": 9380
-},
-"json/03.00.content.json": {
-"mimeType": "text/json",
-"size": 4676
-},
-"json/03.01.content.json": {
-"mimeType": "text/json",
-"size": 92011
-},
-"json/03.02.content.json": {
-"mimeType": "text/json",
-"size": 30590
-},
-"json/03.03.content.json": {
-"mimeType": "text/json",
-"size": 21657
-},
-"json/03.04.content.json": {
-"mimeType": "text/json",
-"size": 20005
-},
-"json/03.05.content.json": {
-"mimeType": "text/json",
-"size": 87040
-},
-"json/04.00.content.json": {
-"mimeType": "text/json",
-"size": 12402
-},
-"json/04.01.content.json": {
-"mimeType": "text/json",
-"size": 84763
-},
-"json/04.02.content.json": {
-"mimeType": "text/json",
-"size": 57087
-},
-"json/05.00.content.json": {
-"mimeType": "text/json",
-"size": 2474
-},
-"json/05.01.content.json": {
-"mimeType": "text/json",
-"size": 140250
-},
-"json/05.02.content.json": {
-"mimeType": "text/json",
-"size": 70240
-},
-"json/06.00.content.json": {
-"mimeType": "text/json",
-"size": 4717
-},
-"json/06.01.content.json": {
-"mimeType": "text/json",
-"size": 63565
-},
-"json/06.02.content.json": {
-"mimeType": "text/json",
-"size": 62366
-},
-"json/06.03.content.json": {
-"mimeType": "text/json",
-"size": 10206
-},
-"json/07.00.content.json": {
-"mimeType": "text/json",
-"size": 3344
-},
-"json/07.01.content.json": {
-"mimeType": "text/json",
-"size": 3487
-},
-"json/07.02.content.json": {
-"mimeType": "text/json",
-"size": 2922
-},
-"json/07.03.content.json": {
-"mimeType": "text/json",
-"size": 8804
-},
-"json/07.04.content.json": {
-"mimeType": "text/json",
-"size": 6507
-},
-"json/07.05.content.json": {
-"mimeType": "text/json",
-"size": 9131
-},
-"json/07.06.content.json": {
-"mimeType": "text/json",
-"size": 2466
-},
-"json/08.00.content.json": {
-"mimeType": "text/json",
-"size": 31899
-},
-"json/09.00.content.json": {
-"mimeType": "text/json",
-"size": 23745
-},
-"json/10.00.content.json": {
-"mimeType": "text/json",
-"size": 13223
-},
-"json/11.00.content.json": {
-"mimeType": "text/json",
-"size": 24196
-},
-"json/12.00.content.json": {
-"mimeType": "text/json",
-"size": 13885
-},
-"json/13.00.content.json": {
-"mimeType": "text/json",
-"size": 20716
-},
-"md/00.00.content.md": {
-"mimeType": "text/markdown",
-"size": 898
-},
-"md/00.01.content.md": {
-"mimeType": "text/markdown",
-"size": 4910
-},
-"md/00.02.content.md": {
-"mimeType": "text/markdown",
-"size": 1635
-},
-"md/00.03.content.md": {
-"mimeType": "text/markdown",
-"size": 1197
-},
-"md/01.00.content.md": {
-"mimeType": "text/markdown",
-"size": 3924
-},
-"md/01.01.content.md": {
-"mimeType": "text/markdown",
-"size": 5580
-},
-"md/01.02.content.md": {
-"mimeType": "text/markdown",
-"size": 3589
-},
-"md/01.03.content.md": {
-"mimeType": "text/markdown",
-"size": 5743
-},
-"md/01.04.content.md": {
-"mimeType": "text/markdown",
-"size": 5089
-},
-"md/01.05.content.md": {
-"mimeType": "text/markdown",
-"size": 10931
-},
-"md/01.06.content.md": {
-"mimeType": "text/markdown",
-"size": 13002
-},
-"md/01.07.content.md": {
-"mimeType": "text/markdown",
-"size": 4217
-},
-"md/01.08.content.md": {
-"mimeType": "text/markdown",
-"size": 3185
-},
-"md/01.09.content.md": {
-"mimeType": "text/markdown",
-"size": 3990
-},
-"md/01.10.content.md": {
-"mimeType": "text/markdown",
-"size": 2199
-},
-"md/01.11.content.md": {
-"mimeType": "text/markdown",
-"size": 8161
-},
-"md/01.12.content.md": {
-"mimeType": "text/markdown",
-"size": 5145
-},
-"md/01.13.content.md": {
-"mimeType": "text/markdown",
-"size": 3612
-},
-"md/01.14.content.md": {
-"mimeType": "text/markdown",
-"size": 2710
-},
-"md/01.15.content.md": {
-"mimeType": "text/markdown",
-"size": 4052
-},
-"md/01.16.content.md": {
-"mimeType": "text/markdown",
-"size": 4548
-},
-"md/01.17.content.md": {
-"mimeType": "text/markdown",
-"size": 2937
-},
-"md/01.18.content.md": {
-"mimeType": "text/markdown",
-"size": 9321
-},
-"md/01.19.content.md": {
-"mimeType": "text/markdown",
-"size": 3488
-},
-"md/01.20.content.md": {
-"mimeType": "text/markdown",
-"size": 5335
-},
-"md/01.21.content.md": {
-"mimeType": "text/markdown",
-"size": 12050
-},
-"md/01.22.content.md": {
-"mimeType": "text/markdown",
-"size": 3520
-},
-"md/01.23.content.md": {
-"mimeType": "text/markdown",
-"size": 5186
-},
-"md/01.24.content.md": {
-"mimeType": "text/markdown",
-"size": 7573
-},
-"md/01.25.content.md": {
-"mimeType": "text/markdown",
-"size": 2650
-},
-"md/01.26.content.md": {
-"mimeType": "text/markdown",
-"size": 5505
-},
-"md/02.00.content.md": {
-"mimeType": "text/markdown",
-"size": 3349
-},
-"md/02.01.content.md": {
-"mimeType": "text/markdown",
-"size": 7090
-},
-"md/02.02.content.md": {
-"mimeType": "text/markdown",
-"size": 4584
-},
-"md/02.03.content.md": {
-"mimeType": "text/markdown",
-"size": 3945
-},
-"md/02.04.content.md": {
-"mimeType": "text/markdown",
-"size": 4544
-},
-"md/02.05.content.md": {
-"mimeType": "text/markdown",
-"size": 11362
-},
-"md/02.06.content.md": {
-"mimeType": "text/markdown",
-"size": 8991
-},
-"md/02.07.content.md": {
-"mimeType": "text/markdown",
-"size": 5182
-},
-"md/02.08.content.md": {
-"mimeType": "text/markdown",
-"size": 10713
-},
-"md/02.09.content.md": {
-"mimeType": "text/markdown",
-"size": 3100
-},
-"md/02.10.content.md": {
-"mimeType": "text/markdown",
-"size": 9755
-},
-"md/02.11.content.md": {
-"mimeType": "text/markdown",
-"size": 5198
-},
-"md/02.12.content.md": {
-"mimeType": "text/markdown",
-"size": 42940
-},
-"md/02.13.content.md": {
-"mimeType": "text/markdown",
-"size": 5954
-},
-"md/03.00.content.md": {
-"mimeType": "text/markdown",
-"size": 2406
-},
-"md/03.01.content.md": {
-"mimeType": "text/markdown",
-"size": 39426
-},
-"md/03.02.content.md": {
-"mimeType": "text/markdown",
-"size": 12986
-},
-"md/03.03.content.md": {
-"mimeType": "text/markdown",
-"size": 8857
-},
-"md/03.04.content.md": {
-"mimeType": "text/markdown",
-"size": 9592
-},
-"md/03.05.content.md": {
-"mimeType": "text/markdown",
-"size": 41509
-},
-"md/04.00.content.md": {
-"mimeType": "text/markdown",
-"size": 7610
-},
-"md/04.01.content.md": {
-"mimeType": "text/markdown",
-"size": 39006
-},
-"md/04.02.content.md": {
-"mimeType": "text/markdown",
-"size": 24913
-},
-"md/05.00.content.md": {
-"mimeType": "text/markdown",
-"size": 678
-},
-"md/05.01.content.md": {
-"mimeType": "text/markdown",
-"size": 67662
-},
-"md/05.02.content.md": {
-"mimeType": "text/markdown",
-"size": 35167
-},
-"md/06.00.content.md": {
-"mimeType": "text/markdown",
-"size": 2906
-},
-"md/06.01.content.md": {
-"mimeType": "text/markdown",
-"size": 30472
-},
-"md/06.02.content.md": {
-"mimeType": "text/markdown",
-"size": 32517
-},
-"md/06.03.content.md": {
-"mimeType": "text/markdown",
-"size": 3836
-},
-"md/07.00.content.md": {
-"mimeType": "text/markdown",
-"size": 834
-},
-"md/07.01.content.md": {
-"mimeType": "text/markdown",
-"size": 1642
-},
-"md/07.02.content.md": {
-"mimeType": "text/markdown",
-"size": 1073
-},
-"md/07.03.content.md": {
-"mimeType": "text/markdown",
-"size": 5593
-},
-"md/07.04.content.md": {
-"mimeType": "text/markdown",
-"size": 4315
-},
-"md/07.05.content.md": {
-"mimeType": "text/markdown",
-"size": 6701
-},
-"md/07.06.content.md": {
-"mimeType": "text/markdown",
-"size": 666
-},
-"md/08.00.content.md": {
-"mimeType": "text/markdown",
-"size": 24526
-},
-"md/09.00.content.md": {
-"mimeType": "text/markdown",
-"size": 8131
-},
-"md/10.00.content.md": {
-"mimeType": "text/markdown",
-"size": 4214
-},
-"md/11.00.content.md": {
-"mimeType": "text/markdown",
-"size": 6763
-},
-"md/12.00.content.md": {
-"mimeType": "text/markdown",
-"size": 4219
-},
-"md/13.00.content.md": {
-"mimeType": "text/markdown",
-"size": 7820
-},
-"pdf/00.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 36414
-},
-"pdf/00.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2993425
-},
-"pdf/00.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 52281
-},
-"pdf/00.03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 41962
-},
-"pdf/01.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 114274
-},
-"pdf/01.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2470951
-},
-"pdf/01.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2126737
-},
-"pdf/01.03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 5247968
-},
-"pdf/01.04.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1611446
-},
-"pdf/01.05.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4943261
-},
-"pdf/01.06.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2042199
-},
-"pdf/01.07.content.pdf": {
-"mimeType": "application/pdf",
-"size": 342827
-},
-"pdf/01.08.content.pdf": {
-"mimeType": "application/pdf",
-"size": 818007
-},
-"pdf/01.09.content.pdf": {
-"mimeType": "application/pdf",
-"size": 176318
-},
-"pdf/01.10.content.pdf": {
-"mimeType": "application/pdf",
-"size": 777645
-},
-"pdf/01.11.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1238984
-},
-"pdf/01.12.content.pdf": {
-"mimeType": "application/pdf",
-"size": 949935
-},
-"pdf/01.13.content.pdf": {
-"mimeType": "application/pdf",
-"size": 261305
-},
-"pdf/01.14.content.pdf": {
-"mimeType": "application/pdf",
-"size": 84788
-},
-"pdf/01.15.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2497913
-},
-"pdf/01.16.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1424979
-},
-"pdf/01.17.content.pdf": {
-"mimeType": "application/pdf",
-"size": 876211
-},
-"pdf/01.18.content.pdf": {
-"mimeType": "application/pdf",
-"size": 9860618
-},
-"pdf/01.19.content.pdf": {
-"mimeType": "application/pdf",
-"size": 3806861
-},
-"pdf/01.20.content.pdf": {
-"mimeType": "application/pdf",
-"size": 3037746
-},
-"pdf/01.21.content.pdf": {
-"mimeType": "application/pdf",
-"size": 527035
-},
-"pdf/01.22.content.pdf": {
-"mimeType": "application/pdf",
-"size": 6601744
-},
-"pdf/01.23.content.pdf": {
-"mimeType": "application/pdf",
-"size": 3941964
-},
-"pdf/01.24.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2755751
-},
-"pdf/01.25.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1237372
-},
-"pdf/01.26.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2219999
-},
-"pdf/02.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 94172
-},
-"pdf/02.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 5224220
-},
-"pdf/02.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1219437
-},
-"pdf/02.03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 6967740
-},
-"pdf/02.04.content.pdf": {
-"mimeType": "application/pdf",
-"size": 255535
-},
-"pdf/02.05.content.pdf": {
-"mimeType": "application/pdf",
-"size": 5357373
-},
-"pdf/02.06.content.pdf": {
-"mimeType": "application/pdf",
-"size": 5473138
-},
-"pdf/02.07.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4668799
-},
-"pdf/02.08.content.pdf": {
-"mimeType": "application/pdf",
-"size": 7900937
-},
-"pdf/02.09.content.pdf": {
-"mimeType": "application/pdf",
-"size": 3244964
-},
-"pdf/02.10.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2612871
-},
-"pdf/02.11.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4348671
-},
-"pdf/02.12.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2623346
-},
-"pdf/02.13.content.pdf": {
-"mimeType": "application/pdf",
-"size": 6884899
-},
-"pdf/03.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 71567
-},
-"pdf/03.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 16902424
-},
-"pdf/03.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 2662539
-},
-"pdf/03.03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 8213976
-},
-"pdf/03.04.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4036467
-},
-"pdf/03.05.content.pdf": {
-"mimeType": "application/pdf",
-"size": 37425806
-},
-"pdf/04.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 134712
-},
-"pdf/04.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 29117933
-},
-"pdf/04.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 27787504
-},
-"pdf/05.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 27007
-},
-"pdf/05.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 37241871
-},
-"pdf/05.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 30562504
-},
-"pdf/06.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 78769
-},
-"pdf/06.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 22376156
-},
-"pdf/06.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 11818735
-},
-"pdf/06.03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 4606146
-},
-"pdf/07.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 31958
-},
-"pdf/07.01.content.pdf": {
-"mimeType": "application/pdf",
-"size": 36922
-},
-"pdf/07.02.content.pdf": {
-"mimeType": "application/pdf",
-"size": 32240
-},
-"pdf/07.03.content.pdf": {
-"mimeType": "application/pdf",
-"size": 48823
-},
-"pdf/07.04.content.pdf": {
-"mimeType": "application/pdf",
-"size": 49923
-},
-"pdf/07.05.content.pdf": {
-"mimeType": "application/pdf",
-"size": 62461
-},
-"pdf/07.06.content.pdf": {
-"mimeType": "application/pdf",
-"size": 21965
-},
-"pdf/08.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 270804
-},
-"pdf/09.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 254603
-},
-"pdf/10.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 161010
-},
-"pdf/11.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 213321
-},
-"pdf/12.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 153504
-},
-"pdf/13.00.content.pdf": {
-"mimeType": "application/pdf",
-"size": 198391
-}
-},
-"copyright": {
-"licenses": [
-{
-"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-}
-],
-"shortStatements": [
-{
-"statement": "<p>Plants and Trees in the Bible © 2012–2025 United Bible Societies.</p>",
-"mimetype": "text/html",
-"lang": "zh"
-}
-]
-}
-},
-"article_metadata": {
-"FLORA:0": {
-"content_id": "FLORA:0",
-"reference_id": "FLORA:0",
-"index_reference": "0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:0",
-"language": "eng",
-"title": "Contents and Introduction"
-},
-"zhs": {
-"content_id": "FLORA:0",
-"language": "zhs",
-"title": "标题：目录和介绍"
-}
-}
-},
-"FLORA:0.1": {
-"content_id": "FLORA:0.1",
-"reference_id": "FLORA:0.1",
-"index_reference": "0.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:0.1",
-"language": "eng",
-"title": "Translating flora in the Bible"
-},
-"zhs": {
-"content_id": "FLORA:0.1",
-"language": "zhs",
-"title": "标题：翻译圣经中的植物"
-}
-}
-},
-"FLORA:0.2": {
-"content_id": "FLORA:0.2",
-"reference_id": "FLORA:0.2",
-"index_reference": "0.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:0.2",
-"language": "eng",
-"title": "References"
-},
-"zhs": {
-"content_id": "FLORA:0.2",
-"language": "zhs",
-"title": "标题：经文出处"
-}
-}
-},
-"FLORA:0.3": {
-"content_id": "FLORA:0.3",
-"reference_id": "FLORA:0.3",
-"index_reference": "0.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:0.3",
-"language": "eng",
-"title": "Deuterocanon/Apocrypha"
-},
-"zhs": {
-"content_id": "FLORA:0.3",
-"language": "zhs",
-"title": "标题：次经／旁经"
-}
-}
-},
-"FLORA:1": {
-"content_id": "FLORA:1",
-"reference_id": "FLORA:1",
-"index_reference": "1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1",
-"language": "eng",
-"title": "Wild Trees and Shrubs"
-},
-"zhs": {
-"content_id": "FLORA:1",
-"language": "zhs",
-"title": "标题：野生乔木和灌木"
-}
-}
-},
-"FLORA:1.0": {
-"content_id": "FLORA:1.0",
-"reference_id": "FLORA:1.0",
-"index_reference": "1.0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.0",
-"language": "eng",
-"title": "Introduction"
-},
-"zhs": {
-"content_id": "FLORA:1.0",
-"language": "zhs",
-"title": "标题：介绍"
-}
-}
-},
-"FLORA:1.1": {
-"content_id": "FLORA:1.1",
-"reference_id": "FLORA:1.1",
-"index_reference": "1.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.1",
-"language": "eng",
-"title": "Acacia"
-},
-"zhs": {
-"content_id": "FLORA:1.1",
-"language": "zhs",
-"title": "标题：金合欢树（acacia）"
-}
-}
-},
-"FLORA:1.2": {
-"content_id": "FLORA:1.2",
-"reference_id": "FLORA:1.2",
-"index_reference": "1.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.2",
-"language": "eng",
-"title": "Boxthorn"
-},
-"zhs": {
-"content_id": "FLORA:1.2",
-"language": "zhs",
-"title": "标题：欧洲枸杞（boxthorn）"
-}
-}
-},
-"FLORA:1.3": {
-"content_id": "FLORA:1.3",
-"reference_id": "FLORA:1.3",
-"index_reference": "1.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.3",
-"language": "eng",
-"title": "Broom"
-},
-"zhs": {
-"content_id": "FLORA:1.3",
-"language": "zhs",
-"title": "标题：罗腾树（broom）"
-}
-}
-},
-"FLORA:1.4": {
-"content_id": "FLORA:1.4",
-"reference_id": "FLORA:1.4",
-"index_reference": "1.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.4",
-"language": "eng",
-"title": "Burning bush"
-},
-"zhs": {
-"content_id": "FLORA:1.4",
-"language": "zhs",
-"title": "标题：烧着的荆棘（burning bush）"
-}
-}
-},
-"FLORA:1.5": {
-"content_id": "FLORA:1.5",
-"reference_id": "FLORA:1.5",
-"index_reference": "1.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.5",
-"language": "eng",
-"title": "Cedar"
-},
-"zhs": {
-"content_id": "FLORA:1.5",
-"language": "zhs",
-"title": "标题：香柏树（cedar）"
-}
-}
-},
-"FLORA:1.6": {
-"content_id": "FLORA:1.6",
-"reference_id": "FLORA:1.6",
-"index_reference": "1.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.6",
-"language": "eng",
-"title": "Cypress"
-},
-"zhs": {
-"content_id": "FLORA:1.6",
-"language": "zhs",
-"title": "标题：柏树（cypress）"
-}
-}
-},
-"FLORA:1.7": {
-"content_id": "FLORA:1.7",
-"reference_id": "FLORA:1.7",
-"index_reference": "1.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.7",
-"language": "eng",
-"title": "Ebony"
-},
-"zhs": {
-"content_id": "FLORA:1.7",
-"language": "zhs",
-"title": "标题：黑檀木、乌木（ebony）"
-}
-}
-},
-"FLORA:1.8": {
-"content_id": "FLORA:1.8",
-"reference_id": "FLORA:1.8",
-"index_reference": "1.8",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.8",
-"language": "eng",
-"title": "Elm"
-},
-"zhs": {
-"content_id": "FLORA:1.8",
-"language": "zhs",
-"title": "标题：榆树（elm）"
-}
-}
-},
-"FLORA:1.9": {
-"content_id": "FLORA:1.9",
-"reference_id": "FLORA:1.9",
-"index_reference": "1.9",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.9",
-"language": "eng",
-"title": "Fir"
-},
-"zhs": {
-"content_id": "FLORA:1.9",
-"language": "zhs",
-"title": "标题：杉树（fir）"
-}
-}
-},
-"FLORA:1.10": {
-"content_id": "FLORA:1.10",
-"reference_id": "FLORA:1.10",
-"index_reference": "1.10",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.10",
-"language": "eng",
-"title": "Ivy"
-},
-"zhs": {
-"content_id": "FLORA:1.10",
-"language": "zhs",
-"title": "标题：常春藤（ivy）"
-}
-}
-},
-"FLORA:1.11": {
-"content_id": "FLORA:1.11",
-"reference_id": "FLORA:1.11",
-"index_reference": "1.11",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.11",
-"language": "eng",
-"title": "Juniper"
-},
-"zhs": {
-"content_id": "FLORA:1.11",
-"language": "zhs",
-"title": "标题：杜松（juniper）"
-}
-}
-},
-"FLORA:1.11.1": {
-"content_id": "FLORA:1.11.1",
-"reference_id": "FLORA:1.11.1",
-"index_reference": "1.11.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.11.1",
-"language": "eng",
-"title": "Grecian juniper (eastern savin)"
-},
-"zhs": {
-"content_id": "FLORA:1.11.1",
-"language": "zhs",
-"title": "标题：希腊杜松、东方桧柏（grecian juniper [eastern savin]）"
-}
-}
-},
-"FLORA:1.11.2": {
-"content_id": "FLORA:1.11.2",
-"reference_id": "FLORA:1.11.2",
-"index_reference": "1.11.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.11.2",
-"language": "eng",
-"title": "Phoenician juniper (coastal juniper)"
-},
-"zhs": {
-"content_id": "FLORA:1.11.2",
-"language": "zhs",
-"title": "标题：腓尼基杜松（沿海杜松）（phoenician juniper [coastal juniper]）"
-}
-}
-},
-"FLORA:1.12": {
-"content_id": "FLORA:1.12",
-"reference_id": "FLORA:1.12",
-"index_reference": "1.12",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.12",
-"language": "eng",
-"title": "Laurel (bay tree)"
-},
-"zhs": {
-"content_id": "FLORA:1.12",
-"language": "zhs",
-"title": "标题：月桂树（laurel [bay tree]）"
-}
-}
-},
-"FLORA:1.13": {
-"content_id": "FLORA:1.13",
-"reference_id": "FLORA:1.13",
-"index_reference": "1.13",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.13",
-"language": "eng",
-"title": "Laurustinus (laurestinus)"
-},
-"zhs": {
-"content_id": "FLORA:1.13",
-"language": "zhs",
-"title": "标题：地中海荚蒾（laurustinus [laurestinus]）"
-}
-}
-},
-"FLORA:1.14": {
-"content_id": "FLORA:1.14",
-"reference_id": "FLORA:1.14",
-"index_reference": "1.14",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.14",
-"language": "eng",
-"title": "Lotus plant"
-},
-"zhs": {
-"content_id": "FLORA:1.14",
-"language": "zhs",
-"title": "标题：莲花（lotus plant）"
-}
-}
-},
-"FLORA:1.15": {
-"content_id": "FLORA:1.15",
-"reference_id": "FLORA:1.15",
-"index_reference": "1.15",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.15",
-"language": "eng",
-"title": "Myrtle"
-},
-"zhs": {
-"content_id": "FLORA:1.15",
-"language": "zhs",
-"title": "标题：香桃木、桃金娘（myrtle）"
-}
-}
-},
-"FLORA:1.16": {
-"content_id": "FLORA:1.16",
-"reference_id": "FLORA:1.16",
-"index_reference": "1.16",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.16",
-"language": "eng",
-"title": "Oak"
-},
-"zhs": {
-"content_id": "FLORA:1.16",
-"language": "zhs",
-"title": "标题：橡树（oak）"
-}
-}
-},
-"FLORA:1.17": {
-"content_id": "FLORA:1.17",
-"reference_id": "FLORA:1.17",
-"index_reference": "1.17",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.17",
-"language": "eng",
-"title": "Oleander"
-},
-"zhs": {
-"content_id": "FLORA:1.17",
-"language": "zhs",
-"title": "标题：夹竹桃（oleander）"
-}
-}
-},
-"FLORA:1.18": {
-"content_id": "FLORA:1.18",
-"reference_id": "FLORA:1.18",
-"index_reference": "1.18",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.18",
-"language": "eng",
-"title": "Pine"
-},
-"zhs": {
-"content_id": "FLORA:1.18",
-"language": "zhs",
-"title": "标题：松树（pine）"
-}
-}
-},
-"FLORA:1.18.1": {
-"content_id": "FLORA:1.18.1",
-"reference_id": "FLORA:1.18.1",
-"index_reference": "1.18.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.18.1",
-"language": "eng",
-"title": "Stone pine"
-},
-"zhs": {
-"content_id": "FLORA:1.18.1",
-"language": "zhs",
-"title": "标题：石松（stone pine）"
-}
-}
-},
-"FLORA:1.18.2": {
-"content_id": "FLORA:1.18.2",
-"reference_id": "FLORA:1.18.2",
-"index_reference": "1.18.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.18.2",
-"language": "eng",
-"title": "Aleppo pine"
-},
-"zhs": {
-"content_id": "FLORA:1.18.2",
-"language": "zhs",
-"title": "标题：阿勒坡松、地中海松（aleppo pine）"
-}
-}
-},
-"FLORA:1.19": {
-"content_id": "FLORA:1.19",
-"reference_id": "FLORA:1.19",
-"index_reference": "1.19",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.19",
-"language": "eng",
-"title": "Plane"
-},
-"zhs": {
-"content_id": "FLORA:1.19",
-"language": "zhs",
-"title": "标题：悬铃树（plane）"
-}
-}
-},
-"FLORA:1.20": {
-"content_id": "FLORA:1.20",
-"reference_id": "FLORA:1.20",
-"index_reference": "1.20",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.20",
-"language": "eng",
-"title": "Poplar"
-},
-"zhs": {
-"content_id": "FLORA:1.20",
-"language": "zhs",
-"title": "标题：杨树（poplar）"
-}
-}
-},
-"FLORA:1.21": {
-"content_id": "FLORA:1.21",
-"reference_id": "FLORA:1.21",
-"index_reference": "1.21",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.21",
-"language": "eng",
-"title": "Sandalwood (red saunders)"
-},
-"zhs": {
-"content_id": "FLORA:1.21",
-"language": "zhs",
-"title": "标题：檀香木（sandalwood [red saunders]）"
-}
-}
-},
-"FLORA:1.22": {
-"content_id": "FLORA:1.22",
-"reference_id": "FLORA:1.22",
-"index_reference": "1.22",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.22",
-"language": "eng",
-"title": "Styrax"
-},
-"zhs": {
-"content_id": "FLORA:1.22",
-"language": "zhs",
-"title": "标题：安息香树（styrax）"
-}
-}
-},
-"FLORA:1.23": {
-"content_id": "FLORA:1.23",
-"reference_id": "FLORA:1.23",
-"index_reference": "1.23",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.23",
-"language": "eng",
-"title": "Tamarisk"
-},
-"zhs": {
-"content_id": "FLORA:1.23",
-"language": "zhs",
-"title": "标题：柽柳（tamarisk）"
-}
-}
-},
-"FLORA:1.24": {
-"content_id": "FLORA:1.24",
-"reference_id": "FLORA:1.24",
-"index_reference": "1.24",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.24",
-"language": "eng",
-"title": "Terebinth"
-},
-"zhs": {
-"content_id": "FLORA:1.24",
-"language": "zhs",
-"title": "标题：笃耨香树、黄连木（terebinth）"
-}
-}
-},
-"FLORA:1.25": {
-"content_id": "FLORA:1.25",
-"reference_id": "FLORA:1.25",
-"index_reference": "1.25",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.25",
-"language": "eng",
-"title": "Thyine (sandarac)"
-},
-"zhs": {
-"content_id": "FLORA:1.25",
-"language": "zhs",
-"title": "标题：香橼树、山达脂树、中山杉（thyine [sandarac]）"
-}
-}
-},
-"FLORA:1.26": {
-"content_id": "FLORA:1.26",
-"reference_id": "FLORA:1.26",
-"index_reference": "1.26",
-"localizations": {
-"eng": {
-"content_id": "FLORA:1.26",
-"language": "eng",
-"title": "Willow"
-},
-"zhs": {
-"content_id": "FLORA:1.26",
-"language": "zhs",
-"title": "标题：柳树、杨柳（willow）"
-}
-}
-},
-"FLORA:2": {
-"content_id": "FLORA:2",
-"reference_id": "FLORA:2",
-"index_reference": "2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2",
-"language": "eng",
-"title": "Domestic trees and shrubs"
-},
-"zhs": {
-"content_id": "FLORA:2",
-"language": "zhs",
-"title": "标题：栽培类乔木和灌木"
-}
-}
-},
-"FLORA:2.0": {
-"content_id": "FLORA:2.0",
-"reference_id": "FLORA:2.0",
-"index_reference": "2.0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.0",
-"language": "eng",
-"title": "Introduction"
-},
-"zhs": {
-"content_id": "FLORA:2.0",
-"language": "zhs",
-"title": "标题：介绍"
-}
-}
-},
-"FLORA:2.1": {
-"content_id": "FLORA:2.1",
-"reference_id": "FLORA:2.1",
-"index_reference": "2.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.1",
-"language": "eng",
-"title": "Almond"
-},
-"zhs": {
-"content_id": "FLORA:2.1",
-"language": "zhs",
-"title": "标题：杏树、杏仁树（almond）"
-}
-}
-},
-"FLORA:2.2": {
-"content_id": "FLORA:2.2",
-"reference_id": "FLORA:2.2",
-"index_reference": "2.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.2",
-"language": "eng",
-"title": "Apple"
-},
-"zhs": {
-"content_id": "FLORA:2.2",
-"language": "zhs",
-"title": "标题：苹果（apple）"
-}
-}
-},
-"FLORA:2.3": {
-"content_id": "FLORA:2.3",
-"reference_id": "FLORA:2.3",
-"index_reference": "2.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.3",
-"language": "eng",
-"title": "Carob"
-},
-"zhs": {
-"content_id": "FLORA:2.3",
-"language": "zhs",
-"title": "标题：长角豆树（carob）"
-}
-}
-},
-"FLORA:2.4": {
-"content_id": "FLORA:2.4",
-"reference_id": "FLORA:2.4",
-"index_reference": "2.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.4",
-"language": "eng",
-"title": "Citron"
-},
-"zhs": {
-"content_id": "FLORA:2.4",
-"language": "zhs",
-"title": "标题：香橼树（citron）"
-}
-}
-},
-"FLORA:2.5": {
-"content_id": "FLORA:2.5",
-"reference_id": "FLORA:2.5",
-"index_reference": "2.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.5",
-"language": "eng",
-"title": "Date palm"
-},
-"zhs": {
-"content_id": "FLORA:2.5",
-"language": "zhs",
-"title": "标题：海枣树（date palm）"
-}
-}
-},
-"FLORA:2.6": {
-"content_id": "FLORA:2.6",
-"reference_id": "FLORA:2.6",
-"index_reference": "2.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.6",
-"language": "eng",
-"title": "Fig"
-},
-"zhs": {
-"content_id": "FLORA:2.6",
-"language": "zhs",
-"title": "标题：无花果（fig）"
-}
-}
-},
-"FLORA:2.7": {
-"content_id": "FLORA:2.7",
-"reference_id": "FLORA:2.7",
-"index_reference": "2.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.7",
-"language": "eng",
-"title": "Mulberry"
-},
-"zhs": {
-"content_id": "FLORA:2.7",
-"language": "zhs",
-"title": "标题：桑树（mulberry）"
-}
-}
-},
-"FLORA:2.8": {
-"content_id": "FLORA:2.8",
-"reference_id": "FLORA:2.8",
-"index_reference": "2.8",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.8",
-"language": "eng",
-"title": "Olive"
-},
-"zhs": {
-"content_id": "FLORA:2.8",
-"language": "zhs",
-"title": "标题：橄榄树（olive）"
-}
-}
-},
-"FLORA:2.9": {
-"content_id": "FLORA:2.9",
-"reference_id": "FLORA:2.9",
-"index_reference": "2.9",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.9",
-"language": "eng",
-"title": "Pistachio"
-},
-"zhs": {
-"content_id": "FLORA:2.9",
-"language": "zhs",
-"title": "标题：开心果（pistachio）"
-}
-}
-},
-"FLORA:2.10": {
-"content_id": "FLORA:2.10",
-"reference_id": "FLORA:2.10",
-"index_reference": "2.10",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.10",
-"language": "eng",
-"title": "Pomegranate"
-},
-"zhs": {
-"content_id": "FLORA:2.10",
-"language": "zhs",
-"title": "标题：石榴（pomegranate）"
-}
-}
-},
-"FLORA:2.11": {
-"content_id": "FLORA:2.11",
-"reference_id": "FLORA:2.11",
-"index_reference": "2.11",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.11",
-"language": "eng",
-"title": "Sycomore fig"
-},
-"zhs": {
-"content_id": "FLORA:2.11",
-"language": "zhs",
-"title": "标题：西克莫无花果（sycomore fig）"
-}
-}
-},
-"FLORA:2.12": {
-"content_id": "FLORA:2.12",
-"reference_id": "FLORA:2.12",
-"index_reference": "2.12",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.12",
-"language": "eng",
-"title": "Vine"
-},
-"zhs": {
-"content_id": "FLORA:2.12",
-"language": "zhs",
-"title": "标题：葡萄树（vine）"
-}
-}
-},
-"FLORA:2.13": {
-"content_id": "FLORA:2.13",
-"reference_id": "FLORA:2.13",
-"index_reference": "2.13",
-"localizations": {
-"eng": {
-"content_id": "FLORA:2.13",
-"language": "eng",
-"title": "Walnut"
-},
-"zhs": {
-"content_id": "FLORA:2.13",
-"language": "zhs",
-"title": "标题：胡桃（walnut）"
-}
-}
-},
-"FLORA:3": {
-"content_id": "FLORA:3",
-"reference_id": "FLORA:3",
-"index_reference": "3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3",
-"language": "eng",
-"title": "Food Plants, Grown and Gathered"
-},
-"zhs": {
-"content_id": "FLORA:3",
-"language": "zhs",
-"title": "标题：种植及采摘的食用植物"
-}
-}
-},
-"FLORA:3.0": {
-"content_id": "FLORA:3.0",
-"reference_id": "FLORA:3.0",
-"index_reference": "3.0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.0",
-"language": "eng",
-"title": "Introduction"
-},
-"zhs": {
-"content_id": "FLORA:3.0",
-"language": "zhs",
-"title": "标题：介绍"
-}
-}
-},
-"FLORA:3.1": {
-"content_id": "FLORA:3.1",
-"reference_id": "FLORA:3.1",
-"index_reference": "3.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.1",
-"language": "eng",
-"title": "Grain"
-},
-"zhs": {
-"content_id": "FLORA:3.1",
-"language": "zhs",
-"title": "标题：谷物（grain）"
-}
-}
-},
-"FLORA:3.1.1": {
-"content_id": "FLORA:3.1.1",
-"reference_id": "FLORA:3.1.1",
-"index_reference": "3.1.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.1.1",
-"language": "eng",
-"title": "Barley"
-},
-"zhs": {
-"content_id": "FLORA:3.1.1",
-"language": "zhs",
-"title": "标题：大麦（barley）"
-}
-}
-},
-"FLORA:3.1.2": {
-"content_id": "FLORA:3.1.2",
-"reference_id": "FLORA:3.1.2",
-"index_reference": "3.1.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.1.2",
-"language": "eng",
-"title": "Millet"
-},
-"zhs": {
-"content_id": "FLORA:3.1.2",
-"language": "zhs",
-"title": "标题：小米（millet）"
-}
-}
-},
-"FLORA:3.1.3": {
-"content_id": "FLORA:3.1.3",
-"reference_id": "FLORA:3.1.3",
-"index_reference": "3.1.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.1.3",
-"language": "eng",
-"title": "Sorghum (durra)"
-},
-"zhs": {
-"content_id": "FLORA:3.1.3",
-"language": "zhs",
-"title": "标题：高粱（sorghum [durra]）"
-}
-}
-},
-"FLORA:3.1.4": {
-"content_id": "FLORA:3.1.4",
-"reference_id": "FLORA:3.1.4",
-"index_reference": "3.1.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.1.4",
-"language": "eng",
-"title": "Wheat"
-},
-"zhs": {
-"content_id": "FLORA:3.1.4",
-"language": "zhs",
-"title": "标题：小麦（wheat）"
-}
-}
-},
-"FLORA:3.2": {
-"content_id": "FLORA:3.2",
-"reference_id": "FLORA:3.2",
-"index_reference": "3.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.2",
-"language": "eng",
-"title": "Leafy vegetables"
-},
-"zhs": {
-"content_id": "FLORA:3.2",
-"language": "zhs",
-"title": "标题：叶类蔬菜（leafy vegetables）"
-}
-}
-},
-"FLORA:3.2.1": {
-"content_id": "FLORA:3.2.1",
-"reference_id": "FLORA:3.2.1",
-"index_reference": "3.2.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.2.1",
-"language": "eng",
-"title": "Bitter herbs"
-},
-"zhs": {
-"content_id": "FLORA:3.2.1",
-"language": "zhs",
-"title": "标题：苦菜（bitter herbs）"
-}
-}
-},
-"FLORA:3.2.2": {
-"content_id": "FLORA:3.2.2",
-"reference_id": "FLORA:3.2.2",
-"index_reference": "3.2.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.2.2",
-"language": "eng",
-"title": "Garlic"
-},
-"zhs": {
-"content_id": "FLORA:3.2.2",
-"language": "zhs",
-"title": "标题：蒜（garlic）"
-}
-}
-},
-"FLORA:3.2.3": {
-"content_id": "FLORA:3.2.3",
-"reference_id": "FLORA:3.2.3",
-"index_reference": "3.2.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.2.3",
-"language": "eng",
-"title": "Leek"
-},
-"zhs": {
-"content_id": "FLORA:3.2.3",
-"language": "zhs",
-"title": "标题：韭葱（leek）"
-}
-}
-},
-"FLORA:3.2.4": {
-"content_id": "FLORA:3.2.4",
-"reference_id": "FLORA:3.2.4",
-"index_reference": "3.2.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.2.4",
-"language": "eng",
-"title": "Onion"
-},
-"zhs": {
-"content_id": "FLORA:3.2.4",
-"language": "zhs",
-"title": "标题：洋葱（onion）"
-}
-}
-},
-"FLORA:3.3": {
-"content_id": "FLORA:3.3",
-"reference_id": "FLORA:3.3",
-"index_reference": "3.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.3",
-"language": "eng",
-"title": "Pulses"
-},
-"zhs": {
-"content_id": "FLORA:3.3",
-"language": "zhs",
-"title": "标题：豆类植物（pulses）"
-}
-}
-},
-"FLORA:3.3.1": {
-"content_id": "FLORA:3.3.1",
-"reference_id": "FLORA:3.3.1",
-"index_reference": "3.3.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.3.1",
-"language": "eng",
-"title": "Beans"
-},
-"zhs": {
-"content_id": "FLORA:3.3.1",
-"language": "zhs",
-"title": "标题：蚕豆（beans）"
-}
-}
-},
-"FLORA:3.3.2": {
-"content_id": "FLORA:3.3.2",
-"reference_id": "FLORA:3.3.2",
-"index_reference": "3.3.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.3.2",
-"language": "eng",
-"title": "Chickpeas"
-},
-"zhs": {
-"content_id": "FLORA:3.3.2",
-"language": "zhs",
-"title": "标题：鹰嘴豆（chickpeas）"
-}
-}
-},
-"FLORA:3.3.3": {
-"content_id": "FLORA:3.3.3",
-"reference_id": "FLORA:3.3.3",
-"index_reference": "3.3.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.3.3",
-"language": "eng",
-"title": "Lentils"
-},
-"zhs": {
-"content_id": "FLORA:3.3.3",
-"language": "zhs",
-"title": "标题：扁豆（lentils）"
-}
-}
-},
-"FLORA:3.4": {
-"content_id": "FLORA:3.4",
-"reference_id": "FLORA:3.4",
-"index_reference": "3.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.4",
-"language": "eng",
-"title": "Melon"
-},
-"zhs": {
-"content_id": "FLORA:3.4",
-"language": "zhs",
-"title": "标题：瓜（melons）"
-}
-}
-},
-"FLORA:3.4.1": {
-"content_id": "FLORA:3.4.1",
-"reference_id": "FLORA:3.4.1",
-"index_reference": "3.4.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.4.1",
-"language": "eng",
-"title": "Muskmelon (cantaloupe)"
-},
-"zhs": {
-"content_id": "FLORA:3.4.1",
-"language": "zhs",
-"title": "标题：甜瓜（哈密瓜）（Muskmelon [cantaloupe]）"
-}
-}
-},
-"FLORA:3.4.2": {
-"content_id": "FLORA:3.4.2",
-"reference_id": "FLORA:3.4.2",
-"index_reference": "3.4.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.4.2",
-"language": "eng",
-"title": "Watermelon"
-},
-"zhs": {
-"content_id": "FLORA:3.4.2",
-"language": "zhs",
-"title": "标题：西瓜（watermelon）"
-}
-}
-},
-"FLORA:3.5": {
-"content_id": "FLORA:3.5",
-"reference_id": "FLORA:3.5",
-"index_reference": "3.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5",
-"language": "eng",
-"title": "Condiments"
-},
-"zhs": {
-"content_id": "FLORA:3.5",
-"language": "zhs",
-"title": "标题：调味料（condiments）"
-}
-}
-},
-"FLORA:3.5.1": {
-"content_id": "FLORA:3.5.1",
-"reference_id": "FLORA:3.5.1",
-"index_reference": "3.5.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.1",
-"language": "eng",
-"title": "Caper (caper bush, caper berry)"
-},
-"zhs": {
-"content_id": "FLORA:3.5.1",
-"language": "zhs",
-"title": "标题：刺山柑（刺山柑灌木、刺山柑浆果）（Caper [caper bush, caper berry]）"
-}
-}
-},
-"FLORA:3.5.2": {
-"content_id": "FLORA:3.5.2",
-"reference_id": "FLORA:3.5.2",
-"index_reference": "3.5.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.2",
-"language": "eng",
-"title": "Coriander"
-},
-"zhs": {
-"content_id": "FLORA:3.5.2",
-"language": "zhs",
-"title": "标题：芫荽（coriander）"
-}
-}
-},
-"FLORA:3.5.3": {
-"content_id": "FLORA:3.5.3",
-"reference_id": "FLORA:3.5.3",
-"index_reference": "3.5.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.3",
-"language": "eng",
-"title": "Cumin (cummin)"
-},
-"zhs": {
-"content_id": "FLORA:3.5.3",
-"language": "zhs",
-"title": "标题：孜然芹、孜然（cumin [cumin]）"
-}
-}
-},
-"FLORA:3.5.4": {
-"content_id": "FLORA:3.5.4",
-"reference_id": "FLORA:3.5.4",
-"index_reference": "3.5.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.4",
-"language": "eng",
-"title": "Dill"
-},
-"zhs": {
-"content_id": "FLORA:3.5.4",
-"language": "zhs",
-"title": "标题：莳萝（dill）"
-}
-}
-},
-"FLORA:3.5.5": {
-"content_id": "FLORA:3.5.5",
-"reference_id": "FLORA:3.5.5",
-"index_reference": "3.5.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.5",
-"language": "eng",
-"title": "Dove’s dung (Star of Bethlehem)"
-},
-"zhs": {
-"content_id": "FLORA:3.5.5",
-"language": "zhs",
-"title": "标题：鸽子粪（伯利恒之星、伞花虎眼万年青）（dove’s dung [star of bethlehem]）"
-}
-}
-},
-"FLORA:3.5.6": {
-"content_id": "FLORA:3.5.6",
-"reference_id": "FLORA:3.5.6",
-"index_reference": "3.5.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.6",
-"language": "eng",
-"title": "Mallow"
-},
-"zhs": {
-"content_id": "FLORA:3.5.6",
-"language": "zhs",
-"title": "标题：锦葵（mallow）"
-}
-}
-},
-"FLORA:3.5.7": {
-"content_id": "FLORA:3.5.7",
-"reference_id": "FLORA:3.5.7",
-"index_reference": "3.5.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.7",
-"language": "eng",
-"title": "Mint"
-},
-"zhs": {
-"content_id": "FLORA:3.5.7",
-"language": "zhs",
-"title": "标题：薄荷（mint）"
-}
-}
-},
-"FLORA:3.5.8": {
-"content_id": "FLORA:3.5.8",
-"reference_id": "FLORA:3.5.8",
-"index_reference": "3.5.8",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.8",
-"language": "eng",
-"title": "Mustard"
-},
-"zhs": {
-"content_id": "FLORA:3.5.8",
-"language": "zhs",
-"title": "标题：芥菜（mustard）"
-}
-}
-},
-"FLORA:3.5.9": {
-"content_id": "FLORA:3.5.9",
-"reference_id": "FLORA:3.5.9",
-"index_reference": "3.5.9",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.9",
-"language": "eng",
-"title": "Nigella (kalonji, black cumin, black seed, charnushka, nutmeg flower)"
-},
-"zhs": {
-"content_id": "FLORA:3.5.9",
-"language": "zhs",
-"title": "标题：黑种草（黑小茴香、黑子草、斯亚丹、肉豆蔻花）（nigella [kalonji, black cumin, black seed, charnushka, nutmeg flower]）"
-}
-}
-},
-"FLORA:3.5.10": {
-"content_id": "FLORA:3.5.10",
-"reference_id": "FLORA:3.5.10",
-"index_reference": "3.5.10",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.10",
-"language": "eng",
-"title": "Orache (saltwort)"
-},
-"zhs": {
-"content_id": "FLORA:3.5.10",
-"language": "zhs",
-"title": "标题：滨藜（盐草）（orache [saltwort]）"
-}
-}
-},
-"FLORA:3.5.11": {
-"content_id": "FLORA:3.5.11",
-"reference_id": "FLORA:3.5.11",
-"index_reference": "3.5.11",
-"localizations": {
-"eng": {
-"content_id": "FLORA:3.5.11",
-"language": "eng",
-"title": "Rue"
-},
-"zhs": {
-"content_id": "FLORA:3.5.11",
-"language": "zhs",
-"title": "标题：芸香（rue）"
-}
-}
-},
-"FLORA:4": {
-"content_id": "FLORA:4",
-"reference_id": "FLORA:4",
-"index_reference": "4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4",
-"language": "eng",
-"title": "Incense and Ointment"
-},
-"zhs": {
-"content_id": "FLORA:4",
-"language": "zhs",
-"title": "标题：香和药膏"
-}
-}
-},
-"FLORA:4.0": {
-"content_id": "FLORA:4.0",
-"reference_id": "FLORA:4.0",
-"index_reference": "4.0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.0",
-"language": "eng",
-"title": "Introduction"
-},
-"zhs": {
-"content_id": "FLORA:4.0",
-"language": "zhs",
-"title": "标题：介绍"
-}
-}
-},
-"FLORA:4.1": {
-"content_id": "FLORA:4.1",
-"reference_id": "FLORA:4.1",
-"index_reference": "4.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1",
-"language": "eng",
-"title": "Trees and plants yielding incense and perfume"
-},
-"zhs": {
-"content_id": "FLORA:4.1",
-"language": "zhs",
-"title": "标题：制作香和香水的树木和植物"
-}
-}
-},
-"FLORA:4.1.1": {
-"content_id": "FLORA:4.1.1",
-"reference_id": "FLORA:4.1.1",
-"index_reference": "4.1.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.1",
-"language": "eng",
-"title": "Agarwood (eaglewood, aloeswood, lignaloes)"
-},
-"zhs": {
-"content_id": "FLORA:4.1.1",
-"language": "zhs",
-"title": "标题：沉香树、沉香木（鹰木、伽罗木）（agarwood [eaglewood, aloeswood, lingaloes]）"
-}
-}
-},
-"FLORA:4.1.2": {
-"content_id": "FLORA:4.1.2",
-"reference_id": "FLORA:4.1.2",
-"index_reference": "4.1.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.2",
-"language": "eng",
-"title": "Calamus (sweet flag, aromatic cane, sweet cane, ginger grass)"
-},
-"zhs": {
-"content_id": "FLORA:4.1.2",
-"language": "zhs",
-"title": "标题：香菖蒲（calamus [sweet flag, aromatic cane, sweet cane, ginger grass]）"
-}
-}
-},
-"FLORA:4.1.3": {
-"content_id": "FLORA:4.1.3",
-"reference_id": "FLORA:4.1.3",
-"index_reference": "4.1.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.3",
-"language": "eng",
-"title": "Cassia"
-},
-"zhs": {
-"content_id": "FLORA:4.1.3",
-"language": "zhs",
-"title": "标题：桂皮（cassia）"
-}
-}
-},
-"FLORA:4.1.4": {
-"content_id": "FLORA:4.1.4",
-"reference_id": "FLORA:4.1.4",
-"index_reference": "4.1.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.4",
-"language": "eng",
-"title": "Cinnamon"
-},
-"zhs": {
-"content_id": "FLORA:4.1.4",
-"language": "zhs",
-"title": "标题：肉桂（cinnamon）"
-}
-}
-},
-"FLORA:4.1.5": {
-"content_id": "FLORA:4.1.5",
-"reference_id": "FLORA:4.1.5",
-"index_reference": "4.1.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.5",
-"language": "eng",
-"title": "Fennel (galbanum)"
-},
-"zhs": {
-"content_id": "FLORA:4.1.5",
-"language": "zhs",
-"title": "标题：小茴香（白松香）（fennel [galbanum]）"
-}
-}
-},
-"FLORA:4.1.6": {
-"content_id": "FLORA:4.1.6",
-"reference_id": "FLORA:4.1.6",
-"index_reference": "4.1.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.6",
-"language": "eng",
-"title": "Frankincense"
-},
-"zhs": {
-"content_id": "FLORA:4.1.6",
-"language": "zhs",
-"title": "标题：乳香（frankincense）"
-}
-}
-},
-"FLORA:4.1.7": {
-"content_id": "FLORA:4.1.7",
-"reference_id": "FLORA:4.1.7",
-"index_reference": "4.1.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.7",
-"language": "eng",
-"title": "Henna"
-},
-"zhs": {
-"content_id": "FLORA:4.1.7",
-"language": "zhs",
-"title": "标题：散沫花（henna）"
-}
-}
-},
-"FLORA:4.1.8": {
-"content_id": "FLORA:4.1.8",
-"reference_id": "FLORA:4.1.8",
-"index_reference": "4.1.8",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.8",
-"language": "eng",
-"title": "Myrrh"
-},
-"zhs": {
-"content_id": "FLORA:4.1.8",
-"language": "zhs",
-"title": "标题：没药（myrrh）"
-}
-}
-},
-"FLORA:4.1.9": {
-"content_id": "FLORA:4.1.9",
-"reference_id": "FLORA:4.1.9",
-"index_reference": "4.1.9",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.1.9",
-"language": "eng",
-"title": "Spikenard (nard)"
-},
-"zhs": {
-"content_id": "FLORA:4.1.9",
-"language": "zhs",
-"title": "标题：甘松（哪哒）（spikenard [nard]）"
-}
-}
-},
-"FLORA:4.2": {
-"content_id": "FLORA:4.2",
-"reference_id": "FLORA:4.2",
-"index_reference": "4.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2",
-"language": "eng",
-"title": "Ointment and balm (medicinal plants)"
-},
-"zhs": {
-"content_id": "FLORA:4.2",
-"language": "zhs",
-"title": "标题：药膏和香膏（药用植物）"
-}
-}
-},
-"FLORA:4.2.1": {
-"content_id": "FLORA:4.2.1",
-"reference_id": "FLORA:4.2.1",
-"index_reference": "4.2.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.1",
-"language": "eng",
-"title": "Aloe (bitter aloe)"
-},
-"zhs": {
-"content_id": "FLORA:4.2.1",
-"language": "zhs",
-"title": "标题：芦荟（苦芦荟）（aloe [bitter aloe]）"
-}
-}
-},
-"FLORA:4.2.2": {
-"content_id": "FLORA:4.2.2",
-"reference_id": "FLORA:4.2.2",
-"index_reference": "4.2.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.2",
-"language": "eng",
-"title": "Castor oil plant (castor bean plant)"
-},
-"zhs": {
-"content_id": "FLORA:4.2.2",
-"language": "zhs",
-"title": "标题：蓖麻（castor oil plant [castor bean plant]）"
-}
-}
-},
-"FLORA:4.2.3": {
-"content_id": "FLORA:4.2.3",
-"reference_id": "FLORA:4.2.3",
-"index_reference": "4.2.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.3",
-"language": "eng",
-"title": "Liquidambar (Oriental sweetgum, storax)"
-},
-"zhs": {
-"content_id": "FLORA:4.2.3",
-"language": "zhs",
-"title": "标题：苏合香（东方枫香）（liquidambar [Oriental sweetgum, storax]）"
-}
-}
-},
-"FLORA:4.2.4": {
-"content_id": "FLORA:4.2.4",
-"reference_id": "FLORA:4.2.4",
-"index_reference": "4.2.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.4",
-"language": "eng",
-"title": "Opobalsamum (balsam, balm)"
-},
-"zhs": {
-"content_id": "FLORA:4.2.4",
-"language": "zhs",
-"title": "标题：麦加香脂（香脂、香膏）（opobalsamum [balsam, balm]）"
-}
-}
-},
-"FLORA:4.2.5": {
-"content_id": "FLORA:4.2.5",
-"reference_id": "FLORA:4.2.5",
-"index_reference": "4.2.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.5",
-"language": "eng",
-"title": "Rock rose (ladanum)"
-},
-"zhs": {
-"content_id": "FLORA:4.2.5",
-"language": "zhs",
-"title": "标题：岩玫瑰（劳丹脂）（rock rose [ladanum]）"
-}
-}
-},
-"FLORA:4.2.6": {
-"content_id": "FLORA:4.2.6",
-"reference_id": "FLORA:4.2.6",
-"index_reference": "4.2.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.6",
-"language": "eng",
-"title": "Saffron crocus"
-},
-"zhs": {
-"content_id": "FLORA:4.2.6",
-"language": "zhs",
-"title": "标题：番红花（saffron crocus）"
-}
-}
-},
-"FLORA:4.2.7": {
-"content_id": "FLORA:4.2.7",
-"reference_id": "FLORA:4.2.7",
-"index_reference": "4.2.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:4.2.7",
-"language": "eng",
-"title": "Tragacanth (gum tragacanth)"
-},
-"zhs": {
-"content_id": "FLORA:4.2.7",
-"language": "zhs",
-"title": "标题：黄蓍（黄蓍胶）（tragacanth [gum tragacanth]）"
-}
-}
-},
-"FLORA:5": {
-"content_id": "FLORA:5",
-"reference_id": "FLORA:5",
-"index_reference": "5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5",
-"language": "eng",
-"title": "Plants for Everyday Use"
-},
-"zhs": {
-"content_id": "FLORA:5",
-"language": "zhs",
-"title": "标题：日常生活中的植物"
-}
-}
-},
-"FLORA:5.0": {
-"content_id": "FLORA:5.0",
-"reference_id": "FLORA:5.0",
-"index_reference": "5.0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.0",
-"language": "eng",
-"title": "Introduction"
-},
-"zhs": {
-"content_id": "FLORA:5.0",
-"language": "zhs",
-"title": "标题：介绍"
-}
-}
-},
-"FLORA:5.1": {
-"content_id": "FLORA:5.1",
-"reference_id": "FLORA:5.1",
-"index_reference": "5.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1",
-"language": "eng",
-"title": "Plants for weaving and building"
-},
-"zhs": {
-"content_id": "FLORA:5.1",
-"language": "zhs",
-"title": "标题：用于纺织和建筑的植物"
-}
-}
-},
-"FLORA:5.1.1": {
-"content_id": "FLORA:5.1.1",
-"reference_id": "FLORA:5.1.1",
-"index_reference": "5.1.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.1",
-"language": "eng",
-"title": "Cattail (reed-mace)"
-},
-"zhs": {
-"content_id": "FLORA:5.1.1",
-"language": "zhs",
-"title": "标题：香蒲（cattail [reed-mace]）"
-}
-}
-},
-"FLORA:5.1.2": {
-"content_id": "FLORA:5.1.2",
-"reference_id": "FLORA:5.1.2",
-"index_reference": "5.1.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.2",
-"language": "eng",
-"title": "Grass"
-},
-"zhs": {
-"content_id": "FLORA:5.1.2",
-"language": "zhs",
-"title": "标题：草（grass）"
-}
-}
-},
-"FLORA:5.1.3": {
-"content_id": "FLORA:5.1.3",
-"reference_id": "FLORA:5.1.3",
-"index_reference": "5.1.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.3",
-"language": "eng",
-"title": "Papyrus"
-},
-"zhs": {
-"content_id": "FLORA:5.1.3",
-"language": "zhs",
-"title": "标题：纸莎草、蒲草（papyrus）"
-}
-}
-},
-"FLORA:5.1.4": {
-"content_id": "FLORA:5.1.4",
-"reference_id": "FLORA:5.1.4",
-"index_reference": "5.1.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.4",
-"language": "eng",
-"title": "Reed (common reed, giant reed)"
-},
-"zhs": {
-"content_id": "FLORA:5.1.4",
-"language": "zhs",
-"title": "标题：芦苇（普通芦苇、芦竹）（reed [common reed, giant reed]）"
-}
-}
-},
-"FLORA:5.1.5": {
-"content_id": "FLORA:5.1.5",
-"reference_id": "FLORA:5.1.5",
-"index_reference": "5.1.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.5",
-"language": "eng",
-"title": "Rush (bulrush, sedge)"
-},
-"zhs": {
-"content_id": "FLORA:5.1.5",
-"language": "zhs",
-"title": "标题：灯心草（蒲草、莎草）（rush [bulrush, sedge]）"
-}
-}
-},
-"FLORA:5.1.6": {
-"content_id": "FLORA:5.1.6",
-"reference_id": "FLORA:5.1.6",
-"index_reference": "5.1.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.6",
-"language": "eng",
-"title": "Cotton"
-},
-"zhs": {
-"content_id": "FLORA:5.1.6",
-"language": "zhs",
-"title": "标题：棉花（cotton）"
-}
-}
-},
-"FLORA:5.1.7": {
-"content_id": "FLORA:5.1.7",
-"reference_id": "FLORA:5.1.7",
-"index_reference": "5.1.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.1.7",
-"language": "eng",
-"title": "Flax (linen)"
-},
-"zhs": {
-"content_id": "FLORA:5.1.7",
-"language": "zhs",
-"title": "标题：亚麻（亚麻布）（flax [linen]）"
-}
-}
-},
-"FLORA:5.2": {
-"content_id": "FLORA:5.2",
-"reference_id": "FLORA:5.2",
-"index_reference": "5.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2",
-"language": "eng",
-"title": "Other useful plants"
-},
-"zhs": {
-"content_id": "FLORA:5.2",
-"language": "zhs",
-"title": "标题：其他实用的植物"
-}
-}
-},
-"FLORA:5.2.1": {
-"content_id": "FLORA:5.2.1",
-"reference_id": "FLORA:5.2.1",
-"index_reference": "5.2.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.1",
-"language": "eng",
-"title": "Bottle gourd"
-},
-"zhs": {
-"content_id": "FLORA:5.2.1",
-"language": "zhs",
-"title": "标题：葫芦（bottle gourd）"
-}
-}
-},
-"FLORA:5.2.2": {
-"content_id": "FLORA:5.2.2",
-"reference_id": "FLORA:5.2.2",
-"index_reference": "5.2.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.2",
-"language": "eng",
-"title": "Hammada (Salsola, Salicornia)"
-},
-"zhs": {
-"content_id": "FLORA:5.2.2",
-"language": "zhs",
-"title": "标题：梭梭（猪毛菜属[Salsola]、盐角草属[Salicornia]）（hammada [Salsola, Salicornia]）"
-}
-}
-},
-"FLORA:5.2.3": {
-"content_id": "FLORA:5.2.3",
-"reference_id": "FLORA:5.2.3",
-"index_reference": "5.2.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.3",
-"language": "eng",
-"title": "Mandrake (“love apple”)"
-},
-"zhs": {
-"content_id": "FLORA:5.2.3",
-"language": "zhs",
-"title": "标题：曼德拉草（\"爱情果\"）（mandrake [\"love apple\"]）"
-}
-}
-},
-"FLORA:5.2.4": {
-"content_id": "FLORA:5.2.4",
-"reference_id": "FLORA:5.2.4",
-"index_reference": "5.2.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.4",
-"language": "eng",
-"title": "Marjoram"
-},
-"zhs": {
-"content_id": "FLORA:5.2.4",
-"language": "zhs",
-"title": "标题：马郁兰（marjoram）"
-}
-}
-},
-"FLORA:5.2.5": {
-"content_id": "FLORA:5.2.5",
-"reference_id": "FLORA:5.2.5",
-"index_reference": "5.2.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.5",
-"language": "eng",
-"title": "Poison hemlock (black henbane, gall)"
-},
-"zhs": {
-"content_id": "FLORA:5.2.5",
-"language": "zhs",
-"title": "标题：毒参（poison hemlock [black henbane, gall]）"
-}
-}
-},
-"FLORA:5.2.6": {
-"content_id": "FLORA:5.2.6",
-"reference_id": "FLORA:5.2.6",
-"index_reference": "5.2.6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.6",
-"language": "eng",
-"title": "Wild gourd (colocynth, egusi, bitter apple)"
-},
-"zhs": {
-"content_id": "FLORA:5.2.6",
-"language": "zhs",
-"title": "标题：野瓜（柯罗辛、苦西瓜、药西瓜）（wild gourd [colocynth, egusi, bitter apple]）"
-}
-}
-},
-"FLORA:5.2.7": {
-"content_id": "FLORA:5.2.7",
-"reference_id": "FLORA:5.2.7",
-"index_reference": "5.2.7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:5.2.7",
-"language": "eng",
-"title": "Wormwood"
-},
-"zhs": {
-"content_id": "FLORA:5.2.7",
-"language": "zhs",
-"title": "标题：苦艾（wormwood）"
-}
-}
-},
-"FLORA:6": {
-"content_id": "FLORA:6",
-"reference_id": "FLORA:6",
-"index_reference": "6",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6",
-"language": "eng",
-"title": "Flowers, Thorns, and Weeds"
-},
-"zhs": {
-"content_id": "FLORA:6",
-"language": "zhs",
-"title": "标题：花、荆棘和杂草"
-}
-}
-},
-"FLORA:6.0": {
-"content_id": "FLORA:6.0",
-"reference_id": "FLORA:6.0",
-"index_reference": "6.0",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.0",
-"language": "eng",
-"title": "Introduction"
-},
-"zhs": {
-"content_id": "FLORA:6.0",
-"language": "zhs",
-"title": "标题：介绍"
-}
-}
-},
-"FLORA:6.1": {
-"content_id": "FLORA:6.1",
-"reference_id": "FLORA:6.1",
-"index_reference": "6.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.1",
-"language": "eng",
-"title": "Flowers"
-},
-"zhs": {
-"content_id": "FLORA:6.1",
-"language": "zhs",
-"title": "标题：花"
-}
-}
-},
-"FLORA:6.1.1": {
-"content_id": "FLORA:6.1.1",
-"reference_id": "FLORA:6.1.1",
-"index_reference": "6.1.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.1.1",
-"language": "eng",
-"title": "Anemone"
-},
-"zhs": {
-"content_id": "FLORA:6.1.1",
-"language": "zhs",
-"title": "标题：银莲花（anemone [crown anemone]）"
-}
-}
-},
-"FLORA:6.1.2": {
-"content_id": "FLORA:6.1.2",
-"reference_id": "FLORA:6.1.2",
-"index_reference": "6.1.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.1.2",
-"language": "eng",
-"title": "Lily (white lily, Madonna lily)"
-},
-"zhs": {
-"content_id": "FLORA:6.1.2",
-"language": "zhs",
-"title": "标题：百合花（白百合、圣母百合）（lily [white lily, madonna lily]）"
-}
-}
-},
-"FLORA:6.1.3": {
-"content_id": "FLORA:6.1.3",
-"reference_id": "FLORA:6.1.3",
-"index_reference": "6.1.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.1.3",
-"language": "eng",
-"title": "Narcissus (daffodil)"
-},
-"zhs": {
-"content_id": "FLORA:6.1.3",
-"language": "zhs",
-"title": "标题：水仙花（黄水仙花）（narcissus [daffodil]）"
-}
-}
-},
-"FLORA:6.1.4": {
-"content_id": "FLORA:6.1.4",
-"reference_id": "FLORA:6.1.4",
-"index_reference": "6.1.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.1.4",
-"language": "eng",
-"title": "Rose (Phoenician rose)"
-},
-"zhs": {
-"content_id": "FLORA:6.1.4",
-"language": "zhs",
-"title": "标题：玫瑰（腓尼基玫瑰）（rose [phoenician rose]）"
-}
-}
-},
-"FLORA:6.1.5": {
-"content_id": "FLORA:6.1.5",
-"reference_id": "FLORA:6.1.5",
-"index_reference": "6.1.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.1.5",
-"language": "eng",
-"title": "Tulip (mountain tulip, “rose of Sharon”)"
-},
-"zhs": {
-"content_id": "FLORA:6.1.5",
-"language": "zhs",
-"title": "标题：郁金香（山地郁金香，\"沙仑的玫瑰\"）（tulip [mountain tulip, \"rose of sharon\"]）"
-}
-}
-},
-"FLORA:6.2": {
-"content_id": "FLORA:6.2",
-"reference_id": "FLORA:6.2",
-"index_reference": "6.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.2",
-"language": "eng",
-"title": "Thorns, thistles, brambles, and briers"
-},
-"zhs": {
-"content_id": "FLORA:6.2",
-"language": "zhs",
-"title": "标题：荆棘、蒺藜、树莓和石南"
-}
-}
-},
-"FLORA:6.2.1": {
-"content_id": "FLORA:6.2.1",
-"reference_id": "FLORA:6.2.1",
-"index_reference": "6.2.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.2.1",
-"language": "eng",
-"title": "Thistles"
-},
-"zhs": {
-"content_id": "FLORA:6.2.1",
-"language": "zhs",
-"title": "标题：蒺藜（thistles）"
-}
-}
-},
-"FLORA:6.2.2": {
-"content_id": "FLORA:6.2.2",
-"reference_id": "FLORA:6.2.2",
-"index_reference": "6.2.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.2.2",
-"language": "eng",
-"title": "Nettles"
-},
-"zhs": {
-"content_id": "FLORA:6.2.2",
-"language": "zhs",
-"title": "标题：荨麻（nettles）"
-}
-}
-},
-"FLORA:6.2.3": {
-"content_id": "FLORA:6.2.3",
-"reference_id": "FLORA:6.2.3",
-"index_reference": "6.2.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.2.3",
-"language": "eng",
-"title": "Other thorny plants (thorns, brambles, briers)"
-},
-"zhs": {
-"content_id": "FLORA:6.2.3",
-"language": "zhs",
-"title": "标题：其他带刺植物（荆棘、树莓和石南）（other thorny plants [thorns, brambles, briers]）"
-}
-}
-},
-"FLORA:6.3": {
-"content_id": "FLORA:6.3",
-"reference_id": "FLORA:6.3",
-"index_reference": "6.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.3",
-"language": "eng",
-"title": "Weeds"
-},
-"zhs": {
-"content_id": "FLORA:6.3",
-"language": "zhs",
-"title": "标题：杂草"
-}
-}
-},
-"FLORA:6.3.1": {
-"content_id": "FLORA:6.3.1",
-"reference_id": "FLORA:6.3.1",
-"index_reference": "6.3.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:6.3.1",
-"language": "eng",
-"title": "Weed (tare, darnel)"
-},
-"zhs": {
-"content_id": "FLORA:6.3.1",
-"language": "zhs",
-"title": "标题：杂草（稗子、毒麦）（weed [tare, darnel]）"
-}
-}
-},
-"FLORA:7": {
-"content_id": "FLORA:7",
-"reference_id": "FLORA:7",
-"index_reference": "7",
-"localizations": {
-"eng": {
-"content_id": "FLORA:7",
-"language": "eng",
-"title": "Selected Bibliography"
-},
-"zhs": {
-"content_id": "FLORA:7",
-"language": "zhs",
-"title": "标题：部分参考书目"
-}
-}
-},
-"FLORA:7.1": {
-"content_id": "FLORA:7.1",
-"reference_id": "FLORA:7.1",
-"index_reference": "7.1",
-"localizations": {
-"eng": {
-"content_id": "FLORA:7.1",
-"language": "eng",
-"title": "Texts"
-},
-"zhs": {
-"content_id": "FLORA:7.1",
-"language": "zhs",
-"title": "标题：文本"
-}
-}
-},
-"FLORA:7.2": {
-"content_id": "FLORA:7.2",
-"reference_id": "FLORA:7.2",
-"index_reference": "7.2",
-"localizations": {
-"eng": {
-"content_id": "FLORA:7.2",
-"language": "eng",
-"title": "Modern Versions"
-},
-"zhs": {
-"content_id": "FLORA:7.2",
-"language": "zhs",
-"title": "标题：中文译本"
-}
-}
-},
-"FLORA:7.3": {
-"content_id": "FLORA:7.3",
-"reference_id": "FLORA:7.3",
-"index_reference": "7.3",
-"localizations": {
-"eng": {
-"content_id": "FLORA:7.3",
-"language": "eng",
-"title": "Scientific Works"
-},
-"zhs": {
-"content_id": "FLORA:7.3",
-"language": "zhs",
-"title": "标题：现代外文译本"
-}
-}
-},
-"FLORA:7.4": {
-"content_id": "FLORA:7.4",
-"reference_id": "FLORA:7.4",
-"index_reference": "7.4",
-"localizations": {
-"eng": {
-"content_id": "FLORA:7.4",
-"language": "eng",
-"title": "Dictionaries, Textual Studies, and Other Reference Works"
-},
-"zhs": {
-"content_id": "FLORA:7.4",
-"language": "zhs",
-"title": "标题：学术著作"
-}
-}
-},
-"FLORA:7.5": {
-"content_id": "FLORA:7.5",
-"reference_id": "FLORA:7.5",
-"index_reference": "7.5",
-"localizations": {
-"eng": {
-"content_id": "FLORA:7.5",
-"language": "eng",
-"title": "Websites"
-},
-"zhs": {
-"content_id": "FLORA:7.5",
-"language": "zhs",
-"title": "标题：词典、文本研究和其他参考文献"
-}
-}
-},
-"FLORA:7.6": {
-"content_id": "FLORA:7.6",
-"reference_id": "FLORA:7.6",
-"index_reference": "7.6",
-"localizations": {
-"zhs": {
-"content_id": "FLORA:7.6",
-"language": "zhs",
-"title": "标题：网站"
-}
-}
-},
-"FLORA:8": {
-"content_id": "FLORA:8",
-"reference_id": "FLORA:8",
-"index_reference": "8",
-"localizations": {
-"eng": {
-"content_id": "FLORA:8",
-"language": "eng",
-"title": "Glossary"
-},
-"zhs": {
-"content_id": "FLORA:8",
-"language": "zhs",
-"title": "标题：术语简释"
-}
-}
-},
-"FLORA:9": {
-"content_id": "FLORA:9",
-"reference_id": "FLORA:9",
-"index_reference": "9",
-"localizations": {
-"zhs": {
-"content_id": "FLORA:9",
-"language": "zhs",
-"title": "标题：植物名称中英对照表"
-}
-}
-},
-"FLORA:10": {
-"content_id": "FLORA:10",
-"reference_id": "FLORA:10",
-"index_reference": "10",
-"localizations": {
-"zhs": {
-"content_id": "FLORA:10",
-"language": "zhs",
-"title": "标题：中英译名对照表"
-}
-}
-},
-"FLORA:11": {
-"content_id": "FLORA:11",
-"reference_id": "FLORA:11",
-"index_reference": "11",
-"localizations": {
-"zhs": {
-"content_id": "FLORA:11",
-"language": "zhs",
-"title": "标题：圣经原文字词列表"
-}
-}
-},
-"FLORA:12": {
-"content_id": "FLORA:12",
-"reference_id": "FLORA:12",
-"index_reference": "12",
-"localizations": {
-"zhs": {
-"content_id": "FLORA:12",
-"language": "zhs",
-"title": "标题：地理名称中英对照表"
-}
-}
-},
-"FLORA:13": {
-"content_id": "FLORA:13",
-"reference_id": "FLORA:13",
-"index_reference": "13",
-"localizations": {
-"zhs": {
-"content_id": "FLORA:13",
-"language": "zhs",
-"title": "标题：植物学名拉丁文中文对照表"
-}
-}
-}
-}
+  "resource_metadata": {
+    "aquifer_type": "Handbook",
+    "resource_type": "Thematic Dictionary",
+    "title": "Plants and Trees in the Bible",
+    "aquifer_name": "Plants and Trees in the Bible",
+    "version": "1.1.2",
+    "collection_title": "Plants and Trees in the Bible",
+    "short_name": "UBSFlora",
+    "license_info": {
+      "title": "Plants and Trees in the Bible",
+      "copyright": {
+        "dates": "2012–2025",
+        "holder": {
+          "name": "United Bible Societies",
+          "url": "https://www.unitedbiblesocieties.org/"
+        },
+        "statement": "Plants and Trees in the Bible © United Bible Societies, 2025. Adapted from: <cite>Each According to its Kind: Plants and Trees in the Bible</cite>, by Robert Koops © 2012 United Bible Societies. This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</a>)."
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": false
+    },
+    "adaptation_notice": "",
+    "resource_code": "UBSFloraLexicon",
+    "date_created": "2026-05-20",
+    "language": "zht",
+    "localizations": [
+      "eng",
+      "zhs"
+    ],
+    "order": "monograph",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2026-05-20T06:59:32.613381"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "UBSFloraLexicon": {
+            "timestamp": "2026-05-20T06:59:32.613381"
+          }
+        }
+      },
+      "name": {
+        "zh": "Plants and Trees in the Bible"
+      },
+      "abbreviation": {
+        "zh": "UBSFlora"
+      }
+    },
+    "languages": [
+      {
+        "tag": "zh",
+        "name": {
+          "zh": "Chinese (Traditional)"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferMonograph",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/00.00.content.json": {
+        "mimeType": "text/json",
+        "size": 3656
+      },
+      "json/00.01.content.json": {
+        "mimeType": "text/json",
+        "size": 6872
+      },
+      "json/00.02.content.json": {
+        "mimeType": "text/json",
+        "size": 3439
+      },
+      "json/00.03.content.json": {
+        "mimeType": "text/json",
+        "size": 2990
+      },
+      "json/01.00.content.json": {
+        "mimeType": "text/json",
+        "size": 5794
+      },
+      "json/01.01.content.json": {
+        "mimeType": "text/json",
+        "size": 12506
+      },
+      "json/01.02.content.json": {
+        "mimeType": "text/json",
+        "size": 6842
+      },
+      "json/01.03.content.json": {
+        "mimeType": "text/json",
+        "size": 9970
+      },
+      "json/01.04.content.json": {
+        "mimeType": "text/json",
+        "size": 8702
+      },
+      "json/01.05.content.json": {
+        "mimeType": "text/json",
+        "size": 24433
+      },
+      "json/01.06.content.json": {
+        "mimeType": "text/json",
+        "size": 22254
+      },
+      "json/01.07.content.json": {
+        "mimeType": "text/json",
+        "size": 6892
+      },
+      "json/01.08.content.json": {
+        "mimeType": "text/json",
+        "size": 6052
+      },
+      "json/01.09.content.json": {
+        "mimeType": "text/json",
+        "size": 8422
+      },
+      "json/01.10.content.json": {
+        "mimeType": "text/json",
+        "size": 4946
+      },
+      "json/01.11.content.json": {
+        "mimeType": "text/json",
+        "size": 19020
+      },
+      "json/01.12.content.json": {
+        "mimeType": "text/json",
+        "size": 9462
+      },
+      "json/01.13.content.json": {
+        "mimeType": "text/json",
+        "size": 6968
+      },
+      "json/01.14.content.json": {
+        "mimeType": "text/json",
+        "size": 5585
+      },
+      "json/01.15.content.json": {
+        "mimeType": "text/json",
+        "size": 7550
+      },
+      "json/01.16.content.json": {
+        "mimeType": "text/json",
+        "size": 9996
+      },
+      "json/01.17.content.json": {
+        "mimeType": "text/json",
+        "size": 6209
+      },
+      "json/01.18.content.json": {
+        "mimeType": "text/json",
+        "size": 19659
+      },
+      "json/01.19.content.json": {
+        "mimeType": "text/json",
+        "size": 6794
+      },
+      "json/01.20.content.json": {
+        "mimeType": "text/json",
+        "size": 10329
+      },
+      "json/01.21.content.json": {
+        "mimeType": "text/json",
+        "size": 18500
+      },
+      "json/01.22.content.json": {
+        "mimeType": "text/json",
+        "size": 6774
+      },
+      "json/01.23.content.json": {
+        "mimeType": "text/json",
+        "size": 9075
+      },
+      "json/01.24.content.json": {
+        "mimeType": "text/json",
+        "size": 15699
+      },
+      "json/01.25.content.json": {
+        "mimeType": "text/json",
+        "size": 5535
+      },
+      "json/01.26.content.json": {
+        "mimeType": "text/json",
+        "size": 9960
+      },
+      "json/02.00.content.json": {
+        "mimeType": "text/json",
+        "size": 5289
+      },
+      "json/02.01.content.json": {
+        "mimeType": "text/json",
+        "size": 12809
+      },
+      "json/02.02.content.json": {
+        "mimeType": "text/json",
+        "size": 8148
+      },
+      "json/02.03.content.json": {
+        "mimeType": "text/json",
+        "size": 6967
+      },
+      "json/02.04.content.json": {
+        "mimeType": "text/json",
+        "size": 7872
+      },
+      "json/02.05.content.json": {
+        "mimeType": "text/json",
+        "size": 21782
+      },
+      "json/02.06.content.json": {
+        "mimeType": "text/json",
+        "size": 20366
+      },
+      "json/02.07.content.json": {
+        "mimeType": "text/json",
+        "size": 10462
+      },
+      "json/02.08.content.json": {
+        "mimeType": "text/json",
+        "size": 23285
+      },
+      "json/02.09.content.json": {
+        "mimeType": "text/json",
+        "size": 6100
+      },
+      "json/02.10.content.json": {
+        "mimeType": "text/json",
+        "size": 16611
+      },
+      "json/02.11.content.json": {
+        "mimeType": "text/json",
+        "size": 9432
+      },
+      "json/02.12.content.json": {
+        "mimeType": "text/json",
+        "size": 102630
+      },
+      "json/02.13.content.json": {
+        "mimeType": "text/json",
+        "size": 9380
+      },
+      "json/03.00.content.json": {
+        "mimeType": "text/json",
+        "size": 4676
+      },
+      "json/03.01.content.json": {
+        "mimeType": "text/json",
+        "size": 92011
+      },
+      "json/03.02.content.json": {
+        "mimeType": "text/json",
+        "size": 30590
+      },
+      "json/03.03.content.json": {
+        "mimeType": "text/json",
+        "size": 21657
+      },
+      "json/03.04.content.json": {
+        "mimeType": "text/json",
+        "size": 20005
+      },
+      "json/03.05.content.json": {
+        "mimeType": "text/json",
+        "size": 87040
+      },
+      "json/04.00.content.json": {
+        "mimeType": "text/json",
+        "size": 12402
+      },
+      "json/04.01.content.json": {
+        "mimeType": "text/json",
+        "size": 84763
+      },
+      "json/04.02.content.json": {
+        "mimeType": "text/json",
+        "size": 57087
+      },
+      "json/05.00.content.json": {
+        "mimeType": "text/json",
+        "size": 2474
+      },
+      "json/05.01.content.json": {
+        "mimeType": "text/json",
+        "size": 140250
+      },
+      "json/05.02.content.json": {
+        "mimeType": "text/json",
+        "size": 70240
+      },
+      "json/06.00.content.json": {
+        "mimeType": "text/json",
+        "size": 4717
+      },
+      "json/06.01.content.json": {
+        "mimeType": "text/json",
+        "size": 63565
+      },
+      "json/06.02.content.json": {
+        "mimeType": "text/json",
+        "size": 62366
+      },
+      "json/06.03.content.json": {
+        "mimeType": "text/json",
+        "size": 10206
+      },
+      "json/07.00.content.json": {
+        "mimeType": "text/json",
+        "size": 3344
+      },
+      "json/07.01.content.json": {
+        "mimeType": "text/json",
+        "size": 3487
+      },
+      "json/07.02.content.json": {
+        "mimeType": "text/json",
+        "size": 2922
+      },
+      "json/07.03.content.json": {
+        "mimeType": "text/json",
+        "size": 8804
+      },
+      "json/07.04.content.json": {
+        "mimeType": "text/json",
+        "size": 6507
+      },
+      "json/07.05.content.json": {
+        "mimeType": "text/json",
+        "size": 9131
+      },
+      "json/07.06.content.json": {
+        "mimeType": "text/json",
+        "size": 2466
+      },
+      "json/08.00.content.json": {
+        "mimeType": "text/json",
+        "size": 31899
+      },
+      "json/09.00.content.json": {
+        "mimeType": "text/json",
+        "size": 23745
+      },
+      "json/10.00.content.json": {
+        "mimeType": "text/json",
+        "size": 13223
+      },
+      "json/11.00.content.json": {
+        "mimeType": "text/json",
+        "size": 24196
+      },
+      "json/12.00.content.json": {
+        "mimeType": "text/json",
+        "size": 13885
+      },
+      "json/13.00.content.json": {
+        "mimeType": "text/json",
+        "size": 20716
+      },
+      "alignments/01.alignment.json": {
+        "mimeType": "text/json",
+        "size": 23658,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "alignments/02.alignment.json": {
+        "mimeType": "text/json",
+        "size": 29540,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "alignments/03.alignment.json": {
+        "mimeType": "text/json",
+        "size": 10991,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "alignments/04.alignment.json": {
+        "mimeType": "text/json",
+        "size": 11620,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "alignments/05.alignment.json": {
+        "mimeType": "text/json",
+        "size": 14286,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "alignments/06.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3501,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "alignments/07.alignment.json": {
+        "mimeType": "text/json",
+        "size": 10851,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "alignments/08.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2550,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "alignments/09.alignment.json": {
+        "mimeType": "text/json",
+        "size": 6217,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "alignments/10.alignment.json": {
+        "mimeType": "text/json",
+        "size": 6851,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "alignments/11.alignment.json": {
+        "mimeType": "text/json",
+        "size": 16542,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "alignments/12.alignment.json": {
+        "mimeType": "text/json",
+        "size": 7589,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "alignments/13.alignment.json": {
+        "mimeType": "text/json",
+        "size": 7107,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "alignments/14.alignment.json": {
+        "mimeType": "text/json",
+        "size": 9732,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "alignments/15.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1144,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "alignments/16.alignment.json": {
+        "mimeType": "text/json",
+        "size": 7404,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "alignments/17.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2895,
+        "scope": {
+          "EST": []
+        }
+      },
+      "alignments/18.alignment.json": {
+        "mimeType": "text/json",
+        "size": 11310,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "alignments/19.alignment.json": {
+        "mimeType": "text/json",
+        "size": 15163,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "alignments/20.alignment.json": {
+        "mimeType": "text/json",
+        "size": 8618,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "alignments/21.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2160,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "alignments/22.alignment.json": {
+        "mimeType": "text/json",
+        "size": 17786,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "alignments/23.alignment.json": {
+        "mimeType": "text/json",
+        "size": 43216,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "alignments/24.alignment.json": {
+        "mimeType": "text/json",
+        "size": 18869,
+        "scope": {
+          "JER": []
+        }
+      },
+      "alignments/25.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2119,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "alignments/26.alignment.json": {
+        "mimeType": "text/json",
+        "size": 21909,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "alignments/27.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3908,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "alignments/28.alignment.json": {
+        "mimeType": "text/json",
+        "size": 9869,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "alignments/29.alignment.json": {
+        "mimeType": "text/json",
+        "size": 5139,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "alignments/30.alignment.json": {
+        "mimeType": "text/json",
+        "size": 6398,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "alignments/32.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1958,
+        "scope": {
+          "JON": []
+        }
+      },
+      "alignments/33.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3403,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "alignments/34.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1344,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "alignments/35.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1330,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "alignments/36.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1168,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "alignments/37.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1920,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "alignments/38.alignment.json": {
+        "mimeType": "text/json",
+        "size": 4920,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "alignments/39.alignment.json": {
+        "mimeType": "text/json",
+        "size": 937,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "alignments/40.alignment.json": {
+        "mimeType": "text/json",
+        "size": 15836,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "alignments/41.alignment.json": {
+        "mimeType": "text/json",
+        "size": 10156,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "alignments/42.alignment.json": {
+        "mimeType": "text/json",
+        "size": 12100,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "alignments/43.alignment.json": {
+        "mimeType": "text/json",
+        "size": 6414,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "alignments/44.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2501,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "alignments/45.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2123,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "alignments/46.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1923,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "alignments/47.alignment.json": {
+        "mimeType": "text/json",
+        "size": 934,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "alignments/49.alignment.json": {
+        "mimeType": "text/json",
+        "size": 740,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "alignments/54.alignment.json": {
+        "mimeType": "text/json",
+        "size": 932,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "alignments/55.alignment.json": {
+        "mimeType": "text/json",
+        "size": 753,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "alignments/56.alignment.json": {
+        "mimeType": "text/json",
+        "size": 740,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "alignments/58.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1342,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "alignments/59.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2093,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "alignments/60.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1715,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "alignments/64.alignment.json": {
+        "mimeType": "text/json",
+        "size": 745,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "alignments/66.alignment.json": {
+        "mimeType": "text/json",
+        "size": 7789,
+        "scope": {
+          "REV": []
+        }
+      },
+      "md/00.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 898
+      },
+      "md/00.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4918
+      },
+      "md/00.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1635
+      },
+      "md/00.03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1197
+      },
+      "md/01.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3924
+      },
+      "md/01.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5657
+      },
+      "md/01.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3670
+      },
+      "md/01.03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5818
+      },
+      "md/01.04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5154
+      },
+      "md/01.05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11096
+      },
+      "md/01.06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13143
+      },
+      "md/01.07.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4284
+      },
+      "md/01.08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3248
+      },
+      "md/01.09.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4123
+      },
+      "md/01.10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2207
+      },
+      "md/01.11.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8380
+      },
+      "md/01.12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5214
+      },
+      "md/01.13.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3691
+      },
+      "md/01.14.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2781
+      },
+      "md/01.15.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4129
+      },
+      "md/01.16.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4619
+      },
+      "md/01.17.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2945
+      },
+      "md/01.18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9476
+      },
+      "md/01.19.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3504
+      },
+      "md/01.20.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5420
+      },
+      "md/01.21.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12135
+      },
+      "md/01.22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3597
+      },
+      "md/01.23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5275
+      },
+      "md/01.24.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7664
+      },
+      "md/01.25.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2719
+      },
+      "md/01.26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5582
+      },
+      "md/02.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3349
+      },
+      "md/02.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7175
+      },
+      "md/02.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4655
+      },
+      "md/02.03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4020
+      },
+      "md/02.04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4617
+      },
+      "md/02.05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11452
+      },
+      "md/02.06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9078
+      },
+      "md/02.07.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5263
+      },
+      "md/02.08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10820
+      },
+      "md/02.09.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3108
+      },
+      "md/02.10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9850
+      },
+      "md/02.11.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5317
+      },
+      "md/02.12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 43013
+      },
+      "md/02.13.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6039
+      },
+      "md/03.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2406
+      },
+      "md/03.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 39857
+      },
+      "md/03.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13359
+      },
+      "md/03.03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9080
+      },
+      "md/03.04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9752
+      },
+      "md/03.05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 42371
+      },
+      "md/04.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7610
+      },
+      "md/04.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 39749
+      },
+      "md/04.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 25504
+      },
+      "md/05.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 678
+      },
+      "md/05.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 68291
+      },
+      "md/05.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 35767
+      },
+      "md/06.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2906
+      },
+      "md/06.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 30797
+      },
+      "md/06.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 32756
+      },
+      "md/06.03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 3909
+      },
+      "md/07.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 834
+      },
+      "md/07.01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1642
+      },
+      "md/07.02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1073
+      },
+      "md/07.03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5593
+      },
+      "md/07.04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4315
+      },
+      "md/07.05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6701
+      },
+      "md/07.06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 666
+      },
+      "md/08.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 24526
+      },
+      "md/09.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8131
+      },
+      "md/10.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4214
+      },
+      "md/11.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6763
+      },
+      "md/12.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4219
+      },
+      "md/13.00.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7820
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Plants and Trees in the Bible © 2012–2025 United Bible Societies.</p>",
+          "mimetype": "text/html",
+          "lang": "zh"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "FLORA:0": {
+      "content_id": "FLORA:0",
+      "reference_id": "FLORA:0",
+      "index_reference": "0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:0",
+          "language": "eng",
+          "title": "Contents and Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:0",
+          "language": "zhs",
+          "title": "标题：目录和介绍"
+        }
+      }
+    },
+    "FLORA:0.1": {
+      "content_id": "FLORA:0.1",
+      "reference_id": "FLORA:0.1",
+      "index_reference": "0.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:0.1",
+          "language": "eng",
+          "title": "Translating flora in the Bible"
+        },
+        "zhs": {
+          "content_id": "FLORA:0.1",
+          "language": "zhs",
+          "title": "标题：翻译圣经中的植物"
+        }
+      }
+    },
+    "FLORA:0.2": {
+      "content_id": "FLORA:0.2",
+      "reference_id": "FLORA:0.2",
+      "index_reference": "0.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:0.2",
+          "language": "eng",
+          "title": "References"
+        },
+        "zhs": {
+          "content_id": "FLORA:0.2",
+          "language": "zhs",
+          "title": "标题：经文出处"
+        }
+      }
+    },
+    "FLORA:0.3": {
+      "content_id": "FLORA:0.3",
+      "reference_id": "FLORA:0.3",
+      "index_reference": "0.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:0.3",
+          "language": "eng",
+          "title": "Deuterocanon/Apocrypha"
+        },
+        "zhs": {
+          "content_id": "FLORA:0.3",
+          "language": "zhs",
+          "title": "标题：次经／旁经"
+        }
+      }
+    },
+    "FLORA:1": {
+      "content_id": "FLORA:1",
+      "reference_id": "FLORA:1",
+      "index_reference": "1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1",
+          "language": "eng",
+          "title": "Wild Trees and Shrubs"
+        },
+        "zhs": {
+          "content_id": "FLORA:1",
+          "language": "zhs",
+          "title": "标题：野生乔木和灌木"
+        }
+      }
+    },
+    "FLORA:1.0": {
+      "content_id": "FLORA:1.0",
+      "reference_id": "FLORA:1.0",
+      "index_reference": "1.0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.0",
+          "language": "eng",
+          "title": "Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.0",
+          "language": "zhs",
+          "title": "标题：介绍"
+        }
+      }
+    },
+    "FLORA:1.1": {
+      "content_id": "FLORA:1.1",
+      "reference_id": "FLORA:1.1",
+      "index_reference": "1.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.1",
+          "language": "eng",
+          "title": "Acacia"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.1",
+          "language": "zhs",
+          "title": "标题：金合欢树（acacia）"
+        }
+      }
+    },
+    "FLORA:1.2": {
+      "content_id": "FLORA:1.2",
+      "reference_id": "FLORA:1.2",
+      "index_reference": "1.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.2",
+          "language": "eng",
+          "title": "Boxthorn"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.2",
+          "language": "zhs",
+          "title": "标题：欧洲枸杞（boxthorn）"
+        }
+      }
+    },
+    "FLORA:1.3": {
+      "content_id": "FLORA:1.3",
+      "reference_id": "FLORA:1.3",
+      "index_reference": "1.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.3",
+          "language": "eng",
+          "title": "Broom"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.3",
+          "language": "zhs",
+          "title": "标题：罗腾树（broom）"
+        }
+      }
+    },
+    "FLORA:1.4": {
+      "content_id": "FLORA:1.4",
+      "reference_id": "FLORA:1.4",
+      "index_reference": "1.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.4",
+          "language": "eng",
+          "title": "Burning bush"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.4",
+          "language": "zhs",
+          "title": "标题：烧着的荆棘（burning bush）"
+        }
+      }
+    },
+    "FLORA:1.5": {
+      "content_id": "FLORA:1.5",
+      "reference_id": "FLORA:1.5",
+      "index_reference": "1.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.5",
+          "language": "eng",
+          "title": "Cedar"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.5",
+          "language": "zhs",
+          "title": "标题：香柏树（cedar）"
+        }
+      }
+    },
+    "FLORA:1.6": {
+      "content_id": "FLORA:1.6",
+      "reference_id": "FLORA:1.6",
+      "index_reference": "1.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.6",
+          "language": "eng",
+          "title": "Cypress"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.6",
+          "language": "zhs",
+          "title": "标题：柏树（cypress）"
+        }
+      }
+    },
+    "FLORA:1.7": {
+      "content_id": "FLORA:1.7",
+      "reference_id": "FLORA:1.7",
+      "index_reference": "1.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.7",
+          "language": "eng",
+          "title": "Ebony"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.7",
+          "language": "zhs",
+          "title": "标题：黑檀木、乌木（ebony）"
+        }
+      }
+    },
+    "FLORA:1.8": {
+      "content_id": "FLORA:1.8",
+      "reference_id": "FLORA:1.8",
+      "index_reference": "1.8",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.8",
+          "language": "eng",
+          "title": "Elm"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.8",
+          "language": "zhs",
+          "title": "标题：榆树（elm）"
+        }
+      }
+    },
+    "FLORA:1.9": {
+      "content_id": "FLORA:1.9",
+      "reference_id": "FLORA:1.9",
+      "index_reference": "1.9",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.9",
+          "language": "eng",
+          "title": "Fir"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.9",
+          "language": "zhs",
+          "title": "标题：杉树（fir）"
+        }
+      }
+    },
+    "FLORA:1.10": {
+      "content_id": "FLORA:1.10",
+      "reference_id": "FLORA:1.10",
+      "index_reference": "1.10",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.10",
+          "language": "eng",
+          "title": "Ivy"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.10",
+          "language": "zhs",
+          "title": "标题：常春藤（ivy）"
+        }
+      }
+    },
+    "FLORA:1.11": {
+      "content_id": "FLORA:1.11",
+      "reference_id": "FLORA:1.11",
+      "index_reference": "1.11",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.11",
+          "language": "eng",
+          "title": "Juniper"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.11",
+          "language": "zhs",
+          "title": "标题：杜松（juniper）"
+        }
+      }
+    },
+    "FLORA:1.11.1": {
+      "content_id": "FLORA:1.11.1",
+      "reference_id": "FLORA:1.11.1",
+      "index_reference": "1.11.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.11.1",
+          "language": "eng",
+          "title": "Grecian juniper (eastern savin)"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.11.1",
+          "language": "zhs",
+          "title": "标题：希腊杜松、东方桧柏（grecian juniper [eastern savin]）"
+        }
+      }
+    },
+    "FLORA:1.11.2": {
+      "content_id": "FLORA:1.11.2",
+      "reference_id": "FLORA:1.11.2",
+      "index_reference": "1.11.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.11.2",
+          "language": "eng",
+          "title": "Phoenician juniper (coastal juniper)"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.11.2",
+          "language": "zhs",
+          "title": "标题：腓尼基杜松（沿海杜松）（phoenician juniper [coastal juniper]）"
+        }
+      }
+    },
+    "FLORA:1.12": {
+      "content_id": "FLORA:1.12",
+      "reference_id": "FLORA:1.12",
+      "index_reference": "1.12",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.12",
+          "language": "eng",
+          "title": "Laurel (bay tree)"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.12",
+          "language": "zhs",
+          "title": "标题：月桂树（laurel [bay tree]）"
+        }
+      }
+    },
+    "FLORA:1.13": {
+      "content_id": "FLORA:1.13",
+      "reference_id": "FLORA:1.13",
+      "index_reference": "1.13",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.13",
+          "language": "eng",
+          "title": "Laurustinus (laurestinus)"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.13",
+          "language": "zhs",
+          "title": "标题：地中海荚蒾（laurustinus [laurestinus]）"
+        }
+      }
+    },
+    "FLORA:1.14": {
+      "content_id": "FLORA:1.14",
+      "reference_id": "FLORA:1.14",
+      "index_reference": "1.14",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.14",
+          "language": "eng",
+          "title": "Lotus plant"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.14",
+          "language": "zhs",
+          "title": "标题：莲花（lotus plant）"
+        }
+      }
+    },
+    "FLORA:1.15": {
+      "content_id": "FLORA:1.15",
+      "reference_id": "FLORA:1.15",
+      "index_reference": "1.15",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.15",
+          "language": "eng",
+          "title": "Myrtle"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.15",
+          "language": "zhs",
+          "title": "标题：香桃木、桃金娘（myrtle）"
+        }
+      }
+    },
+    "FLORA:1.16": {
+      "content_id": "FLORA:1.16",
+      "reference_id": "FLORA:1.16",
+      "index_reference": "1.16",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.16",
+          "language": "eng",
+          "title": "Oak"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.16",
+          "language": "zhs",
+          "title": "标题：橡树（oak）"
+        }
+      }
+    },
+    "FLORA:1.17": {
+      "content_id": "FLORA:1.17",
+      "reference_id": "FLORA:1.17",
+      "index_reference": "1.17",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.17",
+          "language": "eng",
+          "title": "Oleander"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.17",
+          "language": "zhs",
+          "title": "标题：夹竹桃（oleander）"
+        }
+      }
+    },
+    "FLORA:1.18": {
+      "content_id": "FLORA:1.18",
+      "reference_id": "FLORA:1.18",
+      "index_reference": "1.18",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.18",
+          "language": "eng",
+          "title": "Pine"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.18",
+          "language": "zhs",
+          "title": "标题：松树（pine）"
+        }
+      }
+    },
+    "FLORA:1.18.1": {
+      "content_id": "FLORA:1.18.1",
+      "reference_id": "FLORA:1.18.1",
+      "index_reference": "1.18.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.18.1",
+          "language": "eng",
+          "title": "Stone pine"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.18.1",
+          "language": "zhs",
+          "title": "标题：石松（stone pine）"
+        }
+      }
+    },
+    "FLORA:1.18.2": {
+      "content_id": "FLORA:1.18.2",
+      "reference_id": "FLORA:1.18.2",
+      "index_reference": "1.18.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.18.2",
+          "language": "eng",
+          "title": "Aleppo pine"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.18.2",
+          "language": "zhs",
+          "title": "标题：阿勒坡松、地中海松（aleppo pine）"
+        }
+      }
+    },
+    "FLORA:1.19": {
+      "content_id": "FLORA:1.19",
+      "reference_id": "FLORA:1.19",
+      "index_reference": "1.19",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.19",
+          "language": "eng",
+          "title": "Plane"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.19",
+          "language": "zhs",
+          "title": "标题：悬铃树（plane）"
+        }
+      }
+    },
+    "FLORA:1.20": {
+      "content_id": "FLORA:1.20",
+      "reference_id": "FLORA:1.20",
+      "index_reference": "1.20",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.20",
+          "language": "eng",
+          "title": "Poplar"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.20",
+          "language": "zhs",
+          "title": "标题：杨树（poplar）"
+        }
+      }
+    },
+    "FLORA:1.21": {
+      "content_id": "FLORA:1.21",
+      "reference_id": "FLORA:1.21",
+      "index_reference": "1.21",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.21",
+          "language": "eng",
+          "title": "Sandalwood (red saunders)"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.21",
+          "language": "zhs",
+          "title": "标题：檀香木（sandalwood [red saunders]）"
+        }
+      }
+    },
+    "FLORA:1.22": {
+      "content_id": "FLORA:1.22",
+      "reference_id": "FLORA:1.22",
+      "index_reference": "1.22",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.22",
+          "language": "eng",
+          "title": "Styrax"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.22",
+          "language": "zhs",
+          "title": "标题：安息香树（styrax）"
+        }
+      }
+    },
+    "FLORA:1.23": {
+      "content_id": "FLORA:1.23",
+      "reference_id": "FLORA:1.23",
+      "index_reference": "1.23",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.23",
+          "language": "eng",
+          "title": "Tamarisk"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.23",
+          "language": "zhs",
+          "title": "标题：柽柳（tamarisk）"
+        }
+      }
+    },
+    "FLORA:1.24": {
+      "content_id": "FLORA:1.24",
+      "reference_id": "FLORA:1.24",
+      "index_reference": "1.24",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.24",
+          "language": "eng",
+          "title": "Terebinth"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.24",
+          "language": "zhs",
+          "title": "标题：笃耨香树、黄连木（terebinth）"
+        }
+      }
+    },
+    "FLORA:1.25": {
+      "content_id": "FLORA:1.25",
+      "reference_id": "FLORA:1.25",
+      "index_reference": "1.25",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.25",
+          "language": "eng",
+          "title": "Thyine (sandarac)"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.25",
+          "language": "zhs",
+          "title": "标题：香橼树、山达脂树、中山杉（thyine [sandarac]）"
+        }
+      }
+    },
+    "FLORA:1.26": {
+      "content_id": "FLORA:1.26",
+      "reference_id": "FLORA:1.26",
+      "index_reference": "1.26",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:1.26",
+          "language": "eng",
+          "title": "Willow"
+        },
+        "zhs": {
+          "content_id": "FLORA:1.26",
+          "language": "zhs",
+          "title": "标题：柳树、杨柳（willow）"
+        }
+      }
+    },
+    "FLORA:2": {
+      "content_id": "FLORA:2",
+      "reference_id": "FLORA:2",
+      "index_reference": "2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2",
+          "language": "eng",
+          "title": "Domestic trees and shrubs"
+        },
+        "zhs": {
+          "content_id": "FLORA:2",
+          "language": "zhs",
+          "title": "标题：栽培类乔木和灌木"
+        }
+      }
+    },
+    "FLORA:2.0": {
+      "content_id": "FLORA:2.0",
+      "reference_id": "FLORA:2.0",
+      "index_reference": "2.0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.0",
+          "language": "eng",
+          "title": "Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.0",
+          "language": "zhs",
+          "title": "标题：介绍"
+        }
+      }
+    },
+    "FLORA:2.1": {
+      "content_id": "FLORA:2.1",
+      "reference_id": "FLORA:2.1",
+      "index_reference": "2.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.1",
+          "language": "eng",
+          "title": "Almond"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.1",
+          "language": "zhs",
+          "title": "标题：杏树、杏仁树（almond）"
+        }
+      }
+    },
+    "FLORA:2.2": {
+      "content_id": "FLORA:2.2",
+      "reference_id": "FLORA:2.2",
+      "index_reference": "2.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.2",
+          "language": "eng",
+          "title": "Apple"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.2",
+          "language": "zhs",
+          "title": "标题：苹果（apple）"
+        }
+      }
+    },
+    "FLORA:2.3": {
+      "content_id": "FLORA:2.3",
+      "reference_id": "FLORA:2.3",
+      "index_reference": "2.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.3",
+          "language": "eng",
+          "title": "Carob"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.3",
+          "language": "zhs",
+          "title": "标题：长角豆树（carob）"
+        }
+      }
+    },
+    "FLORA:2.4": {
+      "content_id": "FLORA:2.4",
+      "reference_id": "FLORA:2.4",
+      "index_reference": "2.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.4",
+          "language": "eng",
+          "title": "Citron"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.4",
+          "language": "zhs",
+          "title": "标题：香橼树（citron）"
+        }
+      }
+    },
+    "FLORA:2.5": {
+      "content_id": "FLORA:2.5",
+      "reference_id": "FLORA:2.5",
+      "index_reference": "2.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.5",
+          "language": "eng",
+          "title": "Date palm"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.5",
+          "language": "zhs",
+          "title": "标题：海枣树（date palm）"
+        }
+      }
+    },
+    "FLORA:2.6": {
+      "content_id": "FLORA:2.6",
+      "reference_id": "FLORA:2.6",
+      "index_reference": "2.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.6",
+          "language": "eng",
+          "title": "Fig"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.6",
+          "language": "zhs",
+          "title": "标题：无花果（fig）"
+        }
+      }
+    },
+    "FLORA:2.7": {
+      "content_id": "FLORA:2.7",
+      "reference_id": "FLORA:2.7",
+      "index_reference": "2.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.7",
+          "language": "eng",
+          "title": "Mulberry"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.7",
+          "language": "zhs",
+          "title": "标题：桑树（mulberry）"
+        }
+      }
+    },
+    "FLORA:2.8": {
+      "content_id": "FLORA:2.8",
+      "reference_id": "FLORA:2.8",
+      "index_reference": "2.8",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.8",
+          "language": "eng",
+          "title": "Olive"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.8",
+          "language": "zhs",
+          "title": "标题：橄榄树（olive）"
+        }
+      }
+    },
+    "FLORA:2.9": {
+      "content_id": "FLORA:2.9",
+      "reference_id": "FLORA:2.9",
+      "index_reference": "2.9",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.9",
+          "language": "eng",
+          "title": "Pistachio"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.9",
+          "language": "zhs",
+          "title": "标题：开心果（pistachio）"
+        }
+      }
+    },
+    "FLORA:2.10": {
+      "content_id": "FLORA:2.10",
+      "reference_id": "FLORA:2.10",
+      "index_reference": "2.10",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.10",
+          "language": "eng",
+          "title": "Pomegranate"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.10",
+          "language": "zhs",
+          "title": "标题：石榴（pomegranate）"
+        }
+      }
+    },
+    "FLORA:2.11": {
+      "content_id": "FLORA:2.11",
+      "reference_id": "FLORA:2.11",
+      "index_reference": "2.11",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.11",
+          "language": "eng",
+          "title": "Sycomore fig"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.11",
+          "language": "zhs",
+          "title": "标题：西克莫无花果（sycomore fig）"
+        }
+      }
+    },
+    "FLORA:2.12": {
+      "content_id": "FLORA:2.12",
+      "reference_id": "FLORA:2.12",
+      "index_reference": "2.12",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.12",
+          "language": "eng",
+          "title": "Vine"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.12",
+          "language": "zhs",
+          "title": "标题：葡萄树（vine）"
+        }
+      }
+    },
+    "FLORA:2.13": {
+      "content_id": "FLORA:2.13",
+      "reference_id": "FLORA:2.13",
+      "index_reference": "2.13",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:2.13",
+          "language": "eng",
+          "title": "Walnut"
+        },
+        "zhs": {
+          "content_id": "FLORA:2.13",
+          "language": "zhs",
+          "title": "标题：胡桃（walnut）"
+        }
+      }
+    },
+    "FLORA:3": {
+      "content_id": "FLORA:3",
+      "reference_id": "FLORA:3",
+      "index_reference": "3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3",
+          "language": "eng",
+          "title": "Food Plants, Grown and Gathered"
+        },
+        "zhs": {
+          "content_id": "FLORA:3",
+          "language": "zhs",
+          "title": "标题：种植及采摘的食用植物"
+        }
+      }
+    },
+    "FLORA:3.0": {
+      "content_id": "FLORA:3.0",
+      "reference_id": "FLORA:3.0",
+      "index_reference": "3.0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.0",
+          "language": "eng",
+          "title": "Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.0",
+          "language": "zhs",
+          "title": "标题：介绍"
+        }
+      }
+    },
+    "FLORA:3.1": {
+      "content_id": "FLORA:3.1",
+      "reference_id": "FLORA:3.1",
+      "index_reference": "3.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.1",
+          "language": "eng",
+          "title": "Grain"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.1",
+          "language": "zhs",
+          "title": "标题：谷物（grain）"
+        }
+      }
+    },
+    "FLORA:3.1.1": {
+      "content_id": "FLORA:3.1.1",
+      "reference_id": "FLORA:3.1.1",
+      "index_reference": "3.1.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.1.1",
+          "language": "eng",
+          "title": "Barley"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.1.1",
+          "language": "zhs",
+          "title": "标题：大麦（barley）"
+        }
+      }
+    },
+    "FLORA:3.1.2": {
+      "content_id": "FLORA:3.1.2",
+      "reference_id": "FLORA:3.1.2",
+      "index_reference": "3.1.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.1.2",
+          "language": "eng",
+          "title": "Millet"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.1.2",
+          "language": "zhs",
+          "title": "标题：小米（millet）"
+        }
+      }
+    },
+    "FLORA:3.1.3": {
+      "content_id": "FLORA:3.1.3",
+      "reference_id": "FLORA:3.1.3",
+      "index_reference": "3.1.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.1.3",
+          "language": "eng",
+          "title": "Sorghum (durra)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.1.3",
+          "language": "zhs",
+          "title": "标题：高粱（sorghum [durra]）"
+        }
+      }
+    },
+    "FLORA:3.1.4": {
+      "content_id": "FLORA:3.1.4",
+      "reference_id": "FLORA:3.1.4",
+      "index_reference": "3.1.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.1.4",
+          "language": "eng",
+          "title": "Wheat"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.1.4",
+          "language": "zhs",
+          "title": "标题：小麦（wheat）"
+        }
+      }
+    },
+    "FLORA:3.2": {
+      "content_id": "FLORA:3.2",
+      "reference_id": "FLORA:3.2",
+      "index_reference": "3.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.2",
+          "language": "eng",
+          "title": "Leafy vegetables"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.2",
+          "language": "zhs",
+          "title": "标题：叶类蔬菜（leafy vegetables）"
+        }
+      }
+    },
+    "FLORA:3.2.1": {
+      "content_id": "FLORA:3.2.1",
+      "reference_id": "FLORA:3.2.1",
+      "index_reference": "3.2.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.2.1",
+          "language": "eng",
+          "title": "Bitter herbs"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.2.1",
+          "language": "zhs",
+          "title": "标题：苦菜（bitter herbs）"
+        }
+      }
+    },
+    "FLORA:3.2.2": {
+      "content_id": "FLORA:3.2.2",
+      "reference_id": "FLORA:3.2.2",
+      "index_reference": "3.2.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.2.2",
+          "language": "eng",
+          "title": "Garlic"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.2.2",
+          "language": "zhs",
+          "title": "标题：蒜（garlic）"
+        }
+      }
+    },
+    "FLORA:3.2.3": {
+      "content_id": "FLORA:3.2.3",
+      "reference_id": "FLORA:3.2.3",
+      "index_reference": "3.2.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.2.3",
+          "language": "eng",
+          "title": "Leek"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.2.3",
+          "language": "zhs",
+          "title": "标题：韭葱（leek）"
+        }
+      }
+    },
+    "FLORA:3.2.4": {
+      "content_id": "FLORA:3.2.4",
+      "reference_id": "FLORA:3.2.4",
+      "index_reference": "3.2.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.2.4",
+          "language": "eng",
+          "title": "Onion"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.2.4",
+          "language": "zhs",
+          "title": "标题：洋葱（onion）"
+        }
+      }
+    },
+    "FLORA:3.3": {
+      "content_id": "FLORA:3.3",
+      "reference_id": "FLORA:3.3",
+      "index_reference": "3.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.3",
+          "language": "eng",
+          "title": "Pulses"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.3",
+          "language": "zhs",
+          "title": "标题：豆类植物（pulses）"
+        }
+      }
+    },
+    "FLORA:3.3.1": {
+      "content_id": "FLORA:3.3.1",
+      "reference_id": "FLORA:3.3.1",
+      "index_reference": "3.3.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.3.1",
+          "language": "eng",
+          "title": "Beans"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.3.1",
+          "language": "zhs",
+          "title": "标题：蚕豆（beans）"
+        }
+      }
+    },
+    "FLORA:3.3.2": {
+      "content_id": "FLORA:3.3.2",
+      "reference_id": "FLORA:3.3.2",
+      "index_reference": "3.3.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.3.2",
+          "language": "eng",
+          "title": "Chickpeas"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.3.2",
+          "language": "zhs",
+          "title": "标题：鹰嘴豆（chickpeas）"
+        }
+      }
+    },
+    "FLORA:3.3.3": {
+      "content_id": "FLORA:3.3.3",
+      "reference_id": "FLORA:3.3.3",
+      "index_reference": "3.3.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.3.3",
+          "language": "eng",
+          "title": "Lentils"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.3.3",
+          "language": "zhs",
+          "title": "标题：扁豆（lentils）"
+        }
+      }
+    },
+    "FLORA:3.4": {
+      "content_id": "FLORA:3.4",
+      "reference_id": "FLORA:3.4",
+      "index_reference": "3.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.4",
+          "language": "eng",
+          "title": "Melon"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.4",
+          "language": "zhs",
+          "title": "标题：瓜（melons）"
+        }
+      }
+    },
+    "FLORA:3.4.1": {
+      "content_id": "FLORA:3.4.1",
+      "reference_id": "FLORA:3.4.1",
+      "index_reference": "3.4.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.4.1",
+          "language": "eng",
+          "title": "Muskmelon (cantaloupe)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.4.1",
+          "language": "zhs",
+          "title": "标题：甜瓜（哈密瓜）（Muskmelon [cantaloupe]）"
+        }
+      }
+    },
+    "FLORA:3.4.2": {
+      "content_id": "FLORA:3.4.2",
+      "reference_id": "FLORA:3.4.2",
+      "index_reference": "3.4.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.4.2",
+          "language": "eng",
+          "title": "Watermelon"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.4.2",
+          "language": "zhs",
+          "title": "标题：西瓜（watermelon）"
+        }
+      }
+    },
+    "FLORA:3.5": {
+      "content_id": "FLORA:3.5",
+      "reference_id": "FLORA:3.5",
+      "index_reference": "3.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5",
+          "language": "eng",
+          "title": "Condiments"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5",
+          "language": "zhs",
+          "title": "标题：调味料（condiments）"
+        }
+      }
+    },
+    "FLORA:3.5.1": {
+      "content_id": "FLORA:3.5.1",
+      "reference_id": "FLORA:3.5.1",
+      "index_reference": "3.5.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.1",
+          "language": "eng",
+          "title": "Caper (caper bush, caper berry)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.1",
+          "language": "zhs",
+          "title": "标题：刺山柑（刺山柑灌木、刺山柑浆果）（Caper [caper bush, caper berry]）"
+        }
+      }
+    },
+    "FLORA:3.5.2": {
+      "content_id": "FLORA:3.5.2",
+      "reference_id": "FLORA:3.5.2",
+      "index_reference": "3.5.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.2",
+          "language": "eng",
+          "title": "Coriander"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.2",
+          "language": "zhs",
+          "title": "标题：芫荽（coriander）"
+        }
+      }
+    },
+    "FLORA:3.5.3": {
+      "content_id": "FLORA:3.5.3",
+      "reference_id": "FLORA:3.5.3",
+      "index_reference": "3.5.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.3",
+          "language": "eng",
+          "title": "Cumin (cummin)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.3",
+          "language": "zhs",
+          "title": "标题：孜然芹、孜然（cumin [cumin]）"
+        }
+      }
+    },
+    "FLORA:3.5.4": {
+      "content_id": "FLORA:3.5.4",
+      "reference_id": "FLORA:3.5.4",
+      "index_reference": "3.5.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.4",
+          "language": "eng",
+          "title": "Dill"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.4",
+          "language": "zhs",
+          "title": "标题：莳萝（dill）"
+        }
+      }
+    },
+    "FLORA:3.5.5": {
+      "content_id": "FLORA:3.5.5",
+      "reference_id": "FLORA:3.5.5",
+      "index_reference": "3.5.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.5",
+          "language": "eng",
+          "title": "Dove’s dung (Star of Bethlehem)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.5",
+          "language": "zhs",
+          "title": "标题：鸽子粪（伯利恒之星、伞花虎眼万年青）（dove’s dung [star of bethlehem]）"
+        }
+      }
+    },
+    "FLORA:3.5.6": {
+      "content_id": "FLORA:3.5.6",
+      "reference_id": "FLORA:3.5.6",
+      "index_reference": "3.5.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.6",
+          "language": "eng",
+          "title": "Mallow"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.6",
+          "language": "zhs",
+          "title": "标题：锦葵（mallow）"
+        }
+      }
+    },
+    "FLORA:3.5.7": {
+      "content_id": "FLORA:3.5.7",
+      "reference_id": "FLORA:3.5.7",
+      "index_reference": "3.5.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.7",
+          "language": "eng",
+          "title": "Mint"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.7",
+          "language": "zhs",
+          "title": "标题：薄荷（mint）"
+        }
+      }
+    },
+    "FLORA:3.5.8": {
+      "content_id": "FLORA:3.5.8",
+      "reference_id": "FLORA:3.5.8",
+      "index_reference": "3.5.8",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.8",
+          "language": "eng",
+          "title": "Mustard"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.8",
+          "language": "zhs",
+          "title": "标题：芥菜（mustard）"
+        }
+      }
+    },
+    "FLORA:3.5.9": {
+      "content_id": "FLORA:3.5.9",
+      "reference_id": "FLORA:3.5.9",
+      "index_reference": "3.5.9",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.9",
+          "language": "eng",
+          "title": "Nigella (kalonji, black cumin, black seed, charnushka, nutmeg flower)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.9",
+          "language": "zhs",
+          "title": "标题：黑种草（黑小茴香、黑子草、斯亚丹、肉豆蔻花）（nigella [kalonji, black cumin, black seed, charnushka, nutmeg flower]）"
+        }
+      }
+    },
+    "FLORA:3.5.10": {
+      "content_id": "FLORA:3.5.10",
+      "reference_id": "FLORA:3.5.10",
+      "index_reference": "3.5.10",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.10",
+          "language": "eng",
+          "title": "Orache (saltwort)"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.10",
+          "language": "zhs",
+          "title": "标题：滨藜（盐草）（orache [saltwort]）"
+        }
+      }
+    },
+    "FLORA:3.5.11": {
+      "content_id": "FLORA:3.5.11",
+      "reference_id": "FLORA:3.5.11",
+      "index_reference": "3.5.11",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:3.5.11",
+          "language": "eng",
+          "title": "Rue"
+        },
+        "zhs": {
+          "content_id": "FLORA:3.5.11",
+          "language": "zhs",
+          "title": "标题：芸香（rue）"
+        }
+      }
+    },
+    "FLORA:4": {
+      "content_id": "FLORA:4",
+      "reference_id": "FLORA:4",
+      "index_reference": "4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4",
+          "language": "eng",
+          "title": "Incense and Ointment"
+        },
+        "zhs": {
+          "content_id": "FLORA:4",
+          "language": "zhs",
+          "title": "标题：香和药膏"
+        }
+      }
+    },
+    "FLORA:4.0": {
+      "content_id": "FLORA:4.0",
+      "reference_id": "FLORA:4.0",
+      "index_reference": "4.0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.0",
+          "language": "eng",
+          "title": "Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.0",
+          "language": "zhs",
+          "title": "标题：介绍"
+        }
+      }
+    },
+    "FLORA:4.1": {
+      "content_id": "FLORA:4.1",
+      "reference_id": "FLORA:4.1",
+      "index_reference": "4.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1",
+          "language": "eng",
+          "title": "Trees and plants yielding incense and perfume"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1",
+          "language": "zhs",
+          "title": "标题：制作香和香水的树木和植物"
+        }
+      }
+    },
+    "FLORA:4.1.1": {
+      "content_id": "FLORA:4.1.1",
+      "reference_id": "FLORA:4.1.1",
+      "index_reference": "4.1.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.1",
+          "language": "eng",
+          "title": "Agarwood (eaglewood, aloeswood, lignaloes)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.1",
+          "language": "zhs",
+          "title": "标题：沉香树、沉香木（鹰木、伽罗木）（agarwood [eaglewood, aloeswood, lingaloes]）"
+        }
+      }
+    },
+    "FLORA:4.1.2": {
+      "content_id": "FLORA:4.1.2",
+      "reference_id": "FLORA:4.1.2",
+      "index_reference": "4.1.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.2",
+          "language": "eng",
+          "title": "Calamus (sweet flag, aromatic cane, sweet cane, ginger grass)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.2",
+          "language": "zhs",
+          "title": "标题：香菖蒲（calamus [sweet flag, aromatic cane, sweet cane, ginger grass]）"
+        }
+      }
+    },
+    "FLORA:4.1.3": {
+      "content_id": "FLORA:4.1.3",
+      "reference_id": "FLORA:4.1.3",
+      "index_reference": "4.1.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.3",
+          "language": "eng",
+          "title": "Cassia"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.3",
+          "language": "zhs",
+          "title": "标题：桂皮（cassia）"
+        }
+      }
+    },
+    "FLORA:4.1.4": {
+      "content_id": "FLORA:4.1.4",
+      "reference_id": "FLORA:4.1.4",
+      "index_reference": "4.1.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.4",
+          "language": "eng",
+          "title": "Cinnamon"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.4",
+          "language": "zhs",
+          "title": "标题：肉桂（cinnamon）"
+        }
+      }
+    },
+    "FLORA:4.1.5": {
+      "content_id": "FLORA:4.1.5",
+      "reference_id": "FLORA:4.1.5",
+      "index_reference": "4.1.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.5",
+          "language": "eng",
+          "title": "Fennel (galbanum)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.5",
+          "language": "zhs",
+          "title": "标题：小茴香（白松香）（fennel [galbanum]）"
+        }
+      }
+    },
+    "FLORA:4.1.6": {
+      "content_id": "FLORA:4.1.6",
+      "reference_id": "FLORA:4.1.6",
+      "index_reference": "4.1.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.6",
+          "language": "eng",
+          "title": "Frankincense"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.6",
+          "language": "zhs",
+          "title": "标题：乳香（frankincense）"
+        }
+      }
+    },
+    "FLORA:4.1.7": {
+      "content_id": "FLORA:4.1.7",
+      "reference_id": "FLORA:4.1.7",
+      "index_reference": "4.1.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.7",
+          "language": "eng",
+          "title": "Henna"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.7",
+          "language": "zhs",
+          "title": "标题：散沫花（henna）"
+        }
+      }
+    },
+    "FLORA:4.1.8": {
+      "content_id": "FLORA:4.1.8",
+      "reference_id": "FLORA:4.1.8",
+      "index_reference": "4.1.8",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.8",
+          "language": "eng",
+          "title": "Myrrh"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.8",
+          "language": "zhs",
+          "title": "标题：没药（myrrh）"
+        }
+      }
+    },
+    "FLORA:4.1.9": {
+      "content_id": "FLORA:4.1.9",
+      "reference_id": "FLORA:4.1.9",
+      "index_reference": "4.1.9",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.1.9",
+          "language": "eng",
+          "title": "Spikenard (nard)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.1.9",
+          "language": "zhs",
+          "title": "标题：甘松（哪哒）（spikenard [nard]）"
+        }
+      }
+    },
+    "FLORA:4.2": {
+      "content_id": "FLORA:4.2",
+      "reference_id": "FLORA:4.2",
+      "index_reference": "4.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2",
+          "language": "eng",
+          "title": "Ointment and balm (medicinal plants)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2",
+          "language": "zhs",
+          "title": "标题：药膏和香膏（药用植物）"
+        }
+      }
+    },
+    "FLORA:4.2.1": {
+      "content_id": "FLORA:4.2.1",
+      "reference_id": "FLORA:4.2.1",
+      "index_reference": "4.2.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.1",
+          "language": "eng",
+          "title": "Aloe (bitter aloe)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.1",
+          "language": "zhs",
+          "title": "标题：芦荟（苦芦荟）（aloe [bitter aloe]）"
+        }
+      }
+    },
+    "FLORA:4.2.2": {
+      "content_id": "FLORA:4.2.2",
+      "reference_id": "FLORA:4.2.2",
+      "index_reference": "4.2.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.2",
+          "language": "eng",
+          "title": "Castor oil plant (castor bean plant)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.2",
+          "language": "zhs",
+          "title": "标题：蓖麻（castor oil plant [castor bean plant]）"
+        }
+      }
+    },
+    "FLORA:4.2.3": {
+      "content_id": "FLORA:4.2.3",
+      "reference_id": "FLORA:4.2.3",
+      "index_reference": "4.2.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.3",
+          "language": "eng",
+          "title": "Liquidambar (Oriental sweetgum, storax)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.3",
+          "language": "zhs",
+          "title": "标题：苏合香（东方枫香）（liquidambar [Oriental sweetgum, storax]）"
+        }
+      }
+    },
+    "FLORA:4.2.4": {
+      "content_id": "FLORA:4.2.4",
+      "reference_id": "FLORA:4.2.4",
+      "index_reference": "4.2.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.4",
+          "language": "eng",
+          "title": "Opobalsamum (balsam, balm)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.4",
+          "language": "zhs",
+          "title": "标题：麦加香脂（香脂、香膏）（opobalsamum [balsam, balm]）"
+        }
+      }
+    },
+    "FLORA:4.2.5": {
+      "content_id": "FLORA:4.2.5",
+      "reference_id": "FLORA:4.2.5",
+      "index_reference": "4.2.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.5",
+          "language": "eng",
+          "title": "Rock rose (ladanum)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.5",
+          "language": "zhs",
+          "title": "标题：岩玫瑰（劳丹脂）（rock rose [ladanum]）"
+        }
+      }
+    },
+    "FLORA:4.2.6": {
+      "content_id": "FLORA:4.2.6",
+      "reference_id": "FLORA:4.2.6",
+      "index_reference": "4.2.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.6",
+          "language": "eng",
+          "title": "Saffron crocus"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.6",
+          "language": "zhs",
+          "title": "标题：番红花（saffron crocus）"
+        }
+      }
+    },
+    "FLORA:4.2.7": {
+      "content_id": "FLORA:4.2.7",
+      "reference_id": "FLORA:4.2.7",
+      "index_reference": "4.2.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:4.2.7",
+          "language": "eng",
+          "title": "Tragacanth (gum tragacanth)"
+        },
+        "zhs": {
+          "content_id": "FLORA:4.2.7",
+          "language": "zhs",
+          "title": "标题：黄蓍（黄蓍胶）（tragacanth [gum tragacanth]）"
+        }
+      }
+    },
+    "FLORA:5": {
+      "content_id": "FLORA:5",
+      "reference_id": "FLORA:5",
+      "index_reference": "5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5",
+          "language": "eng",
+          "title": "Plants for Everyday Use"
+        },
+        "zhs": {
+          "content_id": "FLORA:5",
+          "language": "zhs",
+          "title": "标题：日常生活中的植物"
+        }
+      }
+    },
+    "FLORA:5.0": {
+      "content_id": "FLORA:5.0",
+      "reference_id": "FLORA:5.0",
+      "index_reference": "5.0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.0",
+          "language": "eng",
+          "title": "Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.0",
+          "language": "zhs",
+          "title": "标题：介绍"
+        }
+      }
+    },
+    "FLORA:5.1": {
+      "content_id": "FLORA:5.1",
+      "reference_id": "FLORA:5.1",
+      "index_reference": "5.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1",
+          "language": "eng",
+          "title": "Plants for weaving and building"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1",
+          "language": "zhs",
+          "title": "标题：用于纺织和建筑的植物"
+        }
+      }
+    },
+    "FLORA:5.1.1": {
+      "content_id": "FLORA:5.1.1",
+      "reference_id": "FLORA:5.1.1",
+      "index_reference": "5.1.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.1",
+          "language": "eng",
+          "title": "Cattail (reed-mace)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.1",
+          "language": "zhs",
+          "title": "标题：香蒲（cattail [reed-mace]）"
+        }
+      }
+    },
+    "FLORA:5.1.2": {
+      "content_id": "FLORA:5.1.2",
+      "reference_id": "FLORA:5.1.2",
+      "index_reference": "5.1.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.2",
+          "language": "eng",
+          "title": "Grass"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.2",
+          "language": "zhs",
+          "title": "标题：草（grass）"
+        }
+      }
+    },
+    "FLORA:5.1.3": {
+      "content_id": "FLORA:5.1.3",
+      "reference_id": "FLORA:5.1.3",
+      "index_reference": "5.1.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.3",
+          "language": "eng",
+          "title": "Papyrus"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.3",
+          "language": "zhs",
+          "title": "标题：纸莎草、蒲草（papyrus）"
+        }
+      }
+    },
+    "FLORA:5.1.4": {
+      "content_id": "FLORA:5.1.4",
+      "reference_id": "FLORA:5.1.4",
+      "index_reference": "5.1.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.4",
+          "language": "eng",
+          "title": "Reed (common reed, giant reed)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.4",
+          "language": "zhs",
+          "title": "标题：芦苇（普通芦苇、芦竹）（reed [common reed, giant reed]）"
+        }
+      }
+    },
+    "FLORA:5.1.5": {
+      "content_id": "FLORA:5.1.5",
+      "reference_id": "FLORA:5.1.5",
+      "index_reference": "5.1.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.5",
+          "language": "eng",
+          "title": "Rush (bulrush, sedge)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.5",
+          "language": "zhs",
+          "title": "标题：灯心草（蒲草、莎草）（rush [bulrush, sedge]）"
+        }
+      }
+    },
+    "FLORA:5.1.6": {
+      "content_id": "FLORA:5.1.6",
+      "reference_id": "FLORA:5.1.6",
+      "index_reference": "5.1.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.6",
+          "language": "eng",
+          "title": "Cotton"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.6",
+          "language": "zhs",
+          "title": "标题：棉花（cotton）"
+        }
+      }
+    },
+    "FLORA:5.1.7": {
+      "content_id": "FLORA:5.1.7",
+      "reference_id": "FLORA:5.1.7",
+      "index_reference": "5.1.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.1.7",
+          "language": "eng",
+          "title": "Flax (linen)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.1.7",
+          "language": "zhs",
+          "title": "标题：亚麻（亚麻布）（flax [linen]）"
+        }
+      }
+    },
+    "FLORA:5.2": {
+      "content_id": "FLORA:5.2",
+      "reference_id": "FLORA:5.2",
+      "index_reference": "5.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2",
+          "language": "eng",
+          "title": "Other useful plants"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2",
+          "language": "zhs",
+          "title": "标题：其他实用的植物"
+        }
+      }
+    },
+    "FLORA:5.2.1": {
+      "content_id": "FLORA:5.2.1",
+      "reference_id": "FLORA:5.2.1",
+      "index_reference": "5.2.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.1",
+          "language": "eng",
+          "title": "Bottle gourd"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.1",
+          "language": "zhs",
+          "title": "标题：葫芦（bottle gourd）"
+        }
+      }
+    },
+    "FLORA:5.2.2": {
+      "content_id": "FLORA:5.2.2",
+      "reference_id": "FLORA:5.2.2",
+      "index_reference": "5.2.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.2",
+          "language": "eng",
+          "title": "Hammada (Salsola, Salicornia)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.2",
+          "language": "zhs",
+          "title": "标题：梭梭（猪毛菜属[Salsola]、盐角草属[Salicornia]）（hammada [Salsola, Salicornia]）"
+        }
+      }
+    },
+    "FLORA:5.2.3": {
+      "content_id": "FLORA:5.2.3",
+      "reference_id": "FLORA:5.2.3",
+      "index_reference": "5.2.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.3",
+          "language": "eng",
+          "title": "Mandrake (“love apple”)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.3",
+          "language": "zhs",
+          "title": "标题：曼德拉草（\"爱情果\"）（mandrake [\"love apple\"]）"
+        }
+      }
+    },
+    "FLORA:5.2.4": {
+      "content_id": "FLORA:5.2.4",
+      "reference_id": "FLORA:5.2.4",
+      "index_reference": "5.2.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.4",
+          "language": "eng",
+          "title": "Marjoram"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.4",
+          "language": "zhs",
+          "title": "标题：马郁兰（marjoram）"
+        }
+      }
+    },
+    "FLORA:5.2.5": {
+      "content_id": "FLORA:5.2.5",
+      "reference_id": "FLORA:5.2.5",
+      "index_reference": "5.2.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.5",
+          "language": "eng",
+          "title": "Poison hemlock (black henbane, gall)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.5",
+          "language": "zhs",
+          "title": "标题：毒参（poison hemlock [black henbane, gall]）"
+        }
+      }
+    },
+    "FLORA:5.2.6": {
+      "content_id": "FLORA:5.2.6",
+      "reference_id": "FLORA:5.2.6",
+      "index_reference": "5.2.6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.6",
+          "language": "eng",
+          "title": "Wild gourd (colocynth, egusi, bitter apple)"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.6",
+          "language": "zhs",
+          "title": "标题：野瓜（柯罗辛、苦西瓜、药西瓜）（wild gourd [colocynth, egusi, bitter apple]）"
+        }
+      }
+    },
+    "FLORA:5.2.7": {
+      "content_id": "FLORA:5.2.7",
+      "reference_id": "FLORA:5.2.7",
+      "index_reference": "5.2.7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:5.2.7",
+          "language": "eng",
+          "title": "Wormwood"
+        },
+        "zhs": {
+          "content_id": "FLORA:5.2.7",
+          "language": "zhs",
+          "title": "标题：苦艾（wormwood）"
+        }
+      }
+    },
+    "FLORA:6": {
+      "content_id": "FLORA:6",
+      "reference_id": "FLORA:6",
+      "index_reference": "6",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6",
+          "language": "eng",
+          "title": "Flowers, Thorns, and Weeds"
+        },
+        "zhs": {
+          "content_id": "FLORA:6",
+          "language": "zhs",
+          "title": "标题：花、荆棘和杂草"
+        }
+      }
+    },
+    "FLORA:6.0": {
+      "content_id": "FLORA:6.0",
+      "reference_id": "FLORA:6.0",
+      "index_reference": "6.0",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.0",
+          "language": "eng",
+          "title": "Introduction"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.0",
+          "language": "zhs",
+          "title": "标题：介绍"
+        }
+      }
+    },
+    "FLORA:6.1": {
+      "content_id": "FLORA:6.1",
+      "reference_id": "FLORA:6.1",
+      "index_reference": "6.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.1",
+          "language": "eng",
+          "title": "Flowers"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.1",
+          "language": "zhs",
+          "title": "标题：花"
+        }
+      }
+    },
+    "FLORA:6.1.1": {
+      "content_id": "FLORA:6.1.1",
+      "reference_id": "FLORA:6.1.1",
+      "index_reference": "6.1.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.1.1",
+          "language": "eng",
+          "title": "Anemone"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.1.1",
+          "language": "zhs",
+          "title": "标题：银莲花（anemone [crown anemone]）"
+        }
+      }
+    },
+    "FLORA:6.1.2": {
+      "content_id": "FLORA:6.1.2",
+      "reference_id": "FLORA:6.1.2",
+      "index_reference": "6.1.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.1.2",
+          "language": "eng",
+          "title": "Lily (white lily, Madonna lily)"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.1.2",
+          "language": "zhs",
+          "title": "标题：百合花（白百合、圣母百合）（lily [white lily, madonna lily]）"
+        }
+      }
+    },
+    "FLORA:6.1.3": {
+      "content_id": "FLORA:6.1.3",
+      "reference_id": "FLORA:6.1.3",
+      "index_reference": "6.1.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.1.3",
+          "language": "eng",
+          "title": "Narcissus (daffodil)"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.1.3",
+          "language": "zhs",
+          "title": "标题：水仙花（黄水仙花）（narcissus [daffodil]）"
+        }
+      }
+    },
+    "FLORA:6.1.4": {
+      "content_id": "FLORA:6.1.4",
+      "reference_id": "FLORA:6.1.4",
+      "index_reference": "6.1.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.1.4",
+          "language": "eng",
+          "title": "Rose (Phoenician rose)"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.1.4",
+          "language": "zhs",
+          "title": "标题：玫瑰（腓尼基玫瑰）（rose [phoenician rose]）"
+        }
+      }
+    },
+    "FLORA:6.1.5": {
+      "content_id": "FLORA:6.1.5",
+      "reference_id": "FLORA:6.1.5",
+      "index_reference": "6.1.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.1.5",
+          "language": "eng",
+          "title": "Tulip (mountain tulip, “rose of Sharon”)"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.1.5",
+          "language": "zhs",
+          "title": "标题：郁金香（山地郁金香，\"沙仑的玫瑰\"）（tulip [mountain tulip, \"rose of sharon\"]）"
+        }
+      }
+    },
+    "FLORA:6.2": {
+      "content_id": "FLORA:6.2",
+      "reference_id": "FLORA:6.2",
+      "index_reference": "6.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.2",
+          "language": "eng",
+          "title": "Thorns, thistles, brambles, and briers"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.2",
+          "language": "zhs",
+          "title": "标题：荆棘、蒺藜、树莓和石南"
+        }
+      }
+    },
+    "FLORA:6.2.1": {
+      "content_id": "FLORA:6.2.1",
+      "reference_id": "FLORA:6.2.1",
+      "index_reference": "6.2.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.2.1",
+          "language": "eng",
+          "title": "Thistles"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.2.1",
+          "language": "zhs",
+          "title": "标题：蒺藜（thistles）"
+        }
+      }
+    },
+    "FLORA:6.2.2": {
+      "content_id": "FLORA:6.2.2",
+      "reference_id": "FLORA:6.2.2",
+      "index_reference": "6.2.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.2.2",
+          "language": "eng",
+          "title": "Nettles"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.2.2",
+          "language": "zhs",
+          "title": "标题：荨麻（nettles）"
+        }
+      }
+    },
+    "FLORA:6.2.3": {
+      "content_id": "FLORA:6.2.3",
+      "reference_id": "FLORA:6.2.3",
+      "index_reference": "6.2.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.2.3",
+          "language": "eng",
+          "title": "Other thorny plants (thorns, brambles, briers)"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.2.3",
+          "language": "zhs",
+          "title": "标题：其他带刺植物（荆棘、树莓和石南）（other thorny plants [thorns, brambles, briers]）"
+        }
+      }
+    },
+    "FLORA:6.3": {
+      "content_id": "FLORA:6.3",
+      "reference_id": "FLORA:6.3",
+      "index_reference": "6.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.3",
+          "language": "eng",
+          "title": "Weeds"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.3",
+          "language": "zhs",
+          "title": "标题：杂草"
+        }
+      }
+    },
+    "FLORA:6.3.1": {
+      "content_id": "FLORA:6.3.1",
+      "reference_id": "FLORA:6.3.1",
+      "index_reference": "6.3.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:6.3.1",
+          "language": "eng",
+          "title": "Weed (tare, darnel)"
+        },
+        "zhs": {
+          "content_id": "FLORA:6.3.1",
+          "language": "zhs",
+          "title": "标题：杂草（稗子、毒麦）（weed [tare, darnel]）"
+        }
+      }
+    },
+    "FLORA:7": {
+      "content_id": "FLORA:7",
+      "reference_id": "FLORA:7",
+      "index_reference": "7",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:7",
+          "language": "eng",
+          "title": "Selected Bibliography"
+        },
+        "zhs": {
+          "content_id": "FLORA:7",
+          "language": "zhs",
+          "title": "标题：部分参考书目"
+        }
+      }
+    },
+    "FLORA:7.1": {
+      "content_id": "FLORA:7.1",
+      "reference_id": "FLORA:7.1",
+      "index_reference": "7.1",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:7.1",
+          "language": "eng",
+          "title": "Texts"
+        },
+        "zhs": {
+          "content_id": "FLORA:7.1",
+          "language": "zhs",
+          "title": "标题：文本"
+        }
+      }
+    },
+    "FLORA:7.2": {
+      "content_id": "FLORA:7.2",
+      "reference_id": "FLORA:7.2",
+      "index_reference": "7.2",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:7.2",
+          "language": "eng",
+          "title": "Modern Versions"
+        },
+        "zhs": {
+          "content_id": "FLORA:7.2",
+          "language": "zhs",
+          "title": "标题：中文译本"
+        }
+      }
+    },
+    "FLORA:7.3": {
+      "content_id": "FLORA:7.3",
+      "reference_id": "FLORA:7.3",
+      "index_reference": "7.3",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:7.3",
+          "language": "eng",
+          "title": "Scientific Works"
+        },
+        "zhs": {
+          "content_id": "FLORA:7.3",
+          "language": "zhs",
+          "title": "标题：现代外文译本"
+        }
+      }
+    },
+    "FLORA:7.4": {
+      "content_id": "FLORA:7.4",
+      "reference_id": "FLORA:7.4",
+      "index_reference": "7.4",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:7.4",
+          "language": "eng",
+          "title": "Dictionaries, Textual Studies, and Other Reference Works"
+        },
+        "zhs": {
+          "content_id": "FLORA:7.4",
+          "language": "zhs",
+          "title": "标题：学术著作"
+        }
+      }
+    },
+    "FLORA:7.5": {
+      "content_id": "FLORA:7.5",
+      "reference_id": "FLORA:7.5",
+      "index_reference": "7.5",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:7.5",
+          "language": "eng",
+          "title": "Websites"
+        },
+        "zhs": {
+          "content_id": "FLORA:7.5",
+          "language": "zhs",
+          "title": "标题：词典、文本研究和其他参考文献"
+        }
+      }
+    },
+    "FLORA:7.6": {
+      "content_id": "FLORA:7.6",
+      "reference_id": "FLORA:7.6",
+      "index_reference": "7.6",
+      "localizations": {
+        "zhs": {
+          "content_id": "FLORA:7.6",
+          "language": "zhs",
+          "title": "标题：网站"
+        }
+      }
+    },
+    "FLORA:8": {
+      "content_id": "FLORA:8",
+      "reference_id": "FLORA:8",
+      "index_reference": "8",
+      "localizations": {
+        "eng": {
+          "content_id": "FLORA:8",
+          "language": "eng",
+          "title": "Glossary"
+        },
+        "zhs": {
+          "content_id": "FLORA:8",
+          "language": "zhs",
+          "title": "标题：术语简释"
+        }
+      }
+    },
+    "FLORA:9": {
+      "content_id": "FLORA:9",
+      "reference_id": "FLORA:9",
+      "index_reference": "9",
+      "localizations": {
+        "zhs": {
+          "content_id": "FLORA:9",
+          "language": "zhs",
+          "title": "标题：植物名称中英对照表"
+        }
+      }
+    },
+    "FLORA:10": {
+      "content_id": "FLORA:10",
+      "reference_id": "FLORA:10",
+      "index_reference": "10",
+      "localizations": {
+        "zhs": {
+          "content_id": "FLORA:10",
+          "language": "zhs",
+          "title": "标题：中英译名对照表"
+        }
+      }
+    },
+    "FLORA:11": {
+      "content_id": "FLORA:11",
+      "reference_id": "FLORA:11",
+      "index_reference": "11",
+      "localizations": {
+        "zhs": {
+          "content_id": "FLORA:11",
+          "language": "zhs",
+          "title": "标题：圣经原文字词列表"
+        }
+      }
+    },
+    "FLORA:12": {
+      "content_id": "FLORA:12",
+      "reference_id": "FLORA:12",
+      "index_reference": "12",
+      "localizations": {
+        "zhs": {
+          "content_id": "FLORA:12",
+          "language": "zhs",
+          "title": "标题：地理名称中英对照表"
+        }
+      }
+    },
+    "FLORA:13": {
+      "content_id": "FLORA:13",
+      "reference_id": "FLORA:13",
+      "index_reference": "13",
+      "localizations": {
+        "zhs": {
+          "content_id": "FLORA:13",
+          "language": "zhs",
+          "title": "标题：植物学名拉丁文中文对照表"
+        }
+      }
+    }
+  }
 }

@@ -888,7 +888,23 @@
 "end_ref_usfm": "DEU 15:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 0.7781,
+"match_method": "scored",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6274,
+"match_method": "scored",
+"preferred_label": "Wheat"
+}
+]
 }
 },
 {
@@ -1120,7 +1136,16 @@
 "end_ref_usfm": "JHN 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Barley"
+}
+]
 }
 },
 {
@@ -1148,7 +1173,16 @@
 "end_ref_usfm": "EZK 27:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Millet",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Millet"
+}
+]
 }
 },
 {
@@ -1170,7 +1204,23 @@
 "end_ref_usfm": "EZK 4:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Sorghum",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Sorghum"
+},
+{
+"id": "flora:Millet",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Millet"
+}
+]
 }
 },
 {
@@ -1570,7 +1620,16 @@
 "end_ref_usfm": "EZK 4:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.8625,
+"match_method": "scored",
+"preferred_label": "Wheat"
+}
+]
 }
 }
 ]

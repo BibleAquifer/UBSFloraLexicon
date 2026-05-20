@@ -60,7 +60,16 @@
 "end_ref_usfm": "PRO 4:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Laurel",
+"type": "flora",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Laurel"
+}
+]
 }
 }
 ]

@@ -54,7 +54,16 @@
 "end_ref_usfm": "GEN 12:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Tamarisk",
+"type": "flora",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tamarisk"
+}
+]
 }
 }
 ]

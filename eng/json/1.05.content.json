@@ -486,7 +486,30 @@
 "end_ref_usfm": "NUM 19:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 0.9038,
+"match_method": "scored",
+"preferred_label": "Cedar"
+},
+{
+"id": "flora:JuniperTree",
+"type": "flora",
+"confidence": 0.6405,
+"match_method": "scored",
+"preferred_label": "Phoenician Juniper"
+},
+{
+"id": "flora:PineTree",
+"type": "flora",
+"confidence": 0.6051,
+"match_method": "scored",
+"preferred_label": "Aleppo Pine"
+}
+]
 }
 }
 ]
