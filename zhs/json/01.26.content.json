@@ -42,7 +42,16 @@
 "end_ref_usfm": "PSA 137:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Willow",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Willow"
+}
+]
 }
 }
 ]

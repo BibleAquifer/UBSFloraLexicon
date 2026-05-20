@@ -84,7 +84,16 @@
 "end_ref_usfm": "HOS 4:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Poplar",
+"type": "flora",
+"confidence": 0.8333,
+"match_method": "scored",
+"preferred_label": "Poplar"
+}
+]
 }
 }
 ]

@@ -48,7 +48,16 @@
 "end_ref_usfm": "EXO 3:0"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Bush",
+"type": "flora",
+"confidence": 0.6417,
+"match_method": "scored",
+"preferred_label": "Bush"
+}
+]
 }
 }
 ]

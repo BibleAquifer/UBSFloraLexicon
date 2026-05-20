@@ -48,7 +48,16 @@
 "end_ref_usfm": "JOL 1:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:AppleTree",
+"type": "flora",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Apple"
+}
+]
 }
 }
 ]

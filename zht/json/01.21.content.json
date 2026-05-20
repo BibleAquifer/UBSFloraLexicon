@@ -108,7 +108,16 @@
 "end_ref_usfm": "2CH 9:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Sandalwood",
+"type": "flora",
+"confidence": 0.7176,
+"match_method": "scored",
+"preferred_label": "Sandalwood"
+}
+]
 }
 }
 ]

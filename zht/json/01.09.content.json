@@ -84,7 +84,30 @@
 "end_ref_usfm": "EZK 27:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Cypress"
+}
+]
 }
 }
 ]

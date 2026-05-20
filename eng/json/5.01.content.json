@@ -60,7 +60,8 @@
 "end_ref_usfm": "JOB 30:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -106,7 +107,16 @@
 "end_ref_usfm": "MAT 27:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Cattails",
+"type": "flora",
+"confidence": 0.8085,
+"match_method": "scored",
+"preferred_label": "Cattails"
+}
+]
 }
 },
 {
@@ -812,7 +822,23 @@
 "end_ref_usfm": "MAT 7:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.8887,
+"match_method": "scored",
+"preferred_label": "Grass"
+},
+{
+"id": "flora:GreenVegetation",
+"type": "flora",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Green Vegetation"
+}
+]
 }
 },
 {
@@ -864,7 +890,16 @@
 "end_ref_usfm": "ISA 18:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "Papyrus"
+}
+]
 }
 },
 {
@@ -1204,7 +1239,23 @@
 "end_ref_usfm": "3MA 4:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 0.8296,
+"match_method": "scored",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:Reed",
+"type": "realia",
+"confidence": 0.6741,
+"match_method": "scored",
+"preferred_label": "Reed"
+}
+]
 }
 },
 {
@@ -1250,7 +1301,16 @@
 "end_ref_usfm": "EXO 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Rush",
+"type": "flora",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Rush"
+}
+]
 }
 },
 {
@@ -1278,7 +1338,16 @@
 "end_ref_usfm": "EST 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Cotton",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Cotton"
+}
+]
 }
 },
 {
@@ -1924,7 +1993,16 @@
 "end_ref_usfm": "EZK 44:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Flax",
+"type": "flora",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Flax"
+}
+]
 }
 }
 ]
