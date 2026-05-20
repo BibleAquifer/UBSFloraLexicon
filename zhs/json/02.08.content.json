@@ -432,7 +432,16 @@
 "end_ref_usfm": "EZR 6:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5881,
+"match_method": "scored",
+"preferred_label": "Mount of Olives"
+}
+]
 }
 }
 ]

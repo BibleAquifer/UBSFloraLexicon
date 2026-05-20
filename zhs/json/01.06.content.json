@@ -102,7 +102,30 @@
 "end_ref_usfm": "1CH 13:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.875,
+"match_method": "scored",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Fir"
+}
+]
 }
 }
 ]
