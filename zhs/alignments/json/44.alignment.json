@@ -1,0 +1,129 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "44014013013|στέμματα"
+            ],
+            [
+              "FLORA:1.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44001012009|Ἐλαιῶνος"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44002013006|Γλεύκους"
+            ],
+            [
+              "FLORA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44007012005|σιτία"
+            ],
+            [
+              "FLORA:3.1.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44027038009|σῖτον"
+            ],
+            [
+              "FLORA:3.1.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44010011011|ὀθόνην"
+            ],
+            [
+              "FLORA:5.1.7"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44011005016|ὀθόνην"
+            ],
+            [
+              "FLORA:5.1.7"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44008023003|χολὴν"
+            ],
+            [
+              "FLORA:5.2.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44007030017|βάτου"
+            ],
+            [
+              "FLORA:6.2.3"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "44007035029|βάτῳ"
+            ],
+            [
+              "FLORA:6.2.3"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

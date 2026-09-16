@@ -1,0 +1,49 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "390030110132|גֶּפֶן"
+            ],
+            [
+              "FLORA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "390030020133|בֹרִית"
+            ],
+            [
+              "FLORA:5.2.2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
