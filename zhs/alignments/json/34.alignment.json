@@ -1,0 +1,69 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "340020040123|בְּרֹשִׁים"
+            ],
+            [
+              "FLORA:1.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "340030120031|תְּאֵנִים"
+            ],
+            [
+              "FLORA:2.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "340020120042|מִרְעֶה"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "340010100031|סִירִים"
+            ],
+            [
+              "FLORA:6.2.3"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

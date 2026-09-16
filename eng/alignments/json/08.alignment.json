@@ -1,0 +1,129 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "080020020102|שִׁבֳּלִים"
+            ],
+            [
+              "FLORA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080020140191|קָלִי"
+            ],
+            [
+              "FLORA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080010220161|שְׂעֹרִים"
+            ],
+            [
+              "FLORA:3.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080020170111|שְׂעֹרִים"
+            ],
+            [
+              "FLORA:3.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080020230082|שְּׂעֹרִים"
+            ],
+            [
+              "FLORA:3.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080030020142|שְּׂעֹרִים"
+            ],
+            [
+              "FLORA:3.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080030150121|שְׂעֹרִים"
+            ],
+            [
+              "FLORA:3.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080030170032|שְּׂעֹרִים"
+            ],
+            [
+              "FLORA:3.1.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080020230102|חִטִּים"
+            ],
+            [
+              "FLORA:3.1.4"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "080010200091|מָרָא"
+            ],
+            [
+              "FLORA:3.2.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
