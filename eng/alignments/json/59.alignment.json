@@ -1,0 +1,109 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVW|token-string",
+          "docid": "SBLGNT"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "59003012005|συκῆ"
+            ],
+            [
+              "FLORA:2.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59003012010|σῦκα"
+            ],
+            [
+              "FLORA:2.6"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59003012006|ἐλαίας"
+            ],
+            [
+              "FLORA:2.8"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59003012009|ἄμπελος"
+            ],
+            [
+              "FLORA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59001010011|χόρτου"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59001011011|χόρτον"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59001010010|ἄνθος"
+            ],
+            [
+              "FLORA:6.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "59001011014|ἄνθος"
+            ],
+            [
+              "FLORA:6.1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

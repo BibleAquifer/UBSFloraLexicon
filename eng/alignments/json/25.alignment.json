@@ -1,0 +1,109 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "source-word-to-lexicon",
+      "meta": {
+        "creator": "convert-thematic-lexicons",
+        "created": "2026-05-20"
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLC"
+        },
+        {
+          "scheme": "ubs-flora",
+          "docid": "UBSFloraLexicon"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "references": [
+            [
+              "250020120052|יָיִן"
+            ],
+            [
+              "FLORA:2.12"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250020120041|דָּגָן"
+            ],
+            [
+              "FLORA:3.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030150022|מְּרוֹרִים"
+            ],
+            [
+              "FLORA:3.2.1"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250010060131|מִרְעֶה"
+            ],
+            [
+              "FLORA:5.1.2"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030050041|רֹאשׁ"
+            ],
+            [
+              "FLORA:5.2.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030190052|רֹאשׁ"
+            ],
+            [
+              "FLORA:5.2.5"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030150041|לַעֲנָה"
+            ],
+            [
+              "FLORA:5.2.7"
+            ]
+          ]
+        },
+        {
+          "references": [
+            [
+              "250030190041|לַעֲנָה"
+            ],
+            [
+              "FLORA:5.2.7"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
