@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSFloraLexicon",
-"date_created": "2026-09-16",
+"date_created": "2026-09-18",
 "language": "eng",
 "localizations": [
 "zhs",
@@ -45,7 +45,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-16T13:28:08.333124"
+"dateCreated": "2026-09-18T10:22:17.486615"
 },
 "idAuthorities": {
 "aquifer": {
@@ -59,7 +59,7 @@
 "primary": {
 "aquifer": {
 "UBSFloraLexicon": {
-"timestamp": "2026-09-16T13:28:08.333124"
+"timestamp": "2026-09-18T10:22:17.486615"
 }
 }
 },

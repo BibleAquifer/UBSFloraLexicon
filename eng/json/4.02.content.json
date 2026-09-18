@@ -49,15 +49,15 @@
 "resource": [],
 "acai": [
 {
-"id": "flora:Aloes",
-"type": "flora",
+"id": "realia:Aloes",
+"type": "realia",
 "confidence": 0.6838,
 "match_method": "scored",
 "preferred_label": "Aloes"
 },
 {
-"id": "realia:Aloes",
-"type": "realia",
+"id": "flora:Aloes",
+"type": "flora",
 "confidence": 0.6838,
 "match_method": "scored",
 "preferred_label": "Aloes"
