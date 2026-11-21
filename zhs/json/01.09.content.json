@@ -91,21 +91,21 @@
 "type": "flora",
 "confidence": 0.9,
 "match_method": "scored",
-"preferred_label": "Grecian Juniper"
+"preferred_label": "希腊桧"
 },
 {
 "id": "flora:Fir",
 "type": "flora",
 "confidence": 0.9,
 "match_method": "scored",
-"preferred_label": "Fir"
+"preferred_label": "松树"
 },
 {
 "id": "flora:Cypress",
 "type": "flora",
 "confidence": 0.75,
 "match_method": "scored",
-"preferred_label": "Cypress"
+"preferred_label": "柏树"
 }
 ]
 }

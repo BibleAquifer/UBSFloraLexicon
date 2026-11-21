@@ -47,7 +47,7 @@
 "type": "flora",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Stone Pine"
+"preferred_label": "石松"
 }
 ]
 }
@@ -114,7 +114,7 @@
 "type": "flora",
 "confidence": 0.9429,
 "match_method": "scored",
-"preferred_label": "Aleppo Pine"
+"preferred_label": "阿勒颇松"
 }
 ]
 }

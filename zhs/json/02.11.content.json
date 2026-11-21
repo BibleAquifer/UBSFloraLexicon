@@ -67,14 +67,14 @@
 "type": "flora",
 "confidence": 0.95,
 "match_method": "scored",
-"preferred_label": "Sycomore Fig"
+"preferred_label": "西克莫无花果树"
 },
 {
 "id": "flora:Fig",
 "type": "flora",
 "confidence": 0.62,
 "match_method": "scored",
-"preferred_label": "Fig"
+"preferred_label": "无花果"
 }
 ]
 }
