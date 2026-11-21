@@ -895,14 +895,14 @@
 "type": "flora",
 "confidence": 0.7781,
 "match_method": "scored",
-"preferred_label": "Grain"
+"preferred_label": "五穀"
 },
 {
 "id": "flora:Wheat",
 "type": "flora",
 "confidence": 0.6274,
 "match_method": "scored",
-"preferred_label": "Wheat"
+"preferred_label": "小麥"
 }
 ]
 }
@@ -1143,7 +1143,7 @@
 "type": "flora",
 "confidence": 0.9556,
 "match_method": "scored",
-"preferred_label": "Barley"
+"preferred_label": "大麥"
 }
 ]
 }
@@ -1180,7 +1180,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Millet"
+"preferred_label": "小米"
 }
 ]
 }
@@ -1207,18 +1207,18 @@
 "resource": [],
 "acai": [
 {
-"id": "flora:Millet",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "scored",
-"preferred_label": "Millet"
-},
-{
 "id": "flora:Sorghum",
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Sorghum"
+"preferred_label": "高粱"
+},
+{
+"id": "flora:Millet",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "小米"
 }
 ]
 }
@@ -1627,7 +1627,7 @@
 "type": "flora",
 "confidence": 0.8625,
 "match_method": "scored",
-"preferred_label": "Wheat"
+"preferred_label": "小麥"
 }
 ]
 }

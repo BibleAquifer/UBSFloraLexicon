@@ -121,7 +121,7 @@
 "type": "flora",
 "confidence": 0.6706,
 "match_method": "scored",
-"preferred_label": "Green Vegetation"
+"preferred_label": "青草"
 }
 ]
 }
@@ -176,7 +176,7 @@
 "type": "flora",
 "confidence": 0.84,
 "match_method": "scored",
-"preferred_label": "Bitter Herbs"
+"preferred_label": "苦菜"
 }
 ]
 }
@@ -207,7 +207,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Garlic"
+"preferred_label": "大蒜"
 }
 ]
 }
@@ -238,7 +238,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Leek"
+"preferred_label": "韭菜"
 }
 ]
 }
@@ -269,7 +269,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Onion"
+"preferred_label": "葱"
 }
 ]
 }

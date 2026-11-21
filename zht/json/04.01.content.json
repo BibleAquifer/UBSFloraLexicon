@@ -83,7 +83,7 @@
 "type": "flora",
 "confidence": 0.75,
 "match_method": "scored",
-"preferred_label": "Agarwood"
+"preferred_label": "沉香木"
 }
 ]
 }
@@ -138,7 +138,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Calamus"
+"preferred_label": "菖蒲"
 }
 ]
 }
@@ -217,7 +217,7 @@
 "type": "flora",
 "confidence": 0.6889,
 "match_method": "scored",
-"preferred_label": "Cassia"
+"preferred_label": "桂皮"
 }
 ]
 }
@@ -278,7 +278,7 @@
 "type": "flora",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Cinnamon"
+"preferred_label": "肉桂"
 }
 ]
 }
@@ -321,7 +321,7 @@
 "type": "flora",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Fennel"
+"preferred_label": "茴香"
 }
 ]
 }
@@ -520,7 +520,7 @@
 "type": "flora",
 "confidence": 0.9034,
 "match_method": "scored",
-"preferred_label": "Frankincense"
+"preferred_label": "乳香"
 }
 ]
 }
@@ -557,7 +557,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Henna"
+"preferred_label": "鳳仙花"
 }
 ]
 }
@@ -708,14 +708,14 @@
 "type": "flora",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Myrrh"
+"preferred_label": "沒藥"
 },
 {
 "id": "realia:Myrrh",
 "type": "realia",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "Myrrh"
+"preferred_label": "沒藥"
 }
 ]
 }
@@ -770,7 +770,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Nard"
+"preferred_label": "哪噠"
 }
 ]
 }

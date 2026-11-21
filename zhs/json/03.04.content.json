@@ -83,7 +83,7 @@
 "type": "flora",
 "confidence": 0.75,
 "match_method": "scored",
-"preferred_label": "Muskmelon"
+"preferred_label": "甜瓜"
 }
 ]
 }
@@ -114,7 +114,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Watermelon"
+"preferred_label": "西瓜"
 }
 ]
 }

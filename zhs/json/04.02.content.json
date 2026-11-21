@@ -49,18 +49,18 @@
 "resource": [],
 "acai": [
 {
-"id": "realia:Aloes",
-"type": "realia",
-"confidence": 0.6838,
-"match_method": "scored",
-"preferred_label": "Aloes"
-},
-{
 "id": "flora:Aloes",
 "type": "flora",
 "confidence": 0.6838,
 "match_method": "scored",
-"preferred_label": "Aloes"
+"preferred_label": "沉香"
+},
+{
+"id": "realia:Aloes",
+"type": "realia",
+"confidence": 0.6838,
+"match_method": "scored",
+"preferred_label": "沉香"
 }
 ]
 }
@@ -109,7 +109,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Castor Oil"
+"preferred_label": "蓖麻"
 }
 ]
 }
@@ -182,7 +182,7 @@
 "type": "flora",
 "confidence": 0.95,
 "match_method": "scored",
-"preferred_label": "Liquidambar"
+"preferred_label": "枫香树"
 }
 ]
 }
@@ -363,7 +363,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Balsam Tree"
+"preferred_label": "香脂树"
 }
 ]
 }
@@ -406,7 +406,7 @@
 "type": "flora",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Rock Rose"
+"preferred_label": "岩蔷薇"
 }
 ]
 }
@@ -437,7 +437,7 @@
 "type": "flora",
 "confidence": 0.82,
 "match_method": "scored",
-"preferred_label": "Saffron Plant"
+"preferred_label": "番红花"
 }
 ]
 }
@@ -474,7 +474,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Gum Tragacanth"
+"preferred_label": "香料"
 }
 ]
 }

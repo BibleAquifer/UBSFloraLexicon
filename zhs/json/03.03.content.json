@@ -47,7 +47,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Bean"
+"preferred_label": "豆"
 }
 ]
 }
@@ -78,7 +78,7 @@
 "type": "flora",
 "confidence": 0.973,
 "match_method": "scored",
-"preferred_label": "Chickpea"
+"preferred_label": "鹰嘴豆"
 }
 ]
 }
@@ -133,7 +133,7 @@
 "type": "flora",
 "confidence": 0.884,
 "match_method": "scored",
-"preferred_label": "Lentil"
+"preferred_label": "扁豆"
 }
 ]
 }

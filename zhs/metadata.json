@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSFloraLexicon",
-"date_created": "2026-10-19",
+"date_created": "2026-11-20",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -45,7 +45,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-19T19:22:57.616396"
+"dateCreated": "2026-11-20T20:03:26.382954"
 },
 "idAuthorities": {
 "aquifer": {
@@ -59,7 +59,7 @@
 "primary": {
 "aquifer": {
 "UBSFloraLexicon": {
-"timestamp": "2026-10-19T19:22:57.616396"
+"timestamp": "2026-11-20T20:03:26.382954"
 }
 }
 },
@@ -772,7 +772,7 @@
 },
 "md/02.06.content.md": {
 "mimeType": "text/markdown",
-"size": 6986
+"size": 6992
 },
 "md/02.01.content.md": {
 "mimeType": "text/markdown",
@@ -804,11 +804,11 @@
 },
 "md/01.08.content.md": {
 "mimeType": "text/markdown",
-"size": 3063
+"size": 3066
 },
 "md/02.12.content.md": {
 "mimeType": "text/markdown",
-"size": 27758
+"size": 27763
 },
 "md/02.00.content.md": {
 "mimeType": "text/markdown",
@@ -816,7 +816,7 @@
 },
 "md/02.07.content.md": {
 "mimeType": "text/markdown",
-"size": 4599
+"size": 4597
 },
 "md/00.03.content.md": {
 "mimeType": "text/markdown",
@@ -824,7 +824,7 @@
 },
 "md/01.09.content.md": {
 "mimeType": "text/markdown",
-"size": 3614
+"size": 3610
 },
 "md/07.02.content.md": {
 "mimeType": "text/markdown",
@@ -836,23 +836,23 @@
 },
 "md/05.01.content.md": {
 "mimeType": "text/markdown",
-"size": 54095
+"size": 54091
 },
 "md/01.11.content.md": {
 "mimeType": "text/markdown",
-"size": 7426
+"size": 7416
 },
 "md/01.16.content.md": {
 "mimeType": "text/markdown",
-"size": 3861
+"size": 3864
 },
 "md/01.03.content.md": {
 "mimeType": "text/markdown",
-"size": 5360
+"size": 5364
 },
 "md/01.04.content.md": {
 "mimeType": "text/markdown",
-"size": 4617
+"size": 4619
 },
 "md/03.00.content.md": {
 "mimeType": "text/markdown",
@@ -860,7 +860,7 @@
 },
 "md/04.01.content.md": {
 "mimeType": "text/markdown",
-"size": 35591
+"size": 35594
 },
 "md/01.20.content.md": {
 "mimeType": "text/markdown",
@@ -872,15 +872,15 @@
 },
 "md/01.05.content.md": {
 "mimeType": "text/markdown",
-"size": 8528
+"size": 8527
 },
 "md/01.02.content.md": {
 "mimeType": "text/markdown",
-"size": 3461
+"size": 3462
 },
 "md/03.01.content.md": {
 "mimeType": "text/markdown",
-"size": 30052
+"size": 30054
 },
 "md/12.00.content.md": {
 "mimeType": "text/markdown",
@@ -904,11 +904,11 @@
 },
 "md/01.21.content.md": {
 "mimeType": "text/markdown",
-"size": 10863
+"size": 10862
 },
 "md/06.03.content.md": {
 "mimeType": "text/markdown",
-"size": 3471
+"size": 3473
 },
 "md/03.03.content.md": {
 "mimeType": "text/markdown",
@@ -916,7 +916,7 @@
 },
 "md/03.04.content.md": {
 "mimeType": "text/markdown",
-"size": 9090
+"size": 9083
 },
 "md/01.00.content.md": {
 "mimeType": "text/markdown",
@@ -924,31 +924,31 @@
 },
 "md/01.07.content.md": {
 "mimeType": "text/markdown",
-"size": 4199
+"size": 4200
 },
 "md/01.12.content.md": {
 "mimeType": "text/markdown",
-"size": 4678
+"size": 4681
 },
 "md/01.15.content.md": {
 "mimeType": "text/markdown",
-"size": 3788
+"size": 3794
 },
 "md/06.01.content.md": {
 "mimeType": "text/markdown",
-"size": 26585
+"size": 26586
 },
 "md/04.02.content.md": {
 "mimeType": "text/markdown",
-"size": 23268
+"size": 23250
 },
 "md/01.23.content.md": {
 "mimeType": "text/markdown",
-"size": 4898
+"size": 4896
 },
 "md/01.24.content.md": {
 "mimeType": "text/markdown",
-"size": 6219
+"size": 6222
 },
 "md/02.09.content.md": {
 "mimeType": "text/markdown",
@@ -960,23 +960,23 @@
 },
 "md/01.14.content.md": {
 "mimeType": "text/markdown",
-"size": 2668
+"size": 2660
 },
 "md/01.13.content.md": {
 "mimeType": "text/markdown",
-"size": 3434
+"size": 3429
 },
 "md/03.05.content.md": {
 "mimeType": "text/markdown",
-"size": 39460
+"size": 39465
 },
 "md/03.02.content.md": {
 "mimeType": "text/markdown",
-"size": 12102
+"size": 12086
 },
 "md/01.06.content.md": {
 "mimeType": "text/markdown",
-"size": 11997
+"size": 11993
 },
 "md/10.00.content.md": {
 "mimeType": "text/markdown",
@@ -984,11 +984,11 @@
 },
 "md/01.01.content.md": {
 "mimeType": "text/markdown",
-"size": 4642
+"size": 4645
 },
 "md/02.08.content.md": {
 "mimeType": "text/markdown",
-"size": 8462
+"size": 8456
 },
 "md/06.00.content.md": {
 "mimeType": "text/markdown",
@@ -1000,7 +1000,7 @@
 },
 "md/01.22.content.md": {
 "mimeType": "text/markdown",
-"size": 3423
+"size": 3429
 },
 "md/08.00.content.md": {
 "mimeType": "text/markdown",
@@ -1008,7 +1008,7 @@
 },
 "md/02.10.content.md": {
 "mimeType": "text/markdown",
-"size": 8399
+"size": 8394
 },
 "md/11.00.content.md": {
 "mimeType": "text/markdown",
@@ -1020,11 +1020,11 @@
 },
 "md/02.05.content.md": {
 "mimeType": "text/markdown",
-"size": 9262
+"size": 9259
 },
 "md/02.02.content.md": {
 "mimeType": "text/markdown",
-"size": 4193
+"size": 4197
 },
 "md/01.19.content.md": {
 "mimeType": "text/markdown",
@@ -1040,7 +1040,7 @@
 },
 "md/02.03.content.md": {
 "mimeType": "text/markdown",
-"size": 3786
+"size": 3790
 },
 "md/02.04.content.md": {
 "mimeType": "text/markdown",
@@ -1048,11 +1048,11 @@
 },
 "md/02.11.content.md": {
 "mimeType": "text/markdown",
-"size": 4904
+"size": 4919
 },
 "md/05.02.content.md": {
 "mimeType": "text/markdown",
-"size": 32427
+"size": 32405
 },
 "md/07.01.content.md": {
 "mimeType": "text/markdown",
@@ -1064,7 +1064,7 @@
 },
 "md/01.18.content.md": {
 "mimeType": "text/markdown",
-"size": 8586
+"size": 8583
 },
 "pdf/00.00.content.pdf": {
 "mimeType": "application/pdf",
