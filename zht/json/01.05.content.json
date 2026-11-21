@@ -493,21 +493,21 @@
 "type": "flora",
 "confidence": 0.9038,
 "match_method": "scored",
-"preferred_label": "Cedar"
+"preferred_label": "香柏樹"
 },
 {
 "id": "flora:JuniperTree",
 "type": "flora",
 "confidence": 0.6405,
 "match_method": "scored",
-"preferred_label": "Phoenician Juniper"
+"preferred_label": "腓尼基刺柏"
 },
 {
 "id": "flora:PineTree",
 "type": "flora",
 "confidence": 0.6051,
 "match_method": "scored",
-"preferred_label": "Aleppo Pine"
+"preferred_label": "阿勒頗松"
 }
 ]
 }

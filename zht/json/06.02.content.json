@@ -132,7 +132,7 @@
 "type": "flora",
 "confidence": 0.9399,
 "match_method": "scored",
-"preferred_label": "Thistle"
+"preferred_label": "蒺藜"
 }
 ]
 }
@@ -199,7 +199,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Nettle"
+"preferred_label": "蕁麻"
 }
 ]
 }
@@ -644,7 +644,7 @@
 "type": "flora",
 "confidence": 0.6756,
 "match_method": "scored",
-"preferred_label": "Brier"
+"preferred_label": "蒺藜"
 }
 ]
 }

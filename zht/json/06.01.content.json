@@ -426,7 +426,7 @@
 "type": "flora",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Wild Flower"
+"preferred_label": "野花"
 }
 ]
 }
@@ -583,7 +583,7 @@
 "type": "flora",
 "confidence": 0.8182,
 "match_method": "scored",
-"preferred_label": "Lily"
+"preferred_label": "百合花"
 }
 ]
 }
@@ -620,7 +620,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Narcissus"
+"preferred_label": "水仙花"
 }
 ]
 }
@@ -716,7 +716,7 @@
 "type": "flora",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Tulip"
+"preferred_label": "鬱金香"
 }
 ]
 }

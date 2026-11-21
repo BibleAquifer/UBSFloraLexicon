@@ -59,7 +59,7 @@
 "type": "flora",
 "confidence": 0.7,
 "match_method": "scored",
-"preferred_label": "Caper"
+"preferred_label": "刺山柑"
 }
 ]
 }
@@ -108,7 +108,7 @@
 "type": "flora",
 "confidence": 0.8,
 "match_method": "scored",
-"preferred_label": "Coriander"
+"preferred_label": "芫荽"
 }
 ]
 }
@@ -151,7 +151,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Cumin"
+"preferred_label": "蒔蘿/大茴香"
 }
 ]
 }
@@ -200,7 +200,7 @@
 "type": "flora",
 "confidence": 0.7,
 "match_method": "scored",
-"preferred_label": "Dill"
+"preferred_label": "茴香"
 }
 ]
 }
@@ -237,7 +237,7 @@
 "type": "flora",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Star of Bethlehem"
+"preferred_label": "虎眼萬年青"
 }
 ]
 }
@@ -280,7 +280,7 @@
 "type": "flora",
 "confidence": 0.8667,
 "match_method": "scored",
-"preferred_label": "Mallow"
+"preferred_label": "錦葵"
 }
 ]
 }
@@ -317,7 +317,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Mint"
+"preferred_label": "薄荷"
 }
 ]
 }
@@ -372,7 +372,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Mustard"
+"preferred_label": "芥菜"
 }
 ]
 }
@@ -409,7 +409,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Nutmeg Flower"
+"preferred_label": "黑種草"
 }
 ]
 }
@@ -452,7 +452,7 @@
 "type": "flora",
 "confidence": 0.7333,
 "match_method": "scored",
-"preferred_label": "Orache"
+"preferred_label": "鹹草"
 }
 ]
 }
@@ -483,7 +483,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "scored",
-"preferred_label": "Rue"
+"preferred_label": "芸香"
 }
 ]
 }
